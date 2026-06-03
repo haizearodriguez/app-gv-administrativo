@@ -20,13 +20,12 @@
           [(ngModel)]="selectedGeneralQuestion"
           (ionChange)="onGeneralQuestionChange()">
 
-          <ion-select-option
-            *ngFor="let q of generalKeys"
-            [value]="q">
-
-            {{q}}
-
-          </ion-select-option>
+          @for (q of generalKeys; track q) {
+            <ion-select-option
+              [value]="q">
+              {{q}}
+            </ion-select-option>
+          }
 
         </ion-select>
 
@@ -41,18 +40,18 @@
 
         <!-- SELECT OCULTO -->
 
-      <ion-select
-        #answerSelect
-        interface="popover"
-        [(ngModel)]="selectedGeneralAnswer"
-        (ionChange)="updateGeneral()">
+        <ion-select
+          #answerSelect
+          interface="popover"
+          [(ngModel)]="selectedGeneralAnswer"
+          (ionChange)="updateGeneral()">
 
-        <ion-select-option value="A">A</ion-select-option>
-        <ion-select-option value="B">B</ion-select-option>
-        <ion-select-option value="C">C</ion-select-option>
-        <ion-select-option value="D">D</ion-select-option>
+          <ion-select-option value="A">A</ion-select-option>
+          <ion-select-option value="B">B</ion-select-option>
+          <ion-select-option value="C">C</ion-select-option>
+          <ion-select-option value="D">D</ion-select-option>
 
-      </ion-select>
+        </ion-select>
 
       </ion-item>
     </ion-card-content>
@@ -78,13 +77,12 @@
           [(ngModel)]="selectedSpecificQuestion"
           (ionChange)="onSpecificQuestionChange()">
 
-          <ion-select-option
-            *ngFor="let q of specificKeys"
-            [value]="q">
-
-            {{q}}
-
-          </ion-select-option>
+          @for (q of specificKeys; track q) {
+            <ion-select-option
+              [value]="q">
+              {{q}}
+            </ion-select-option>
+          }
 
         </ion-select>
 
@@ -99,18 +97,18 @@
 
         <!-- SELECT OCULTO -->
 
-      <ion-select
-        #answerSelect
-        interface="popover"
-        [(ngModel)]="selectedSpecificAnswer"
-        (ionChange)="updateSpecific()">
+        <ion-select
+          #answerSelect
+          interface="popover"
+          [(ngModel)]="selectedSpecificAnswer"
+          (ionChange)="updateSpecific()">
 
-        <ion-select-option value="A">A</ion-select-option>
-        <ion-select-option value="B">B</ion-select-option>
-        <ion-select-option value="C">C</ion-select-option>
-        <ion-select-option value="D">D</ion-select-option>
+          <ion-select-option value="A">A</ion-select-option>
+          <ion-select-option value="B">B</ion-select-option>
+          <ion-select-option value="C">C</ion-select-option>
+          <ion-select-option value="D">D</ion-select-option>
 
-      </ion-select>
+        </ion-select>
 
       </ion-item>
     </ion-card-content>

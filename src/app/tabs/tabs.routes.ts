@@ -7,6 +7,11 @@ export const routes: Routes = [
     component: TabsPage,
     children: [
       {
+        path: 'hoy',
+        loadComponent: () =>
+          import('../hoy/hoy.page').then((m) => m.HoyPage),
+      },
+      {
         path: 'home',
         loadComponent: () =>
           import('../home/home.page').then((m) => m.HomePage),
@@ -16,11 +21,11 @@ export const routes: Routes = [
         loadComponent: () =>
           import('../quiz/quiz.page').then((m) => m.QuizPage),
       },
-      {
+/*       {
         path: 'stats',
         loadComponent: () =>
           import('../stats/stats.page').then((m) => m.StatsPage),
-      },
+      }, */
       {
         path: 'settings',
         loadComponent: () =>

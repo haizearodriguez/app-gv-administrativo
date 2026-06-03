@@ -4,7 +4,7 @@ ion-content {
   --padding-top: 16px;
 }
 
-// ─── Card contenedor ─────────────────────────────────────────────────────────
+/* ─── Card contenedor ─────────────────────────────────────────────────────── */
 .stats-card {
   border-radius: 18px;
   background: white;
@@ -14,13 +14,33 @@ ion-content {
   overflow: hidden;
 }
 
-// ─── Cabecera tabla ──────────────────────────────────────────────────────────
+/* ─── Layout dos tablas ───────────────────────────────────────────────────── */
+.two-grids {
+  display: flex;
+  flex-direction: row;
+  height: 65vh;
+}
+
+ion-col {
+  min-height: 0;
+  font-size: 13px;
+  color: #1e3318;
+  padding: 6px 4px;
+}
+
+ion-grid {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+/* ─── Cabeceras ───────────────────────────────────────────────────────────── */
 .header {
   background: #2d4f24;
   padding: 10px 0;
 
   ion-col {
-    color: rgba(255,255,255,0.85);
+    color: rgba(255, 255, 255, 0.85);
     font-size: 11px;
     font-weight: 600;
     letter-spacing: 0.06em;
@@ -30,13 +50,30 @@ ion-content {
   }
 }
 
-// ─── Filas de datos ──────────────────────────────────────────────────────────
-ion-col {
-  font-size: 13px;
-  color: #1e3318;
-  padding: 6px 4px;
+.grid-header {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: white;
+  flex-shrink: 0;
 }
 
+.section-title {
+  text-align: center;
+  font-weight: bold;
+  font-size: 0.9rem;
+  letter-spacing: 1px;
+  padding-bottom: 4px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+/* ─── Zona scrollable ─────────────────────────────────────────────────────── */
+.grid-scroll {
+  overflow-y: auto;
+  max-height: 55vh;
+}
+
+/* ─── Filas ───────────────────────────────────────────────────────────────── */
 .data-row {
   border-bottom: 0.5px solid rgba(36, 61, 29, 0.08);
 
@@ -45,16 +82,24 @@ ion-col {
   }
 }
 
-// ─── Porcentaje ──────────────────────────────────────────────────────────────
+/* ─── Porcentajes ─────────────────────────────────────────────────────────── */
 .accuracy {
   font-weight: 600;
 
-  &.high { color: #2d7a4f; }
-  &.mid  { color: #b08000; }
-  &.low  { color: #c0392b; }
+  &.high {
+    color: #2d7a4f;
+  }
+
+  &.mid {
+    color: #b08000;
+  }
+
+  &.low {
+    color: #c0392b;
+  }
 }
 
-// ─── Checkbox ────────────────────────────────────────────────────────────────
+/* ─── Checkbox ────────────────────────────────────────────────────────────── */
 .custom-checkbox {
   --checkbox-background-checked: #243d1d;
   --border-color-checked: #243d1d;
@@ -63,7 +108,15 @@ ion-col {
   --size: 18px;
 }
 
-// ─── Botón crear quiz ────────────────────────────────────────────────────────
+/* ─── Divider ─────────────────────────────────────────────────────────────── */
+.vertical-divider {
+  width: 1px;
+  background-color: #ccc;
+  align-self: stretch;
+  margin: 0 4px;
+}
+
+/* ─── Botón ───────────────────────────────────────────────────────────────── */
 ion-button {
   margin: 0 16px 8px;
   --background: #243d1d;

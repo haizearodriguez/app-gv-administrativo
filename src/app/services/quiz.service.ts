@@ -7,19 +7,19 @@ import { StorageService } from './storage.service'
 export class QuizService {
 
   used: any[] = []
-  reviewQueue: any[] = []
-  counter = 0
+/*   reviewQueue: any[] = []
+  counter = 0 */
 
   constructor(private storage: StorageService) {}
 
   async next(pool:any[], trackUsed=true){
 
-    this.counter++
+    //this.counter++
 
     // repetir falladas cada 5 preguntas
-    if(this.reviewQueue.length && this.counter % 5 === 0){
+    /* if(this.reviewQueue.length && this.counter % 5 === 0){
       return this.reviewQueue.shift()
-    }
+    } */
 
     if(!trackUsed){
       return pool[Math.floor(Math.random() * pool.length)]
@@ -52,8 +52,8 @@ export class QuizService {
 
   }
 
-  addToReview(question:any){
+  /* addToReview(question:any){
     this.reviewQueue.push(question)
-  }
+  } */
 
 }

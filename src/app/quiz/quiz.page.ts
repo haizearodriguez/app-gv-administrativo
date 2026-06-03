@@ -162,9 +162,9 @@ export class QuizPage {
       await this.quiz.markUsed(this.question.id, this.question.type)
     }
 
-    if(!correct){
+    /*if(!correct){
       this.quiz.addToReview(this.question)
-    }
+    }*/
 
     await this.statsService.recordAnswer(
       this.question.id,

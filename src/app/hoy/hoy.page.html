@@ -1,0 +1,124 @@
+<ion-content [fullscreen]="true">
+  <!-- Calendario -->
+  <ion-list-header>
+    <ion-label>Historial</ion-label>
+  </ion-list-header>
+
+  <ion-card style="margin: 0 16px 16px;">
+    <ion-card-content style="padding: 12px;">
+
+      <div class="cal-nav">
+        <button class="cal-btn" (click)="prevMes()">
+          <ion-icon name="arrow-back"></ion-icon>
+        </button>
+        <span>{{ MESES[calMonth] }} {{ calYear }}</span>
+        <button class="cal-btn" (click)="nextMes()">
+          <ion-icon name="arrow-forward"></ion-icon>
+        </button>
+      </div>
+
+      <div class="cal-weekdays">
+        <span *ngFor="let d of DIAS_SEMANA">{{ d }}</span>
+      </div>
+
+      <div *ngFor="let week of calDias" class="cal-week">
+        <div *ngFor="let dia of week"
+          class="cal-day"
+          [class.activo]="dia?.activo"
+          [class.hoy]="dia && isHoy(dia.date)"
+          [class.seleccionado]="dia && isSeleccionado(dia.date)"
+          (click)="dia && seleccionarDia(dia)">
+          {{ dia?.date?.getDate() }}
+        </div>
+      </div>
+
+    </ion-card-content>
+  </ion-card>
+
+  <!-- Detalle día seleccionado -->
+  <div *ngIf="mostrarHistorico && diaSeleccionado">
+
+    <ion-list-header>
+      <ion-label>{{ diaSeleccionado | date:'d \'de\' MMMM' }}</ion-label>
+    </ion-list-header>
+
+    <ion-grid style="padding: 0 8px 16px;">
+      <ion-row>
+        <ion-col size="4">
+          <ion-card style="margin: 0; text-align: center;">
+            <ion-card-content>
+              <ion-note>Total</ion-note>
+              <p style="font-size: 20px; font-weight: 600; margin: 4px 0; color: #1e3318;">{{ resumenDia.total }}</p>
+            </ion-card-content>
+          </ion-card>
+        </ion-col>
+        <ion-col size="4">
+          <ion-card style="margin: 0; text-align: center;">
+            <ion-card-content>
+              <ion-note>Aciertos</ion-note>
+              <p style="font-size: 20px; font-weight: 600; margin: 4px 0; color: var(--ion-color-success);">{{ resumenDia.pctAciertos }}%</p>
+              <ion-note>{{ resumenDia.correctas }} correctas</ion-note>
+            </ion-card-content>
+          </ion-card>
+        </ion-col>
+        <ion-col size="4">
+          <ion-card style="margin: 0; text-align: center;">
+            <ion-card-content>
+              <ion-note>Fallos</ion-note>
+              <p style="font-size: 20px; font-weight: 600; margin: 4px 0; color: var(--ion-color-danger);">{{ resumenDia.pctFallos }}%</p>
+              <ion-note>{{ resumenDia.incorrectas }} incorrectas</ion-note>
+            </ion-card-content>
+          </ion-card>
+        </ion-col>
+      </ion-row>
+    </ion-grid>
+
+    <ion-item lines="none" *ngIf="fallosDia.length > 0">
+      <ion-checkbox class="custom-checkbox"
+        slot="start"
+        [(ngModel)]="seleccionarTodas"
+        (ionChange)="toggleSeleccionTodas()">
+      </ion-checkbox>
+
+        <ion-label class="info-total">Preguntas falladas</ion-label>
+    </ion-item>
+
+    <ion-list [inset]="true" *ngIf="fallosDia.length > 0">
+      <ion-item *ngFor="let f of fallosDia" lines="full">
+        <ion-checkbox slot="start" [(ngModel)]="f.selectedPending" class="custom-checkbox"></ion-checkbox>
+        <ion-label>
+            <p class="info-fallo">
+              <span
+                [ngClass]="f.categoria === 'General' ? 'cat-general' : 'cat-especial'">
+                {{ f.categoria }}
+              </span>
+              <span class="id">#{{ f.id }}</span>
+              <span class="separador">•</span>
+              <span class="fallos">
+                ⚠️ {{ f.wrong }} fallos
+              </span>
+            </p>
+        </ion-label>
+      </ion-item>
+    </ion-list>
+
+    <!-- Botón generar quiz -->
+    <div *ngIf="fallosDia.length > 0" style="padding: 12px 16px 0;">
+      <ion-button expand="block" class="btn-next" shape="round" (click)="generateQuiz()">
+        Practicar seleccionadas ({{ fallosSeleccionados }}) →
+      </ion-button>
+    </div>
+
+    <p *ngIf="fallosDia.length === 0"
+      style="text-align: center; color: var(--ion-color-medium); padding: 20px;">
+      Sin fallos este día 🎉
+    </p>
+
+  </div>
+
+  <!-- Estado inicial -->
+  <div *ngIf="!mostrarHistorico" class="empty-state">
+    <p>Selecciona un día para ver el detalle</p>
+  </div>
+
+</ion-content>

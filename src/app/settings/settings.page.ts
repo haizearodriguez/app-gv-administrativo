@@ -1,6 +1,6 @@
 import { QuestionService } from './../services/question.service';
 import { Component, OnInit, ViewChild } from '@angular/core';
-import { CommonModule } from '@angular/common';
+
 import { FormsModule } from '@angular/forms';
 import { AlertController } from '@ionic/angular';
 
@@ -26,7 +26,6 @@ import { pencil } from 'ionicons/icons';
   styleUrls: ['./settings.page.scss'],
   standalone: true,
   imports: [
-    CommonModule,
     FormsModule,
     IonContent,
     IonButton,
@@ -37,8 +36,8 @@ import { pencil } from 'ionicons/icons';
     IonCard,
     IonCardContent,
     IonCardHeader,
-    IonCardTitle,
-  ]
+    IonCardTitle
+]
 })
 export class SettingsPage implements OnInit {
 

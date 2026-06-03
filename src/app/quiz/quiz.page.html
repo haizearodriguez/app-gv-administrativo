@@ -21,16 +21,15 @@
 
     <!-- Opciones -->
     <div class="options">
-      <div
-        class="option"
-        *ngFor="let opt of ['A','B','C','D']"
-        [ngClass]="getButtonClass(opt)"
-        (click)="select(opt)">
-
-        <div class="opt-badge">{{ opt }}</div>
-        <div class="opt-text">{{ question?.answers[opt] }}</div>
-
-      </div>
+      @for (opt of ['A','B','C','D']; track opt) {
+        <div
+          class="option"
+          [ngClass]="getButtonClass(opt)"
+          (click)="select(opt)">
+          <div class="opt-badge">{{ opt }}</div>
+          <div class="opt-text">{{ question?.answers[opt] }}</div>
+        </div>
+      }
     </div>
 
     <!-- Explicación (visible tras ver respuesta) -->

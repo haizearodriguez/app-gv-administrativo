@@ -1,0 +1,317 @@
+// ─── Fondo ───────────────────────────────────────────────────────────────────
+ion-content {
+  --padding-bottom: 120px;
+  --padding-top: 0;
+  --background: #eef7e4;
+}
+
+// ─── Tipografía general ───────────────────────────────────────────────────────
+ion-title {
+  color: #1e3318;
+  font-weight: 600;
+}
+
+ion-list-header {
+  ion-label {
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    color: #243d1d;
+  }
+
+  ion-badge {
+    font-size: 11px;
+    font-weight: 600;
+  }
+}
+
+ion-note {
+  font-size: 12px;
+  color: #4a6640;
+  font-weight: 500;
+}
+
+// ─── Fecha ────────────────────────────────────────────────────────────────────
+.date-note {
+  display: block;
+  padding: 8px 16px 16px;
+  font-size: 13px;
+  color: #4a6640;
+  font-weight: 500;
+  text-transform: capitalize;
+}
+
+// ─── Tarjetas de resumen ──────────────────────────────────────────────────────
+ion-card {
+  border-radius: 18px;
+  box-shadow: 0 2px 12px rgba(36, 61, 29, 0.08);
+  background: white;
+  margin: 0;
+
+  ion-card-content {
+    padding: 14px 16px;
+
+    ion-note {
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      font-weight: 600;
+      color: #8aaa7a;
+    }
+
+    p {
+      font-size: 26px;
+      font-weight: 600;
+      margin: 4px 0 2px;
+      color: #1e3318;
+      line-height: 1.2;
+    }
+  }
+}
+
+ion-grid {
+  padding: 0 8px 16px;
+
+  ion-col {
+    padding: 4px;
+  }
+}
+
+// ─── Calendario ───────────────────────────────────────────────────────────────
+.cal-card {
+  margin: 0 16px 16px;
+  border-radius: 18px;
+  box-shadow: 0 2px 12px rgba(36, 61, 29, 0.08);
+  background: white;
+
+  ion-card-content {
+    padding: 14px;
+  }
+}
+
+.cal-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 12px;
+
+  span {
+    font-weight: 600;
+    font-size: 15px;
+    color: #1e3318;
+  }
+
+  ion-button {
+    --color: #4a6640;
+  }
+}
+
+.cal-weekdays {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  text-align: center;
+  margin-bottom: 4px;
+
+  span {
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: #8aaa7a;
+    padding: 2px 0;
+  }
+}
+
+.cal-week {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 2px;
+  margin-bottom: 2px;
+}
+
+.cal-day {
+  text-align: center;
+  padding: 6px 2px;
+  border-radius: 8px;
+  font-size: 13px;
+  font-weight: 400;
+  color: #1e3318;
+  cursor: pointer;
+  transition: background 0.15s, transform 0.1s;
+
+  &:active {
+    transform: scale(0.92);
+  }
+
+  &.activo {
+    background: rgba(58, 140, 90, 0.18);
+    font-weight: 500;
+  }
+
+  &.hoy {
+    color: #3a6e2a;
+    font-weight: 700;
+  }
+
+  &.seleccionado {
+    background: #243d1d;
+    color: white;
+    font-weight: 600;
+  }
+}
+
+// ─── Lista de fallos ──────────────────────────────────────────────────────────
+ion-list {
+  border-radius: 16px;
+  overflow: hidden;
+  background: white;
+  box-shadow: 0 2px 12px rgba(36, 61, 29, 0.06);
+
+  ion-item {
+    --background: white;
+    --padding-start: 16px;
+    --inner-padding-end: 16px;
+    --border-color: rgba(36, 61, 29, 0.08);
+
+    ion-label {
+      margin: 10px 0;
+
+      h3 {
+        font-size: 14px;
+        font-weight: 500;
+        color: #1e3318;
+        white-space: normal;
+        margin-top: 4px;
+        line-height: 1.5;
+      }
+
+      p {
+        font-size: 12px;
+        color: #8aaa7a;
+        margin-top: 4px;
+        font-weight: 500;
+      }
+    }
+
+    ion-badge {
+      font-size: 12px;
+      font-weight: 700;
+      padding: 4px 8px;
+      border-radius: 20px;
+    }
+  }
+}
+
+// ─── Badge de categoría ────────────────────────────────────────────────────────
+ion-badge[color="primary"] {
+  --background: #fde8d8;
+  --color: #7a3a1a;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  border-radius: 20px;
+  padding: 3px 8px;
+}
+
+ion-badge[color="tertiary"] {
+  --background: #e8f7ee;
+  --color: #1e4a2c;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  border-radius: 20px;
+  padding: 3px 8px;
+}
+
+// ─── Estado vacío ─────────────────────────────────────────────────────────────
+.empty-state {
+  text-align: center;
+  padding: 60px 16px;
+
+  p {
+    color: #8aaa7a;
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: 12px;
+  }
+}
+
+/* ─── Checkbox ────────────────────────────────────────────────────────────── */
+.custom-checkbox {
+  --checkbox-background-checked: #243d1d;
+  --border-color-checked: #243d1d;
+  --checkmark-color: white;
+  --background: white;
+  --size: 18px;
+}
+
+/* ─── Botón ───────────────────────────────────────────────────────────────── */
+ion-button {
+  margin: 0 16px 8px;
+  --background: #243d1d;
+  --border-radius: 50px;
+  --color: white;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0.3px;
+  height: 50px;
+}
+
+.cal-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 12px;
+
+  span {
+    font-weight: 600;
+    font-size: 15px;
+    color: #1e3318;
+  }
+}
+
+.cal-btn {
+  background: transparent;
+  padding: 6px;
+  color: #243d1d;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+}
+
+.info-fallo {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 4px 0;
+  font-size: 20px !important;
+}
+
+.cat-general {
+  color: var(--ion-color-primary);
+}
+
+.cat-especial {
+  color: var(--ion-color-tertiary);
+}
+
+.id {
+  color: var(--ion-color-medium);
+}
+
+.separador {
+  color: var(--ion-color-medium);
+}
+
+.fallos {
+  color: var(--ion-color-danger);
+}
+
+.info-total{
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    color: #243d1d;
+}
