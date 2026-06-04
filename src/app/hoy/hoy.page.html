@@ -73,39 +73,139 @@
       </ion-row>
     </ion-grid>
 
-    <ion-item lines="none" *ngIf="fallosDia.length > 0">
-      <ion-checkbox class="custom-checkbox"
-        slot="start"
-        [(ngModel)]="seleccionarTodas"
-        (ionChange)="toggleSeleccionTodas()">
-      </ion-checkbox>
+    <ion-grid>
 
-        <ion-label class="info-total">Preguntas falladas</ion-label>
-    </ion-item>
 
-    <ion-list [inset]="true" *ngIf="fallosDia.length > 0">
-      <ion-item *ngFor="let f of fallosDia" lines="full">
-        <ion-checkbox slot="start" [(ngModel)]="f.selectedPending" class="custom-checkbox"></ion-checkbox>
-        <ion-label>
-            <p class="info-fallo">
-              <span
-                [ngClass]="f.categoria === 'General' ? 'cat-general' : 'cat-especial'">
-                {{ f.categoria }}
-              </span>
-              <span class="id">#{{ f.id }}</span>
-              <span class="separador">•</span>
-              <span class="fallos">
-                ⚠️ {{ f.wrong }} fallos
-              </span>
-            </p>
+    <ion-row>
+
+      <!-- IZQUIERDA -->
+      <ion-col size="12" size-md="6">
+
+        <ion-item lines="none">
+          <ion-checkbox
+            slot="start"
+            [(ngModel)]="seleccionarTodas"
+            (ionChange)="toggleSeleccionTodas()">
+          </ion-checkbox>
+
+          <ion-label class="info-total">
+            Preguntas falladas
+          </ion-label>
+        </ion-item>
+
+        <ion-list [inset]="true" *ngIf="fallosDia.length > 0">
+
+          <ion-item *ngFor="let f of fallosDia">
+
+            <ion-checkbox
+              slot="start"
+              [(ngModel)]="f.selectedPending">
+            </ion-checkbox>
+
+            <ion-label>
+
+              <p class="info-fallo">
+
+                <span
+                  [ngClass]="
+                    f.categoria === 'General'
+                      ? 'cat-general'
+                      : 'cat-especial'
+                  ">
+                  {{ f.categoria }}
+                </span>
+
+                <span class="id">
+                  #{{ f.id }}
+                </span>
+
+                <span class="separador">
+                  •
+                </span>
+
+                <span class="fallos">
+                  ⚠️ {{ f.wrong }} fallos
+                </span>
+
+              </p>
+
+            </ion-label>
+
+          </ion-item>
+
+        </ion-list>
+
+      </ion-col>
+
+      <!-- DERECHA -->
+      <ion-col size="12" size-md="6">
+
+      <ion-item lines="none">
+        <ion-checkbox
+            slot="start"
+            [(ngModel)]="seleccionarTodasPendientes"
+            (ionChange)="toggleSeleccionTodasPendientes()">
+          </ion-checkbox>
+
+        <ion-label class="info-total">
+          Preguntas pendientes
         </ion-label>
       </ion-item>
-    </ion-list>
+
+      <ion-list [inset]="true" *ngIf="pendientesDia.length > 0">
+
+        <ion-item *ngFor="let p of pendientesDia">
+
+          <ion-label>
+
+            <p class="info-fallo">
+
+              <span
+                [ngClass]="
+                  p.categoria === 'General'
+                    ? 'cat-general'
+                    : 'cat-especial'
+                ">
+                {{ p.categoria }}
+              </span>
+
+              <span class="id">
+                #{{ p.id }}
+              </span>
+
+            </p>
+
+          </ion-label>
+
+        </ion-item>
+
+      </ion-list>
+
+      <ion-list [inset]="true" *ngIf="pendientesDia.length === 0">
+
+        <ion-item lines="none">
+
+          <ion-label
+            style="text-align:center;color:var(--ion-color-medium);">
+
+            No hay preguntas pendientes 🎉
+
+          </ion-label>
+
+        </ion-item>
+
+      </ion-list>
+
+
+      </ion-col>
+
+    </ion-row>
+  </ion-grid>
 
     <!-- Botón generar quiz -->
     <div *ngIf="fallosDia.length > 0" style="padding: 12px 16px 0;">
       <ion-button expand="block" class="btn-next" shape="round" (click)="generateQuiz()">
-        Practicar seleccionadas ({{ fallosSeleccionados }}) →
+        Practicar seleccionadas ({{ totalSeleccionadas }}) →
       </ion-button>
     </div>
 

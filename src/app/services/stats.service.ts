@@ -134,4 +134,29 @@ export class StatsService {
 
     return dias
   }
+
+  async getRespondidasDia(fecha: Date): Promise<Set<string>> {
+
+    const stats = await this.storage.get('stats') || {};
+    const dia = fecha.toDateString();
+
+    const respondidas = new Set<string>();
+
+    Object.values(stats).forEach((s: any) => {
+
+      const acierto = (s.historialAciertos || []).some(
+        (f: string) => new Date(f).toDateString() === dia
+      );
+
+      const fallo = (s.historialFallos || []).some(
+        (f: string) => new Date(f).toDateString() === dia
+      );
+
+      if (acierto || fallo) {
+        respondidas.add(`${s.id}_${s.type}`);
+      }
+    });
+
+    return respondidas;
+  }
 }

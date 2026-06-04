@@ -7,8 +7,7 @@ import {
   IonContent, IonHeader, IonTitle, IonToolbar,
   IonBadge, IonList, IonListHeader, IonItem, IonLabel,
   IonCard, IonCardContent, IonGrid, IonRow, IonCol,
-  IonNote, IonButton, IonIcon, IonCheckbox
-} from '@ionic/angular/standalone';
+  IonNote, IonButton, IonIcon, IonCheckbox, IonCardHeader, IonCardTitle } from '@ionic/angular/standalone';
 import { Router } from '@angular/router';
 import { AlertController } from '@ionic/angular';
 import { arrowBack, arrowForward} from 'ionicons/icons';
@@ -20,11 +19,12 @@ import { addIcons } from 'ionicons';
   templateUrl: './hoy.page.html',
   styleUrls: ['./hoy.page.scss'],
   standalone: true,
-  imports: [
+  imports: [IonCardTitle, IonCardHeader, 
     IonIcon, IonButton, IonContent, IonHeader, IonTitle, IonToolbar,
     IonBadge, IonList, IonItem, IonLabel, IonCheckbox,
     CommonModule, FormsModule, DatePipe,
-    IonNote, IonCol, IonRow, IonGrid, IonCardContent, IonCard, IonListHeader
+    IonNote, IonCol, IonRow, IonGrid, IonCardContent, IonCard, IonListHeader, IonCardHeader,
+IonCardTitle,
   ]
 })
 export class HoyPage implements OnInit {
@@ -43,10 +43,13 @@ export class HoyPage implements OnInit {
   fallosDia: any[] = []
   mostrarHistorico = false
   seleccionarTodas = false;
+  seleccionarTodasPendientes = false;
 
   readonly DIAS_SEMANA = ['L', 'M', 'X', 'J', 'V', 'S', 'D']
   readonly MESES = ['Enero','Febrero','Marzo','Abril','Mayo','Junio','Julio',
                     'Agosto','Septiembre','Octubre','Noviembre','Diciembre']
+
+  pendientesDia: any[] = [];
 
   constructor(
     private statsService: StatsService,
@@ -124,18 +127,49 @@ export class HoyPage implements OnInit {
   }
 
   async seleccionarDia(dia: { date: Date, activo: boolean }) {
-    if (!dia) return
-    this.diaSeleccionado = dia.date
-    this.mostrarHistorico = true
-    this.resumenDia = await this.statsService.getResumenDia(dia.date)
-    const fallos = await this.statsService.getFallosDia(dia.date)
-    const allQuestions = await this.questionService.getCombined()
-    const map = new Map()
-    allQuestions.forEach((q: any) => map.set(`${q.id}_${q.type}`, q))
+
+    if (!dia) return;
+
+    this.diaSeleccionado = dia.date;
+    this.mostrarHistorico = true;
+
+    this.resumenDia =
+      await this.statsService.getResumenDia(dia.date);
+
+    const fallos =
+      await this.statsService.getFallosDia(dia.date);
+
+    const allQuestions =
+      await this.questionService.getCombined();
+
+    const map = new Map();
+
+    allQuestions.forEach((q: any) => {
+      map.set(`${q.id}_${q.type}`, q);
+    });
+
     this.fallosDia = fallos.map((f: any) => {
-      const q = map.get(`${f.id}_${f.type}`)
-      return { ...f, question: q?.question || '—', categoria: f.type, selectedPending: false }
-    })
+      const q = map.get(`${f.id}_${f.type}`);
+
+      return {
+        ...f,
+        question: q?.question || '—',
+        categoria: f.type,
+        selectedPending: false
+      };
+    });
+
+    const respondidas =
+      await this.statsService.getRespondidasDia(dia.date);
+
+    this.pendientesDia = allQuestions
+      .filter(q => !respondidas.has(`${q.id}_${q.type}`))
+      .map(q => ({
+        id: q.id,
+        categoria: q.type,
+        question: q.question,
+        selectedPending: false
+      }));
   }
 
   get fallosSeleccionados(): number {
@@ -143,9 +177,24 @@ export class HoyPage implements OnInit {
   }
 
   async generateQuiz() {
-    const selected = this.fallosDia
+    const selectedFallos = this.fallosDia
       .filter(f => f.selectedPending)
-      .map(f => ({ id: f.id, type: f.type }))
+      .map(f => ({
+        id: f.id,
+        type: f.type
+      }));
+
+    const selectedPendientes = this.pendientesDia
+      .filter(p => p.selectedPending)
+      .map(p => ({
+        id: p.id,
+        type: p.categoria
+      }));
+
+    const selected = [
+      ...selectedFallos,
+      ...selectedPendientes
+    ];
 
     if (selected.length === 0) {
       const alert = await this.alertController.create({
@@ -174,5 +223,19 @@ export class HoyPage implements OnInit {
     this.fallosDia.forEach(f => {
       f.selectedPending = this.seleccionarTodas;
     });
+  }
+
+  toggleSeleccionTodasPendientes() {
+    this.pendientesDia.forEach(p => {
+      p.selectedPending = this.seleccionarTodasPendientes;
+    });
+  }
+
+  get pendientesSeleccionadas(): number {
+    return this.pendientesDia.filter(p => p.selectedPending).length;
+  }
+
+  get totalSeleccionadas(): number {
+    return this.fallosSeleccionados + this.pendientesSeleccionadas;
   }
 }
