@@ -8,7 +8,7 @@
       "C": "La adaptación mutua.",
       "D": "Todas las respuestas son falsas."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 2,
@@ -19,7 +19,7 @@
       "C": "En el núcleo de operaciones.",
       "D": "En la línea media."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 3,
@@ -30,7 +30,7 @@
       "C": "La burocracia maquinal.",
       "D": "La forma divisional."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 4,
@@ -41,7 +41,7 @@
       "C": "Los puestos directivos suelen ser los menos especializados de la organización.",
       "D": "Los puestos complejos, de especialización horizontal pero no vertical, suelen considerarse profesionales."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 5,
@@ -52,7 +52,7 @@
       "C": "La supervisión directa.",
       "D": "Ninguna de las anteriores es correcta."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 6,
@@ -63,7 +63,7 @@
       "C": "La línea media.",
       "D": "La tecnoestructura."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 7,
@@ -74,7 +74,7 @@
       "C": "La burocracia profesional.",
       "D": "La forma divisional."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 8,
@@ -85,7 +85,7 @@
       "C": "El núcleo de operaciones.",
       "D": "El staff de apoyo."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 9,
@@ -96,7 +96,7 @@
       "C": "Agrupación por resultados.",
       "D": "Agrupación según el proceso de trabajo y la función."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 10,
@@ -107,7 +107,7 @@
       "C": "Supervisión directa → Adaptación mutua → Normalización de resultados → Normalización de procesos.",
       "D": "Adaptación mutua → Supervisión directa → Normalización de procesos de trabajo → Normalización de resultados → Normalización de habilidades"
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 11,
@@ -118,7 +118,7 @@
       "C": "Cantina de fábrica.",
       "D": "Ingeniería de métodos y tiempos."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 12,
@@ -129,7 +129,7 @@
       "C": "Transformar inputs en outputs de forma instantánea.",
       "D": "Distribuir outputs y dar apoyo directo."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 13,
@@ -140,7 +140,7 @@
       "C": "Redes informales y rumorología.",
       "D": "Productividad por puesto y costes unitarios."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 14,
@@ -151,7 +151,7 @@
       "C": "Normalización de resultados.",
       "D": "Adaptación mutua."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 15,
@@ -162,7 +162,7 @@
       "C": "Información de feedback (rendimiento, excepciones) agregada progresivamente.",
       "D": "Decisiones estratégicas ya autorizadas."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 16,
@@ -173,7 +173,7 @@
       "C": "Recíproco.",
       "D": "Aleatorio."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 17,
@@ -184,7 +184,7 @@
       "C": "Un punto débil interno potencial.",
       "D": "Una amenaza externa potencial."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 18,
@@ -195,7 +195,7 @@
       "C": "El interés, la relevancia y el impacto.",
       "D": "La proximidad, el impacto y la urgencia."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 19,
@@ -206,7 +206,7 @@
       "C": "El conocimiento antes de la decisión estratégica, el estilo de liderazgo, el azar, los aspectos políticos del proceso.",
       "D": "Los aspectos políticos del proceso, la racionalidad ilimitada del decisor, el conocimiento antes de la decisión estratégica, el estilo de liderazgo."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 20,
@@ -217,7 +217,7 @@
       "C": "La identificación de los grupos de interés, el conocimiento de sus necesidades y expectativas y el impacto en la estrategia de la organización.",
       "D": "Conocer el poder de cada grupo de interés, sus necesidades y expectativas, y el impacto en la estrategia de la organización."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 21,
@@ -228,7 +228,7 @@
       "C": "Objetivos financieros y objetivos estratégicos.",
       "D": "Objetivos ambiciosos y objetivos imposibles."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 22,
@@ -239,7 +239,7 @@
       "C": "Análisis de cadena de valor.",
       "D": "Análisis estratégico."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 23,
@@ -250,7 +250,7 @@
       "C": "La identificación de los competidores del sector local y nacional.",
       "D": "La evaluación de los recursos humanos."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 24,
@@ -261,7 +261,7 @@
       "C": "Un recurso que proporciona ventaja competitiva.",
       "D": "Una capacidad organizativa difícil de imitar."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 25,
@@ -272,7 +272,7 @@
       "C": "Directivos.",
       "D": "Sociedad civil."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 26,
@@ -283,7 +283,7 @@
       "C": "La combinación de poder, legitimidad y urgencia.",
       "D": "Su volumen económico."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 27,
@@ -294,7 +294,7 @@
       "C": "La ausencia de estructuras organizativas formales dentro de la empresa.",
       "D": "La centralización excesiva"
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 28,
@@ -305,7 +305,7 @@
       "C": "Mercado de capitales.",
       "D": "Auditoría interna."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 29,
@@ -316,7 +316,7 @@
       "C": "Competir en varios mercados geográficos simultáneamente, ya sean locales o nacionales.",
       "D": "Ser equivalente a cualquier unidad de negocio."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 30,
@@ -327,7 +327,7 @@
       "C": "Alta lealtad a la marca y fidelidad absoluta del cliente.",
       "D": "Elevado número de competidores y similar tamaño."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 31,
@@ -338,7 +338,7 @@
       "C": "La amenaza de sustitutivos aumenta.",
       "D": "Los proveedores pierden poder automáticamente."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 32,
@@ -349,7 +349,7 @@
       "C": "Los resultados estratégicos.",
       "D": "Los resultados en la sociedad."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 33,
@@ -360,7 +360,7 @@
       "C": "Cómo definimos nuestros objetivos y estrategia para innovar.",
       "D": "Cómo se producen y distribuyen nuestros productos y se prestan nuestros servicios."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 34,
@@ -371,7 +371,7 @@
       "C": "El diseño de procesos y otros instrumentos tiene relación con el despliegue del planteamiento como aspecto a valorar de los elementos de acción.",
       "D": "Los datos empleados para conocer la eficacia y eficiencia de la organización que ayudan a realizar proyecciones a futuro, están relacionados con los elementos de resultados."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 35,
@@ -382,7 +382,7 @@
       "C": "Básico, Medio, Desarrollado o Avanzado.",
       "D": "Básico, Intermedio, Excelente o Avanzado."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 36,
@@ -393,7 +393,7 @@
       "C": "Los resultados en personas.",
       "D": "Los resultados en la sociedad."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 37,
@@ -404,7 +404,7 @@
       "C": "Cómo aprovechamos el potencial del entorno para innovar.",
       "D": "Cómo reflexionamos y establecemos la estrategia."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 38,
@@ -415,7 +415,7 @@
       "C": "Que los planteamientos se llevan a la práctica de manera ordenada, rigurosa, ágil y sistemática en todos los ámbitos donde son aplicables, es un aspecto a valorar en el despliegue de los elementos de acción.",
       "D": "Que se han diseñado los procesos y otros instrumentos para llevarlo a cabo de manera ágil y eficiente, recogiendo lo esencial para la organización, es un aspecto a valorar de los elementos de resultados."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 39,
@@ -426,7 +426,7 @@
       "C": "Enfoque, Despliegue y Evaluación.",
       "D": "Planteamiento, Despliegue y Ajuste."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 40,
@@ -437,7 +437,7 @@
       "C": "5 elementos y 23 subelementos.",
       "D": "5 elementos y 22 subelementos."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 41,
@@ -448,7 +448,7 @@
       "C": "Ofrece un marco genérico de elementos y buenas prácticas que pueden aplicarse en cualquier organización, sea cual sea su sector, tamaño o grado de avance en la gestión.",
       "D": "Ofrece un marco genérico de elementos y buenas prácticas que pueden aplicarse en cualquier organización de más de 50 trabajadores, sea cual sea su sector o grado de avance en la gestión."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 42,
@@ -459,7 +459,7 @@
       "C": "En el elemento Personas.",
       "D": "En el elemento Innovación."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 43,
@@ -470,7 +470,7 @@
       "C": "Evaluación y ajuste.",
       "D": "Planteamiento."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 44,
@@ -481,7 +481,7 @@
       "C": "Un plan de comunicación externo sólido.",
       "D": "Un conjunto de procesos de apoyo eficientes."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 45,
@@ -492,7 +492,7 @@
       "C": "Orientarse hacia los clientes, buscando su fidelización y aportando valor diferencial.",
       "D": "Desarrollar productos sin incorporar información del mercado."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 46,
@@ -503,7 +503,7 @@
       "C": "Definir un proceso de reflexión estratégica anual.",
       "D": "Impulsar la polivalencia y flexibilidad de las personas de la organización."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 47,
@@ -514,7 +514,7 @@
       "C": "Evitar la polivalencia para no sobrecargar a las personas.",
       "D": "Centrarse en la formación obligatoria establecida por la normativa."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 48,
@@ -525,7 +525,7 @@
       "C": "Los niveles de eficiencia energética interna exclusivamente.",
       "D": "Las ventas y cuotas de mercado en distintos productos o servicios."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 49,
@@ -536,7 +536,7 @@
       "C": "Una comparación anual con la competencia únicamente financiera.",
       "D": "Un sistema de comunicación interna basado solo en informes escritos."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 50,
@@ -547,7 +547,7 @@
       "C": "Las personas con mejor desempeño dentro de la organización.",
       "D": "Los costes asociados a los procesos de innovación."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 51,
@@ -558,7 +558,7 @@
       "C": "Fomentar la cohesión.",
       "D": "Desarrollar el sistema de gestión."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 52,
@@ -569,7 +569,7 @@
       "C": "El alcance del proceso permite hacer un seguimiento de cómo el proceso se orienta hacia el cumplimiento de su misión u objeto.",
       "D": "El alcance del proceso es el propósito del mismo."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 53,
@@ -580,7 +580,7 @@
       "C": "Los procedimientos se implementan.",
       "D": "Los procedimientos se centran en el cumplimiento de las normas."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 54,
@@ -591,7 +591,7 @@
       "C": "A la relatividad en el tiempo.",
       "D": "A la sensibilidad."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 55,
@@ -602,7 +602,7 @@
       "C": "Mapa de procesos.",
       "D": "Todas las respuestas son falsas."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 56,
@@ -613,7 +613,7 @@
       "C": "De gestión de recursos.",
       "D": "Operativos."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 57,
@@ -624,7 +624,7 @@
       "C": "1º La selección de los procesos. 2º El seguimiento y la medición para conocer los resultados que obtienen. 3º El dibujo del mapa de procesos. 4º La mejora de los procesos.",
       "D": "1º La descripción de los procesos. 2º La realización de las fichas de procesos. 3º La selección y seguimiento de los indicadores de los procesos. 4º La mejora de los procesos con base en el seguimiento y medición realizado."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 58,
@@ -635,7 +635,7 @@
       "C": "La Misión u objeto del proceso.",
       "D": "La fecha de la firma del proceso."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 59,
@@ -646,7 +646,7 @@
       "C": "Los procesos se centran en el cumplimiento de las normas.",
       "D": "Los procesos están impulsados por la consecución de un resultado."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 60,
@@ -657,7 +657,7 @@
       "C": "Representatividad, Fiabilidad y Temporalidad.",
       "D": "Objetividad, Sensibilidad y Claridad."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 61,
@@ -668,7 +668,7 @@
       "C": "PCDA (Planificar, Chequear, Desplegar, Actuar para ajustar).",
       "D": "SDCA (Conocer el Estándar, Desplegar, Verificar, Actuar)."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 62,
@@ -679,7 +679,7 @@
       "C": "Un mapa de procesos debe incluir la información de los procesos clave de una organización.",
       "D": "Hay que alcanzar un punto de equilibrio entre la información contenida en el mapa de proceso y la utilidad que le van a dar los usuarios del mismo."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 63,
@@ -690,7 +690,7 @@
       "C": "Para tener una visión clara de dónde están los despilfarros o puntos de mejora.",
       "D": "Para distribuir las responsabilidades dentro de la organización."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 64,
@@ -701,7 +701,7 @@
       "C": "De planificación, operativos y de medición.",
       "D": "Los que la organización crea necesario."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 65,
@@ -712,7 +712,7 @@
       "C": "Es el camino para seguir por toda nueva incorporación a la plantilla.",
       "D": "Es la representación gráfica de todas las actividades de un proceso y se complementa con la Ficha de proceso."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 66,
@@ -723,7 +723,7 @@
       "C": "La forma más común de descripción de un proceso es a través del Diagrama de proceso y la Ficha de proceso.",
       "D": "La forma más común de descripción de un proceso es a través de instrucciones concretas de cada actividad, acompañadas en ocasiones con fotos descriptivas."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 67,
@@ -734,7 +734,7 @@
       "C": "De la norma ISO 9000:2005.",
       "D": "Del Modelo IAT."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 68,
@@ -745,7 +745,7 @@
       "C": "Conocer la capacidad y eficacia del proceso.",
       "D": "Identificar las tareas que deben externalizarse."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 69,
@@ -756,7 +756,7 @@
       "C": "Gestión de recursos.",
       "D": "Delegación."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 70,
@@ -767,7 +767,7 @@
       "C": "Aquella información sobre mí que yo conozco y que otros también conocen.",
       "D": "Aquella información sobre mí que yo conozco y que los demás no conocen."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 71,
@@ -778,7 +778,7 @@
       "C": "Oportunista.",
       "D": "Indiferente."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 72,
@@ -789,7 +789,7 @@
       "C": "No se involucra en discusiones y está ajeno a todo lo que ocurre a su alrededor. De esa manera no tiene nada que defender, sólo deja pasar las cosas y espera que se resuelvan.",
       "D": "Actuando de forma madura, objetiva y realista, este liderazgo es firme en sus convicciones, pero no mantiene su posición de manera intransigente."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 73,
@@ -800,7 +800,7 @@
       "C": "La información sobre mí que yo conozco, pero mantengo reservada.",
       "D": "La información sobre mí que tanto yo como los demás conocemos."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 74,
@@ -811,7 +811,7 @@
       "C": "Delegación.",
       "D": "Coaching."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 75,
@@ -822,7 +822,7 @@
       "C": "Apoyo.",
       "D": "Delegación."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 76,
@@ -833,7 +833,7 @@
       "C": "Estilo oportunista.",
       "D": "Estilo conservador."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 77,
@@ -844,7 +844,7 @@
       "C": "Indagación y Escucha Activa.",
       "D": "Pedir y dar feedback."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 78,
@@ -855,7 +855,7 @@
       "C": "Zona ciega.",
       "D": "Zona inconsciente."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 79,
@@ -866,7 +866,7 @@
       "C": "Debe ser educado, proporcional y obligatorio siempre que el hecho sea urgente.",
       "D": "Debe ser descriptivo, respetuoso, oportuno y es mejor que sea solicitado"
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 80,
@@ -877,7 +877,7 @@
       "C": "Estilo indiferente.",
       "D": "Estilo conservador."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 81,
@@ -888,7 +888,7 @@
       "C": "Que el liderazgo como proceso se limita a conductas de corto plazo ya que son más asumibles de poder rectificar sin problemas.",
       "D": "Que el liderazgo como proceso admite aprendizaje y desarrollo a través de la interacción líder‑seguidores."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 82,
@@ -899,7 +899,7 @@
       "C": "Orientación exclusiva a resultados y alta tolerancia al riesgo.",
       "D": "Autonomía total y ausencia de supervisión organizativa. La iniciativa improvisada y la individualidad son fundamentales para el liderazgo."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 83,
@@ -910,7 +910,7 @@
       "C": "Decidir únicamente retribuciones variables.",
       "D": "Detectar rasgos de personalidad indelebles."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 84,
@@ -921,7 +921,7 @@
       "C": "Anonimato de los evaluadores.",
       "D": "Uso de resultados como punto de partida para el desarrollo."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 85,
@@ -932,7 +932,7 @@
       "C": "Todas las personas pueden y deben ejercer el liderazgo y éste debe expandirse por toda la organización.",
       "D": "El liderazgo compartido solo aplica a equipos de innovación."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 86,
@@ -943,7 +943,7 @@
       "C": "Desarrollo del sistema de gestión (auditorías y herramientas).",
       "D": "Comunicación externa (grupos de interés ajenos a la organización) fluida y transparente."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 87,
@@ -954,7 +954,7 @@
       "C": "El directivo delega todas sus funciones en el equipo.",
       "D": "El directivo alcanza el dominio automático de una competencia y la hace suya sin comunicársela a nadie."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 88,
@@ -965,7 +965,7 @@
       "C": "La calidad de los productos y servicios de una organización está determinada por la capacidad para satisfacer a los clientes.",
       "D": "La calidad de los productos y servicios incluye no solo su función y desempeño previstos, sino también su valor percibido y el beneficio para el cliente."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 89,
@@ -976,7 +976,7 @@
       "C": "Control de la calidad.",
       "D": "Aseguramiento de la calidad."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 90,
@@ -987,7 +987,7 @@
       "C": "Que la alta dirección debe establecer, implementar y mantener una política de calidad es una capacidad que la norma atribuye a la dirección de la organización.",
       "D": "Que la organización debe establecer, implementar, mantener y mejorar continuamente un sistema de gestión de la calidad, incluidos los procesos necesarios y sus interacciones es una recomendación."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 91,
@@ -998,7 +998,7 @@
       "C": "No cumplir con las especificaciones.",
       "D": "El incumplimiento de una característica de producto o servicio."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 92,
@@ -1009,7 +1009,7 @@
       "C": "La forma de cálculo es el sistema que se emplea para representar el grado de cumplimiento de los objetivos.",
       "D": "La información se puede representar de diferentes formas tales como: diagramas, tablas cifradas, dibujos, etc."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 93,
@@ -1020,7 +1020,7 @@
       "C": "Medida.",
       "D": "Indicador."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 94,
@@ -1031,7 +1031,7 @@
       "C": "Representatividad, Fiabilidad y Temporalidad.",
       "D": "Objetividad, Sensibilidad y Claridad."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 95,
@@ -1042,7 +1042,7 @@
       "C": "Un SGC es un sistema estático y robusto que refleja la situación de los procesos y los recursos de la organización en el momento de su implantación.",
       "D": "El SGC posibilita a la alta dirección optimizar el uso de los recursos considerando las consecuencias de sus decisiones a largo y corto plazo."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 96,
@@ -1053,7 +1053,7 @@
       "C": "Planificación de la calidad.",
       "D": "Aseguramiento de la calidad."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 97,
@@ -1064,7 +1064,7 @@
       "C": "Asegurándose de la integración de los requisitos del sistema de gestión de la calidad en los procesos de apoyo de la organización.",
       "D": "Promoviendo el uso del enfoque a procesos e identificando los riesgos en la organización para minimizar su impacto."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 98,
@@ -1075,7 +1075,7 @@
       "C": "Simplificar su representación mediante la utilización de gráficos, tablas, curvas, cuadros de datos, etc.",
       "D": "Presentar solo aquella información que resulte imprescindible, de una forma sencilla, resumida y eficaz para la toma de decisiones."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 99,
@@ -1086,7 +1086,7 @@
       "C": "Medida.",
       "D": "Medición."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 100,
@@ -1097,7 +1097,7 @@
       "C": "Comparar la contribución de distintos factores a un total en un determinado momento.",
       "D": "Seguir la evolución de los valores alcanzados por un parámetro en cada unidad de tiempo."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 101,
@@ -1108,7 +1108,7 @@
       "C": "Parámetro.",
       "D": "Medida."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 102,
@@ -1119,7 +1119,7 @@
       "C": "Mejora de la evaluación del desempeño del proceso y de la capacidad de lograr los objetivos; mejora de la eficacia y eficiencia operativas.",
       "D": "Aumento del desempeño de la organización y de sus partes interesadas pertinentes respondiendo a las oportunidades y restricciones relacionadas con cada parte interesada; aumento de la capacidad de crear valor para las partes interesadas compartiendo los recursos y la competencia y gestionando los riesgos relativos a la calidad."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 103,
@@ -1130,7 +1130,7 @@
       "C": "Acción correctiva.",
       "D": "Acción anticipatoria."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 104,
@@ -1141,7 +1141,7 @@
       "C": "Estar disponible para las partes pertinentes; entenderse, comunicarse y aplicarse a todos los niveles de la organización; evaluar su grado de cumplimiento, según corresponda.",
       "D": "Estar disponible para todos los grupos de interés; aprobarse, aplicarse y comunicarse dentro de la organización; mantenerse como información documentada."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 105,
@@ -1152,7 +1152,7 @@
       "C": "Determinarlos, mantenerlos y ponerlos a disposición en la medida necesaria.",
       "D": "Subcontratarlos a un tercero certificado."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 106,
@@ -1163,7 +1163,7 @@
       "C": "Externarse a un laboratorio acreditado sin más controles.",
       "D": "Usarse, aunque esté fuera de tolerancia si el riesgo es bajo."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 107,
@@ -1174,7 +1174,7 @@
       "C": "Es una manera indirecta de obtener información relacionada con el cumplimiento de los requisitos de cliente.",
       "D": "Las quejas y reclamaciones están incluidas en el modelo SERVPERF que utiliza exclusivamente la percepción como una buena aproximación a la satisfacción de cliente."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 108,
@@ -1185,7 +1185,7 @@
       "C": "Escalas SIMALTO.",
       "D": "Escalas verbales."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 109,
@@ -1196,7 +1196,7 @@
       "C": "Determinar la validez de contenido de los resultados de una encuesta.",
       "D": "Determinar la validez de criterio de los resultados de una encuesta."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 110,
@@ -1207,7 +1207,7 @@
       "C": "Tamaño poblacional.",
       "D": "Varianza poblacional."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 111,
@@ -1218,7 +1218,7 @@
       "C": "Entrevista personal.",
       "D": "Autoadministrado por correo electrónico o página web."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 112,
@@ -1229,7 +1229,7 @@
       "C": "Escala Likert.",
       "D": "Escalas SIMALTO."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 113,
@@ -1240,7 +1240,7 @@
       "C": "Fiabilidad y Cálculo del tamaño muestral.",
       "D": "Método de muestreo y Estimación del error."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 114,
@@ -1251,7 +1251,7 @@
       "C": "Muestreo aleatorio variable.",
       "D": "Muestreo aleatorio estratificado."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 115,
@@ -1262,7 +1262,7 @@
       "C": "La periodicidad de los datos y el error muestral aceptable.",
       "D": "El perfil de los clientes y el nivel de confianza."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 116,
@@ -1273,7 +1273,7 @@
       "C": "A la población objeto del estudio.",
       "D": "A la periodicidad de la medición."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 117,
@@ -1284,7 +1284,7 @@
       "C": "Escala SIMALTO.",
       "D": "Escala Likert."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 118,
@@ -1295,7 +1295,7 @@
       "C": "No más de treinta, que tengan una única interpretación, realizarse de manera que no se levanten prejuicios.",
       "D": "Que no se tarden en contestar más de 10 minutos, que tengan una única interpretación, que se puedan contestar con texto o con una respuesta numérica."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 119,
@@ -1306,7 +1306,7 @@
       "C": "El conjunto de percepciones obtenidas tras el uso del servicio.",
       "D": "Los costes asociados al proceso de compra."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 120,
@@ -1317,7 +1317,7 @@
       "C": "La frecuencia de compra a lo largo de un ejercicio económico.",
       "D": "La duración del proceso de medición."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 121,
@@ -1328,7 +1328,7 @@
       "C": "Entrevistas, encuestas y grupos focales.",
       "D": "Ciclo de vida del producto vendido y/o de los servicios prestados."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 122,
@@ -1339,7 +1339,7 @@
       "C": "Personal ajeno a la empresa o sin relación directa con el cliente.",
       "D": "Los propios clientes mediante autoevaluación."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 123,
@@ -1350,7 +1350,7 @@
       "C": "Los objetivos de la medición, el público objetivo y el tamaño muestral.",
       "D": "El tipo de producto ofrecido por la competencia."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 124,
@@ -1361,7 +1361,7 @@
       "C": "Comprender la estrategia global y los objetivos corporativos.",
       "D": "Priorizar las quejas de los clientes por encima del resto de información."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 125,
@@ -1372,7 +1372,7 @@
       "C": "Ser independiente de la estrategia general para preservar la creatividad.",
       "D": "Basarse exclusivamente en las percepciones actuales de los clientes."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 126,
@@ -1383,7 +1383,7 @@
       "C": "Centralizar todas las decisiones en la dirección general.",
       "D": "Evitar la creación de equipos transversales."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 127,
@@ -1394,7 +1394,7 @@
       "C": "Considerar la experiencia de cliente solo en los servicios posventa realizados dentro del territorio donde opere la entidad.",
       "D": "Limitarse a medir la satisfacción sin intervenir en los procesos."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 128,
@@ -1405,7 +1405,7 @@
       "C": "Limitar la comunicación corporativa a los canales tradicionales.",
       "D": "Sustituir la estrategia organizativa por decisiones centradas únicamente en el diseño emocional de los procesos."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 129,
@@ -1416,7 +1416,7 @@
       "C": "Un modelo en el que cada área y sub-área actúan de manera independiente para ganar mayor agilidad.",
       "D": "La reducción de la formación interna para evitar costes innecesarios."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 130,
@@ -1427,7 +1427,7 @@
       "C": "Evitar que el liderazgo intervenga en la gestión de la experiencia del cliente.",
       "D": "Eliminar la formación para no condicionar la espontaneidad de la atención al cliente."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 131,
@@ -1438,7 +1438,7 @@
       "C": "Limitar el análisis de la experiencia del cliente exclusivamente a los departamentos con funciones comerciales y de distribución.",
       "D": "Reducir la información disponible para no saturar a las personas empleadas."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 132,
@@ -1449,7 +1449,7 @@
       "C": "Evitar la intervención de áreas que no tengan ningún tipo de contacto directo con el cliente.",
       "D": "Priorizar únicamente la mejora de procesos tecnológicos frente a los humanos."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 133,
@@ -1460,7 +1460,7 @@
       "C": "Sustituir la evaluación continua por reuniones anuales no estructuradas.",
       "D": "Eliminar indicadores relacionados con la atención al cliente para evitar sesgos."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 134,
@@ -1471,7 +1471,7 @@
       "C": "La visión de los distintos momentos que vive el cliente, desde que conoce la entidad hasta la postventa.",
       "D": "Un documento de marketing que se actualiza solo una vez al año."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 135,
@@ -1482,7 +1482,7 @@
       "C": "Priorizar únicamente los datos de ventas como fuente de información fiable y veraz en base a informes externos.",
       "D": "Eliminar los momentos de la verdad para evitar sesgos emocionales."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 136,
@@ -1493,7 +1493,7 @@
       "C": "Las entrevistas personales y grupos focales.",
       "D": "Las métricas de satisfacción automática."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 137,
@@ -1504,7 +1504,7 @@
       "C": "Solo los datos recogidos en canales presenciales.",
       "D": "La evaluación anual de clima laboral."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 138,
@@ -1515,7 +1515,7 @@
       "C": "Eliminar automáticamente los comentarios negativos para proteger la reputación.",
       "D": "Sustituir la escucha activa por modelos estadísticos."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 139,
@@ -1526,7 +1526,7 @@
       "C": "Priorizar las acciones propuestas exclusivamente por clientes promotores.",
       "D": "Elegir soluciones que afecten solo a los puntos de contacto digitales."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 140,
@@ -1537,7 +1537,7 @@
       "C": "Grupos focales y entrevistas para valorar propuestas.",
       "D": "Exclusivamente encuestas cerradas enviadas por correo."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 141,
@@ -1548,7 +1548,7 @@
       "C": "Sustituir la participación del cliente por simulaciones internas.",
       "D": "Identificar errores únicamente técnicos del proceso."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 142,
@@ -1559,7 +1559,7 @@
       "C": "Evaluar únicamente la eficiencia de los canales digitales.",
       "D": "Determinar la carga de trabajo del personal de atención."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 143,
@@ -1570,7 +1570,7 @@
       "C": "Sustituir la excelencia en cuidados por programas de digitalización centrados en la humanización.",
       "D": "Limitar la humanización al ámbito de hospitalización."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 144,
@@ -1581,7 +1581,7 @@
       "C": "Es un catálogo de obras e infraestructuras de obligado cumplimiento con el objetivo de planificar, desarrollar y medir la humanización.",
       "D": "Es un protocolo para atención domiciliaria exclusivamente."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 145,
@@ -1592,7 +1592,7 @@
       "C": "Dirección; Recursos humanos; Finanzas; Infraestructuras; TIC (Tecnologías de la Información y la Comunicación); Logística.",
       "D": "Paciente crónico; Pediatría; Urgencias; Farmacia; Salud mental; Atención primaria."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 146,
@@ -1603,7 +1603,7 @@
       "C": "Sustituir las auditorías internas y externas de calidad y la seguridad del paciente y sus familiares.",
       "D": "Medir únicamente la satisfacción de profesionales."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 147,
@@ -1614,7 +1614,7 @@
       "C": "No iniciado, mínimo, medio, alto, óptimo.",
       "D": "No iniciado, básico, intermedio, desarrollado, avanzado."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 148,
@@ -1625,7 +1625,7 @@
       "C": "Incrementar únicamente los recursos tecnológicos desarrollados y en proceso de desarrollo.",
       "D": "Definir la humanización, recogerla y hacerla visible en la estrategia de la organización."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 149,
@@ -1636,7 +1636,7 @@
       "C": "La reducción de la participación de familiares.",
       "D": "El uso de un único idioma para evitar confusiones."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 150,
@@ -1647,7 +1647,7 @@
       "C": "Priorizar comentarios informales frente a métodos estructurados.",
       "D": "Realizar encuestas, grupos focales y analizar sistemáticamente quejas y sugerencias para la mejora."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 151,
@@ -1658,7 +1658,7 @@
       "C": "Evitar la presencia de referentes de paciente y familia en situaciones de alta vulnerabilidad.",
       "D": "Reducir la información para acortar tiempos de atención."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 152,
@@ -1669,7 +1669,7 @@
       "C": "Limitar la valoración a constantes clínicas.",
       "D": "Trasladar todo apoyo emocional a asociaciones externas."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 153,
@@ -1680,7 +1680,7 @@
       "C": "Adaptarlos a necesidades de las personas, con circuitos preferentes y análisis sistemático.",
       "D": "Derivar toda la gestión al servicio de urgencias."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 154,
@@ -1691,7 +1691,7 @@
       "C": "Prestar servicios de salud con TIC (Tecnologías de la Información y la Comunicación) para mejorar resultados y accesibilidad, evaluando su impacto.",
       "D": "Mantener recursos no presenciales sin evaluación."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 155,
@@ -1702,7 +1702,7 @@
       "C": "Desplegar herramientas, revisar planes de cuidados conjuntamente y atender colectivos vulnerables.",
       "D": "Evitar la Carpeta de Salud para no generar desigualdades."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 156,
@@ -1713,7 +1713,7 @@
       "C": "Derivar toda comunicación a trabajo social, a través de los medios ofrecidos por la Administración Pública.",
       "D": "Priorizar únicamente actividades lúdicas."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 157,
@@ -1724,7 +1724,7 @@
       "C": "Limitar accesos para reducir afluencia.",
       "D": "Delegar la accesibilidad en proveedores externos."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 158,
@@ -1735,7 +1735,7 @@
       "C": "Centralizar toda la información en mostradores abiertos al público, guardando siempre las medidas de seguridad e higiene aprobadas.",
       "D": "Evitar protocolos para no burocratizar la atención."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 159,
@@ -1746,7 +1746,7 @@
       "C": "Utilizar exclusivamente canales informales.",
       "D": "Evitar comunicación entre diferentes niveles asistenciales tanto directos como indirectos, y tanto horizontales como verticales."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 160,
@@ -1757,7 +1757,7 @@
       "C": "Evitar proyectos transversales entre OSIs (Organización Sanitaria Integrada).",
       "D": "Convertir todos los equipos en comités directivos."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 161,
@@ -1768,7 +1768,7 @@
       "C": "Protocolo y manual de acogida, referentes de acogida y herramientas de apoyo.",
       "D": "Retrasar la información sobre valores y objetivos."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 162,
@@ -1779,7 +1779,7 @@
       "C": "Reducir el número de personas profesionales implicadas en la toma de decisiones.",
       "D": "Focalizar el sistema únicamente en eficiencia económica."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 163,
@@ -1790,7 +1790,7 @@
       "C": "La eliminación del uso de PROM (Patient Reported Outcome Measures) y PREM (Patient Related Experience Measures).",
       "D": "La centralización de todas las decisiones en el profesional."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 164,
@@ -1801,7 +1801,7 @@
       "C": "La estrategia europea de contratación pública.",
       "D": "El Plan de infraestructuras sanitarias 2010."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 165,
@@ -1812,7 +1812,7 @@
       "C": "Limitar la evaluación a indicadores económicos centrados en las Bases Estratégicas y los Ejes Estratégicos simples, compuestos y transversales incluidos en el Cuadro de Mando Integral (CMI).",
       "D": "Eliminar la medición de la experiencia de paciente."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 166,
@@ -1823,7 +1823,7 @@
       "C": "Que los PREM (Patient Related Experience Measures) sustituyen totalmente a datos clínicos y a los resultados más importantes del historial médico del paciente.",
       "D": "Que no se requiere interoperabilidad."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 167,
@@ -1834,7 +1834,7 @@
       "C": "El enfoque de “medicina basada en valor”.",
       "D": "La priorización exclusiva por coste."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 168,
@@ -1845,7 +1845,7 @@
       "C": "Prevención, salud pública y telemedicina.",
       "D": "Personalización, liderazgo y digitalización."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 169,
@@ -1856,7 +1856,7 @@
       "C": "Sesgo administrativo positivo.",
       "D": "Sesgo neutro operativo."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 170,
@@ -1867,7 +1867,7 @@
       "C": "Falta de estructura sistemática por enfermedad específica.",
       "D": "Ausencia de datos clínicos."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 171,
@@ -1878,7 +1878,7 @@
       "C": "Implementación.",
       "D": "Evaluación y mejora."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 172,
@@ -1889,7 +1889,7 @@
       "C": "Excluir a pacientes de la ruta y evitar medir la situación de retorno.",
       "D": "Trabajar solo con un tipo de profesional."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 173,
@@ -1900,7 +1900,7 @@
       "C": "Excluir medidas clínicas.",
       "D": "Decidir resultados que se medirán y monitorizarán con apoyo del equipo central."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 174,
@@ -1911,7 +1911,7 @@
       "C": "Separar PREM (Patient Related Experience Measures) y PROM (Patient Reported Outcome Measures) en sistemas distintos.",
       "D": "Evitar cuadros de mando clínicos."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 175,
@@ -1922,7 +1922,7 @@
       "C": "Congelar los procesos asistenciales.",
       "D": "Captura de indicadores propuestos y cambios en la ruta asistencial."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 176,
@@ -1933,7 +1933,7 @@
       "C": "Eliminar reuniones del equipo.",
       "D": "No usar metodologías activas de análisis de datos de pacientes."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 177,
@@ -1944,7 +1944,7 @@
       "C": "Que los resultados que importan a pacientes puedan medirse con instrumentos existentes.",
       "D": "Que no se espere mejora rápida de los pacientes independientemente de los resultados previos obtenidos."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 178,
@@ -1955,7 +1955,7 @@
       "C": "Sustituir toda actividad asistencial por modelos digitales.",
       "D": "Reemplazar indicadores clínicos por PROM (Patient Reported Outcome Measures) exclusivamente."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 179,
@@ -1966,7 +1966,7 @@
       "C": "Exclusivamente análisis económico.",
       "D": "Herramientas de auditoría externa."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 180,
@@ -1977,7 +1977,7 @@
       "C": "Educación de profesionales y gestores.",
       "D": "Evitar campañas de comunicación."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 181,
@@ -1988,7 +1988,7 @@
       "C": "Eliminar PREM (Patient Related Experience Measures) y PROM (Patient Reported Outcome Measures) por falta de evidencia.",
       "D": "Comparar únicamente datos relacionados con los gastos de carácter farmacéutico."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 182,
@@ -1999,7 +1999,7 @@
       "C": "Medio ambiente.",
       "D": "Aspecto ambiental."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 183,
@@ -2010,7 +2010,7 @@
       "C": "La organización debe mantener información documentada de los criterios usados para determinar sus aspectos ambientales significativos.",
       "D": "Los aspectos ambientales significativos pueden dar como resultado riesgos y oportunidades asociados con impactos ambientales tanto debilitadores como fortalecedores del medio ambiente."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 184,
@@ -2021,7 +2021,7 @@
       "C": "Para qué se va a hacer.",
       "D": "Qué recursos se requerirán."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 185,
@@ -2032,7 +2032,7 @@
       "C": "Declaración ambiental.",
       "D": "Compromiso ambiental de la organización."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 186,
@@ -2043,7 +2043,7 @@
       "C": "Impacto ambiental.",
       "D": "Condición ambiental."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 187,
@@ -2054,7 +2054,7 @@
       "C": "La información documentada requerida por los organismos internacionales.",
       "D": "Las implicaciones de no satisfacer los requisitos del sistema de gestión ambiental, incluido el incumplimiento de los requisitos legales y otros requisitos de la organización."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 188,
@@ -2065,7 +2065,7 @@
       "C": "Objeto de seguimiento.",
       "D": "Actualizarse según corresponda."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 189,
@@ -2076,7 +2076,7 @@
       "C": "Eficiencia.",
       "D": "Desempeño"
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 190,
@@ -2087,7 +2087,7 @@
       "C": "Una obligación.",
       "D": "Todas las respuestas son falsas."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 191,
@@ -2098,7 +2098,7 @@
       "C": "Disposición de materias primas, producción, el transporte, el uso, la entrega, el reciclaje al finalizar la vida y la disposición final.",
       "D": "Adquisición de materias primas, el diseño, la producción, el transporte/entrega, el uso, el tratamiento al finalizar la vida y la disposición final."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 192,
@@ -2109,7 +2109,7 @@
       "C": "Determinar límites y aplicabilidad del SGA considerando cuestiones internas/externas, requisitos legales/otros requisitos, unidades, funciones y autoridad/capacidad de control e influencia.",
       "D": "Publicar un manual ambiental con todas las exclusiones."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 193,
@@ -2120,7 +2120,7 @@
       "C": "Aprobar un presupuesto anual de formación ambiental.",
       "D": "Delegar totalmente la responsabilidad del SGA en el responsable de medio ambiente y notificar de forma adecuada al gerente para su información y transparencia."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 194,
@@ -2131,7 +2131,7 @@
       "C": "Los mensajes comerciales a difundir a clientes y proveedores.",
       "D": "El plan de marketing ambiental."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 195,
@@ -2142,7 +2142,7 @@
       "C": "La información documentada requerida por la norma y la que la organización determine necesaria para la eficacia del SGA.",
       "D": "Todos los procedimientos operativos firmados por la alta dirección y publicados de forma adecuada para el conocimiento de todo el personal."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 196,
@@ -2153,7 +2153,7 @@
       "C": "Comunicar emergencias solo a los accionistas.",
       "D": "Establecer, implementar y mantener procesos para prepararse y responder a emergencias potenciales; planificar acciones para prevenir/mitigar impactos, responder, probar cuando sea factible y revisar periódicamente."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 197,
@@ -2164,7 +2164,7 @@
       "C": "Establecer, implementar y mantener procesos para evaluar el cumplimiento; determinar la frecuencia, evaluar, emprender acciones necesarias y mantener conocimiento de su estado de cumplimiento.",
       "D": "Informar externamente de todos los incumplimientos detectados."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 198,
@@ -2175,7 +2175,7 @@
       "C": "Esperar a la revisión por la dirección para decidir.",
       "D": "Reaccionar (controlar/corregir y abordar consecuencias), evaluar la necesidad de acciones para eliminar las causas (revisión, causas, existencia de similares), implementar acciones y revisar su eficacia."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 199,
@@ -2186,7 +2186,7 @@
       "C": "Actuar como certificación oficial de Naciones Unidas.",
       "D": "Definir los indicadores universales que todas las empresas deben cumplir."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 200,
@@ -2197,7 +2197,7 @@
       "C": "Que solo es válido para organizaciones grandes, excluyendo las medianas, pequeñas y micro entidades.",
       "D": "Que funciona únicamente en sectores tecnológicos."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 201,
@@ -2208,7 +2208,7 @@
       "C": "Evitar medir el impacto social para no generar sobrecarga.",
       "D": "Fomentar acciones voluntarias no vinculadas a la gestión."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 202,
@@ -2219,7 +2219,7 @@
       "C": "Resultados inmediatos y resultados intuitivos.",
       "D": "Resultados financieros y resultados tecnológicos."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 203,
@@ -2230,7 +2230,7 @@
       "C": "Un instrumento para reflexionar sobre el modelo de gestión.",
       "D": "Una referencia para posicionar el grado de avance."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 204,
@@ -2241,7 +2241,7 @@
       "C": "No – puntual – sistemático – plenamente desarrollado e integrado.",
       "D": "No aplicable – en proceso – óptimo – excelente."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 205,
@@ -2252,7 +2252,7 @@
       "C": "Incorporar el desarrollo sostenible como elemento relevante en propósito, misión, visión o valores.",
       "D": "Evitar vincular los ODS con objetivos estratégicos."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 206,
@@ -2263,7 +2263,7 @@
       "C": "Metas globales sin relación con el negocio.",
       "D": "Los ODS prioritarios sobre los que la organización quiere actuar."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 207,
@@ -2274,7 +2274,7 @@
       "C": "Ignorar el desarrollo sostenible para no generar conflictos.",
       "D": "Tener un papel destacado al establecer objetivos y pautas conjuntas."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 208,
@@ -2285,7 +2285,7 @@
       "C": "Sus estrategias de marketing.",
       "D": "Sus objetivos, expectativas y condicionantes en sostenibilidad."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 209,
@@ -2296,7 +2296,7 @@
       "C": "Integrar ciclo de vida, economía circular y criterios sociales.",
       "D": "Minimizar la participación del cliente."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 210,
@@ -2307,7 +2307,7 @@
       "C": "Indicadores específicos que permitan metas y seguimiento.",
       "D": "Opiniones subjetivas del personal."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 211,
@@ -2318,7 +2318,7 @@
       "C": "Subcontratar exclusivamente servicios externos por empresas que coticen en mercados secundarios.",
       "D": "Elaborar informes sin acciones concretas."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 212,
@@ -2329,7 +2329,7 @@
       "C": "La capacitación de las personas en desarrollo sostenible.",
       "D": "Formación esporádica sin evaluación."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 213,
@@ -2340,7 +2340,7 @@
       "C": "Solo debe comunicarse a nuevos empleados.",
       "D": "No debe integrarse para evitar sesgos."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 214,
@@ -2351,7 +2351,7 @@
       "C": "Exclusivamente aspectos financieros externos e internos.",
       "D": "Exclusivamente riesgos económicos."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 215,
@@ -2362,7 +2362,7 @@
       "C": "Evitar controles para agilizar compras.",
       "D": "Dejar la sostenibilidad al proveedor."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 216,
@@ -2373,7 +2373,7 @@
       "C": "Indicadores específicos para metas y seguimiento.",
       "D": "Evitar comparaciones para no generar presión."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 217,
@@ -2384,7 +2384,7 @@
       "C": "Priorizar innovación únicamente tecnológica.",
       "D": "Elegir proyectos sin relación con el impacto social."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 218,
@@ -2395,7 +2395,7 @@
       "C": "Los que reduzcan la participación interna.",
       "D": "Los que eviten interacción con el entorno."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 219,
@@ -2406,7 +2406,7 @@
       "C": "Riesgo soportable.",
       "D": "Riesgo admisible."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 220,
@@ -2417,7 +2417,7 @@
       "C": "Un incidente puede ser un suceso que podría haber causado daño.",
       "D": "Un incidente siempre implica lesión o deterioro de la salud."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 221,
@@ -2428,7 +2428,7 @@
       "C": "Controlar solo documentos vigentes, sin gestionar obsoletos.",
       "D": "Evitar el uso de información externa."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 222,
@@ -2439,7 +2439,7 @@
       "C": "El auditor puede auditar su propio trabajo si está cualificado.",
       "D": "La auditoría debe ser objetiva e imparcial."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 223,
@@ -2450,7 +2450,7 @@
       "C": "Riesgo.",
       "D": "Exposición."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 224,
@@ -2461,7 +2461,7 @@
       "C": "Se consideran peligros externos que puedan afectar a la organización.",
       "D": "No es necesario considerar factores humanos."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 225,
@@ -2472,7 +2472,7 @@
       "C": "Se usa para evitar la aparición de una no conformidad potencial.",
       "D": "Es proporcional a los efectos de la no conformidad."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 226,
@@ -2483,7 +2483,7 @@
       "C": "Comunicar los resultados de la investigación.",
       "D": "Supervisar el cumplimiento legal mediante la investigación."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 227,
@@ -2494,7 +2494,7 @@
       "C": "Peligros externos que puedan afectar a trabajadores.",
       "D": "Todas las respuestas son correctas."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 228,
@@ -2505,7 +2505,7 @@
       "C": "Liderazgo; Recursos; Auditoría; Resultados.",
       "D": "Planificar; Ejecutar; Controlar; Mantener."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 229,
@@ -2516,7 +2516,7 @@
       "C": "a) y b) son correctas.",
       "D": "Todas las respuestas son incorrectas."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 230,
@@ -2527,7 +2527,7 @@
       "C": "El seguimiento, medición, análisis y evaluación de los resultados de SST.",
       "D": "La identificación inicial de peligros antes de la implantación del sistema."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 231,
@@ -2538,7 +2538,7 @@
       "C": "Cualquier tipo y tamaño de organización.",
       "D": "Solo empresas que cuenten con más de 50 empleados."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 232,
@@ -2549,7 +2549,7 @@
       "C": "Compromiso de satisfacción del cliente.",
       "D": "Certificación obligatoria por tercera parte."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 233,
@@ -2560,7 +2560,7 @@
       "C": "Lo defina y documente.",
       "D": "Lo mantenga solo verbalmente."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 234,
@@ -2571,7 +2571,7 @@
       "C": "Estar disponible para las partes interesadas.",
       "D": "Excluir referencias legales."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 235,
@@ -2582,7 +2582,7 @@
       "C": "Deben marcarse físicamente todos los documentos.",
       "D": "Deben estar disponibles en los puntos de uso las versiones pertinentes."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 236,
@@ -2593,7 +2593,7 @@
       "C": "Realizar pruebas cada 3 años.",
       "D": "Evitar pruebas para no interrumpir actividad."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 237,
@@ -2604,7 +2604,7 @@
       "C": "Sustituirla por auditorías internas.",
       "D": "Delegarla en contratistas."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 238,
@@ -2615,7 +2615,7 @@
       "C": "Realizar personalmente todas las investigaciones de incidentes.",
       "D": "Asistir de manera obligatoria a todas las auditorías externas."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 239,
@@ -2626,7 +2626,7 @@
       "C": "Evaluación del retorno de la inversión formativa.",
       "D": "Evaluación de la transferencia al puesto de trabajo."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 240,
@@ -2637,7 +2637,7 @@
       "C": "Taller.",
       "D": "Jornada."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 241,
@@ -2648,7 +2648,7 @@
       "C": "Nucleares, asociadas a itinerario y específicas.",
       "D": "Asociadas a itinerario, específicas y generales."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 242,
@@ -2659,7 +2659,7 @@
       "C": "Las aportaciones realizadas por los/las profesionales en su itinerario formativo deberán ser autorizadas por la comisión de revisión del itinerario formativo.",
       "D": "En entrevista con el mando se hará una revisión conjunta del itinerario, se determinará el lugar de cada profesional en el itinerario y servirá de base para planificar a futuro la formación del personal."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 243,
@@ -2670,7 +2670,7 @@
       "C": "Realizado.",
       "D": "A completar."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 244,
@@ -2681,7 +2681,7 @@
       "C": "Promover la investigación en el ámbito de la gestión del conocimiento del personal de Osakidetza.",
       "D": "Facilitar el desarrollo y la promoción profesional."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 245,
@@ -2692,7 +2692,7 @@
       "C": "Administración y Servicios Generales.",
       "D": "Modelo organizativo."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 246,
@@ -2703,7 +2703,7 @@
       "C": "Sistemas de clasificación / registro.",
       "D": "Las respuestas a) y c) son correctas."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 247,
@@ -2714,7 +2714,7 @@
       "C": "Las actividades formativas en el itinerario se agrupan atendiendo a la siguiente tipología: generales, asociadas a itinerario y específicas.",
       "D": "Una persona puede estar asignada a más de un itinerario en función de las responsabilidades que desempeñe en la organización."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 248,
@@ -2725,7 +2725,7 @@
       "C": "Está basado en modelos pedagógicos cognitivistas.",
       "D": "Está basado en el modelo pedagógico romántico, centrado en el desarrollo interior del aprendiz."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 249,
@@ -2736,7 +2736,7 @@
       "C": "Proponer criterios para la gestión de las acciones formativas aprobadas.",
       "D": "Todas las respuestas son falsas."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 250,
@@ -2747,7 +2747,7 @@
       "C": "La duración de la estancia/rotación estará en función de los contenidos de la actividad formativa y los objetivos a alcanzar, que deberá constar expresamente en el programa que la autorice.",
       "D": "El curso es una acción formativa estructurada, predominantemente práctica, centrada en el estudio de una materia determinada y dirigida a la adquisición de conocimientos y a la mejora de la competencia en dicha materia, con participación de uno o varios docentes en distintas sesiones estructuradas en el tiempo."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 251,
@@ -2758,7 +2758,7 @@
       "C": "Para la elaboración de los planes de formación no será necesario definir los itinerarios formativos que sirvan de referencia para el diagnóstico de necesidades de formación, la elaboración de los programas formativos y la evaluación del desarrollo de las competencias en términos de desempeño.",
       "D": "Las distintas actividades formativas que conforman el Plan de Formación, deberán estar dotadas presupuestariamente y cumplirán los criterios de calidad que expresamente se determinen con carácter específico para cada una de las organizaciones del Ente."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 252,
@@ -2769,7 +2769,7 @@
       "C": "Deben definirse para servir de referencia al diagnóstico de necesidades, a la elaboración de programas y a la evaluación del desarrollo de las competencias.",
       "D": "Únicamente se aplican a la formación de la organización central."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 253,
@@ -2780,7 +2780,7 @@
       "C": "No se especifica ningún marco temporal en la normativa.",
       "D": "Su duración la establece cada comisión de formación por organización considerando la duración de los contratos"
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 254,
@@ -2791,7 +2791,7 @@
       "C": "Actualizar y mejorar competencias para el desempeño; promover el reciclaje y la cualificación; y facilitar el desarrollo y la promoción profesional.",
       "D": "Implantar un sistema de incentivos económicos ligado al número de horas de formación teniendo en cuenta, en todo momento, la duración temporal y/o permanente de los contratos."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 255,
@@ -2802,7 +2802,7 @@
       "C": "Evaluación de la logística; evaluación de costes; ROI (rentabilidad económica).",
       "D": "Aprovechamiento; evaluación del presupuesto; certificación ISO."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 256,
@@ -2813,7 +2813,7 @@
       "C": "Administración y Servicios Generales → Bioética.",
       "D": "Clínico asistencial → Comunicación y trato con el paciente."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 257,
@@ -2824,7 +2824,7 @@
       "C": "Reunión monográfica y de corta duración; se actualizan conocimientos con ponencias y mesas; a diferencia del congreso, no hay actividades simultáneas.",
       "D": "Actividad predominantemente práctica con interacción constante con la docencia."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 258,
@@ -2835,7 +2835,7 @@
       "C": "Ordenan acciones por orden alfabético para facilitar la inscripción masiva, y se clasifican por tipo de contratos (temporales y/o permanentes).",
       "D": "Solo aplican a categorías asistenciales, no a personal no sanitario."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 259,
@@ -2846,7 +2846,7 @@
       "C": "Basado en resultados.",
       "D": "Basado en análisis de causas."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 260,
@@ -2857,7 +2857,7 @@
       "C": "La competencia realmente predice quién hace algo bien y quién pobremente, medido sobre un criterio general o estándar.",
       "D": "La competencia es un comportamiento superior en relación con un estándar de éxito en un puesto o situación determinados."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 261,
@@ -2868,7 +2868,7 @@
       "C": "Evaluación 180º",
       "D": "Evaluación tradicional."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 262,
@@ -2879,7 +2879,7 @@
       "C": "Intelectuales.",
       "D": "Interpersonales."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 263,
@@ -2890,7 +2890,7 @@
       "C": "Habilidad.",
       "D": "Motivación."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 264,
@@ -2901,7 +2901,7 @@
       "C": "Basado en resultados.",
       "D": "Basado en análisis de causas."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 265,
@@ -2912,7 +2912,7 @@
       "C": "Destrezas y Rasgos de personalidad.",
       "D": "Conocimientos y Concepto de uno mismo."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 266,
@@ -2923,7 +2923,7 @@
       "C": "Adaptabilidad.",
       "D": "Orientación a resultados."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 267,
@@ -2934,7 +2934,7 @@
       "C": "Cargo en la organización.",
       "D": "Perfil de puesto."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 268,
@@ -2945,7 +2945,7 @@
       "C": "“Controversias internas, criterios subjetivos o poco realistas, falta de acuerdo entre el evaluado y el evaluador, falta de consecuencias, mala retroalimentación, comunicaciones negativas.”",
       "D": "“Carencia de normas, criterios subjetivos o poco realistas, falta de acuerdo entre el evaluado y el evaluador, falta de consecuencias, mala retroalimentación, comunicaciones negativas.”"
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 269,
@@ -2956,7 +2956,7 @@
       "C": "Características, habilidades o resultados.",
       "D": "Características, conductas o resultados."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 270,
@@ -2967,7 +2967,7 @@
       "C": "Métodos de características.",
       "D": "Métodos de habilidades."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 271,
@@ -2978,7 +2978,7 @@
       "C": "“La definición, el instructivo y entrenamiento a evaluadores y evaluados.”",
       "D": "“La definición, el evaluador y entrenamiento.”"
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 272,
@@ -2989,7 +2989,7 @@
       "C": "Es la medición del potencial futuro independientemente del rol actual.",
       "D": "Es un inventario de cursos y certificaciones completados por la persona."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 273,
@@ -3000,7 +3000,7 @@
       "C": "Conocimientos técnicos y potencial de liderazgo, sin considerar la duración del contrato.",
       "D": "Retribución fija y variable."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 274,
@@ -3011,7 +3011,7 @@
       "C": "50%.",
       "D": "25%."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 275,
@@ -3022,7 +3022,7 @@
       "C": "62,5%.",
       "D": "50%."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 276,
@@ -3033,7 +3033,7 @@
       "C": "Eleva un grado siempre que exista una sola evidencia superior.",
       "D": "Permite asignar un valor intermedio cuando aparecen, de forma esporádica, conductas de un grado superior."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 277,
@@ -3044,7 +3044,7 @@
       "C": "Escala de observación del comportamiento.",
       "D": "Distribución forzada."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 278,
@@ -3055,7 +3055,7 @@
       "C": "Error de muestreo estadístico con sesgo ascendente del 45%.",
       "D": "Falacia de composición."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 279,
@@ -3066,7 +3066,7 @@
       "C": "Cuándo el valor es elevado y la expectativa de éxito es baja, el elevado deseo o necesidad maximiza el valor y minimiza la expectativa de éxito, incrementando la probabilidad de ocurrencia de la conducta motivada.",
       "D": "Cuando el valor es bajo y la expectativa de éxito elevada, el elevado deseo o necesidad maximiza el valor y minimiza la expectativa de éxito, reduciendo la probabilidad de que aparezca la conducta motivada."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 280,
@@ -3077,7 +3077,7 @@
       "C": "Afecto.",
       "D": "Humor."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 281,
@@ -3088,7 +3088,7 @@
       "C": "Está implicada en el procesamiento emocional controlado, esto es, en la regulación consciente de la respuesta emocional.",
       "D": "Juega un papel decisivo en la representación, alteración y evaluación del castigo y la recompensa, así como en las asociaciones en el aprendizaje entre los estímulos previamente neutros y los reforzadores primarios."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 282,
@@ -3099,7 +3099,7 @@
       "C": "Curiosidad.",
       "D": "Alegría."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 283,
@@ -3110,7 +3110,7 @@
       "C": "Admiración.",
       "D": "Tristeza."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 284,
@@ -3121,7 +3121,7 @@
       "C": "La existencia de percepción consciente suprime la posibilidad de que un individuo note la existencia del estímulo y se sienta motivado para llevar a cabo una acción apropiada.",
       "D": "En la percepción consciente, ejercen su influencia las variables biológicas, las variables cognitivas y las variables afectivas."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 285,
@@ -3132,7 +3132,7 @@
       "C": "Estado de ánimo.",
       "D": "Humor."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 286,
@@ -3143,7 +3143,7 @@
       "C": "Mecanismo que permite detener un proceso actualmente en marcha.",
       "D": "Manifestación conductual dirigida a la obtención de algún objetivo o meta."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 287,
@@ -3154,7 +3154,7 @@
       "C": "Admiración.",
       "D": "Sorpresa."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 288,
@@ -3165,7 +3165,7 @@
       "C": "Sorpresa.",
       "D": "Culpa."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 289,
@@ -3176,7 +3176,7 @@
       "C": "“La simpatía y la empatía se diferencian en la percepción de ti que tiene la otra persona. En la simpatía siempre eres una parte positiva para la otra persona y en la empatía no siempre es así”.",
       "D": "“Simpatía y empatía son los mismo”."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 290,
@@ -3187,7 +3187,7 @@
       "C": "Rabia, tristeza, culpa, asco, miedo, sorpresa, seguridad, envidia, alegría y curiosidad.",
       "D": "Rabia, tristeza, culpa, asco, miedo, sorpresa, seguridad, admiración, alegría y curiosidad."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 291,
@@ -3198,7 +3198,7 @@
       "C": "Rabia y miedo.",
       "D": "Culpa y vergüenza."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 292,
@@ -3209,7 +3209,7 @@
       "C": "Comprensión emocional.",
       "D": "Regulación emocional."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 293,
@@ -3220,7 +3220,7 @@
       "C": "Activación.",
       "D": "Valoración del incentivo."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 294,
@@ -3231,7 +3231,7 @@
       "C": "Rabia.",
       "D": "Culpa."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 295,
@@ -3242,7 +3242,7 @@
       "C": "Amígdala → hipocampo.",
       "D": "Corteza prefrontal → amígdala."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 296,
@@ -3253,7 +3253,7 @@
       "C": "Sorpresa.",
       "D": "Seguridad."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 297,
@@ -3264,7 +3264,7 @@
       "C": "Pulsión automática.",
       "D": "Motivo secundario."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 298,
@@ -3275,7 +3275,7 @@
       "C": "Facilitar la retirada y el aislamiento.",
       "D": "Provocar evitación interpersonal."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 299,
@@ -3286,7 +3286,7 @@
       "C": "Las afirmaciones son válidas o inválidas según el poder de la persona que las hace.",
       "D": "Las declaraciones tienen que ver con la descripción de hechos."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 300,
@@ -3297,7 +3297,7 @@
       "C": "Los juicios son declaraciones, pero no toda declaración es necesariamente un juicio.",
       "D": "Los juicios son afirmaciones al estar caracterizados por rasgos que permanecen en el tiempo."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 301,
@@ -3308,7 +3308,7 @@
       "C": "Una declaración de gratitud.",
       "D": "Una declaración de perdón."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 302,
@@ -3319,7 +3319,7 @@
       "C": "Afirmación",
       "D": "Juicio."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 303,
@@ -3330,7 +3330,7 @@
       "C": "Las declaraciones no están relacionadas con nuestras capacidades compartidas de observación. Están relacionadas con el poder.",
       "D": "Las declaraciones son verdaderas o falsas."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 304,
@@ -3341,7 +3341,7 @@
       "C": "El dominio de observación dentro del cual se emite el juicio.",
       "D": "Las afirmaciones que proporcionamos respecto de los estándares sostenidos."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 305,
@@ -3352,7 +3352,7 @@
       "C": "La declaración de ignorancia.",
       "D": "La declaración del perdón."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 306,
@@ -3363,7 +3363,7 @@
       "C": "Juicio.",
       "D": "Declaración."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 307,
@@ -3374,7 +3374,7 @@
       "C": "que escuchar no se constituye en nuestras interacciones sociales con otros.",
       "D": "que escuchar no pertenece al dominio del lenguaje."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 308,
@@ -3385,7 +3385,7 @@
       "C": "1.La tarea individual, 2. La visión del trabajo en la empresa, 3. El equilibrio del trabajo entre las diferentes personas.",
       "D": "1.El trabajo individual, 2. El trabajo colectivo, 3. La coordinación de las cargas de trabajo."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 309,
@@ -3396,7 +3396,7 @@
       "C": "Mando y control, trabajo no manual, liderazgo.",
       "D": "Competencias conversacionales, trabajo en equipo, liderazgo distribuido."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 310,
@@ -3407,7 +3407,7 @@
       "C": "El jefe está para ayudar al trabajador a conseguir sus objetivos individuales y por ende para el cumplimiento de los objetivos de la empresa.",
       "D": "El jefe debe ser un líder que motive al trabajador para que aporte el máximo de sus capacidades y contribuya a su desarrollo personal."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 311,
@@ -3418,7 +3418,7 @@
       "C": "Aceptación, declaración y promesa.",
       "D": "Aceptación, debate y promesa."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 312,
@@ -3429,7 +3429,7 @@
       "C": "Resentimiento, resignación, aceptación y ambición.",
       "D": "Resentimiento, resignación, desaprobación y ambición."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 313,
@@ -3440,7 +3440,7 @@
       "C": "Del resentimiento a la desaprobación.",
       "D": "Todas las respuestas son verdaderas."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 314,
@@ -3451,7 +3451,7 @@
       "C": "Hablar, escuchar y debatir.",
       "D": "Analizar, escuchar, hablar y debatir."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 315,
@@ -3462,7 +3462,7 @@
       "C": "Juicio.",
       "D": "Promesa."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 316,
@@ -3473,7 +3473,7 @@
       "C": "Juicio.",
       "D": "Afirmación."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 317,
@@ -3484,7 +3484,7 @@
       "C": "Evidencias (afirmaciones) que respalden.",
       "D": "La mayor elocuencia retórica del emisor."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 318,
@@ -3495,7 +3495,7 @@
       "C": "Especialista.",
       "D": "Monitor evaluador."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 319,
@@ -3506,7 +3506,7 @@
       "C": "Investigador de recursos.",
       "D": "Finalizador."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 320,
@@ -3517,7 +3517,7 @@
       "C": "Impulsor.",
       "D": "Evaluador."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 321,
@@ -3528,7 +3528,7 @@
       "C": "Coordinador.",
       "D": "Cohesionador."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 322,
@@ -3539,7 +3539,7 @@
       "C": "Cohesionador.",
       "D": "Impulsor."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 323,
@@ -3550,7 +3550,7 @@
       "C": "Impulsor.",
       "D": "Finalizador."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 324,
@@ -3561,7 +3561,7 @@
       "C": "Coordinador.",
       "D": "Cohesionador."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 325,
@@ -3572,7 +3572,7 @@
       "C": "Los Roles de Equipo varían con la cultura.",
       "D": "La estructura de autoridad a veces impide que los Roles de Equipo afloren."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 326,
@@ -3583,7 +3583,7 @@
       "C": "“Pensador, investigador de recursos, coordinador, dinamizador, monitor evaluador, cohesionador, implementador, finalizador y especialista”.",
       "D": "“Cerebro, investigador de recursos, coordinador, impulsor, monitor evaluador, cohesionador, implementador, finalizador y especialista”."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 327,
@@ -3594,7 +3594,7 @@
       "C": "“Monitor evaluador”.",
       "D": "“Implementador”."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 328,
@@ -3605,7 +3605,7 @@
       "C": "“Coordinador”.",
       "D": "“Cohesionador”"
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 329,
@@ -3616,7 +3616,7 @@
       "C": "“Coordinador”.",
       "D": "“Cohesionador”"
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 330,
@@ -3627,7 +3627,7 @@
       "C": "Porque la composición de Roles de Equipo puede estar desequilibrada, y eso afecta más al rendimiento que la suma de capacidades individuales.",
       "D": "Porque los equipos tienden a ser demasiado grandes y pierden foco."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 331,
@@ -3638,7 +3638,7 @@
       "C": "Monitor evaluador.",
       "D": "Implementador."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 332,
@@ -3649,7 +3649,7 @@
       "C": "Su propensión a retrasar decisiones hasta tener todos los datos cuantitativos y cualitativos sin importar el tiempo invertido.",
       "D": "Su disciplina rígida y mínima tolerancia al error."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 333,
@@ -3660,7 +3660,7 @@
       "C": "Todos los miembros generan muchas ideas simultáneamente (cuantas más, mejor).",
       "D": "Se selecciona al presidente más creativo posible."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 334,
@@ -3671,7 +3671,7 @@
       "C": "Saber escuchar y decidir con firmeza cuando es necesario, sin necesidad de ser el más brillante en capacidad intelectual.",
       "D": "Evitar delegar para no perder el control."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 335,
@@ -3682,7 +3682,7 @@
       "C": "Ausencia total de Cerebros y Monitores Evaluadores.",
       "D": "Equipos demasiado pequeños para repartir funciones."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 336,
@@ -3693,7 +3693,7 @@
       "C": "El tamaño no importa si el presidente es eficaz.",
       "D": "Lo óptimo es un equipo par para facilitar empates y reconsideraciones. Sin discusiones se avanza más rápidamente."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 337,
@@ -3704,7 +3704,7 @@
       "C": "Rotar aleatoriamente los roles para evitar sesgos.",
       "D": "Priorizar el ajuste de Roles de Equipo a las demandas clave del puesto y del equipo, incluso si el candidato “ideal” en títulos no es el más idóneo en rol."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 338,
@@ -3715,7 +3715,7 @@
       "C": "No mejora el rendimiento del equipo y puede dificultar la selección y uso de ideas.",
       "D": "Se vuelve innecesario el rol de Monitor Evaluador."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 339,
@@ -3726,7 +3726,7 @@
       "C": "Cohesionador + Especialista.",
       "D": "Impulsor + Monitor Evaluador."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 340,
@@ -3737,7 +3737,7 @@
       "C": "Evitar delegar para mantener el control.",
       "D": "Escuchar con tolerancia, coordinar y decidir con firmeza cuando es necesario, con CTA media (≈75–80)"
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 341,
@@ -3748,7 +3748,7 @@
       "C": "La presencia de dos Cerebros reduce la motivación del Monitor Evaluador.",
       "D": "Dos Cerebros anulan al Investigador de Recursos en tareas externas."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 342,
@@ -3759,7 +3759,7 @@
       "C": "Priorizar el ajuste de Roles de Equipo a las demandas clave del puesto y del equipo, incluso frente a currículos “perfectos”.",
       "D": "Rotar aleatoriamente los roles para evitar sesgos."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 343,
@@ -3770,7 +3770,7 @@
       "C": "Al promotor.",
       "D": "Al facilitador."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 344,
@@ -3781,7 +3781,7 @@
       "C": "Que el facilitador tendrá que hacer grandes esfuerzos para promover la participación de las personas asistentes.",
       "D": "Que la participación puede llegar a ser un caos asambleario por el acumulo de energía y emociones que pueden surgir."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 345,
@@ -3792,7 +3792,7 @@
       "C": "Al promotor.",
       "D": "Al experto."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 346,
@@ -3803,7 +3803,7 @@
       "C": "Las condiciones de contorno hacen referencia a todo aquello que no ha de cambiar.",
       "D": "Las condiciones de contorno tienen que ver con los criterios que las soluciones propuestas han de cumplir."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 347,
@@ -3814,7 +3814,7 @@
       "C": "Preparativos.",
       "D": "Cierre."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 348,
@@ -3825,7 +3825,7 @@
       "C": "Promotor.",
       "D": "César."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 349,
@@ -3836,7 +3836,7 @@
       "C": "El retroceso de la participación y la colaboración negativa.",
       "D": "La participación negativa."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 350,
@@ -3847,7 +3847,7 @@
       "C": "Voluntad de invitar a personas con perspectivas similares.",
       "D": "Entorno adecuado y seguro."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 351,
@@ -3858,7 +3858,7 @@
       "C": "El Experto.",
       "D": "El Facilitador."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 352,
@@ -3869,7 +3869,7 @@
       "C": "Personas que bloquean el proceso de participación cuando se está a punto de alcanzar los objetivos para tener más protagonismo.",
       "D": "Personas que participan para conseguir únicamente el reconocimiento por parte del Propietario."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 353,
@@ -3880,7 +3880,7 @@
       "C": "Orientado a la acción, a gusto con el cambio, es antropocéntrico.",
       "D": "Orientado a los resultados, a gusto con el riesgo, es antropocéntrico."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 354,
@@ -3891,7 +3891,7 @@
       "C": "El Propietario.",
       "D": "El experto invitado."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 355,
@@ -3902,7 +3902,7 @@
       "C": "Un “infierno participativo”.",
       "D": "Un exceso de creatividad improductiva."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 356,
@@ -3913,7 +3913,7 @@
       "C": "La historia organizativa reciente.",
       "D": "Las motivaciones personales del Facilitador."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 357,
@@ -3924,7 +3924,7 @@
       "C": "Garantizar la posibilidad de nuevas interacciones.",
       "D": "Definir propuestas concretas de acción antes de la reunión."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 358,
@@ -3935,7 +3935,7 @@
       "C": "Esperar y confiar en el proceso y en los Participantes.",
       "D": "Reducir el margen de maniobra para evitar desviaciones."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 359,
@@ -3946,7 +3946,7 @@
       "C": "El desconocimiento de la metodología empleada.",
       "D": "La ansiedad por la evaluación del desempeño."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 360,
@@ -3957,7 +3957,7 @@
       "C": "Es un enfoque que integra exploración empática, conceptualización y prototipado iterativo.",
       "D": "Rechaza el uso de prototipos en etapas tempranas del proceso."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 361,
@@ -3968,7 +3968,7 @@
       "C": "La gestión directa de todas las organizaciones de servicios sanitarios.",
       "D": "La aprobación de las plantillas estructurales sin intervención de otros órganos."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 362,
@@ -3979,7 +3979,7 @@
       "C": "El Director General del Ente Público actuará como superior jerárquico de los cargos directivos de las organizaciones de servicios sanitarios del Ente Público y, cuando corresponda directamente a la organización central del Ente Público el conocimiento de los asuntos, se constituirá en superior jerárquico el Consejo de Administración del mismo.",
       "D": "El Director Gerente de cada organización de servicios sanitarios actuará como superior jerárquico de los cargos directivos de las organizaciones de servicios sanitarios del Ente Público y, cuando corresponda directamente a la organización central del Ente Público el conocimiento de los asuntos, se constituirá en superior jerárquico el Director General del Ente público."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 363,
@@ -3990,7 +3990,7 @@
       "C": "Al Consejo de Administración del Ente Público Osakidetza-Servicio Vasco de Salud.",
       "D": "A los Directores Gerentes de cada organización de servicios sanitarios."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 364,
@@ -4001,7 +4001,7 @@
       "C": "Siete miembros.",
       "D": "Diez miembros."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 365,
@@ -4012,7 +4012,7 @@
       "C": "Es una sociedad pública adscrita al Departamento de Salud, cuyo objeto exclusivo es\n 79\n la gestión hospitalaria.",
       "D": "Es un ente instrumental de carácter privado cuyo objeto principal es la contratación de servicios sanitarios con terceros."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 366,
@@ -4023,7 +4023,7 @@
       "C": "La promoción de la docencia en ciencias de la salud y de las actividades de investigación, estudio y divulgación relacionadas con las mismas.",
       "D": "La autorización de centros, servicios y establecimientos sanitarios privados."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 367,
@@ -4034,7 +4034,7 @@
       "C": "Carece de competencias respecto de las organizaciones de servicios sanitarios, que actúan con plena independencia.",
       "D": "Se configura exclusivamente como órgano consultivo del Presidente del Ente Público."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 368,
@@ -4045,7 +4045,7 @@
       "C": "Un equipo directivo formado por tres Directores de División.",
       "D": "Un número indeterminado de Directores de División fijado libremente por el Consejo de Administración."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 369,
@@ -4056,7 +4056,7 @@
       "C": "Un máximo de seis cargos directivos.",
       "D": "Un número indeterminado de cargos directivos fijado libremente por cada organización."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 370,
@@ -4067,7 +4067,7 @@
       "C": "Serán órganos de contratación el Director General o el Director-Gerente, o el cargo\n 80\n directivo del equipo correspondiente en quien deleguen, en función de cada una de las organizaciones reconocidas en el Ente Público.",
       "D": "La contratación de bienes y servicios corresponde exclusivamente a las Mesas de Contratación."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 371,
@@ -4078,7 +4078,7 @@
       "C": "La resolución corresponde al Consejo de Administración del Ente Público.",
       "D": "La resolución corresponde al Consejero competente en materia de sanidad."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 372,
@@ -4089,7 +4089,7 @@
       "C": "Las autorizaciones de gasto del Departamento de cuantía superior a 350.000 euros, sin perjuicio de las competencias del Consejo de Gobierno.",
       "D": "Las autorizaciones de gasto del Departamento de cuantía superior a 400.000 euros, sin perjuicio de las competencias del Consejo de Gobierno."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 373,
@@ -4100,7 +4100,7 @@
       "C": "Se limitan a la gestión de Osakidetza.",
       "D": "Comprenden únicamente la coordinación sociosanitaria."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 374,
@@ -4111,7 +4111,7 @@
       "C": "Órganos centrales y órganos periféricos.",
       "D": "Órganos centrales, órganos periféricos y entidades privadas."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 375,
@@ -4122,7 +4122,7 @@
       "C": "Aprobar el presupuesto del Departamento.",
       "D": "Ejercer la potestad sancionadora."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 376,
@@ -4133,7 +4133,7 @@
       "C": "Está integrado por el Consejero o Consejera, las Viceconsejerías y, entre otros, la Dirección General de Osakidetza.",
       "D": "Está integrado únicamente por órganos periféricos."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 377,
@@ -4144,7 +4144,7 @@
       "C": "Ejerce la dirección, coordinación y control de los entes públicos y organismos adscritos al Departamento.",
       "D": "Carece de competencias en materia de responsabilidad patrimonial."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 378,
@@ -4155,7 +4155,7 @@
       "C": "Autorizar únicamente los gastos de personal del Departamento.",
       "D": "Autorizar exclusivamente los gastos correspondientes a contratación sanitaria de ámbito autonómico."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 379,
@@ -4166,7 +4166,7 @@
       "C": "Se limitan a funciones consultivas.",
       "D": "No pueden suscribir acuerdos con entidades externas."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 380,
@@ -4177,7 +4177,7 @@
       "C": "Solo ejercen funciones administrativas internas.",
       "D": "No tienen capacidad para resolver recursos."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 381,
@@ -4188,7 +4188,7 @@
       "C": "Dependen jerárquicamente del Consejero o Consejera y funcionalmente de Osakidetza- Servicio vasco de salud.",
       "D": "Carecen de competencias en materia de contratación sanitaria."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 382,
@@ -4199,7 +4199,7 @@
       "C": "La actuación no es conforme a Derecho, porque la autorización de gastos del Departamento de cuantía superior a 500.000 euros corresponde al Consejero o Consejera de Salud, sin perjuicio de las competencias del Consejo de Gobierno.",
       "D": "La actuación solo sería contraria a Derecho si el gasto no guardara relación con las funciones propias de la Viceconsejería."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 383,
@@ -4210,7 +4210,7 @@
       "C": "El acceso a cada puesto funcional lleva aparejada la percepción de las retribuciones asignadas al mismo.",
       "D": "Los puestos funcionales vendrán identificados, entre otros aspectos, por los efectos retributivos asignados."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 384,
@@ -4221,7 +4221,7 @@
       "C": "El Puesto funcional.",
       "D": "El Grupo de titulación."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 385,
@@ -4232,7 +4232,7 @@
       "C": "Responsabilidad de gestión de recursos materiales.",
       "D": "Nivel de euskera asignado al puesto."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 386,
@@ -4243,7 +4243,7 @@
       "C": "El Consejo de Administración de Osakidetza.",
       "D": "El Consejo de Gobierno."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 387,
@@ -4254,7 +4254,7 @@
       "C": "Requiere la aprobación del Consejo de Administración de Osakidetza.",
       "D": "Se aplica automáticamente tras la negociación colectiva."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 388,
@@ -4265,7 +4265,7 @@
       "C": "La Ley de la Función Pública Vasca.",
       "D": "La Ley 8/1997 de Ordenación Sanitaria."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 389,
@@ -4276,7 +4276,7 @@
       "C": "La pérdida definitiva de la diferencia retributiva.",
       "D": "La obligación de concursar en la siguiente convocatoria."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 390,
@@ -4287,7 +4287,7 @@
       "C": "El Consejo de Administración de Osakidetza.",
       "D": "La Dirección de Recursos Humanos."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 391,
@@ -4298,7 +4298,7 @@
       "C": "Conjunto de personas trabajadoras con el mismo destino geográfico.",
       "D": "Agrupamiento unitario de aptitudes profesionales y contenido específico de las tareas propias de la prestación."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 392,
@@ -4309,7 +4309,7 @@
       "C": "Comprenden cualquier actividad relacionada con la salud, con independencia de su regulación.",
       "D": "Se definen por la experiencia profesional, aunque no exista titulación oficial."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 393,
@@ -4320,7 +4320,7 @@
       "C": "Acreditar diez años de ejercicio profesional.",
       "D": "Superar exclusivamente una prueba teórica."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 394,
@@ -4331,7 +4331,7 @@
       "C": "Tanto si desarrolla el ejercicio profesional en un sistema público como en el ámbito privado por cuenta ajena pero solo en el caso de que dicha renuncia no conlleve desatención.",
       "D": "La Ley no contempla el derecho a renunciar a prestar atención sanitaria al paciente."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 395,
@@ -4342,7 +4342,7 @@
       "C": "La ley regula, entre otros extremos, el ejercicio profesional, la estructura general de la formación, el desarrollo profesional y la participación de los profesionales sanitarios en la planificación y ordenación de las profesiones sanitarias.",
       "D": "La ley regula únicamente la formación especializada y el desarrollo profesional de los profesionales sanitarios."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 396,
@@ -4353,7 +4353,7 @@
       "C": "El carácter de profesión sanitaria, titulada y regulada, de una actividad no prevista expresamente en la ley puede declararse formalmente mediante norma con rango de ley.",
       "D": "Toda actividad vinculada a la salud tiene automáticamente la consideración de profesión sanitaria titulada y regulada."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 397,
@@ -4364,7 +4364,7 @@
       "C": "Basta con la colegiación profesional para ejercer una profesión sanitaria.",
       "D": "El ejercicio de una profesión sanitaria requiere únicamente acreditar experiencia profesional suficiente."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 398,
@@ -4375,7 +4375,7 @@
       "C": "La facultad del profesional de limitar la información clínica por razones organizativas del centro.",
       "D": "La posibilidad de renunciar a toda atención sanitaria cuando el paciente rechace una recomendación médica."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 399,
@@ -4386,7 +4386,7 @@
       "C": "La exclusión de los centros sanitarios como centros de investigación científica.",
       "D": "El carácter voluntario de la formación continuada para las instituciones y centros sanitarios."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 400,
@@ -4397,7 +4397,7 @@
       "C": "Es compatible con cualquier otra actividad profesional, siempre que sea sanitaria.",
       "D": "No exige participación progresiva del especialista en formación en la actividad y responsabilidades propias de la especialidad."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 401,
@@ -4408,7 +4408,7 @@
       "C": "Son aprobados directamente por las comunidades autónomas en el ámbito de sus competencias sanitarias.",
       "D": "Una vez aprobados, no pueden ser revisados ni actualizados."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 402,
@@ -4419,7 +4419,7 @@
       "C": "La actuación del médico no es conforme a Derecho, porque el derecho de renuncia está condicionado a que no se produzca desatención del paciente.",
       "D": "La actuación del médico solo sería contraria a Derecho si se acreditara daño efectivo al paciente."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 403,
@@ -4430,7 +4430,7 @@
       "C": "Quedará demorada cuando se trate de actos de trámite y esté supeditada a su publicación por decisión discrecional del órgano superior.",
       "D": "Quedará demorada cuando se trate de actos de trámite y así lo disponga discrecionalmente el órgano autor del acto."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 404,
@@ -4441,7 +4441,7 @@
       "C": "En el acuerdo de iniciación del procedimiento, que deberá efectuarse dentro de los quince días siguientes a su adopción, el cual podrá ser objeto del recurso que proceda.",
       "D": "En el acuerdo de iniciación del procedimiento, que deberá efectuarse dentro de quince días siguientes a su adopción, el cual no podrá ser objeto de recurso."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 405,
@@ -4452,7 +4452,7 @@
       "C": "No suspenderán la tramitación del mismo, salvo las referidas a nulidad de actuaciones.",
       "D": "No suspenderán la tramitación del mismo, salvo en el caso de la recusación."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 406,
@@ -4463,7 +4463,7 @@
       "C": "Los menores de edad.",
       "D": "Los menores de edad para el ejercicio y defensa de aquellos de sus derechos e intereses cuya actuación esté permitida por el ordenamiento jurídico sin la asistencia de la persona que ejerza la patria potestad, tutela o curatela. Se exceptúa el supuesto de los menores incapacitados, cuando la extensión de la incapacitación afecte al ejercicio y defensa de los derechos o intereses de que se trate."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 407,
@@ -4474,7 +4474,7 @@
       "C": "Se podrán proseguir las actuaciones, sin perjuicio de la responsabilidad del órgano que no emitió el informe.",
       "D": "El informe emitido fuera de plazo será nulo de pleno derecho."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 408,
@@ -4485,7 +4485,7 @@
       "C": "La falta de resolución expresa extingue el procedimiento sin producir efectos jurídicos.",
       "D": "La falta de resolución expresa impide la interposición de recursos administrativos."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 409,
@@ -4496,7 +4496,7 @@
       "C": "Solo está obligada a resolver en los procedimientos iniciados a solicitud del interesado.",
       "D": "Podrá sustituir la resolución expresa por una comunicación informal al interesado."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 410,
@@ -4507,7 +4507,7 @@
       "C": "La denuncia obliga en todo caso al órgano competente a iniciar el procedimiento.",
       "D": "La iniciación de oficio podrá producirse como consecuencia de orden superior, petición razonada de otros órganos o denuncia."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 411,
@@ -4518,7 +4518,7 @@
       "C": "El expediente administrativo se forma mediante la agregación sucesiva de cuantos documentos, pruebas y actuaciones sirvan de antecedente y fundamento a la resolución.",
       "D": "El expediente administrativo puede omitirse cuando la resolución sea favorable al interesado."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 412,
@@ -4529,7 +4529,7 @@
       "C": "La realización de actuaciones fuera de plazo solo implicará la anulabilidad cuando así lo exija la naturaleza del término o plazo.",
       "D": "Los actos administrativos dictados fuera de plazo serán siempre nulos de pleno derecho."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 413,
@@ -4540,7 +4540,7 @@
       "C": "Permite a la Administración declarar directamente la nulidad de actos anulables favorables sin acudir a la vía judicial.",
       "D": "Sustituye al recurso de alzada en los actos favorables."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 414,
@@ -4551,7 +4551,7 @@
       "C": "La Administración está obligada a dictar resolución expresa en todo caso, sin perjuicio de los efectos producidos por el silencio administrativo.",
       "D": "La resolución solo será válida si el interesado consiente expresamente su emisión fuera de plazo."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 415,
@@ -4562,7 +4562,7 @@
       "C": "Comprenden cualquier actividad relacionada con la salud, con independencia de su regulación.",
       "D": "Se definen por la experiencia profesional, aunque no exista titulación oficial"
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 416,
@@ -4573,7 +4573,7 @@
       "C": "Acreditar diez años de ejercicio profesional.",
       "D": "Superar exclusivamente una prueba teórica."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 417,
@@ -4584,7 +4584,7 @@
       "C": "Tanto si desarrolla el ejercicio profesional en un sistema público como en el ámbito privado por cuenta ajena pero solo en el caso de que dicha renuncia no conlleve desatención.",
       "D": "La Ley no contempla el derecho a renunciar a prestar atención sanitaria al paciente."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 418,
@@ -4595,7 +4595,7 @@
       "C": "La ley regula, entre otros extremos, el ejercicio profesional, la estructura general de la formación, el desarrollo profesional y la participación de los profesionales sanitarios en la planificación y ordenación de las profesiones sanitarias.",
       "D": "La ley regula únicamente la formación especializada y el desarrollo profesional de los profesionales sanitarios."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 419,
@@ -4606,7 +4606,7 @@
       "C": "El carácter de profesión sanitaria, titulada y regulada, de una actividad no prevista expresamente en la ley puede declararse formalmente mediante norma con rango de ley.",
       "D": "Toda actividad vinculada a la salud tiene automáticamente la consideración de profesión sanitaria titulada y regulada."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 420,
@@ -4617,7 +4617,7 @@
       "C": "Basta con la colegiación profesional para ejercer una profesión sanitaria.",
       "D": "El ejercicio de una profesión sanitaria requiere únicamente acreditar experiencia profesional suficiente."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 421,
@@ -4628,7 +4628,7 @@
       "C": "La facultad del profesional de limitar la información clínica por razones organizativas del centro.",
       "D": "La posibilidad de renunciar a toda atención sanitaria cuando el paciente rechace una recomendación médica."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 422,
@@ -4639,7 +4639,7 @@
       "C": "La exclusión de los centros sanitarios como centros de investigación científica.",
       "D": "El carácter voluntario de la formación continuada para las instituciones y centros sanitarios."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 423,
@@ -4650,7 +4650,7 @@
       "C": "Es compatible con cualquier otra actividad profesional, siempre que sea sanitaria.",
       "D": "No exige participación progresiva del especialista en formación en la actividad y responsabilidades propias de la especialidad."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 424,
@@ -4661,7 +4661,7 @@
       "C": "La actuación del médico no es conforme a Derecho, porque el derecho de renuncia está condicionado a que no se produzca desatención del paciente.",
       "D": "La actuación del médico solo sería contraria a Derecho si se acreditara daño efectivo al paciente."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 425,
@@ -4672,7 +4672,7 @@
       "C": "Los menores incapacitados no pueden actuar por sí mismos cuando la extensión de la incapacitación afecte al ejercicio y defensa de los derechos o intereses de que se trate.",
       "D": "La capacidad de obrar ante las Administraciones Públicas se determina exclusivamente conforme a las normas civiles."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 426,
@@ -4683,7 +4683,7 @@
       "C": "Aquellos cuyos derechos puedan resultar afectados por la resolución y se personen en el procedimiento en tanto no haya recaído resolución definitiva.",
       "D": "Aquellos cuyos intereses legítimos, individuales o colectivos, puedan resultar afectados por la resolución y se personen en el procedimiento en tanto no haya recaído resolución definitiva."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 427,
@@ -4694,7 +4694,7 @@
       "C": "El derecho-habiente solo sucederá en la condición de interesado si el procedimiento no ha alcanzado el trámite de audiencia.",
       "D": "La sucesión en la condición de interesado requiere autorización expresa del órgano instructor."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 428,
@@ -4705,7 +4705,7 @@
       "C": "Entre estos derechos no figura el de utilizar las lenguas oficiales en el territorio de la Comunidad Autónoma.",
       "D": "Estos derechos se entienden sin perjuicio de los reconocidos en el artículo 53 referidos a los interesados en el procedimiento administrativo."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 429,
@@ -4716,7 +4716,7 @@
       "C": "El interesado solo puede formular alegaciones tras el trámite de audiencia.",
       "D": "El derecho a no presentar documentos originales es absoluto y no admite excepciones."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 430,
@@ -4727,7 +4727,7 @@
       "C": "A ser notificados de los hechos que se les imputen, de las infracciones que tales hechos puedan constituir, de las sanciones que se les pudieran imponer, así como de la identidad del instructor, de la autoridad competente para imponer la sanción y de la norma que atribuya tal competencia.",
       "D": "A guardar silencio durante todo el procedimiento sin que ello pueda interpretarse como negativa."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 431,
@@ -4738,7 +4738,7 @@
       "C": "Deben motivarse los actos que rechacen pruebas propuestas por los interesados.",
       "D": "La motivación de los actos que pongan fin a procedimientos selectivos y de concurrencia competitiva exige siempre una motivación individualizada y exhaustiva, distinta de la que dispongan las normas reguladoras de sus convocatorias."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 432,
@@ -4749,7 +4749,7 @@
       "C": "La eficacia retroactiva de los actos administrativos está prohibida en todo caso.",
       "D": "La presunción de validez de los actos administrativos no admite prueba en contrario."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 433,
@@ -4760,7 +4760,7 @@
       "C": "La eficacia siempre queda demorada hasta el momento de la notificación, sin posibilidad de otras causas.",
       "D": "La eficacia demorada requiere la autorización expresa del órgano superior jerárquico."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 434,
@@ -4771,7 +4771,7 @@
       "C": "La eficacia retroactiva nunca puede lesionar derechos o intereses legítimos de otras personas, aunque sí cabe cuando los supuestos de hecho no existieran en la fecha a la que se retrotraiga.",
       "D": "Podrá otorgarse eficacia retroactiva cuando los actos produzcan efectos favorables al interesado, siempre que los supuestos de hecho necesarios existieran ya en la fecha a que se retrotraiga la eficacia del acto y ésta no lesione derechos o intereses legítimos de otras personas."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 435,
@@ -4782,7 +4782,7 @@
       "C": "Para formular solicitudes, presentar declaraciones responsables o comunicaciones, interponer recursos, desistir de acciones y renunciar a derechos en nombre de otra persona, deberá acreditarse la representación.",
       "D": "La falta o insuficiencia de la acreditación de la representación impedirá tener por realizada la actuación de que se trate, sin posibilidad de subsanación."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 436,
@@ -4793,7 +4793,7 @@
       "C": "El contenido de los actos administrativos solo debe ajustarse a los fines perseguidos, sin necesidad de respetar el procedimiento establecido.",
       "D": "Los actos administrativos pueden producirse sin necesidad de ajustarse al procedimiento establecido cuando exista urgencia debidamente motivada."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 437,
@@ -4804,7 +4804,7 @@
       "C": "Los actos administrativos solo pueden producirse oralmente cuando exista urgencia inaplazable.",
       "D": "La forma escrita es siempre incompatible con la utilización de medios electrónicos."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 438,
@@ -4815,7 +4815,7 @@
       "C": "Las resoluciones administrativas de carácter particular solo pueden vulnerar disposiciones generales si emanan de órgano superior jerárquico al autor de la disposición.",
       "D": "Las resoluciones administrativas de carácter particular no podrán vulnerar lo establecido en una disposición de carácter general, aunque aquéllas procedan de un órgano de igual o superior jerarquía al que dictó la disposición general."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 439,
@@ -4826,7 +4826,7 @@
       "C": "Solo pueden incorporarse al procedimiento aquellos interesados que lo soliciten antes del trámite de alegaciones.",
       "D": "La Administración no está obligada a comunicar la tramitación del procedimiento a los nuevos interesados identificados durante la instrucción."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 440,
@@ -4837,7 +4837,7 @@
       "C": "En caso de pluralidad de interesados, todas las actuaciones deben notificarse simultáneamente a cada uno de ellos, sin posibilidad de unificación.",
       "D": "La pluralidad de interesados exige la designación obligatoria de un representante común para la tramitación del procedimiento."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 441,
@@ -4848,7 +4848,7 @@
       "C": "El derecho al acceso a la información pública, archivos y registros, de acuerdo con lo previsto en la Ley 19/2013, de 9 de diciembre.",
       "D": "El derecho a no presentar datos y documentos no exigidos por las normas aplicables al procedimiento de que se trate o que ya se encuentren en poder de las Administraciones Públicas."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 442,
@@ -4859,7 +4859,7 @@
       "C": "Solo pueden ostentar la condición de interesado cuando hayan iniciado personalmente el procedimiento.",
       "D": "Carecen de capacidad de obrar ante las Administraciones Públicas por no tener personalidad jurídica propia."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 443,
@@ -4870,7 +4870,7 @@
       "C": "Los acuerdos de suspensión de actos, cualquiera que sea el motivo de ésta, así como la adopción de medidas provisionales previstas en el artículo 56.",
       "D": "Los actos que acuerden la terminación del procedimiento por la imposibilidad material de continuarlo por causas sobrevenidas."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 444,
@@ -4881,7 +4881,7 @@
       "C": "El interesado tiene derecho a formular alegaciones, utilizar los medios de defensa admitidos por el Ordenamiento Jurídico, y a aportar documentos en cualquier fase del procedimiento anterior al trámite de audiencia, que deberán ser tenidos en cuenta por el órgano competente al redactar la propuesta de resolución.",
       "D": "El interesado tiene derecho a actuar asistido de asesor únicamente en los procedimientos sancionadores."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 445,
@@ -4892,7 +4892,7 @@
       "C": "La Ley tiene por objeto regular los requisitos de validez y eficacia de los actos administrativos, el procedimiento administrativo común a todas las Administraciones Públicas, incluyendo el sancionador y el de reclamación de responsabilidad de las Administraciones Públicas, así como los principios a los que se ha de ajustar el ejercicio de la iniciativa legislativa y la potestad reglamentaria.",
       "D": "La Ley regula la organización y funcionamiento del sector público institucional."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 446,
@@ -4903,7 +4903,7 @@
       "C": "Las Universidades públicas se rigen exclusivamente por la Ley 39/2015 sin aplicación supletoria de su normativa específica.",
       "D": "La Ley se aplica al sector público, que comprende la Administración General del Estado, las Administraciones de las Comunidades Autónomas, las Entidades que integran la Administración Local y el sector público institucional."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 447,
@@ -4914,7 +4914,7 @@
       "C": "Las personas jurídicas no ostentan capacidad de obrar conforme a la Ley 39/2015.",
       "D": "La capacidad de obrar ante las Administraciones Públicas se determina exclusivamente conforme a las normas civiles, sin especialidades."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 448,
@@ -4925,7 +4925,7 @@
       "C": "Los interesados deben siempre personarse en el procedimiento, incluso quienes lo hayan promovido.",
       "D": "Las asociaciones representativas de intereses económicos y sociales son titulares de intereses legítimos individuales en todo caso."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 449,
@@ -4936,7 +4936,7 @@
       "C": "Cuando en una solicitud, escrito o comunicación figuren varios interesados, las actuaciones se efectuarán siempre con quien figure en primer término, sin posibilidad de designación distinta.",
       "D": "Cuando en una solicitud, escrito o comunicación figuren varios interesados, las actuaciones a que den lugar se efectuarán con el representante o el interesado que expresamente hayan señalado y, en su defecto, con el que figure en primer término."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 450,
@@ -4947,7 +4947,7 @@
       "C": "Para los actos y gestiones de mero trámite se presumirá la representación.",
       "D": "La acreditación de la representación insuficiente impide en todo caso tener por realizada la actuación, sin posibilidad de subsanación."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 451,
@@ -4958,7 +4958,7 @@
       "C": "El apoderamiento apud acta únicamente podrá otorgarse mediante comparecencia electrónica en la correspondiente sede electrónica, nunca presencialmente.",
       "D": "Los registros electrónicos generales de apoderamientos impedirán en todo caso la existencia de registros particulares en cada organismo público o entidad."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 452,
@@ -4969,7 +4969,7 @@
       "C": "Los interesados podrán identificarse electrónicamente ante las Administraciones Públicas a través de cualquier sistema que cuente con un registro previo como usuario que permita garantizar su identidad.",
       "D": "Las Administraciones Públicas deberán utilizar todas ellas un mismo sistema único de identificación electrónica, sin posibilidad de diversidad técnica entre administraciones."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 453,
@@ -4980,7 +4980,7 @@
       "C": "La asistencia en el uso de medios electrónicos por parte de los funcionarios públicos requerirá siempre el pago de una tasa previa por parte del interesado solicitante.",
       "D": "Los funcionarios públicos habilitados no pueden, en ningún caso, realizar la identificación o firma electrónica en nombre del interesado, ni aun con su consentimiento expreso."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 454,
@@ -4991,7 +4991,7 @@
       "C": "Entre estos derechos se encuentra el de ser tratados con respeto y deferencia por las autoridades y empleados públicos, que habrán de facilitarles el ejercicio de sus derechos y el cumplimiento de sus obligaciones.",
       "D": "El derecho al acceso a la información pública del artículo 13.d) se rige exclusivamente por la Ley 39/2015 y no por la Ley 19/2013, de transparencia y buen gobierno."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 455,
@@ -5002,7 +5002,7 @@
       "C": "El plazo para interponer el recurso extraordinario de revisión es siempre de cuatro años desde la notificación del acto, sin distinción de causas.",
       "D": "El recurso extraordinario de revisión se interpone ante el órgano superior jerárquico del que dictó el acto recurrido firme en vía administrativa."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 456,
@@ -5013,7 +5013,7 @@
       "C": "Podrá interponerse contra actos que no pongan fin a la vía administrativa ante el órgano superior jerárquico del que los dictó; plazo de un mes si el acto es expreso, sin plazo si no lo es; plazo de resolución: tres meses.",
       "D": "El recurso de alzada solo puede interponerse ante el mismo órgano que dictó el acto recurrido, nunca directamente ante el órgano competente para resolverlo."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 457,
@@ -5024,7 +5024,7 @@
       "C": "El contenido de los actos administrativos solamente debe ser adecuado a los fines del acto, sin que sea necesario ajustarse al ordenamiento jurídico.",
       "D": "Los actos administrativos pueden iniciarse exclusivamente a instancia de parte interesada, nunca de oficio por la Administración competente."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 458,
@@ -5035,7 +5035,7 @@
       "C": "En los procedimientos iniciados a solicitud del interesado, el plazo máximo se computa desde la fecha del acuerdo de iniciación adoptado por el órgano competente.",
       "D": "El plazo no podrá exceder de seis meses, salvo que una norma con rango de Ley o el Derecho de la UE establezca uno mayor, y, en defecto de norma reguladora, será de tres meses."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 459,
@@ -5046,7 +5046,7 @@
       "C": "La comparecencia de las personas ante las oficinas públicas, presencial o por medios electrónicos, solo será obligatoria cuando así esté previsto en una norma con rango de ley.",
       "D": "Las Administraciones Públicas no están obligadas a comunicar al interesado en la citación las razones que justifican la comparecencia.\n\n\n\nPREGUNTAS PRÁCTICAS\n\n\nCASO 1- GESTIÓN POR PROCESOS\nLa organización sanitaria OSANEBI ofrece asistencia integrada de Atención Primaria y\nAtención Sanitaria Especializada a una población aproximadamente de 65.000 habitantes,\npara ello cuenta con 4 unidades de Atención Primaria (AP), 9 Centros de Salud y un\nHospital Comarcal.\nA lo largo de los años se han obtenido diferentes acreditaciones, certificaciones y el Diploma\nde Gestión Avanzada.\nSu modelo organizativo combina la gestión por procesos y por áreas y unidades. Su mapa\nde procesos actualizado en varias ocasiones desde que se definió por primera vez en 2015 es\nel siguiente:\n\n\n\n 102"
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 460,
@@ -5057,7 +5057,7 @@
       "C": "No, porque hay actividades de la organización que no aparecen reflejadas.",
       "D": "No, porque según la Norma ISO 9001, no deberían aparecer representados más de 15 procesos para que sea viable."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 461,
@@ -5068,7 +5068,7 @@
       "C": "No podemos considerar que OSANEBI tiene un sistema de gestión basado en procesos porque, aun disponiendo de un buen mapa de procesos y unos diagramas y fichas de procesos coherentes, el sistema no permite conocer sus resultados.",
       "D": "Las respuestas a) y b) son correctas."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 462,
@@ -5079,7 +5079,7 @@
       "C": "Representatividad, rentabilidad, fiabilidad y permeabilidad.",
       "D": "Representatividad, simplicidad, rentabilidad, fiabilidad y relatividad en el tiempo."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 463,
@@ -5090,7 +5090,7 @@
       "C": "Efectividad.",
       "D": "Causa-efecto."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 464,
@@ -5101,7 +5101,7 @@
       "C": "El área de mejora no es correcta porque hay procesos de la organización que no aportan nada a la consecución de los objetivos globales de la organización.",
       "D": "El área de mejora no es correcta porque los objetivos de los procesos no tienen nada que ver con los objetivos globales de la organización."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 465,
@@ -5112,7 +5112,7 @@
       "C": "La organización hará un ejercicio de reflexión en el que cruzará los objetivos estratégicos con los procesos estratégicos y de gestión para definir cuáles son los procesos clave.",
       "D": "Los procesos clave serán aquellos procesos operativos que impacten directamente en la consecución de los objetivos globales.\n\n\n\nCASO 2- GESTIÓN POR PROCESOS\nLa Organización Sanitaria Integrada OSI KIROLAK, especializada en medicina deportiva\ny readaptación física, atiende a un volumen anual de 62.000 consultas, 7.500 pruebas\ndiagnósticas y 4.800 procesos de rehabilitación.\nLa dirección ha impulsado recientemente la adopción de un enfoque basado en procesos,\nelaborando un nuevo mapa de procesos, descrito en tres grandes grupos:  Procesos estratégicos: Planificación sanitaria, evaluación del desempeño, desarrollo de alianzas.  Procesos operativos: Atención clínica, pruebas diagnósticas, rehabilitación, seguimiento deportivo.  Procesos de apoyo: Recursos humanos, tecnologías de la información, mantenimiento, gestión económica.\nAunque todos los procesos están identificados y descritos, solamente los operativos cuentan\ncon indicadores de seguimiento. Los procesos de apoyo y algunos estratégicos no tienen\nvalor de referencia ni indicadores definidos.\n\n 105\n\nEn la última revisión interna, se detectó que:  Algunos indicadores presentan escasa sensibilidad, dificultando detectar variaciones reales.  No hay indicadores que relacionen resultados alcanzados con recursos utilizados.  No se ha verificado que todos los procesos contribuyan realmente a los objetivos globales.  Se identifican dudas sobre qué procesos deben ser considerados procesos clave.\nLa OSI KIROLAK desea avanzar en su madurez de gestión e implantar un sistema que\ncumpla los principios que recoge la “Guía para una gestión basada en procesos” de\nEUSKALIT."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 466,
@@ -5123,7 +5123,7 @@
       "C": "No, porque deberían emplearse exclusivamente las agrupaciones de la norma ISO 9001.",
       "D": "No, porque los procesos estratégicos no deben representarse en el mapa."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 467,
@@ -5134,7 +5134,7 @@
       "C": "No, porque sin indicadores no se conocen los resultados de todos los procesos.",
       "D": "Sí, siempre que los procesos operativos tengan indicadores."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 468,
@@ -5145,7 +5145,7 @@
       "C": "Fiabilidad, consistencia, simplicidad y comparabilidad.",
       "D": "Representatividad, repetitividad, sensibilidad y oportunidad."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 469,
@@ -5156,7 +5156,7 @@
       "C": "Capacidad.",
       "D": "Productividad operativa."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 470,
@@ -5167,7 +5167,7 @@
       "C": "Que solo los procesos operativos deben vincularse a los objetivos.",
       "D": "Que los objetivos globales se determinan sin considerar los procesos."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 471,
@@ -5178,7 +5178,7 @@
       "C": "Identificar como procesos clave aquellos que sean imprescindibles para conseguir los objetivos globales.",
       "D": "Seleccionar los procesos estratégicos automáticamente como clave."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 472,
@@ -5189,7 +5189,7 @@
       "C": "Falta periodicidad.",
       "D": "Falta un mapa de procesos."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 473,
@@ -5200,7 +5200,7 @@
       "C": "No se considera gestión por procesos si no existe seguimiento y medición.",
       "D": "Bastará con incluir una ficha de proceso adicional.\n\n\nCASO 3- ELEMENTOS DE GESTIÓN AVANZADA\nLa Organización Sanitaria OSI-X abarca una población de unas 340.000 personas, con una\nestructura de 15 Unidades de Atención Primaria (UAP), 2 Puntos de Atención Continuada\n(PAC) y 1 centro hospitalario. Tiene una plantilla de 5.100 trabajadores (estructurales\n3.500) de diferentes categorías profesionales, y de los que 193 ejercen puestos de\nresponsabilidad como mandos intermedios.\nEn el centro hospitalario de OSI-X ingresan más de 42.000 pacientes cada año. Dispone de\n22 quirófanos para realizar 50.000 intervenciones anuales. Además, atiende más de 170.000\nurgencias y cerca de 700.000 consultas cada ejercicio. Y el Hospital de Día Quirúrgico\nsupera los 6.800 pacientes, el Hospital de Día Médico los 53.500 ingresos y el servicio de\nHospitalización a Domicilio atiende en sus casas a más de 1.700 pacientes.\nEn Atención Primaria (AP), se atienden a través de la red de Centros de Salud y\nConsultorios. 1.180.000 consultas de Medicina de Familia, 210.000 de Pediatría, 440.000\nconsultas de Enfermería y 420.000 procedimientos de Enfermería.\nPara la gestión de clientes cuenta con numerosos indicadores asistenciales (entre los claves\nse encuentran Porcentaje de Accesibilidad a Consulta presencial en AP < 24 h, Porcentaje\nde Cirugía Mayor Ambulatoria, Porcentaje de Participación en el Programa de Cribado de\nCáncer Colorrectal,…), indicadores de gestión de la relación con clientes (Tasa de acceso a\nCarpeta de Salud, reclamaciones, …) y de gestión económico financiera y de recursos (que\nproporcionan información de gastos y costes actualizados mensualmente y desplegados por\nservicios y unidades que permiten un seguimiento periódico de los resultados).\nAdemás, evalúa la relación y la prestación de servicios a sus clientes a través de encuestas\nde satisfacción generales corporativas que se realizan anualmente, y específicas en algunos\nservicios/unidades con una tendencia mantenida en Evolución de la satisfacción de los\npacientes con respecto a la Hospitalización, Evolución de la satisfacción de los pacientes con\nrespecto a Urgencias y Evolución de la satisfacción de los pacientes con respecto a la\nAtención Primaria.\n\nLa OSI-X tiene indicadores de percepción y de rendimiento (50% en cada uno de los dos\ntipos). Y las gráficas de todos esos indicadores se resumen a continuación:\n\n\n\n 108\n Grado de satisfacción 10 8,5 8,6 8,5 8,5 En el 100 % de los indicadores de percepción (satisfacción de clientes) tienen esta tendencia. 5\n 0 2019 2020 2021 2022 Grado de Satisfacción Objetivo\n\n\n En el 75 % de indicadores de rendimiento (asistenciales y de gestión de la relación con clientes, etc.) tienen esta tendencia.\n\n\n\n En el 25 % de indicadores de rendimiento (asistenciales y de gestión de la relación con clientes, etc.) tienen esta tendencia."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 474,
@@ -5211,7 +5211,7 @@
       "C": "Intermedio.",
       "D": "Básico."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 475,
@@ -5222,7 +5222,7 @@
       "C": "Intermedio.",
       "D": "Básico."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 476,
@@ -5233,7 +5233,7 @@
       "C": "Intermedio.",
       "D": "Básico."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 477,
@@ -5244,7 +5244,7 @@
       "C": "Intermedio.",
       "D": "Básico."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 478,
@@ -5255,7 +5255,7 @@
       "C": "La OSI-X dentro del colectivo de clientes incluye: a quienes reciben sus productos y servicios, así como a quienes puedan recibirlos potencialmente.",
       "D": "La OSI-X dentro del colectivo de clientes incluye: a quienes colaboran en la prestación de servicios y a la ciudadanía en su conjunto."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 479,
@@ -5266,7 +5266,7 @@
       "C": "En el C4.",
       "D": "La gestión de proveedores no se recoge en el elemento de Clientes.\n\n\n\nCASO 4- ELEMENTOS DE GESTIÓN AVANZADA\nLa Organización Sanitaria Integrada OSI ARABA XXI atiende a una población de 295.000\npersonas. Cuenta con 12 Unidades de Atención Primaria (UAP), 3 Puntos de Atención\nContinuada (PAC) y 2 hospitales (uno general y otro de media-larga estancia). Su plantilla\nasciende a 4.300 profesionales (3.000 estructurales).\nEn 2022–2024 registra, de media anual: 38.000 ingresos, 46.000 intervenciones, 155.000\nurgencias y 620.000 consultas externas. El Hospital de Día realiza 5.900 episodios anuales y\nel servicio de Hospitalización a Domicilio atiende a 1.400 pacientes/año.\nEl Sistema de indicadores y resultados de la gestión de la OSI ARABA XXI, nos ofrece la\nsiguiente información: • En clientes (paciente/usuario), OSI ARABA XXI segmenta por línea asistencial (Atención Primaria hospitalaria, urgencias), edad, sexo y zona. Realiza encuestas anuales de satisfacción y recomendación (NPS - Net Promoter Score); además monitoriza tiempos de acceso a consulta en AP, % cirugía mayor ambulatoria, reclamaciones, tiempos de triaje y alta en urgencias y uso de Carpeta de Salud. (Segmentación y foco en clientes actuales y potenciales). • En rendimiento operativo, el 82 % de los indicadores muestra tendencias favorables en los últimos 3 años; el 18 % restante se mantiene estable sin mejora significativa (p. ej., tiempo medio de espera en ciertas especialidades). (Criterios de magnitud y tendencias a 3 años). • En objetivos, cada servicio fija metas anuales; sin embargo, una revisión interna detecta que en algunos servicios la fijación no considera de forma sistemática las comparaciones externas ni los impulsores de mejora (capacidad, casuística, benchmark), lo que dificulta alinear objetivos con la estrategia. (Requisitos de lógica en objetivos). Existe benchmark puntual con dos hospitales de referencia para tasa de reingresos y centro de atención médica (CAM), pero no hay comparaciones consolidadas en accesibilidad en Atención Primaria (AP) ni resolutividad de urgencias. (Importancia de comparaciones con organizaciones de referencia). • En compras y proveedores, OSI ARABA XXI ha implantado una sistemática de homologación y evaluación anual de proveedores clínicos y no clínicos (calidad, plazos, incidencias), con planes de desarrollo para proveedores críticos de dispositivos de quirófano. (Gestión de compras/subcontratación y proveedores)."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 480,
@@ -5277,7 +5277,7 @@
       "C": "La segmentación no es necesaria si se dispone de indicadores de rendimiento operativo.",
       "D": "La recomendación (NPS-Net Promoter Score / Índice Neto de Recomendación)) sustituye a la satisfacción y comparaciones externas."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 481,
@@ -5288,7 +5288,7 @@
       "C": "Intermedio.",
       "D": "Básico."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 482,
@@ -5299,7 +5299,7 @@
       "C": "Intermedio.",
       "D": "Básico."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 483,
@@ -5310,7 +5310,7 @@
       "C": "Intermedio.",
       "D": "Básico."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 484,
@@ -5321,7 +5321,7 @@
       "C": "Intermedio: comparaciones existentes pero parciales/irregulares.",
       "D": "Básico: no existen comparaciones."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 485,
@@ -5332,7 +5332,7 @@
       "C": "C.3 - Producción, comercialización y distribución.",
       "D": "C.4 - Gestión de otros recursos."
     },
-    "correct": "D"
+    "correct": ""
   },
   {
     "id": 486,
@@ -5343,7 +5343,7 @@
       "C": "Eliminar indicadores sin tendencia positiva.",
       "D": "Aumentar la frecuencia de encuestas de satisfacción."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 487,
@@ -5354,7 +5354,7 @@
       "C": "R.5 – Resultados de la innovación.",
       "D": "R.3 – Resultados en personas.\n\n\nCASO 5- COMPETENCIAS DE LIDERAZGO\nLa organización OSI PLUS está buscando identificar a las personas más adecuadas para\nser candidatas a ocupar los puestos directivos en un futuro próximo. OSI PLUS se encuentra\nen un proceso de relevo generacional importante y quiere conocer si esas personas disponen\nde las competencias directivas más buscadas, su perfil directivo, las destrezas en el ejercicio\ndel liderazgo y el estilo de liderazgo más frecuente de las mismas. Además de los\nrequerimientos técnicos específicos para el desempeño de cada puesto concreto, quiere\nconocer también una serie de actitudes o habilidades “soft” en las personas que ocupen esos\nfuturos puestos directivos.\nTeniendo en cuenta esta situación:"
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 488,
@@ -5365,7 +5365,7 @@
       "C": "Orientación al cliente, liderazgo, Integridad e Iniciativa.",
       "D": "Visión de negocio, constancia, sensibilidad y liderazgo."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 489,
@@ -5376,7 +5376,7 @@
       "C": "Una persona orientada a crear buenos equipos de trabajo, capaz de orientarse a la consecución de resultados y a situaciones de incertidumbre.",
       "D": "Una persona con inteligencia emocional, dotes organizativas, visión estratégica y de negocio."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 490,
@@ -5387,7 +5387,7 @@
       "C": "Talento ejecutivo, Talento de liderazgo distribuido y Talento organizativo.",
       "D": "Talento de liderazgo personal, Talento organizativo y Talento de aprendizaje."
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 491,
@@ -5398,7 +5398,7 @@
       "C": "“En las organizaciones con sistemas de gestión maduros… este proceso se produce con naturalidad…”",
       "D": "“Debido a la tendencia natural a preservar ideas propias, se despilfarran energías defendiendo posiciones…”"
     },
-    "correct": "A"
+    "correct": ""
   },
   {
     "id": 492,
@@ -5409,7 +5409,7 @@
       "C": "“Se preocupa en cierta forma porque sus colaboradores acepten lo que él quiere que hagan, intenta venderles la idea de que les escucha y valora sus puntos de vista, aunque al final ellos tengan que hacer lo que él les dice”.",
       "D": "“Busca y exige resultados excelentes, no se conforma con menos, pero puede hacerlo porque es capaz de crear a su alrededor las condiciones en que sus colaboradores se sientan motivados y tengan la oportunidad de realizarse como personas y profesionales”."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 493,
@@ -5420,7 +5420,7 @@
       "C": "Evaluar el estilo actual de liderazgo, sensibilizar a las personas sobre la importancia del liderazgo y fijar las tareas a realizar y su evaluación.",
       "D": "Conocer las preferencias de liderazgo en la organización, diseñar el estilo de liderazgo necesario para el futuro de la organización y evaluar el liderazgo.\n\n\nCASO 6- COMPETENCIAS DE LIDERAZGO\nLa Organización Sanitaria Integral BIZIA, que presta servicios en medicina interna,\natención continuada y atención domiciliaria avanzada, quiere reforzar su modelo de\nliderazgo para afrontar el Plan Integral de Atención a Pacientes Crónicos 2026.\nPara ello, la Dirección impulsa un marco de liderazgo avanzado, inspirado en los textos de\nLiderazgo Avanzado (EUSKALIT, 2015) y en las propuestas sobre competencias de\nCardona y Chinchilla, con el objetivo de asegurar un estilo coherente, compartido y\nalineado con las necesidades asistenciales.\n\n 115\n\nLas líneas principales del proyecto son: • Definir un enfoque global de liderazgo, determinando en qué lugares de la organización se ejerce (procesos asistenciales, procesos de apoyo, equipos directivos, unidades clínicas) y segmentando los niveles (equipo directivo, mandos intermedios, responsables de procesos). La definición se orienta a “movilizar a otras personas hacia la consecución de los objetivos”. • Explicitar tareas y actividades asociadas al liderazgo, vinculándolas a los siete cometidos del modelo de Liderazgo Avanzado: desplegar visión, involucrar a los grupos de interés, desarrollar personas, fomentar cohesión, mejorar el sistema de gestión, impulsar la innovación, reforzar la comunicación interna. • Evaluar el liderazgo, mediante un sistema mixto que incluye encuestas breves, sesiones de retroalimentación y espacios formales para identificar cómo se aplican las destrezas del modelo (indagación, argumentación, resolución de controversias, toma de decisiones, proactividad, aprender del fracaso y pedir/dar retroalimentación).\nAdemás, la organización detecta: • Controversias persistentes entre los responsables de Atención Continuada y de Atención Domiciliaria Avanzada, especialmente relacionadas con la coordinación de altas y reingresos. • Perfiles de mando intermedio con muy buenos conocimientos técnicos, pero con poca práctica en destrezas como la indagación y escucha activa, la argumentación basada en evidencias y el ofrecimiento de retroalimentación constructiva (Estilo dominante heterogéneo). • Diferencias culturales entre servicios: algunos jefes muestran un estilo paternalista que “vende” participación, pero finalmente impone decisiones; otros adoptan estilos amistosos que evitan conflictos; un pequeño grupo practica comportamientos propios del estilo avanzado. • La OSI desea alinear la selección y desarrollo con el modelo Cardona & Chinchilla (competencias y talentos)."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 494,
@@ -5431,7 +5431,7 @@
       "C": "Identificar preferencias individuales, diseñar el estilo y crear un plan de formación.",
       "D": "Realizar auditorías, elegir responsables y publicar un decálogo de liderazgo."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 495,
@@ -5442,7 +5442,7 @@
       "C": "Proactividad e iniciativa.",
       "D": "Aprender del fracaso."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 496,
@@ -5453,7 +5453,7 @@
       "C": "Estilo oportunista.",
       "D": "Estilo avanzado."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 497,
@@ -5464,7 +5464,7 @@
       "C": "Directivo orientado principalmente a crear equipos y gestionar incertidumbre.",
       "D": "Profesional con inteligencia emocional y visión estratégica."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 498,
@@ -5475,7 +5475,7 @@
       "C": "Talento relacional, talento ejecutivo y talento técnico.",
       "D": "Talento político, talento técnico y talento de negociación."
     },
-    "correct": "B"
+    "correct": ""
   },
   {
     "id": 499,
@@ -5486,7 +5486,7 @@
       "C": "Debe ser descriptiva, respetuosa, oportuna y concurrente con la acción; y practicarse de forma habitual.",
       "D": "Debe ser exclusivamente descendente (del superior hacia sus subordinados).\n\n\n\n 117\n CASO 7: en la Organización de Servicios Integrados (OSI) de Bilbao-Basurto de Osakidetza, se convoca un proceso interno para la provisión de un puesto funcional de Técnico/a Superior de Gestión Económica. En la convocatoria se establece como requisito estar en posesión del título de Licenciatura o Grado en Derecho, Economía o Administración y Dirección de Empresas, conforme a la definición del puesto funcional prevista en el Decreto 186/2005, de 19 de julio, regulador de los puestos funcionales del Ente Público.\n Una trabajadora con nombramiento como Administrativa (Grupo C1), que posee el título de Grado en Derecho, solicita participar en el proceso alegando que su titulación cumple el requisito exigido y que lleva más de 10 años desempeñando funciones de gestión económica. La Dirección de Recursos Humanos inadmite su solicitud argumentando que, conforme al Decreto 186/2005, los puestos funcionales se definen no solo por la titulación, sino también por su encuadramiento en el grupo profesional correspondiente, y que el acceso requiere pertenecer al grupo de clasificación exigido para el puesto convocado."
     },
-    "correct": "C"
+    "correct": ""
   },
   {
     "id": 500,
@@ -5497,6 +5497,6 @@
       "C": "Por la definición reglamentaria del puesto funcional, que incluye grupo profesional, titulación y funciones.",
       "D": "Únicamente por decisión discrecional de la Dirección de la Organización de Servicios."
     },
-    "correct": "C"
+    "correct": ""
   }
 ]
