@@ -22,7 +22,7 @@
               "base": "www",
               "browser": ""
             },
-            "baseHref": "/app-gv-adm/",
+            "baseHref": "/app-gv-administrativo/",
             "index": "src/index.html",
             "polyfills": [
               "src/polyfills.ts"
