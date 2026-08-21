@@ -1,0 +1,2202 @@
+[
+  {
+    "id": 1,
+    "question": "¿Qué institución constituye uno de los poderes del País Vasco según el art. 24.1 del Estatuto?",
+    "answers": {
+      "A": "El Parlamento Vasco",
+      "B": "El Tribunal Vasco de Cuentas",
+      "C": "Las Diputaciones Forales",
+      "D": "El Ararteko"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 2,
+    "question": "¿Qué ley estableció la preautonomía vasca en 1978?",
+    "answers": {
+      "A": "Decreto-Ley de 4 de enero de 1978",
+      "B": "Ley Orgánica 3/1979",
+      "C": "Ley 27/1983",
+      "D": "Ley 7/1981"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 3,
+    "question": "¿Qué órgano creó esa norma como autogobierno provisional?",
+    "answers": {
+      "A": "Consejo General del País Vasco",
+      "B": "Parlamento Vasco",
+      "C": "Gobierno Vasco",
+      "D": "Diputación Permanente"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 4,
+    "question": "¿Qué porcentaje de votos favorables obtuvo el Estatuto en ese referéndum según el temario?",
+    "answers": {
+      "A": "90,27 %",
+      "B": "85,50 %",
+      "C": "75,20 %",
+      "D": "58,85 %"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 5,
+    "question": "¿Qué norma promulgó el Estatuto de Autonomía del País Vasco?",
+    "answers": {
+      "A": "Ley Orgánica 3/1979, de 18 de diciembre",
+      "B": "Ley 27/1983, de 25 de noviembre",
+      "C": "Ley Orgánica 13/1982",
+      "D": "Ley 7/1981"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 6,
+    "question": "¿Cuántos Títulos tiene el Estatuto vasco además del Título Preliminar?",
+    "answers": {
+      "A": "Cuatro",
+      "B": "Tres",
+      "C": "Cinco",
+      "D": "Seis"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 7,
+    "question": "¿Qué Título del Estatuto regula las competencias del País Vasco?",
+    "answers": {
+      "A": "Título I",
+      "B": "Título II",
+      "C": "Título III",
+      "D": "Título IV"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 8,
+    "question": "¿Qué Título regula los poderes del País Vasco?",
+    "answers": {
+      "A": "Título II",
+      "B": "Título I",
+      "C": "Título III",
+      "D": "Título IV"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 9,
+    "question": "¿Qué Título regula la reforma del Estatuto?",
+    "answers": {
+      "A": "Título IV",
+      "B": "Título III",
+      "C": "Título II",
+      "D": "Título I"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 10,
+    "question": "¿Qué Disposición del Estatuto declara que la aceptación de la autonomía no implica renuncia a derechos históricos?",
+    "answers": {
+      "A": "Disposición Adicional",
+      "B": "Primera Transitoria",
+      "C": "Segunda Adicional",
+      "D": "Novena Transitoria"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 11,
+    "question": "¿Qué territorios integran inicialmente la Comunidad Autónoma Vasca?",
+    "answers": {
+      "A": "Álava, Gipuzkoa y Bizkaia",
+      "B": "Álava, Gipuzkoa, Bizkaia y Navarra",
+      "C": "Solo Bizkaia y Gipuzkoa",
+      "D": "Los tres territorios y Treviño"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 12,
+    "question": "¿Dónde se fija la sede del Parlamento y Gobierno vascos?",
+    "answers": {
+      "A": "Vitoria-Gasteiz",
+      "B": "Bilbao",
+      "C": "Donostia-San Sebastián",
+      "D": "Pamplona"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 13,
+    "question": "¿Qué norma fijó esa sede en Vitoria-Gasteiz?",
+    "answers": {
+      "A": "Ley 1/1980, de 23 de mayo",
+      "B": "Ley 5/1990",
+      "C": "Ley 7/1981",
+      "D": "Ley 27/1983"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 14,
+    "question": "¿Qué lengua declara el Estatuto como propia del Pueblo Vasco y cooficial?",
+    "answers": {
+      "A": "Euskera",
+      "B": "Castellano",
+      "C": "Navarro-aragonés",
+      "D": "Francés"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 15,
+    "question": "¿Qué ley desarrolló el art. 6 sobre normalización del uso del euskera?",
+    "answers": {
+      "A": "Ley 10/1982",
+      "B": "Ley 3/1985",
+      "C": "Ley 8/1983",
+      "D": "Ley 4/2005"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 16,
+    "question": "¿Quién tiene la condición política de vasco a efectos del Estatuto?",
+    "answers": {
+      "A": "Quien tenga vecindad administrativa en cualquier municipio de la CAE",
+      "B": "Toda persona nacida en Euskadi",
+      "C": "Solo quien tenga nacionalidad vasca",
+      "D": "Toda persona residente en España"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 17,
+    "question": "¿Qué derechos se vinculan a la condición política vasca?",
+    "answers": {
+      "A": "Sufragio activo y pasivo e iniciativa legislativa popular, entre otros",
+      "B": "Solo sufragio activo",
+      "C": "Solo iniciativa popular",
+      "D": "Solo derechos económicos"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 18,
+    "question": "¿De dónde proceden los derechos y deberes fundamentales de los ciudadanos vascos?",
+    "answers": {
+      "A": "De la Constitución española",
+      "B": "Del Estatuto exclusivamente",
+      "C": "De la Ley de Gobierno",
+      "D": "De las normas forales"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 19,
+    "question": "¿Qué debe facilitar el poder público vasco según el art. 9?",
+    "answers": {
+      "A": "La participación ciudadana en la vida política, económica, cultural y social",
+      "B": "Solo la participación electoral",
+      "C": "Solo la participación cultural",
+      "D": "Solo la participación económica"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 20,
+    "question": "¿Existe una Administración de Justicia propia del País Vasco?",
+    "answers": {
+      "A": "No",
+      "B": "Sí, independiente del Estado",
+      "C": "Solo para materias forales",
+      "D": "Solo para asuntos penales"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 21,
+    "question": "¿Qué institución caracteriza especialmente la organización interna vasca?",
+    "answers": {
+      "A": "Los Territorios Históricos",
+      "B": "El Senado vasco",
+      "C": "Los municipios forales únicamente",
+      "D": "El Ararteko"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 22,
+    "question": "¿Cómo se eligen los órganos representativos de los Territorios Históricos?",
+    "answers": {
+      "A": "Por sufragio universal, libre, directo y secreto y representación proporcional",
+      "B": "Por designación del Gobierno Vasco",
+      "C": "Por sufragio indirecto",
+      "D": "Por las Cortes Generales"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 23,
+    "question": "¿Qué ley vertebra las relaciones entre instituciones comunes y órganos forales?",
+    "answers": {
+      "A": "Ley 27/1983, de 25 de noviembre",
+      "B": "Ley 5/1990",
+      "C": "Ley 7/1981",
+      "D": "Ley 1/1980"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 24,
+    "question": "¿Cuáles son los órganos forales de los Territorios Históricos?",
+    "answers": {
+      "A": "Juntas Generales y Diputaciones Forales",
+      "B": "Parlamento y Gobierno",
+      "C": "Ayuntamientos y diputaciones",
+      "D": "Gobierno y Juntas Electorales"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 25,
+    "question": "¿Qué artículo constitucional prevé referéndum para reformas de Comunidades constituidas por el art. 151?",
+    "answers": {
+      "A": "152",
+      "B": "147",
+      "C": "149",
+      "D": "150"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 26,
+    "question": "¿Qué artículos del Estatuto vasco regulan su reforma?",
+    "answers": {
+      "A": "46 y 47",
+      "B": "25 y 26",
+      "C": "29 y 30",
+      "D": "41 y 42"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 27,
+    "question": "¿Qué proporción de parlamentarios debe respaldar inicialmente una propuesta de reforma?",
+    "answers": {
+      "A": "Una quinta parte",
+      "B": "Una sexta parte",
+      "C": "La mitad",
+      "D": "Dos quintas partes"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 28,
+    "question": "¿Cuántos parlamentarios supone esa quinta parte según el temario?",
+    "answers": {
+      "A": "Quince",
+      "B": "Diez",
+      "C": "Veinte",
+      "D": "Treinta y ocho"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 29,
+    "question": "¿Qué mayoría necesita el Parlamento Vasco para aprobar la propuesta de reforma general?",
+    "answers": {
+      "A": "Mayoría absoluta",
+      "B": "Mayoría simple",
+      "C": "Tres quintos",
+      "D": "Dos tercios"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 30,
+    "question": "¿Cómo se aprueba la reforma en las Cortes Generales?",
+    "answers": {
+      "A": "Mediante Ley Orgánica",
+      "B": "Por decreto-ley",
+      "C": "Por ley ordinaria",
+      "D": "Por resolución"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 31,
+    "question": "¿Qué fase cierra el procedimiento general de reforma?",
+    "answers": {
+      "A": "Referéndum de los electores vascos",
+      "B": "Aprobación del Gobierno Vasco",
+      "C": "Ratificación de las Diputaciones",
+      "D": "Dictamen del Tribunal Constitucional"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 32,
+    "question": "¿Qué plazo tienen Cortes y Juntas Generales para pronunciarse sobre una posible afectación en ese procedimiento?",
+    "answers": {
+      "A": "Treinta días",
+      "B": "Quince días",
+      "C": "Sesenta días",
+      "D": "Tres meses"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 33,
+    "question": "¿Qué sucede si ningún órgano consultado se considera afectado dentro de ese plazo?",
+    "answers": {
+      "A": "Se convoca referéndum y después se somete a aprobación de Cortes por Ley Orgánica",
+      "B": "Se archiva la reforma",
+      "C": "Se aprueba automáticamente",
+      "D": "Se inicia una reforma constitucional"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 34,
+    "question": "¿Qué supuesto especial contempla el Estatuto respecto de Navarra?",
+    "answers": {
+      "A": "Su incorporación a la Comunidad Autónoma Vasca",
+      "B": "Su salida de la Comunidad",
+      "C": "La creación de una provincia vasca",
+      "D": "La incorporación de Álava a Navarra"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 35,
+    "question": "¿Cuál es el principio fundamental de la distribución de competencias?",
+    "answers": {
+      "A": "Principio dispositivo",
+      "B": "Principio de jerarquía",
+      "C": "Principio de centralización",
+      "D": "Principio de unanimidad"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 36,
+    "question": "¿Qué significa el principio dispositivo?",
+    "answers": {
+      "A": "Las Comunidades deciden en sus Estatutos si asumen competencias y en qué medida",
+      "B": "El Estado decide siempre las competencias autonómicas",
+      "C": "Las competencias son siempre iguales",
+      "D": "Las competencias se distribuyen por decreto"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 37,
+    "question": "¿Cuántas competencias enumeraba el art. 148 inicialmente como asumibles por las Comunidades?",
+    "answers": {
+      "A": "22",
+      "B": "32",
+      "C": "15",
+      "D": "39"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 38,
+    "question": "¿Cuántas competencias exclusivas del Estado aparecen en el art. 149.1 según el temario?",
+    "answers": {
+      "A": "32",
+      "B": "22",
+      "C": "39",
+      "D": "17"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 39,
+    "question": "¿Qué permite el art. 150.2?",
+    "answers": {
+      "A": "Transferir o delegar mediante Ley Orgánica facultades estatales susceptibles de transferencia o delegación",
+      "B": "Reformar el Estatuto sin referéndum",
+      "C": "Transferir competencias municipales al Estado",
+      "D": "Eliminar derechos históricos"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 40,
+    "question": "¿De qué proceden las competencias específicas de las Comunidades forales?",
+    "answers": {
+      "A": "De sus derechos históricos",
+      "B": "Del art. 148 exclusivamente",
+      "C": "De leyes municipales",
+      "D": "De acuerdos europeos"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 41,
+    "question": "¿Qué ejemplo se cita de derecho histórico vasco?",
+    "answers": {
+      "A": "El Concierto Económico",
+      "B": "La iniciativa legislativa popular",
+      "C": "La representación proporcional",
+      "D": "El Ararteko"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 42,
+    "question": "¿Cuáles son las tres funciones que pueden existir alrededor de una materia?",
+    "answers": {
+      "A": "Legislativa, de desarrollo y de ejecución",
+      "B": "Judicial, legislativa y fiscal",
+      "C": "Consultiva, ejecutiva y electoral",
+      "D": "Normativa, constitucional y presupuestaria"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 43,
+    "question": "¿Cuándo se considera exclusiva una competencia?",
+    "answers": {
+      "A": "Cuando todas las funciones de una materia pertenecen al Estado o a la Comunidad Autónoma",
+      "B": "Cuando existe legislación básica estatal",
+      "C": "Cuando hay dos administraciones implicadas",
+      "D": "Cuando lo diga cualquier norma"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 44,
+    "question": "¿Qué ejemplo utiliza el temario de competencia exclusiva estatal?",
+    "answers": {
+      "A": "Defensa y Fuerzas Armadas",
+      "B": "Artesanía",
+      "C": "Turismo",
+      "D": "Cultura"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 45,
+    "question": "¿Qué caracteriza a una competencia compartida?",
+    "answers": {
+      "A": "Que Estado y Comunidad Autónoma tienen distintas funciones sobre la misma materia",
+      "B": "Que ambos aprueban siempre la misma ley",
+      "C": "Que solo intervienen las Diputaciones",
+      "D": "Que no existe legislación"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 46,
+    "question": "¿Qué puede corresponder al Estado en una competencia compartida?",
+    "answers": {
+      "A": "La legislación básica",
+      "B": "Solo la ejecución",
+      "C": "Solo la gestión económica",
+      "D": "Solo la potestad reglamentaria interna"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 47,
+    "question": "¿Qué ejemplo se da de materia en la que el Estado conserva legislación y las CCAA ejecución?",
+    "answers": {
+      "A": "Legislación laboral",
+      "B": "Artesanía",
+      "C": "Defensa",
+      "D": "Turismo"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 48,
+    "question": "¿Qué debe analizarse para conocer realmente el reparto competencial?",
+    "answers": {
+      "A": "El contenido de las facultades o potestades sobre la materia",
+      "B": "Solo el título del artículo",
+      "C": "Solo la palabra exclusiva",
+      "D": "Solo la norma autonómica"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 49,
+    "question": "¿Qué artículos del Estatuto agrupan las competencias exclusivas, de desarrollo legislativo y de ejecución?",
+    "answers": {
+      "A": "10, 11 y 12",
+      "B": "25, 26 y 27",
+      "C": "29, 30 y 31",
+      "D": "41, 42 y 43"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 50,
+    "question": "¿Qué artículo contiene las competencias de desarrollo legislativo y ejecución?",
+    "answers": {
+      "A": "11",
+      "B": "10",
+      "C": "12",
+      "D": "20"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 51,
+    "question": "¿Qué artículo contiene las competencias de ejecución?",
+    "answers": {
+      "A": "12",
+      "B": "10",
+      "C": "11",
+      "D": "19"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 52,
+    "question": "¿Qué límite estatal existe en el régimen local y estatuto de funcionarios?",
+    "answers": {
+      "A": "Las bases estatales del régimen estatutario de los funcionarios",
+      "B": "La defensa",
+      "C": "La política exterior",
+      "D": "La legislación mercantil"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 53,
+    "question": "¿Qué competencia se reconoce sobre montes y aprovechamientos forestales?",
+    "answers": {
+      "A": "Competencia autonómica respetando la legislación básica estatal",
+      "B": "Competencia estatal exclusiva en todo",
+      "C": "Solo competencia municipal",
+      "D": "Solo competencia foral"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 54,
+    "question": "¿Qué competencia recoge el art. 10 sobre agricultura y ganadería?",
+    "answers": {
+      "A": "Competencia exclusiva de acuerdo con la ordenación general de la economía",
+      "B": "Solo ejecución",
+      "C": "Solo legislación básica",
+      "D": "Ninguna"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 55,
+    "question": "¿Qué condición se exige para determinados aprovechamientos hidráulicos?",
+    "answers": {
+      "A": "Que las aguas discurran íntegramente dentro del País Vasco",
+      "B": "Que sean aguas internacionales",
+      "C": "Que afecten a dos CCAA",
+      "D": "Que sean marítimas"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 56,
+    "question": "¿Qué competencia tiene Euskadi en asistencia social?",
+    "answers": {
+      "A": "Exclusiva",
+      "B": "Solo ejecutiva",
+      "C": "Solo de desarrollo",
+      "D": "Ninguna"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 57,
+    "question": "¿Qué competencia tiene Euskadi sobre archivos, bibliotecas y museos?",
+    "answers": {
+      "A": "Los que no sean de titularidad estatal",
+      "B": "Todos los estatales",
+      "C": "Solo los municipales",
+      "D": "Solo los privados"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 58,
+    "question": "¿Qué competencia tiene Euskadi sobre cooperativas y mutualidades?",
+    "answers": {
+      "A": "Cooperativas, mutualidades no integradas en Seguridad Social y Pósitos, conforme a la legislación mercantil estatal",
+      "B": "Solo cooperativas estatales",
+      "C": "Ninguna",
+      "D": "Solo mutualidades de la Seguridad Social"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 59,
+    "question": "¿Qué competencia se reconoce sobre comercio interior?",
+    "answers": {
+      "A": "Comercio interior, respetando determinados límites estatales como libre circulación y defensa de la competencia",
+      "B": "Comercio exterior",
+      "C": "Comercio internacional exclusivamente",
+      "D": "Ninguna"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 60,
+    "question": "¿Qué competencia tiene Euskadi sobre industria?",
+    "answers": {
+      "A": "Industria, con las excepciones y límites previstos en el Estatuto",
+      "B": "Toda la industria estatal",
+      "C": "Solo ejecución",
+      "D": "Ninguna"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 61,
+    "question": "¿Qué competencia corresponde a Euskadi en ordenación territorial?",
+    "answers": {
+      "A": "Ordenación del territorio y del litoral, urbanismo y vivienda",
+      "B": "Solo urbanismo municipal",
+      "C": "Solo litoral estatal",
+      "D": "Ninguna"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 62,
+    "question": "¿Qué competencia se atribuye sobre carreteras y caminos?",
+    "answers": {
+      "A": "Euskadi, respetando las competencias tradicionales de las Diputaciones Forales",
+      "B": "Solo Estado",
+      "C": "Solo municipios",
+      "D": "Solo Parlamento"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 63,
+    "question": "¿Qué artículo 11 incluye medio ambiente y ecología?",
+    "answers": {
+      "A": "Competencia de desarrollo legislativo y ejecución de la legislación básica estatal",
+      "B": "Competencia exclusiva absoluta",
+      "C": "Solo ejecución municipal",
+      "D": "Ninguna"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 64,
+    "question": "¿Qué materias incluye el art. 11 en materia económica?",
+    "answers": {
+      "A": "Ordenación del crédito, banca y seguros, entre otras",
+      "B": "Solo comercio exterior",
+      "C": "Solo hacienda foral",
+      "D": "Solo presupuesto"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 65,
+    "question": "¿Qué caracteriza a las competencias de ejecución del art. 12?",
+    "answers": {
+      "A": "Incluyen la potestad de administración y dictar reglamentos internos de organización de servicios",
+      "B": "Incluyen legislación básica estatal",
+      "C": "Incluyen reforma constitucional",
+      "D": "Incluyen tratados internacionales"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 66,
+    "question": "¿Qué competencia de ejecución se recoge sobre legislación laboral?",
+    "answers": {
+      "A": "Las facultades y competencias que el Estado ostentaba respecto a relaciones laborales, con la alta inspección estatal",
+      "B": "Toda la legislación laboral sin límites",
+      "C": "Solo negociación colectiva",
+      "D": "Ninguna"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 67,
+    "question": "¿Qué competencia de ejecución tiene Euskadi sobre propiedad intelectual e industrial?",
+    "answers": {
+      "A": "La ejecución",
+      "B": "La legislación básica",
+      "C": "La reforma de tratados",
+      "D": "Ninguna"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 68,
+    "question": "¿Qué otras competencias importantes se mencionan fuera de los arts. 10-12?",
+    "answers": {
+      "A": "Administración de Justicia, Ararteko, educación y Ertzaintza, entre otras",
+      "B": "Solo turismo",
+      "C": "Solo comercio",
+      "D": "Solo agricultura"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 69,
+    "question": "¿De qué derecho histórico deriva la competencia educativa citada?",
+    "answers": {
+      "A": "De los derechos históricos amparados por la Disposición Adicional Primera",
+      "B": "Del art. 148 únicamente",
+      "C": "De una ley estatal ordinaria",
+      "D": "De la LTH"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 70,
+    "question": "¿Qué competencia relativa a la policía autónoma aparece en el art. 17?",
+    "answers": {
+      "A": "Ertzaintza",
+      "B": "Policía Nacional",
+      "C": "Guardia Civil",
+      "D": "Policía Municipal exclusivamente"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 71,
+    "question": "¿Qué reserva el Estado en materia sanitaria según el temario?",
+    "answers": {
+      "A": "La alta inspección",
+      "B": "Toda la gestión",
+      "C": "Toda la legislación y ejecución",
+      "D": "La organización de hospitales"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 72,
+    "question": "¿Qué competencia recoge el art. 19 sobre medios de comunicación?",
+    "answers": {
+      "A": "Desarrollo legislativo en materia de medios de comunicación social",
+      "B": "Solo ejecución de prensa estatal",
+      "C": "Ninguna",
+      "D": "Solo radio municipal"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 73,
+    "question": "¿Qué artículo permite ampliar competencias mediante leyes-marco o transferencia/delegación?",
+    "answers": {
+      "A": "20",
+      "B": "21",
+      "C": "22",
+      "D": "18"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 74,
+    "question": "¿Qué principio establece el art. 21 sobre el Derecho emanado del País Vasco en materias de competencia exclusiva?",
+    "answers": {
+      "A": "Se aplica con preferencia al estatal y, en su defecto, se aplica el del Estado",
+      "B": "Siempre prevalece el estatal",
+      "C": "Se aplica solo tras autorización estatal",
+      "D": "No tiene preferencia"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 75,
+    "question": "¿Dónde se regula el Concierto Económico en el Estatuto?",
+    "answers": {
+      "A": "Título III, art. 41 y siguientes",
+      "B": "Título I, art. 10",
+      "C": "Título II, art. 25",
+      "D": "Título Preliminar, art. 6"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 76,
+    "question": "¿Qué artículo constitucional exige una asamblea legislativa elegida por sufragio universal y representación proporcional para CCAA como la vasca?",
+    "answers": {
+      "A": "152",
+      "B": "149",
+      "C": "148",
+      "D": "150"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 77,
+    "question": "¿Cómo se elige el Parlamento Vasco?",
+    "answers": {
+      "A": "Por sufragio universal, libre, directo y secreto",
+      "B": "Por sufragio indirecto",
+      "C": "Por designación de las Diputaciones",
+      "D": "Por elección del Gobierno"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 78,
+    "question": "¿Cuántos representantes corresponden a cada circunscripción según la Ley Electoral citada?",
+    "answers": {
+      "A": "25",
+      "B": "20",
+      "C": "30",
+      "D": "38"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 79,
+    "question": "¿Cuánto dura el mandato del Parlamento Vasco?",
+    "answers": {
+      "A": "Cuatro años",
+      "B": "Cinco años",
+      "C": "Tres años",
+      "D": "Seis años"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 80,
+    "question": "¿Cuándo se aprobó el Reglamento parlamentario actualmente vigente según el temario?",
+    "answers": {
+      "A": "23 de diciembre de 2008",
+      "B": "11 de febrero de 1983",
+      "C": "30 de junio de 1990",
+      "D": "25 de octubre de 1979"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 81,
+    "question": "¿Qué reforma del Reglamento se cita como última en el temario?",
+    "answers": {
+      "A": "La de septiembre de 2020, para sesiones telemáticas y voto delegado",
+      "B": "La de 2008",
+      "C": "La de 2016",
+      "D": "La de 1990"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 82,
+    "question": "¿Qué protección tienen los parlamentarios por sus votos y opiniones en el ejercicio del cargo?",
+    "answers": {
+      "A": "Inviolabilidad",
+      "B": "Inmunidad absoluta",
+      "C": "Fuero europeo",
+      "D": "Inamovilidad"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 83,
+    "question": "¿Qué órgano decide sobre inculpación, prisión, procesamiento y juicio de parlamentarios por delitos en Euskadi?",
+    "answers": {
+      "A": "Tribunal Superior de Justicia del País Vasco",
+      "B": "Tribunal Supremo siempre",
+      "C": "Parlamento Vasco",
+      "D": "Tribunal Constitucional"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 84,
+    "question": "¿Qué órgano conoce de su responsabilidad penal fuera de Euskadi?",
+    "answers": {
+      "A": "Sala de lo Penal del Tribunal Supremo",
+      "B": "Tribunal Superior vasco",
+      "C": "Parlamento",
+      "D": "Audiencia Nacional siempre"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 85,
+    "question": "¿A quién corresponde la iniciativa legislativa en el Parlamento Vasco?",
+    "answers": {
+      "A": "A miembros del Parlamento, Gobierno e instituciones representativas de los Territorios Históricos",
+      "B": "Solo al Gobierno",
+      "C": "Solo a parlamentarios",
+      "D": "Solo a las Diputaciones"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 86,
+    "question": "¿Qué ley regula la iniciativa legislativa popular vasca?",
+    "answers": {
+      "A": "Ley 10/2016, de 30 de junio",
+      "B": "Ley 5/1990",
+      "C": "Ley 7/1981",
+      "D": "Ley 27/1983"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 87,
+    "question": "¿Cuántas firmas exige esa ley para presentar una proposición de ley?",
+    "answers": {
+      "A": "Al menos 10.000 ciudadanos con condición política vasca",
+      "B": "5.000",
+      "C": "15.000",
+      "D": "38.000"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 88,
+    "question": "¿En qué plazo debe ordenarse la publicación de las leyes?",
+    "answers": {
+      "A": "Quince días desde su aprobación",
+      "B": "Treinta días",
+      "C": "Sesenta días",
+      "D": "Un mes"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 89,
+    "question": "¿Qué instrumentos permiten al Parlamento impulsar y controlar al Gobierno?",
+    "answers": {
+      "A": "Moción de censura, cuestión de confianza, interpelaciones, preguntas y proposiciones no de ley, entre otros",
+      "B": "Solo moción de censura",
+      "C": "Solo preguntas",
+      "D": "Solo cuestión de confianza"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 90,
+    "question": "¿Cómo debe ser la moción de censura vasca?",
+    "answers": {
+      "A": "Constructiva, incluyendo candidato o candidata a Lehendakari",
+      "B": "No constructiva",
+      "C": "Secreta y sin candidato",
+      "D": "Solo consultiva"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 91,
+    "question": "¿Qué mayoría necesita una moción de censura para ser aprobada?",
+    "answers": {
+      "A": "Mayoría absoluta de los miembros de la Cámara",
+      "B": "Mayoría simple",
+      "C": "Tres quintos",
+      "D": "Dos tercios"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 92,
+    "question": "¿Qué sucede si se aprueba una moción de censura?",
+    "answers": {
+      "A": "El Lehendakari dimite y el candidato incluido se entiende designado",
+      "B": "Se convocan automáticamente elecciones",
+      "C": "Dimite todo el Parlamento",
+      "D": "Se disuelve el Gobierno central"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 93,
+    "question": "¿Quién puede plantear la cuestión de confianza?",
+    "answers": {
+      "A": "El Lehendakari, previa deliberación del Gobierno",
+      "B": "El Parlamento",
+      "C": "El Presidente del Parlamento",
+      "D": "El Gobierno central"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 94,
+    "question": "¿Qué mayoría necesita la cuestión de confianza para entenderse otorgada?",
+    "answers": {
+      "A": "Mayoría simple",
+      "B": "Mayoría absoluta",
+      "C": "Tres quintos",
+      "D": "Unanimidad"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 95,
+    "question": "¿Qué sucede si se deniega la confianza?",
+    "answers": {
+      "A": "El Lehendakari dimite y se designa uno nuevo",
+      "B": "Se disuelve automáticamente el Parlamento",
+      "C": "Dimite todo el Gobierno central",
+      "D": "Se aprueba el programa"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 96,
+    "question": "¿Quién elabora los Presupuestos Generales de la CAE?",
+    "answers": {
+      "A": "El Gobierno Vasco",
+      "B": "El Parlamento",
+      "C": "Las Diputaciones",
+      "D": "El Lehendakari individualmente"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 97,
+    "question": "¿Quién fija los criterios de aportación de cada Territorio Histórico?",
+    "answers": {
+      "A": "El Parlamento Vasco",
+      "B": "El Gobierno central",
+      "C": "Las Diputaciones unilateralmente",
+      "D": "El Tribunal de Cuentas"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 98,
+    "question": "¿Qué otra función financiera se vincula al Parlamento respecto de la deuda pública?",
+    "answers": {
+      "A": "La autorización se produce en la práctica con la aprobación de la Ley de Presupuestos correspondiente",
+      "B": "No interviene nunca",
+      "C": "Solo la autoriza el Gobierno",
+      "D": "Solo la autoriza el Estado"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 99,
+    "question": "¿Puede el Parlamento Vasco remitir una proposición de ley a la Mesa del Congreso?",
+    "answers": {
+      "A": "Sí, delegando a sus miembros para defenderla",
+      "B": "No",
+      "C": "Solo con autorización del Senado",
+      "D": "Solo por iniciativa popular"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 100,
+    "question": "¿Puede el Parlamento Vasco interponer recursos de inconstitucionalidad?",
+    "answers": {
+      "A": "Sí",
+      "B": "No",
+      "C": "Solo el Gobierno Vasco",
+      "D": "Solo las Diputaciones"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 101,
+    "question": "¿De quién depende directamente el Tribunal Vasco de Cuentas Públicas?",
+    "answers": {
+      "A": "Del Parlamento Vasco",
+      "B": "Del Gobierno",
+      "C": "Del Tribunal de Cuentas estatal",
+      "D": "De las Diputaciones"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 102,
+    "question": "¿Cómo funciona el Parlamento Vasco?",
+    "answers": {
+      "A": "En Pleno y Comisiones",
+      "B": "Solo en Pleno",
+      "C": "Solo en Comisiones",
+      "D": "En Diputación Permanente exclusivamente"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 103,
+    "question": "¿Cuánto duran como mínimo los períodos ordinarios de sesiones al año?",
+    "answers": {
+      "A": "Ocho meses",
+      "B": "Seis meses",
+      "C": "Nueve meses",
+      "D": "Doce meses"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 104,
+    "question": "¿Cómo deben ser las sesiones extraordinarias?",
+    "answers": {
+      "A": "Con orden del día determinado y se clausuran al agotarlo",
+      "B": "Sin orden del día",
+      "C": "Permanentes",
+      "D": "Solo sobre presupuestos"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 105,
+    "question": "¿Qué órgano tiene funciones ejecutivas y administrativas según el art. 29?",
+    "answers": {
+      "A": "Gobierno Vasco",
+      "B": "Parlamento",
+      "C": "Lehendakari exclusivamente",
+      "D": "Diputaciones"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 106,
+    "question": "¿Cuándo cesa el Gobierno Vasco?",
+    "answers": {
+      "A": "Tras elecciones al Parlamento, pérdida de confianza, dimisión o fallecimiento del Presidente",
+      "B": "Solo por elecciones",
+      "C": "Solo por moción de censura",
+      "D": "Solo por dimisión"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 107,
+    "question": "¿Qué hace el Gobierno cesante hasta la toma de posesión del nuevo?",
+    "answers": {
+      "A": "Continúa en funciones",
+      "B": "Desaparece inmediatamente",
+      "C": "Se convierte en Parlamento",
+      "D": "Queda suspendido"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 108,
+    "question": "¿Qué responsabilidad conserva cada miembro del Gobierno?",
+    "answers": {
+      "A": "Responsabilidad directa por su gestión respectiva",
+      "B": "Ninguna",
+      "C": "Solo responsabilidad penal",
+      "D": "Solo responsabilidad administrativa"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 109,
+    "question": "¿Quién ostenta la más alta representación del País Vasco?",
+    "answers": {
+      "A": "El Lehendakari",
+      "B": "El Presidente del Parlamento",
+      "C": "El Gobierno",
+      "D": "El Ararteko"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 110,
+    "question": "¿Quién ostenta la representación ordinaria del Estado en el territorio vasco?",
+    "answers": {
+      "A": "El Lehendakari",
+      "B": "El Rey directamente",
+      "C": "El Gobierno central",
+      "D": "El Parlamento"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 111,
+    "question": "¿Qué tratamiento recibe el Lehendakari?",
+    "answers": {
+      "A": "Excelencia",
+      "B": "Ilustrísima",
+      "C": "Señoría",
+      "D": "Majestad"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 112,
+    "question": "¿Qué incompatibilidad tiene el cargo de Lehendakari?",
+    "answers": {
+      "A": "Es incompatible con cualquier otro cargo público o privado y profesiones/actividades, salvo el mandato parlamentario vasco",
+      "B": "Solo es incompatible con cargos públicos",
+      "C": "No tiene incompatibilidades",
+      "D": "Solo con actividades mercantiles"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 113,
+    "question": "¿Quién nombra al Lehendakari?",
+    "answers": {
+      "A": "El Rey mediante Real Decreto",
+      "B": "El Parlamento",
+      "C": "El Presidente del Gobierno central",
+      "D": "El Gobierno Vasco"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 114,
+    "question": "¿Quién propone los candidatos a Lehendakari según la Ley de Gobierno?",
+    "answers": {
+      "A": "Los Grupos Políticos con representación parlamentaria",
+      "B": "El Presidente del Parlamento exclusivamente",
+      "C": "El Gobierno saliente",
+      "D": "El Rey"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 115,
+    "question": "¿Qué particularidad existe en la investidura vasca respecto de las candidaturas?",
+    "answers": {
+      "A": "Puede proponerse más de un candidato al mismo tiempo",
+      "B": "Solo puede existir un candidato",
+      "C": "Solo puede proponer el Gobierno",
+      "D": "Solo puede proponerse un candidato independiente"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 116,
+    "question": "¿Qué mayoría se necesita en la segunda votación?",
+    "answers": {
+      "A": "Mayoría simple de los votos válidamente emitidos",
+      "B": "Mayoría absoluta",
+      "C": "Tres quintos",
+      "D": "Unanimidad"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 117,
+    "question": "¿Qué ocurre si pasan 60 días desde la convocatoria para elegir Lehendakari sin elección?",
+    "answers": {
+      "A": "El Lehendakari en funciones disuelve el Parlamento y convoca nuevas elecciones",
+      "B": "El Rey nombra uno directamente",
+      "C": "Se prolonga indefinidamente la investidura",
+      "D": "Se elige automáticamente al candidato más votado"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 118,
+    "question": "¿Qué representa el Lehendakari en las relaciones con los Territorios Históricos?",
+    "answers": {
+      "A": "Al País Vasco",
+      "B": "Solo al Gobierno",
+      "C": "Solo al Parlamento",
+      "D": "Al Estado exclusivamente"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 119,
+    "question": "¿En qué plazo máximo ordena el Lehendakari la publicación de leyes y Decretos-Legislativos?",
+    "answers": {
+      "A": "Quince días",
+      "B": "Treinta días",
+      "C": "Sesenta días",
+      "D": "Diez días"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 120,
+    "question": "¿Puede el Lehendakari disolver el Parlamento?",
+    "answers": {
+      "A": "Sí, previa deliberación del Gobierno",
+      "B": "No nunca",
+      "C": "Solo con autorización de las Cortes",
+      "D": "Solo mediante referéndum"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 121,
+    "question": "¿Quién resuelve los conflictos de competencias entre Departamentos cuando no hay acuerdo?",
+    "answers": {
+      "A": "El Lehendakari",
+      "B": "El Parlamento",
+      "C": "El Tribunal Superior",
+      "D": "El Consejero de Hacienda"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 122,
+    "question": "¿Quién coordina el programa legislativo del Gobierno?",
+    "answers": {
+      "A": "El Lehendakari",
+      "B": "El Parlamento",
+      "C": "El Secretario General",
+      "D": "El Gobierno central"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 123,
+    "question": "¿Quién puede sustituir a miembros del Gobierno en caso de ausencia o enfermedad?",
+    "answers": {
+      "A": "El Lehendakari acuerda su sustitución",
+      "B": "El Parlamento",
+      "C": "El Rey",
+      "D": "El Tribunal Superior"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 124,
+    "question": "¿Cuánto tiempo máximo puede durar la interinidad en la Presidencia por suspensión?",
+    "answers": {
+      "A": "Cuatro meses",
+      "B": "Dos meses",
+      "C": "Seis meses",
+      "D": "Un año"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 125,
+    "question": "¿Qué sucede si transcurren cuatro meses sin desaparecer las causas de suspensión?",
+    "answers": {
+      "A": "El Lehendakari imposibilitado cesa inmediatamente",
+      "B": "Se prorroga seis meses",
+      "C": "Se disuelve el Parlamento",
+      "D": "Se nombra al siguiente consejero"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 126,
+    "question": "¿Qué no puede hacer el Lehendakari en funciones?",
+    "answers": {
+      "A": "Plantear cuestión de confianza ni ser objeto de moción de censura",
+      "B": "Firmar decretos",
+      "C": "Ejercer sus facultades",
+      "D": "Continuar en el cargo"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 127,
+    "question": "¿Qué funciones generales ejerce el Gobierno Vasco?",
+    "answers": {
+      "A": "Iniciativa legislativa, función ejecutiva y potestad reglamentaria",
+      "B": "Solo ejecución",
+      "C": "Solo legislación",
+      "D": "Solo potestad reglamentaria"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 128,
+    "question": "¿Qué porcentaje mínimo de cada sexo debe estar representado en el Gobierno según la Ley citada?",
+    "answers": {
+      "A": "40 %",
+      "B": "30 %",
+      "C": "50 %",
+      "D": "25 %"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 129,
+    "question": "¿Cómo ejerce el Gobierno la delegación legislativa?",
+    "answers": {
+      "A": "Mediante Decretos-Legislativos",
+      "B": "Mediante órdenes",
+      "C": "Mediante resoluciones",
+      "D": "Mediante decretos simples"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 130,
+    "question": "¿Qué puede aprobar el Gobierno mediante Decreto?",
+    "answers": {
+      "A": "Reglamentos para desarrollar y ejecutar leyes en los términos previstos",
+      "B": "Leyes orgánicas estatales",
+      "C": "Tratados internacionales",
+      "D": "Sentencias"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 131,
+    "question": "¿A quién remite el Gobierno los Presupuestos?",
+    "answers": {
+      "A": "Al Parlamento para debate y aprobación",
+      "B": "Al Gobierno central",
+      "C": "Al Senado",
+      "D": "Al Tribunal Constitucional"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 132,
+    "question": "¿Quién ejerce el mando supremo de la Policía Autónoma?",
+    "answers": {
+      "A": "El Gobierno, por medio del Lehendakari",
+      "B": "El Parlamento",
+      "C": "El Consejero de Seguridad exclusivamente",
+      "D": "El Estado"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 133,
+    "question": "¿Quién administra el Patrimonio de la Comunidad Autónoma?",
+    "answers": {
+      "A": "El Gobierno, dentro de los límites legales",
+      "B": "El Parlamento directamente",
+      "C": "El Lehendakari individualmente",
+      "D": "Las Diputaciones"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 134,
+    "question": "¿Quién designa al Secretario o Secretaria del Gobierno?",
+    "answers": {
+      "A": "El Lehendakari",
+      "B": "El Parlamento",
+      "C": "El Consejero de Presidencia",
+      "D": "El Rey"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 135,
+    "question": "¿Qué asistencia mínima se exige para la válida constitución de una reunión del Gobierno?",
+    "answers": {
+      "A": "Lehendakari o sustituto y al menos la mitad de sus miembros",
+      "B": "Todos los consejeros",
+      "C": "Solo la mayoría simple",
+      "D": "Solo el Lehendakari"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 136,
+    "question": "¿Qué carácter tienen las deliberaciones del Gobierno?",
+    "answers": {
+      "A": "Reservado y secreto, incluso para quienes dejan de pertenecer al Gobierno",
+      "B": "Público",
+      "C": "Solo reservado durante la reunión",
+      "D": "No tienen carácter alguno"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 137,
+    "question": "¿Qué pueden hacer los expertos invitados a las reuniones del Gobierno?",
+    "answers": {
+      "A": "Informar sobre el asunto que motivó su presencia, guardando secreto",
+      "B": "Votar los acuerdos",
+      "C": "Adoptar decisiones",
+      "D": "Representar al Gobierno"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 138,
+    "question": "¿Para qué pueden crearse Comisiones Delegadas del Gobierno?",
+    "answers": {
+      "A": "Coordinar directrices y disposiciones, programar política sectorial y preparar reuniones, entre otras funciones",
+      "B": "Sustituir al Parlamento",
+      "C": "Ejercer la función judicial",
+      "D": "Elegir al Lehendakari"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 139,
+    "question": "¿Quién designa libremente a los Consejeros?",
+    "answers": {
+      "A": "El Lehendakari",
+      "B": "El Parlamento",
+      "C": "El Rey",
+      "D": "El Gobierno central"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 140,
+    "question": "¿Cuál puede ser una causa de cese de un Consejero?",
+    "answers": {
+      "A": "Cese o revocación del nombramiento, dimisión, pérdida de confianza parlamentaria o fallecimiento",
+      "B": "Solo dimisión",
+      "C": "Solo elecciones",
+      "D": "Solo revocación"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 141,
+    "question": "¿Qué funciones corresponden a los Consejeros respecto de sus Departamentos?",
+    "answers": {
+      "A": "Representación, dirección y gestión, entre otras",
+      "B": "Solo representación",
+      "C": "Solo dirección política general",
+      "D": "Solo función legislativa"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 142,
+    "question": "¿Qué fija el Decreto de Presidencia al nombrar un Consejero sin cartera?",
+    "answers": {
+      "A": "Su ámbito de funciones y estructuras de apoyo",
+      "B": "Su sueldo únicamente",
+      "C": "Su representación territorial",
+      "D": "Su grupo parlamentario"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 143,
+    "question": "¿Puede existir la figura de Vicepresidente o Vicepresidenta aunque no la mencione el Estatuto?",
+    "answers": {
+      "A": "Sí",
+      "B": "No",
+      "C": "Solo por reforma estatutaria",
+      "D": "Solo durante elecciones"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 144,
+    "question": "¿Forman parte del Gobierno como órgano los altos cargos?",
+    "answers": {
+      "A": "No",
+      "B": "Sí",
+      "C": "Solo los Directores",
+      "D": "Solo los Viceconsejeros"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 145,
+    "question": "¿Cómo se designan los altos cargos?",
+    "answers": {
+      "A": "Por Decreto de Gobierno",
+      "B": "Por elección parlamentaria",
+      "C": "Por Real Decreto",
+      "D": "Por Decreto del Parlamento"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 146,
+    "question": "¿Qué función tienen los Viceconsejeros?",
+    "answers": {
+      "A": "Bajo la dirección del Consejero, ejercen las funciones que les atribuya la estructura y las delegadas",
+      "B": "Dirigen el Gobierno",
+      "C": "Presiden el Parlamento",
+      "D": "Ejercen funciones judiciales"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 147,
+    "question": "¿Cuándo comienza la relación de servicio de los altos cargos?",
+    "answers": {
+      "A": "Con el Decreto de nombramiento",
+      "B": "Con la toma de posesión parlamentaria",
+      "C": "Con la elección",
+      "D": "Con la publicación del presupuesto"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 148,
+    "question": "¿Qué regula el Capítulo V del Título III de la Ley de Gobierno?",
+    "answers": {
+      "A": "Incompatibilidades, Seguridad Social/Mutualidad, regalos y pensión, entre otras cuestiones",
+      "B": "Solo elecciones",
+      "C": "Solo presupuestos",
+      "D": "Solo relaciones internacionales"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 149,
+    "question": "¿A quién se limita actualmente el derecho a pensión vitalicia citado?",
+    "answers": {
+      "A": "A los Lehendakaris y familiares más cercanos",
+      "B": "A todos los Consejeros",
+      "C": "A todos los altos cargos",
+      "D": "A todos los parlamentarios"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 150,
+    "question": "¿Qué regula el Título V de la Ley de Gobierno?",
+    "answers": {
+      "A": "Relaciones entre Gobierno y Parlamento",
+      "B": "Delegación de funciones",
+      "C": "Altos cargos",
+      "D": "Procedimiento administrativo"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 151,
+    "question": "¿Qué regula el Título VI?",
+    "answers": {
+      "A": "Decretos Legislativos",
+      "B": "Delegación de funciones",
+      "C": "Relaciones Gobierno-Parlamento",
+      "D": "Normas generales"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 152,
+    "question": "¿Qué regula el Título VII?",
+    "answers": {
+      "A": "Normas generales sobre elaboración y aprobación de disposiciones y resoluciones administrativas",
+      "B": "Decretos Legislativos",
+      "C": "Relaciones con el Parlamento",
+      "D": "Incompatibilidades"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 153,
+    "question": "¿Qué ley se cita sobre la elaboración de disposiciones de carácter general?",
+    "answers": {
+      "A": "Ley 8/2003, de 22 de diciembre",
+      "B": "Ley 7/1981",
+      "C": "Ley 27/1983",
+      "D": "Ley 10/2016"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 154,
+    "question": "¿Qué institución ejerce las funciones ejecutivas y administrativas?",
+    "answers": {
+      "A": "El Gobierno Vasco",
+      "B": "El Parlamento",
+      "C": "El Tribunal Superior",
+      "D": "El Ararteko"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 155,
+    "question": "¿Quién dirige y coordina la acción del Gobierno?",
+    "answers": {
+      "A": "El Lehendakari",
+      "B": "El Parlamento",
+      "C": "El Secretario del Gobierno",
+      "D": "El Consejero de Presidencia"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 156,
+    "question": "¿Quién determina las relaciones del Gobierno con el Parlamento mediante Ley?",
+    "answers": {
+      "A": "El Parlamento Vasco",
+      "B": "El Gobierno central",
+      "C": "El Lehendakari unilateralmente",
+      "D": "El Rey"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 157,
+    "question": "¿Qué órgano puede ser disuelto por el Lehendakari previa deliberación del Gobierno?",
+    "answers": {
+      "A": "El Parlamento Vasco",
+      "B": "El Gobierno",
+      "C": "Las Juntas Generales",
+      "D": "El Tribunal de Cuentas"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 158,
+    "question": "¿Qué requisito parlamentario existe para la elección del Lehendakari?",
+    "answers": {
+      "A": "Debe ser miembro del Parlamento Vasco",
+      "B": "No necesita ser parlamentario",
+      "C": "Debe ser senador",
+      "D": "Debe ser miembro del Gobierno saliente"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 159,
+    "question": "¿Qué ocurre con el Gobierno tras la pérdida de confianza parlamentaria?",
+    "answers": {
+      "A": "Cesa y continúa en funciones hasta la toma de posesión del nuevo Gobierno",
+      "B": "Se mantiene plenamente",
+      "C": "Se disuelve el Parlamento automáticamente",
+      "D": "Se transforma en Diputación Permanente"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 160,
+    "question": "¿Qué órgano establece los objetivos políticos generales y dirige la Administración?",
+    "answers": {
+      "A": "El Gobierno Vasco",
+      "B": "El Parlamento",
+      "C": "El Tribunal Superior",
+      "D": "El Ararteko"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 161,
+    "question": "¿Qué puede hacer el Gobierno respecto de convenios con Territorios Históricos u otras CCAA?",
+    "answers": {
+      "A": "Autorizar y, en su caso, aprobarlos en los términos previstos",
+      "B": "Firmarlos sin límites",
+      "C": "No intervenir",
+      "D": "Solo comunicarlos al Estado"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 162,
+    "question": "¿Qué sucede con los acuerdos de cooperación con otras CCAA?",
+    "answers": {
+      "A": "Deben ser ratificados por el Parlamento Vasco",
+      "B": "Los ratifica el Gobierno central",
+      "C": "No requieren ratificación",
+      "D": "Los ratifica el Lehendakari"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 163,
+    "question": "¿Qué tipo de normas aprueba el Gobierno para desarrollar y ejecutar leyes del Parlamento?",
+    "answers": {
+      "A": "Reglamentos mediante Decreto",
+      "B": "Leyes ordinarias",
+      "C": "Leyes Orgánicas",
+      "D": "Sentencias"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 164,
+    "question": "¿Qué función tiene el Parlamento respecto de la acción del Gobierno?",
+    "answers": {
+      "A": "La impulsa y controla",
+      "B": "La ejecuta",
+      "C": "La sustituye",
+      "D": "La dirige administrativamente"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 165,
+    "question": "¿Qué órganos forman la arquitectura institucional común de la CAE?",
+    "answers": {
+      "A": "Parlamento y Gobierno Vasco con su Lehendakari",
+      "B": "Solo Gobierno y Diputaciones",
+      "C": "Solo Parlamento y Juntas Generales",
+      "D": "Solo Lehendakari y Ararteko"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 166,
+    "question": "¿Qué ley regula la elección al Parlamento Vasco?",
+    "answers": {
+      "A": "Ley 5/1990, de 15 de junio",
+      "B": "Ley 10/2016",
+      "C": "Ley 7/1981",
+      "D": "Ley 27/1983"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 167,
+    "question": "¿Qué órgano puede solicitar al Gobierno del Estado la adopción de un Proyecto de Ley?",
+    "answers": {
+      "A": "El Parlamento Vasco",
+      "B": "El Gobierno Vasco",
+      "C": "El Ararteko",
+      "D": "Las Juntas Generales"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 168,
+    "question": "¿Qué órgano parlamentario puede establecerse para garantizar la continuidad de la Cámara fuera de períodos ordinarios?",
+    "answers": {
+      "A": "Diputación Permanente",
+      "B": "Mesa del Gobierno",
+      "C": "Consejo de Estado",
+      "D": "Junta de Portavoces del Gobierno"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 169,
+    "question": "¿Qué órgano dirige la organización interna de la Cámara junto al Presidente?",
+    "answers": {
+      "A": "Mesa",
+      "B": "Gobierno Vasco",
+      "C": "Diputación Foral",
+      "D": "Consejo de Gobierno"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 170,
+    "question": "¿Qué protección reciben los parlamentarios por sus opiniones emitidas en el ejercicio del cargo?",
+    "answers": {
+      "A": "Inviolabilidad",
+      "B": "Inhabilitación",
+      "C": "Inmunidad absoluta",
+      "D": "Fuero federal"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 171,
+    "question": "¿Qué órgano debe aprobar el Reglamento del Parlamento por mayoría absoluta?",
+    "answers": {
+      "A": "El propio Parlamento",
+      "B": "El Gobierno",
+      "C": "Las Cortes Generales",
+      "D": "El Rey"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 172,
+    "question": "¿Qué ocurre con una ley vasca para su vigencia?",
+    "answers": {
+      "A": "Rige la fecha de publicación en el BOPV",
+      "B": "Rige siempre la publicación en el BOE",
+      "C": "Rige la fecha de aprobación",
+      "D": "Rige la fecha de promulgación estatal"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 173,
+    "question": "¿Qué instrumento utiliza el Gobierno para establecer Reglamentos?",
+    "answers": {
+      "A": "Decreto",
+      "B": "Ley",
+      "C": "Orden parlamentaria",
+      "D": "Resolución del Parlamento"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 174,
+    "question": "¿Qué órgano puede crear Comisiones Delegadas del Gobierno?",
+    "answers": {
+      "A": "El Gobierno mediante Decreto",
+      "B": "El Parlamento por Ley",
+      "C": "El Rey",
+      "D": "El Tribunal Superior"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 175,
+    "question": "¿Qué papel tienen los Consejeros en la formación de la voluntad del Gobierno?",
+    "answers": {
+      "A": "Concurren a la formación de su voluntad y toma de decisiones",
+      "B": "Solo ejecutan órdenes",
+      "C": "No participan",
+      "D": "Solo asesoran"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 176,
+    "question": "¿Qué instrumento permite al Parlamento controlar la legislación delegada?",
+    "answers": {
+      "A": "El control de la legislación delegada regulado en el Reglamento",
+      "B": "Solo la moción de censura",
+      "C": "Solo la cuestión de confianza",
+      "D": "El Tribunal de Cuentas"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 177,
+    "question": "¿Qué institución es equivalente a un Ombudsman o Defensor del Pueblo?",
+    "answers": {
+      "A": "El Ararteko",
+      "B": "El Tribunal Vasco de Cuentas",
+      "C": "El Lehendakari",
+      "D": "La Mesa"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 178,
+    "question": "¿Qué puede hacer el Parlamento en relación con otras Comunidades Autónomas?",
+    "answers": {
+      "A": "Celebrar convenios y acuerdos de cooperación en los términos previstos",
+      "B": "Celebrar tratados internacionales",
+      "C": "Celebrar tratados con Estados",
+      "D": "No puede relacionarse"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 179,
+    "question": "¿Qué norma constitucional ampara y respeta la actualización de los derechos históricos de los territorios forales?",
+    "answers": {
+      "A": "Disposición Adicional Primera",
+      "B": "Disposición Transitoria Segunda",
+      "C": "Art. 152",
+      "D": "Art. 148"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 180,
+    "question": "¿Qué ley regula la elección de los órganos representativos de los Territorios Históricos?",
+    "answers": {
+      "A": "Ley 1/1987, modificada por la Ley 4/2005",
+      "B": "Ley 5/1990",
+      "C": "Ley 7/1981",
+      "D": "Ley 10/1982"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 181,
+    "question": "¿Qué tipo de sufragio exige el art. 37 para los órganos representativos forales?",
+    "answers": {
+      "A": "Universal, libre, directo y secreto",
+      "B": "Indirecto y censitario",
+      "C": "Solo universal",
+      "D": "Delegado"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 182,
+    "question": "¿Qué instituciones ejercen las competencias de las instituciones comunes de la CAE?",
+    "answers": {
+      "A": "Gobierno y Parlamento Vascos",
+      "B": "Juntas Generales y Diputaciones",
+      "C": "Ayuntamientos",
+      "D": "Cortes Generales"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 183,
+    "question": "¿Qué norma completa la distribución entre instituciones comunes y órganos forales?",
+    "answers": {
+      "A": "LTH",
+      "B": "Ley de Gobierno",
+      "C": "Ley Electoral",
+      "D": "Ley del Euskera"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 184,
+    "question": "¿Qué principio permite que las materias no asumidas por una Comunidad correspondan al Estado?",
+    "answers": {
+      "A": "Cláusula de cierre del art. 149.3",
+      "B": "Principio dispositivo",
+      "C": "Principio de autonomía",
+      "D": "Principio de solidaridad"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 185,
+    "question": "¿Qué artículo permite leyes-marco para ampliar competencias?",
+    "answers": {
+      "A": "150.1",
+      "B": "150.2",
+      "C": "149.3",
+      "D": "148.2"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 186,
+    "question": "¿Qué nivel de autonomía tienen hoy las CCAA según el temario, salvo las forales?",
+    "answers": {
+      "A": "El máximo previsto por la Constitución",
+      "B": "El mínimo",
+      "C": "El nivel del art. 143 inicial",
+      "D": "Niveles distintos según su fecha de creación"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 187,
+    "question": "¿Qué competencia vasca se relaciona directamente con el Concierto Económico?",
+    "answers": {
+      "A": "La Hacienda vasca",
+      "B": "La educación",
+      "C": "La justicia",
+      "D": "La policía"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 188,
+    "question": "¿Qué institución dirige la Administración del País Vasco?",
+    "answers": {
+      "A": "El Gobierno Vasco",
+      "B": "El Parlamento",
+      "C": "El Lehendakari individualmente",
+      "D": "El Ararteko"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 189,
+    "question": "¿Quién dirige cada Departamento del Gobierno?",
+    "answers": {
+      "A": "El Consejero o Consejera titular",
+      "B": "El Lehendakari exclusivamente",
+      "C": "El Parlamento",
+      "D": "El Secretario del Gobierno"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 190,
+    "question": "¿Pueden los Consejeros resolver recursos administrativos?",
+    "answers": {
+      "A": "Sí",
+      "B": "No",
+      "C": "Solo con autorización parlamentaria",
+      "D": "Solo los Viceconsejeros"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 191,
+    "question": "¿Quién propone los proyectos de ley relacionados con su ámbito?",
+    "answers": {
+      "A": "El Consejero o Consejera, dentro de sus competencias",
+      "B": "El Ararteko",
+      "C": "El Parlamento",
+      "D": "El Tribunal Superior"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 192,
+    "question": "¿Qué ocurre con el cargo de un Consejero sin cartera cuando cesa?",
+    "answers": {
+      "A": "Se extingue",
+      "B": "Pasa al Parlamento",
+      "C": "Se convierte en Viceconsejero",
+      "D": "Se mantiene automáticamente"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 193,
+    "question": "¿Qué relación tienen los altos cargos con la Comunidad Autónoma?",
+    "answers": {
+      "A": "Una relación de servicio",
+      "B": "Una relación parlamentaria",
+      "C": "Una relación judicial",
+      "D": "Una relación electoral"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 194,
+    "question": "¿Cuándo finaliza la relación de servicio de un alto cargo?",
+    "answers": {
+      "A": "Por cese o dimisión",
+      "B": "Solo por elecciones",
+      "C": "Solo por fallecimiento",
+      "D": "Solo por sentencia"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 195,
+    "question": "¿Qué potestad puede ejercer el Gobierno mediante Decretos-Legislativos?",
+    "answers": {
+      "A": "La potestad legislativa delegada por el Parlamento en los términos legales",
+      "B": "La reforma constitucional",
+      "C": "La potestad judicial",
+      "D": "La aprobación de Estatutos"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 196,
+    "question": "¿Qué órgano del Gobierno coordina el programa legislativo?",
+    "answers": {
+      "A": "El Lehendakari",
+      "B": "El Secretario del Gobierno",
+      "C": "El Parlamento",
+      "D": "El Consejero de Justicia"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 197,
+    "question": "¿Qué requisito se exige para que una reunión del Gobierno esté válidamente constituida?",
+    "answers": {
+      "A": "Asistencia del Lehendakari o sustituto y al menos la mitad de sus miembros",
+      "B": "Asistencia de todos",
+      "C": "Solo mayoría de Consejeros",
+      "D": "Solo presencia del Secretario"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 198,
+    "question": "¿Qué obligación tienen los miembros del Gobierno sobre sus deliberaciones?",
+    "answers": {
+      "A": "Mantener el secreto incluso después de dejar el Gobierno",
+      "B": "Publicarlas anualmente",
+      "C": "Entregarlas al Parlamento",
+      "D": "No tienen obligación"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 199,
+    "question": "¿Quién autoriza la presencia de expertos en las reuniones del Gobierno?",
+    "answers": {
+      "A": "El Lehendakari",
+      "B": "El Parlamento",
+      "C": "El Secretario",
+      "D": "El Consejero de Hacienda"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 200,
+    "question": "¿Cuál es la finalidad de las Comisiones Delegadas?",
+    "answers": {
+      "A": "Coordinar directrices y disposiciones y asuntos comunes de varios Departamentos",
+      "B": "Sustituir al Parlamento",
+      "C": "Ejercer control judicial",
+      "D": "Nombrar altos cargos"
+    },
+    "correct": "A"
+  }
+]

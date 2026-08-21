@@ -63,62 +63,133 @@ export class QuizPage {
 
   async ionViewWillEnter() {
 
+    // Limpiar siempre el estado anterior
+    this.question = null
+    this.pool = []
+    this.index = 0
+    this.answered = false
+    this.selected = ''
+    this.showAnswer = false
+    this.trackUsed = true
+
     const questions: SelectedQuestion[] = history.state?.questions || [];
 
-    if (questions && questions.length > 0) {
+    /*
+    * QUIZ PERSONALIZADO
+    */
+    if (questions.length > 0) {
 
       const all = await this.qs.getCombined();
 
       this.pool = all.filter(q =>
-        questions.some(sel => sel.id === q.id && sel.type === q.type)
+        questions.some(
+          sel => sel.id === q.id && sel.type === q.type
+        )
       );
 
       this.trackUsed = false
-      this.modeTitle = "Quiz personalizado";
+      this.modeTitle = 'Quiz personalizado';
 
-    } else {
+    }
+
+    /*
+    * QUIZ POR TEMA
+    */
+    else {
 
       const mode = this.route.snapshot.queryParamMap.get('mode');
 
-      if (mode === 'general'){
-        this.pool = await this.qs.getGeneral()
-        this.modeTitle = "Temario General"
+      console.log('==============================')
+      console.log('MODO SELECCIONADO:', mode)
+      console.log('==============================')
+
+      if (mode && mode !== 'combined') {
+
+        console.log('Cargando archivo:', `${mode}.json`)
+
+        this.pool = await this.qs.getTema(mode)
+
+        if (mode.startsWith('tema')) {
+
+          this.modeTitle = mode.replace(
+            'tema',
+            'Tema '
+          )
+
+        } else if (mode === 'ivap-general-2026') {
+
+          this.modeTitle = 'IVAP GENERAL 2026'
+
+        } else if (mode === 'ivap-administrativo-2022') {
+
+          this.modeTitle = 'IVAP ADMINISTRATIVO 2022'
+
+        } else {
+
+          this.modeTitle = mode
+
+        }
       }
 
-      else if (mode === 'specific'){
-        this.pool = await this.qs.getSpecific()
-        this.modeTitle = "Temario Específico"
-      }
+      /*
+      * CONJUNTO
+      */
+      else {
 
-      else{
+        console.log('Cargando conjunto')
+
         this.pool = await this.qs.getCombined()
-        this.modeTitle = "Temario Común"
+
+        this.modeTitle = 'Conjunto'
       }
     }
 
-    const stats = await this.statsService.getStats() as Record<string, any>
-    /* mezcla ligera */
-    this.pool = this.pool.sort(()=>Math.random()-0.5)
+    /*
+    * ESTADÍSTICAS
+    */
+    const stats =
+      await this.statsService.getStats() as Record<string, any>
 
-    /* ordenar por dificultad */
-    this.pool = this.pool.sort((a,b)=>{
+    /*
+    * Mezcla ligera
+    */
+    this.pool = this.pool.sort(
+      () => Math.random() - 0.5
+    )
 
-      const statA = stats[`${a.id}_${a.type}`]
-      const statB = stats[`${b.id}_${b.type}`]
+    /*
+    * Ordenar por dificultad
+    */
+    this.pool = this.pool.sort((a, b) => {
 
-      console.log("STAT A", statA)
-      
-      const ratioA = this.statsService.getRatio(statA)
-      const ratioB = this.statsService.getRatio(statB)
+      const statA =
+        stats[`${a.id}_${a.type}`]
+
+      const statB =
+        stats[`${b.id}_${b.type}`]
+
+      const ratioA =
+        this.statsService.getRatio(statA)
+
+      const ratioB =
+        this.statsService.getRatio(statB)
 
       return ratioA - ratioB
-
     })
+
+    console.log('Tema:', this.modeTitle)
+    console.log('Preguntas cargadas:', this.pool.length)
+    console.log('Primeras preguntas:', this.pool.slice(0, 3))
 
     this.totalQuestions = this.pool.length
     this.index = 0
 
-    this.load()
+    if (this.pool.length === 0) {
+      console.error('NO HAY PREGUNTAS PARA ESTE TEMA')
+      return
+    }
+
+    await this.load()
   }
 
   async load(){

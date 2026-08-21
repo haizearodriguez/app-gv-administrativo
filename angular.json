@@ -22,7 +22,7 @@
               "base": "www",
               "browser": ""
             },
-            "baseHref": "/app-osakidetza/",
+            "baseHref": "/app-gv-adm/",
             "index": "src/index.html",
             "polyfills": [
               "src/polyfills.ts"

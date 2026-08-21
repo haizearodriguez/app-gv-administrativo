@@ -1,50 +1,39 @@
 import { Injectable } from '@angular/core'
-import { HttpClient } from '@angular/common/http'
 
 @Injectable({
   providedIn: 'root'
 })
-export class StorageService{
+export class StorageService {
 
-  store:any = {}
+  store: any = {}
 
-  constructor(private http:HttpClient){}
+  constructor() {}
 
-  async init(){
+  async init() {
 
     const saved = localStorage.getItem('app-storage')
 
-    if(saved){
-      this.store = JSON.parse(saved)
-      return
+    if (saved) {
+      try {
+        this.store = JSON.parse(saved)
+      } catch {
+        this.store = {}
+      }
     }
-
-    const general = await this.http
-      .get('assets/data/general.json')
-      .toPromise()
-
-    const specific = await this.http
-      .get('assets/data/specific.json')
-      .toPromise()
-
-    this.store.questions_general = general
-    this.store.questions_specific = specific
-
-    this.save()
   }
 
-  save(){
+  save() {
     localStorage.setItem(
       'app-storage',
       JSON.stringify(this.store)
     )
   }
 
-  async get(key:string){
+  async get(key: string) {
     return this.store[key]
   }
 
-  async set(key:string,value:any){
+  async set(key: string, value: any) {
     this.store[key] = value
     this.save()
   }
@@ -56,7 +45,6 @@ export class StorageService{
 
 }
 
-export function initStorage(storage:StorageService){
+export function initStorage(storage: StorageService) {
   return () => storage.init()
 }
-
