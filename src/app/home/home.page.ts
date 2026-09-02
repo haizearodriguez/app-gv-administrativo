@@ -1,19 +1,21 @@
 import { Component, OnInit } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { FormsModule } from '@angular/forms';
-import { IonContent, IonHeader, IonTitle, IonToolbar, IonButton, IonIcon } from '@ionic/angular/standalone';
-import { RouterLink } from '@angular/router';
+import { IonContent, IonButton } from '@ionic/angular/standalone';
+import { ActivatedRoute, Router } from '@angular/router';
 
 @Component({
   selector: 'app-home',
   templateUrl: './home.page.html',
   styleUrls: ['./home.page.scss'],
   standalone: true,
-  imports: [CommonModule, IonButton, IonContent, FormsModule, RouterLink, IonIcon]
+  imports: [
+    CommonModule,
+    IonContent,
+    IonButton
+  ]
 })
 export class HomePage implements OnInit {
 
-  // Añade aquí todos los temas que vayas a tener
   temas = [
     'tema1',
     'tema2',
@@ -51,24 +53,83 @@ export class HomePage implements OnInit {
     'tema34'
   ];
 
-  ivap = [
-    {
-      id: 'ivap-general-2026',
-      nombre: 'IVAP GENERAL 2026'
-    },
-    {
-      id: 'ivap-administrativo-2022',
-      nombre: 'IVAP ADMINISTRATIVO 2022'
-    }
-  ];
+  source = 'all';
 
-  constructor() { }
+  nombreFuente = 'Todas las fuentes';
+
+  constructor(
+    private route: ActivatedRoute,
+    private router: Router
+  ) {}
 
   ngOnInit() {
+
+    this.route.queryParamMap.subscribe(params => {
+
+      this.source =
+        params.get('source') || 'all';
+
+      this.actualizarNombreFuente();
+
+    });
+
+  }
+
+  actualizarNombreFuente() {
+
+    switch (this.source) {
+
+      case 'examen-2022':
+        this.nombreFuente = 'Examen 2022';
+        break;
+
+      case 'bateria-2026':
+        this.nombreFuente = 'Batería 2026';
+        break;
+
+      case 'chatgpt':
+        this.nombreFuente = 'ChatGPT';
+        break;
+
+      default:
+        this.nombreFuente = 'Todas las fuentes';
+        break;
+    }
+
+  }
+
+  empezarTema(tema: string) {
+
+    console.log('Tema:', tema);
+    console.log('Fuente:', this.source);
+
+    this.router.navigate(
+      ['/tabs/quiz'],
+      {
+        queryParams: {
+          mode: tema,
+          source: this.source
+        }
+      }
+    );
+
+  }
+
+  cambiarFuente() {
+
+    this.router.navigate(
+      ['/tabs/fuente']
+    );
+
   }
 
   getNombreTema(tema: string): string {
-    return tema.replace('tema', 'Tema ');
+
+    return tema.replace(
+      'tema',
+      'Tema '
+    );
+
   }
 
 }

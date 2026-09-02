@@ -1,0 +1,76 @@
+<ion-content class="fuente">
+
+  <div class="fuente-wrapper">
+
+    <div class="header-card">
+
+      <div class="app-badge">
+        OPE Gobierno Vasco 2026
+      </div>
+
+      <div class="title">
+
+        <h1>
+          Administrativo
+        </h1>
+
+        <p>
+          Prepara tu examen con preguntas reales
+        </p>
+
+      </div>
+
+    </div>
+
+
+    <div class="source-selector">
+
+      <div class="source-title">
+        ¿De donde quieres las preguntas?
+      </div>
+
+
+      <ion-button
+        class="source-card"
+        (click)="seleccionarFuente('examen-2022')"
+        shape="round">
+
+        EXAMEN 2022
+
+      </ion-button>
+
+
+      <ion-button
+        class="source-card"
+        (click)="seleccionarFuente('bateria-2026')"
+        shape="round">
+
+        BATERÍA 2026
+
+      </ion-button>
+
+
+      <ion-button
+        class="source-card"
+        (click)="seleccionarFuente('chatgpt')"
+        shape="round">
+
+        CHATGPT
+
+      </ion-button>
+
+
+      <ion-button
+        class="source-card"
+        (click)="seleccionarFuente('all')"
+        shape="round">
+
+        TODAS
+
+      </ion-button>
+
+    </div>
+
+  </div>
+
+</ion-content>

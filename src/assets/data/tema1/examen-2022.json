@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "question": "De acuerdo con la Constitución española, es un valor superior del ordenamiento jurídico español:",
+    "answers": {
+      "A": "La soberanía nacional.",
+      "B": "El estado social.",
+      "C": "La igualdad.",
+      "D": "La democracia."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 2,
+    "question": "De acuerdo con la Constitución española, la forma política del Estado español es:",
+    "answers": {
+      "A": "La Monarquía constitucional.",
+      "B": "La democracia parlamentaria.",
+      "C": "La Monarquía parlamentaria.",
+      "D": "La Monarquía democrática."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 3,
+    "question": "El carácter supremo de la Constitución significa:",
+    "answers": {
+      "A": "Que no puede ser reformada si no es mediante los procedimientos recogidos para la reforma de otras normas.",
+      "B": "Que solo puede ser reformada a través de una ley de reforma.",
+      "C": "Que en ningún caso puede ser reformada por los poderes del Estado.",
+      "D": "Que los poderes públicos no pueden ignorar ni alterar sus preceptos."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 4,
+    "question": "La Constitución garantiza los siguientes principios (indíquese la respuesta INCORRECTA):",
+    "answers": {
+      "A": "La jerarquía normativa.",
+      "B": "La retroactividad de las disposiciones sancionadoras no favorables.",
+      "C": "El principio de legalidad.",
+      "D": "La interdicción de la arbitrariedad de los poderes públicos."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 5,
+    "question": "El Tribunal Constitucional español:",
+    "answers": {
+      "A": "Es un órgano político, pero independiente en el ejercicio de su función.",
+      "B": "Solo está sujeto a la Constitución y normas con rango de ley.",
+      "C": "Es un órgano jurisdiccional que se encuentra en la cúspide del Poder Judicial.",
+      "D": "Es el órgano encargado de realizar el llamado control de constitucionalidad de las nor-mas con rango de ley."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 6,
+    "question": "Las normas forales fiscales de los Territorios Históricos de Gipuzkoa, Bizkaia y Álava pue-den ser declaradas inconstitucionales:",
+    "answers": {
+      "A": "Únicamente por el Tribunal Constitucional.",
+      "B": "Por los tribunales ordinarios, pues no son normas con rango de ley.",
+      "C": "Por el Tribunal Superior de Justicia del País Vasco.",
+      "D": "Por el Tribunal Constitucional y los tribunales ordinarios."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 7,
+    "question": "De acuerdo con la Constitución española, el Defensor del Pueblo:",
+    "answers": {
+      "A": "Es designado por el Gobierno para la defensa de los derechos comprendidos en el Tí-tulo I.",
+      "B": "Debe dar cuenta periódica de su actuación al Gobierno.",
+      "C": "Lleva a cabo sus competencias ejecutivas a través de expedientes y recomendacio-nes.",
+      "D": "Supervisará la actuación de la administración pública para detectar posibles vulneracio-nes de los derechos del Título I."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 8,
+    "question": "Los «Principios rectores de la política social y económica» recogidos en el Título I, Capí-tulo 3.º de la Constitución:",
+    "answers": {
+      "A": "Son derechos subjetivos en sentido estricto.",
+      "B": "Son mandatos dirigidos a los poderes públicos para orientar su actuación.",
+      "C": "Son directamente invocables ante los tribunales ordinarios sin necesidad de una ley que los desarrolle.",
+      "D": "Podrán ser invocados ante el Tribunal Constitucional mediante el recurso de amparo constitucional."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 9,
+    "question": "De acuerdo con la Constitución española, el sistema tributario deberá ajustarse a los si-guientes caracteres (indíquese la respuesta INCORRECTA):",
+    "answers": {
+      "A": "Será un sistema proporcional.",
+      "B": "No tendrá carácter confiscatorio.",
+      "C": "Estará inspirado en los principios de igualdad y progresividad.",
+      "D": "Todos contribuirán de acuerdo con su capacidad económica."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 10,
+    "question": "El derecho a la vida y a la integridad física y moral recogido en el art. 15 de la Constitu-ción española:",
+    "answers": {
+      "A": "Debe ser regulado por una norma con rango de ley.",
+      "B": "No puede ser ejercido por los ciudadanos hasta su desarrollo por ley.",
+      "C": "Debe ser regulado por ley orgánica.",
+      "D": "Puede ser regulado reglamentariamente sin necesidad de una ley."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 11,
+    "question": "El Defensor del Pueblo en su actuación (indíquese la respuesta INCORRECTA):",
+    "answers": {
+      "A": "Puede presentar demandas ante los tribunales ordinarios.",
+      "B": "Puede interponer recursos de inconstitucionalidad ante el Tribunal Constitucional.",
+      "C": "No puede hacer sugerencias y recomendaciones a la Administración y a las Cortes.",
+      "D": "Puede interponer recursos de amparo ante el Tribunal Constitucional. Tema 1 5"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 12,
+    "question": "Ante una vulneración del art. 47 de la Constitución que reconoce el derecho a disfrutar de una vivienda digna y adecuada, el ciudadano puede:",
+    "answers": {
+      "A": "Interponer directamente un recurso de amparo ante el Tribunal Constitucional.",
+      "B": "Solicitar la tutela de los jueces y tribunales ordinarios mediante un procedimiento prefe-rente y sumario.",
+      "C": "Interponer un recurso de amparo ante el Tribunal Constitucional después de haber ago-tado la vía ante los tribunales ordinarios.",
+      "D": "Solicitar la tutela de los jueces y tribunales ordinarios de acuerdo con lo que dispongan las leyes que lo desarrollan."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 13,
+    "question": "El recurso de amparo ante el Tribunal Constitucional NO podrá ser interpuesto por:",
+    "answers": {
+      "A": "El Gobierno o cualquiera de las Cámaras.",
+      "B": "El Defensor del Pueblo.",
+      "C": "El Ministerio Fiscal.",
+      "D": "La persona directamente afectada por el acto u omisión recurrido."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 14,
+    "question": "¿Puede cualquier persona física interponer una demanda ante el Tribunal Europeo de De-rechos Humanos (TEDH) de Estrasburgo si considera que ha habido una violación de un derecho recogido en el Convenio Europeo de los Derechos Humanos y las Libertades Fundamentales de la Persona, con arreglo a los cuales deben interpretarse los derechos recogidos en la Constitución?:",
+    "answers": {
+      "A": "Sí, las personas físicas pueden acceder directamente al TEDH sin necesidad de acudir antes a la vía judicial ordinaria.",
+      "B": "Sí, cualquier persona física puede acceder al TEDH después de haber agotado la vía ju-risdiccional ordinaria.",
+      "C": "Sí, cualquier persona física puede acceder al TEDH después de agotar todas las vías in-ternas, incluido, en su caso, el recurso de amparo ante el Tribunal Constitucional.",
+      "D": "No, al TEDH no pueden acceder las personas físicas directamente."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 15,
+    "question": "La declaración del estado de alarma puede traer consigo:",
+    "answers": {
+      "A": "Una limitación en el ejercicio del derecho a la libre circulación de personas o vehícu­ los.",
+      "B": "La suspensión de la inviolabilidad del domicilio y el secreto de las comunicaciones.",
+      "C": "La suspensión del derecho de toda persona detenida a ser informada de sus derechos y de las razones de la detención.",
+      "D": "La suspensión de los derechos de reunión y manifestación."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 16,
+    "question": "De acuerdo con la Disposición Adicional Primera de la Constitución española:",
+    "answers": {
+      "A": "La Constitución reconoce y confirma los derechos históricos de los territorios forales.",
+      "B": "La Constitución ampara y respeta los derechos históricos de los territorios forales.",
+      "C": "La Constitución confirma los derechos históricos de los territorios forales.",
+      "D": "La Constitución confirma y desarrolla los derechos históricos de los territorios forales."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 17,
+    "question": "Los derechos recogidos en los artículos 15-29 de la Constitución cuentan con un sistema reforzado de garantías, como son (indíquese la respuesta INCORRECTA):",
+    "answers": {
+      "A": "Se regulan necesariamente por ley ordinaria y no por reglamento.",
+      "B": "Su reforma exige un procedimiento agravado.",
+      "C": "Protección del Tribunal Constitucional mediante el recurso de amparo.",
+      "D": "Protección jurisdiccional de los tribunales ordinarios a través de un procedimiento pre-ferente y sumario."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 18,
+    "question": "El Tribunal Constitucional consta de:",
+    "answers": {
+      "A": "10 magistrados.",
+      "B": "12 magistrados, nombrados por el Rey.",
+      "C": "10 magistrados, elegidos por el Gobierno.",
+      "D": "12 magistrados, elegidos por las Cortes."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 19,
+    "question": "¿Cuál de estas funciones NO corresponde al Tribunal Constitucional?:",
+    "answers": {
+      "A": "Resolver conflictos de competencia entre el Estado y las Comunidades Autónomas.",
+      "B": "Conocer del recurso de amparo por violación de los derechos y libertades fundamenta-les referidos en el artículo 53.2 de la Constitución.",
+      "C": "Conocer del recurso de inconstitucionalidad contra leyes y disposiciones normativas con fuerza de ley.",
+      "D": "Resolver los conflictos de competencia entre el Estado y las instituciones de la Unión Europea."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 20,
+    "question": "De acuerdo con la regulación relativa a los derechos fundamentales establecida por la Constitución, ¿cuál de las siguientes respuestas es INCORRECTA?:",
+    "answers": {
+      "A": "La interpretación de los derechos y libertades recogidos en la Constitución debe ha-cerse de conformidad con la Declaración Universal de Derechos Humanos y los trata-dos y acuerdos internacionales sobre las mismas materias ratificados por España.",
+      "B": "Los derechos fundamentales recogidos en la Constitución pueden tener límites.",
+      "C": "Además de las personas físicas, también las personas jurídicas pueden ser titulares de algunos derechos fundamentales.",
+      "D": "Los extranjeros son, al igual que los españoles, titulares de todos los derechos funda-mentales, si bien se les puede limitar el ejercicio de alguno de ellos en los términos que establezcan los tratados y la ley. Tema 2 7 Tema 2"
+    },
+    "correct": "D"
+  }
+]

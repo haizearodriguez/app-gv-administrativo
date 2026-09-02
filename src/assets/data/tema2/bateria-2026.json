@@ -1,0 +1,288 @@
+[
+  {
+    "id": 27,
+    "question": "La administración local en España está integrada por:",
+    "answers": {
+      "A": "Municipios.",
+      "B": "Provincias.",
+      "C": "Municipios y provincias.",
+      "D": "Comunidades Autónomas."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 28,
+    "question": "A tenor de lo establecido en la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local (LBRL), ¿cuáles de estas realidades son Entidades Locales territoriales?:",
+    "answers": {
+      "A": "Las comarcas.",
+      "B": "Las islas.",
+      "C": "Las áreas metropolitanas.",
+      "D": "Las respuestas anteriores no son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 29,
+    "question": "A tenor de lo establecido en la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local (LBRL), ¿cuáles de estas realidades son Entidades Locales?:",
+    "answers": {
+      "A": "Las mancomunidades.",
+      "B": "Los municipios.",
+      "C": "Las comarcas.",
+      "D": "Las respuestas a) y b) son correctas."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 30,
+    "question": "La organización institucional de los Territorios Históricos Vascos la conforman:",
+    "answers": {
+      "A": "Las Juntas Generales y las Diputaciones forales.",
+      "B": "Las provincias y los municipios.",
+      "C": "Los municipios y las diputaciones.",
+      "D": "Las Juntas Generales y los municipios."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 31,
+    "question": "¿Cuál de estos principios es un principio del Régimen Local?:",
+    "answers": {
+      "A": "Principio imperativo.",
+      "B": "Principio de autonomía.",
+      "C": "Principio de suficiencia financiera.",
+      "D": "Las tres respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 32,
+    "question": "Atendiendo al art. 4 de la Ley de Bases de Régimen Local, ¿qué potestades corresponden a los Municipios, Provincias e Islas en el desempeño de sus funciones?:",
+    "answers": {
+      "A": "La potestad reglamentaria.",
+      "B": "La potestad tributaria y financiera.",
+      "C": "La potestad de ejecución forzosa.",
+      "D": "Las tres respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 33,
+    "question": "¿Cuál de las siguientes afirmaciones en torno a la Provincia es correcta?:",
+    "answers": {
+      "A": "Su órgano de gobierno es la Diputación Provincial.",
+      "B": "Su órgano de gobierno es la Diputación Foral.",
+      "C": "Se organiza en Juntas Generales y Diputaciones.",
+      "D": "Surgen mediante Real Decreto en 1812."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 34,
+    "question": "¿Cuáles son los órganos de carácter necesario que integran las provincias?:",
+    "answers": {
+      "A": "Los diputados.",
+      "B": "Los presidentes y vicepresidentes.",
+      "C": "Las juntas de gobierno.",
+      "D": "Las respuestas b) y c) son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 35,
+    "question": "Las funciones del Presidente de una Diputación Provincial son:",
+    "answers": {
+      "A": "Representar a la Diputación.",
+      "B": "Fijar la normativa de esa Diputación.",
+      "C": "Coordinar la acción de los municipios en su ámbito territorial.",
+      "D": "Las respuestas a) y b) son correctas."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 36,
+    "question": "Las funciones del Pleno de la Diputación Provincial son:",
+    "answers": {
+      "A": "Representar a la Diputación.",
+      "B": "Desarrollar la gestión económica de acuerdo con el presupuesto.",
+      "C": "La aprobación de planes de carácter provincial.",
+      "D": "Inspeccionar, impulsar y dirigir los servicios y obras."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 37,
+    "question": "Atendiendo al art. 36.1 LBRL, ¿cuál de estas competencias es una competencia propia de la Diputación Provincial?:",
+    "answers": {
+      "A": "La dirección de la política municipal en su ámbito territorial.",
+      "B": "La fiscalización del gasto de los municipios sitos en su ámbito territorial.",
+      "C": "El fomento y la administración de los intereses peculiares de la provincia.",
+      "D": "Las tres respuestas anteriores no son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 38,
+    "question": "¿Cuál de las siguientes afirmaciones en relación con el Municipio es correcta?:",
+    "answers": {
+      "A": "El gobierno y la administración municipal, salvo en los municipios que funcionan en sistema de concejo abierto, corresponde al ayuntamiento integrado por el alcalde y los concejales.",
+      "B": "El alcalde es elegido directamente por los vecinos del municipio mediante sufragio universal, igual, libre, directo y secreto.",
+      "C": "Para ser elegido alcalde se requiere la mayoría simple de los votos de los concejales; de no alcanzarse dicha mayoría, será alcalde el cabeza de la lista más votada.",
+      "D": "Todas las respuestas anteriores son correctas."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 39,
+    "question": "¿Cuál de estas competencias no es una competencia que deberá ejercer en todo caso el Municipio?:",
+    "answers": {
+      "A": "Protección civil.",
+      "B": "Prestación socio-sanitaria.",
+      "C": "Prestación de servicios sociales.",
+      "D": "Seguridad en lugares públicos."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 40,
+    "question": "El modelo unitario de organización territorial de un Estado se caracteriza por lo siguiente:",
+    "answers": {
+      "A": "Sufre un cambio sustancial a partir de la Constitución de Estados Unidos (1787).",
+      "B": "Existe un solo conjunto de instituciones que son competentes en todo el territorio del Estado.",
+      "C": "Es la forma de organización territorial de estados como Rusia o India.",
+      "D": "Las respuestas a) y c) son correctas."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 41,
+    "question": "El estado regional es una forma de organización territorial propia de un Estado:",
+    "answers": {
+      "A": "Unitario.",
+      "B": "Centralizado.",
+      "C": "Compuesto.",
+      "D": "Ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 42,
+    "question": "El art. 2 de la CE de 1978 garantiza el derecho a la autonomía a:",
+    "answers": {
+      "A": "Provincias.",
+      "B": "Naciones.",
+      "C": "Nacionalidades y regiones.",
+      "D": "Ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 43,
+    "question": "¿Cuáles son los principios constitucionales sobre los que se asienta la estructura territorial del Estado a tenor de lo establecido en la CE de 1978?:",
+    "answers": {
+      "A": "Unidad.",
+      "B": "Autonomía.",
+      "C": "Solidaridad.",
+      "D": "Las tres respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 44,
+    "question": "El principio de unidad implica:",
+    "answers": {
+      "A": "En cuanto al Derecho, que el ordenamiento jurídico español es único.",
+      "B": "El pueblo es único.",
+      "C": "El territorio español es un ámbito jurídico-político y económico único, unitario.",
+      "D": "Las tres respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 45,
+    "question": "¿Cuál de las siguientes afirmaciones sobre el principio de autonomía es correcta?:",
+    "answers": {
+      "A": "Se trata de un poder limitado, pues la autonomía no es soberanía.",
+      "B": "La autonomía es general, es decir, se predica de todos los niveles territoriales.",
+      "C": "Las respuestas a) y b) son correctas.",
+      "D": "Es un principio proporcional."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 46,
+    "question": "¿Cuántos procedimientos contempla la CE de 1978 para el acceso a la autonomía?:",
+    "answers": {
+      "A": "Dos.",
+      "B": "Tres.",
+      "C": "Cuatro.",
+      "D": "Cinco."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 47,
+    "question": "La organización institucional de las Comunidades Autónomas se compone de:",
+    "answers": {
+      "A": "Asamblea legislativa.",
+      "B": "Consejo de gobierno.",
+      "C": "Presidente.",
+      "D": "Las tres respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 48,
+    "question": "Los Tribunal Superiores de Justicia de las Comunidades Autónomas son órganos jurisdiccionales:",
+    "answers": {
+      "A": "Del Estado.",
+      "B": "Del Estado y de las Comunidades Autónomas.",
+      "C": "Las respuestas a) y b) son correctas.",
+      "D": "Ninguna de las tres respuestas anteriores es correcta."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 49,
+    "question": "¿Cuál de estas denominaciones se equipara con la denominación de Asamblea legislativa en alguna de las 17 Comunidades Autónomas que conforman la organización territorial del Estado español?:",
+    "answers": {
+      "A": "Cortes.",
+      "B": "Junta General.",
+      "C": "Las respuestas a) y b) son correctas.",
+      "D": "Cortes generales."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 50,
+    "question": "Las funciones propias de las Asambleas legislativas de las Comunidades Autónomas son:",
+    "answers": {
+      "A": "Elegir al presidente de la Comunidad Autónoma.",
+      "B": "Levar a cabo el control del gobierno.",
+      "C": "Ejercer la potestad legislativa.",
+      "D": "Las tres respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 51,
+    "question": "La moción de reprobación puede presentarse contra:",
+    "answers": {
+      "A": "Un ministro.",
+      "B": "Un consejero de una Comunidad Autónoma.",
+      "C": "Un presidente de una Comunidad Autónoma.",
+      "D": "El presidente del gobierno."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 52,
+    "question": "A tenor de lo establecido en el art. 147.2 de la CE de 1978 el contenido mínimo de los Estatutos de Autonomía ha de ser:",
+    "answers": {
+      "A": "Denominación de la Comunidad Autónoma.",
+      "B": "Delimitación de su territorio.",
+      "C": "Las competencias asumidas dentro del marco de la Constitución.",
+      "D": "Las tres respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  }
+]

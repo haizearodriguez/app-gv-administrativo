@@ -1,46 +1,69 @@
 <ion-content class="home">
+
   <div class="home-wrapper">
 
-    <!-- Header -->
+    <!-- CABECERA -->
+
     <div class="header-card">
-      <div class="app-badge">OPE Gobierno Vasco 2026</div>
-      <div class="title">
-        <h1>Administrativo</h1>
-        <p>Prepara tu examen con preguntas reales</p>
+
+      <div class="app-badge">
+        OPE Gobierno Vasco 2026
       </div>
+
+      <div class="title">
+
+        <h1>
+          Administrativo
+        </h1>
+
+        <p>
+          Selecciona el tema
+        </p>
+
+      </div>
+
     </div>
 
-    <!-- Botones de temario -->
-    <div class="temario">
+
+    <!-- FUENTE SELECCIONADA -->
+
+    <div class="fuente-actual">
+
+      <span>
+        {{ nombreFuente }}
+      </span>
 
       <ion-button
-      *ngFor="let examen of ivap"
-      class="temario-card"
-      [routerLink]="['/tabs/quiz']"
-      [queryParams]="{ mode: examen.id }"
-      shape="round">
+        fill="clear"
+        (click)="cambiarFuente()">
 
-      <div class="card-inner">
-        {{ examen.nombre }}
-      </div>
+        CAMBIAR
 
-    </ion-button>
-
-      <ion-button
-        *ngFor="let tema of temas"
-        class="temario-card"
-        [routerLink]="['/tabs/quiz']"
-        [queryParams]="{ mode: tema }"
-        shape="round">
-
-        <div class="card-inner">
-          {{ getNombreTema(tema) }}
-        </div>
       </ion-button>
 
     </div>
 
-    
+
+    <!-- TEMAS -->
+
+    <div class="temario">
+
+      <ion-button
+        *ngFor="let tema of temas"
+        class="temario-card"
+        (click)="empezarTema(tema)"
+        shape="round">
+
+        <div class="card-inner">
+
+          {{ getNombreTema(tema) }}
+
+        </div>
+
+      </ion-button>
+
+    </div>
 
   </div>
+
 </ion-content>

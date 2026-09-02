@@ -1,0 +1,233 @@
+[
+  {
+    "id": 41,
+    "question": "El Tribunal de Justicia de la Unión Europea es una institución:",
+    "answers": {
+      "A": "Dependiente del Parlamento Europeo.",
+      "B": "Independiente respecto a los Estados, pero que depende de la Comisión y el Parla-mento Europeo.",
+      "C": "Independiente, cuyas resoluciones son obligatorias para los Estados miembros y las instituciones de la UE.",
+      "D": "Independiente, cuyas resoluciones son obligatorias para los Estados miembros, pero no para las instituciones de la UE."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 42,
+    "question": "El Tribunal de Justicia de la Unión Europea tiene su sede en:",
+    "answers": {
+      "A": "Luxemburgo.",
+      "B": "Estrasburgo.",
+      "C": "Bruselas, como el resto de las instituciones de la Unión.",
+      "D": "La sede es rotatoria entre Luxemburgo y Estrasburgo."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 43,
+    "question": "¿Cuál de estas afirmaciones relativas al Tribunal de Justicia es INCORRECTA?:",
+    "answers": {
+      "A": "El Tribunal está compuesto por un juez por cada Estado miembro, y está asistido por abogados generales.",
+      "B": "Según establece el Tratado de la Unión Europea, el Tribunal de Justicia de la Unión Eu-ropea comprenderá: el Tribunal de Justicia, el Tribunal General y los tribunales especia-lizados.",
+      "C": "La actividad jurisdiccional del Tribunal de Justicia se desarrolla en Salas de tres o cinco jueces, en Gran Sala compuesta por 15 jueces y, excepcionalmente en Pleno.",
+      "D": "Los jueces y abogados generales del Tribunal de Justicia ejercen su mandato por un periodo de cuatro años, pudiendo ser renovados una sola vez más. Tema 3 13"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 44,
+    "question": "¿Cuál de los siguientes recursos o cuestiones NO se sustancia ante el Tribunal de Justicia de la UE?:",
+    "answers": {
+      "A": "La llamada «cuestión prejudicial» o reenvío prejudicial, un procedimiento que permite a un órgano jurisdiccional nacional, encargado de aplicar el Derecho de la Unión en un caso concreto, consultar al Tribunal de Justicia cualquier duda acerca de la interpreta-ción o validez de la norma europea a aplicar en el caso.",
+      "B": "El recurso por incumplimiento de los Estados miembros, que tiene por objeto controlar a los Estados en el cumplimiento de sus obligaciones como miembros de la UE.",
+      "C": "El recurso de amparo ante el Tribunal de Justicia, un procedimiento en defensa de los derechos fundamentales de la UE.",
+      "D": "Los recursos de anulación y por omisión, que se dirigen, respectivamente, contra la ac-ción o inactividad de las instituciones."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 45,
+    "question": "El llamado «Derecho derivado» de la UE:",
+    "answers": {
+      "A": "Consiste en un conjunto de normas jurídicas adoptadas por los Estados miembros si-guiendo las directrices marcadas por la UE.",
+      "B": "Consiste en un conjunto de normas jurídicas adoptadas por las instituciones de la UE y los Estados miembros.",
+      "C": "Es el Derecho relativo a la Unión Europea que deriva de las Constituciones nacionales.",
+      "D": "Deriva de los Tratados de la UE, teniendo un origen y naturaleza institucional. Son los actos jurídicos de la UE."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 46,
+    "question": "Los actos jurídicos de la Unión:",
+    "answers": {
+      "A": "Se integran formal e inmediatamente en el Derecho nacional de los Estados miembros con su simple publicación en el Diario Oficial de la UE, sin necesidad de previa ratifica-ción por el Estado.",
+      "B": "Se integran formal e inmediatamente en el Derecho nacional de los Estados miembros con su simple publicación en el Diario Oficial de la UE, pero una vez sean ratificados por el Estado.",
+      "C": "No se integran en el Derecho interno, y son aplicados por las instituciones de la Unión.",
+      "D": "Se integran formal e inmediatamente en el Derecho nacional de los Estados miembros a través de su publicación en el BOE."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 47,
+    "question": "Los reglamentos y las directivas de la UE:",
+    "answers": {
+      "A": "Son siempre actos jurídicamente vinculantes.",
+      "B": "Pueden adoptarse bajo la categoría de actos legislativos o de actos delegados, pero no como actos de ejecución.",
+      "C": "Se adoptan mediante procedimiento legislativo ordinario, pero no mediante procedi-miento legislativo especial.",
+      "D": "No pueden existir reglamentos y directivas de ejecución."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 48,
+    "question": "De acuerdo con el Derecho de la Unión, puede decirse que:",
+    "answers": {
+      "A": "Los actos jurídicamente vinculantes de la Unión son los reglamentos, las directivas, las decisiones, las recomendaciones y los dictámenes.",
+      "B": "Las decisiones no son jurídicamente vinculantes.",
+      "C": "Los dictámenes son jurídicamente vinculantes para los Estados miembros.",
+      "D": "Las recomendaciones no son jurídicamente vinculantes."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 49,
+    "question": "En relación con la publicación de los actos jurídicos vinculantes en el Diario Oficial de la UE, puede decirse que:",
+    "answers": {
+      "A": "La publicación es un requisito formal esencial para que esos actos resulten exigibles en el Derecho interno de los Estados miembros.",
+      "B": "La publicación es un requisito formal esencial en el caso de los actos legislativos, no en el de los actos de ejecución.",
+      "C": "Los actos jurídicamente vinculantes de la Unión entran siempre en vigor el día de su publicación en el Diario Oficial de la UE.",
+      "D": "Los actos vinculantes de la Unión se publican solo en las lenguas de los Estados miem-bros a los que les afecta el acto vinculante."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 50,
+    "question": "De acuerdo con el Tratado de Funcionamiento de la UE, los actos jurídicos de la Unión:",
+    "answers": {
+      "A": "Deberán estar motivados, debiendo referirse a las propuestas, iniciativas, recomenda-ciones, peticiones o dictámenes previstos en los Tratados.",
+      "B": "No tienen por qué estar motivados.",
+      "C": "Deberán estar motivados solo en el caso de que afecten a los Estados.",
+      "D": "Deberán estar motivados solo en el caso de que afecten a las instituciones."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 51,
+    "question": "El reglamento de la Unión Europea es un tipo o categoría normativa:",
+    "answers": {
+      "A": "Que, debido a su potencia normativa, se utiliza únicamente en ámbitos de competencia exclusiva de la Unión Europea.",
+      "B": "Se utiliza exclusivamente en ámbitos de competencia compartida entre la UE y los Es-tados miembros.",
+      "C": "Es una norma directamente aplicable en el Estado miembro.",
+      "D": "Es una norma directamente aplicable si el Estado miembro así lo admite."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 52,
+    "question": "El reglamento de la Unión Europea es un tipo o categoría normativa que:",
+    "answers": {
+      "A": "Tiene un alcance general, si bien normalmente identifica destinatarios concretos.",
+      "B": "Tiene un alcance general, pero no es obligatorio en todos sus elementos.",
+      "C": "No tiene un alcance general sino específico, pero es obligatorio en todos sus elemen-tos.",
+      "D": "Tiene un alcance general, es obligatorio en todos sus elementos y es directamente apli-cable en el Derecho interno de los Estados miembros."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 53,
+    "question": "Si comparamos el reglamento y la directiva, puede decirse que:",
+    "answers": {
+      "A": "Existe una relación de jerarquía entre el reglamento y la directiva, imponiéndose aquel a esta.",
+      "B": "El reglamento se impone a la directiva si es de alcance general.",
+      "C": "La directiva no es, a diferencia del reglamento, obligatoria en todos sus elementos, solo en cuanto al resultado que deba conseguirse.",
+      "D": "La directiva se impone sobre el reglamento si este no tiene alcance general y solo vin-cula en cuanto al resultado."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 54,
+    "question": "La directiva europea obliga al Estado miembro destinatario:",
+    "answers": {
+      "A": "Únicamente en cuanto al resultado que deba conseguirse y a la elección de la forma y de los medios para conseguirlo.",
+      "B": "No obliga a los Estados miembros en cuanto al resultado a conseguir, solo en cuanto a la forma y los medios para obtenerlo.",
+      "C": "No es, por definición, un tipo de norma directamente aplicable en el Derecho interno.",
+      "D": "Es, por definición, un tipo de norma directamente aplicable en el Derecho interno, pues obliga en cuanto al resultado. Tema 3 15"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 55,
+    "question": "Las directivas de la Unión Europea:",
+    "answers": {
+      "A": "No requieren de normas internas o estatales que incorporen los aspectos esenciales de su regulación y garanticen el resultado prescrito en ella.",
+      "B": "Recogen un plazo de transposición, antes de cuyo término los Estados están obligados a adoptar las normas internas necesarias para obtener el resultado prescrito en la misma.",
+      "C": "Son obligatorias para los Estados, pero no recogen un plazo de transposición de su con-tenido.",
+      "D": "Son directamente obligatorias tanto para los Estados como para los ciudadanos."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 56,
+    "question": "La Unión Europea es una organización:",
+    "answers": {
+      "A": "Compuesta, en la actualidad, por 28 Estados.",
+      "B": "Fundamentada en la cesión de competencias por parte de los Estados miembros.",
+      "C": "Internacional clásica, donde los Estados cooperan de forma intensa para conseguir unos objetivos comunes.",
+      "D": "Regida, en la actualidad, por la Constitución Europea y el Tratado de la Comunidad Eu-ropea."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 57,
+    "question": "¿Cuál de las siguientes entidades NO es una Institución de la Unión Europea?:",
+    "answers": {
+      "A": "El Consejo Europeo y la Comisión Europea.",
+      "B": "El Consejo de Europa.",
+      "C": "El Consejo de la Unión Europea.",
+      "D": "El Banco Central Europeo."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 58,
+    "question": "El Consejo Europeo:",
+    "answers": {
+      "A": "Está compuesto por los Jefes de Estado y/o de Gobierno de los Estados miembros, el Presidente del propio Consejo Europeo y el Presidente del Parlamento Europeo.",
+      "B": "Está encargado de dar a la Unión los impulsos necesarios para su desarrollo, definir sus orientaciones y prioridades políticas generales, y ejercer la función legislativa de la Unión.",
+      "C": "Está encargado de dar a la Unión los impulsos necesarios para su desarrollo y definir sus orientaciones y prioridades políticas generales, pero no puede ejercer función legis-lativa alguna.",
+      "D": "Está compuesto por los Jefes de Estado y/o de Gobierno de los Estados miembros, el Presidente de la Comisión Europea y el Presidente del Parlamento Europeo."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 59,
+    "question": "El Consejo de la Unión Europea:",
+    "answers": {
+      "A": "No es una institución europea, sino un órgano consultivo de la Comisión Europea.",
+      "B": "Es el co-legislador de la Unión Europea, ejerciendo la función legislativa junto con el Parlamento Europeo.",
+      "C": "Está compuesto por tres representantes por cada Estado miembro.",
+      "D": "Representa directamente a los ciudadanos de la Unión e indirectamente a los Estados miembros."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 60,
+    "question": "La Comisión de la Unión Europea:",
+    "answers": {
+      "A": "Es la institución que representa y garantiza el interés general de la Unión.",
+      "B": "Tiene prácticamente el monopolio de la iniciativa legislativa, de manera que es, junto con el Parlamento Europeo, el co-legislador de la Unión Europea.",
+      "C": "Como ejecutivo y gestor de los asuntos europeos, la Comisión es responsable política-mente ante el Parlamento Europeo, si bien este no puede votar una moción de censura contra la misma.",
+      "D": "Sus miembros son designados y propuestos por los Gobiernos de los Estados miem-bros, siendo así el representante directo de los mismos."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 61,
+    "question": "¿Cuál de las siguientes afirmaciones sobre el Parlamento de la Unión Europea es INCO-RRECTA?:",
+    "answers": {
+      "A": "Es una institución elegida directamente por los ciudadanos europeos, a los que repre-senta en el proceso de construcción política europea.",
+      "B": "Ejerce conjuntamente con el Consejo la función legislativa y la función presupuestaria.",
+      "C": "Tiene facultades de control político sobre la Comisión Europea.",
+      "D": "Los diputados al Parlamento Europeo serán elegidos por sufragio universal directo, libre y secreto, para un mandato de cuatro años. Tema 4 17 Tema 4"
+    },
+    "correct": "D"
+  }
+]

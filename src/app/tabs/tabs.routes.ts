@@ -21,6 +21,11 @@ export const routes: Routes = [
         loadComponent: () =>
           import('../quiz/quiz.page').then((m) => m.QuizPage),
       },
+      {
+        path: 'fuente',
+        loadComponent: () =>
+          import('../fuente/fuente.page').then((m) => m.FuentePage),
+      },
 /*       {
         path: 'stats',
         loadComponent: () =>
@@ -41,7 +46,7 @@ export const routes: Routes = [
   },
   {
     path: '',
-    redirectTo: '/tabs/home',
+    redirectTo: '/tabs/fuente',
     pathMatch: 'full',
   },
 ];

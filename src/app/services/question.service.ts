@@ -10,92 +10,179 @@ import { StorageService } from './storage.service'
 export class QuestionService {
 
   private temas: Record<string, Question[]> = {}
+
+  readonly sources: string[] = [
+    'examen-2022',
+    'bateria-2026',
+    'chatgpt'
+  ]
+
   listaTemas = [
-    'Tema 1',
-    'Tema 2',
-    'Tema 3',
-    'Tema 4',
-    'Tema 5',
-    'Tema 6',
-    'Tema 7',
-    'Tema 8',
-    'Tema 9',
-    'Tema 10',
-    'Tema 11',
-    'Tema 12',
-    'Tema 13',
-    'Tema 14',
-    'Tema 15',
-    'Tema 16',
-    'Tema 17',
-    'Tema 18',
-    'Tema 19',
-    'Tema 20',
-    'Tema 21',
-    'Tema 22',
-    'Tema 23',
-    'Tema 24',
-    'Tema 25',
-    'Tema 26',
-    'Tema 27',
-    'Tema 28',
-    'Tema 29',
-    'Tema 30',
-    'Tema 31',
-    'Tema 32',
-    'Tema 33',
-    'Tema 34'
-  ];
+    'tema1',
+    'tema2',
+    'tema3',
+    'tema4',
+    'tema5',
+    'tema6',
+    'tema7',
+    'tema8',
+    'tema9',
+    'tema10',
+    'tema11',
+    'tema12',
+    'tema13',
+    'tema14',
+    'tema15',
+    'tema16',
+    'tema17',
+    'tema18',
+    'tema19',
+    'tema20',
+    'tema21',
+    'tema22',
+    'tema23',
+    'tema24',
+    'tema25',
+    'tema26',
+    'tema27',
+    'tema28',
+    'tema29',
+    'tema30',
+    'tema31',
+    'tema32',
+    'tema33',
+    'tema34'
+  ]
 
-  constructor(private http: HttpClient,   private storage: StorageService) {}
+  constructor(
+    private http: HttpClient,
+    private storage: StorageService
+  ) {}
 
-  async getTema(tema: string): Promise<Question[]> {
+  /*
+   * CARGAR UN TEMA
+   *
+   * Carga automáticamente las 3 fuentes:
+   * - examen-2022
+   * - bateria-2026
+   * - chatgpt
+   */
+  async getTema(
+    tema: string,
+    source: string = 'all'
+  ): Promise<Question[]> {
 
-    // Si ya está cargado, lo devolvemos
-    if (this.temas[tema]?.length) {
-      return this.temas[tema]
+    const cacheKey =
+      `questions_v3_${tema}_${source}`
+
+    const stored =
+      await this.storage.get(cacheKey)
+
+    if (stored && Array.isArray(stored)) {
+      this.temas[cacheKey] = stored
+      return stored
     }
 
-    const storageKey = `questions_${tema}`
+    const fuentes =
+      source === 'all'
+        ? this.sources
+        : [source]
 
-    // Intentar recuperar del almacenamiento
+    const todas: Question[] = []
+
+    for (const fuente of fuentes) {
+
+      const path =
+        `assets/data/${tema}/${fuente}.json`
+
+      try {
+
+        const data =
+          await firstValueFrom(
+            this.http.get<Question[]>(path)
+          )
+
+        const preguntas =
+          data.map(q => ({
+            ...q,
+            type: tema,
+            source: fuente
+          }))
+
+        todas.push(...preguntas)
+
+      } catch (error) {
+
+        // No existe el fichero: lo ignoramos.
+        console.warn(
+          `Fuente no disponible: ${path}`
+        )
+
+      }
+    }
+
+    this.temas[cacheKey] = todas
+
+    await this.storage.set(
+      cacheKey,
+      todas
+    )
+
+    return todas
+  }
+
+  /*
+   * CARGAR IVAP GENERAL / ADMINISTRATIVO
+   *
+   * Estos siguen funcionando como antes.
+   */
+  async getExamen(examen: string): Promise<Question[]> {
+
+    const storageKey = `questions_v2_${examen}`
+
     const stored = await this.storage.get(storageKey)
 
     if (stored && Array.isArray(stored)) {
-
-      this.temas[tema] = stored.map((q: any) => ({
-        ...q,
-        type: tema
-      }))
-
-      return this.temas[tema]
+      return stored
     }
 
-    // Cargar JSON
-    const data = await firstValueFrom(
-      this.http.get<Question[]>(`assets/data/${tema}.json`)
-    )
+    const data =
+      await firstValueFrom(
+        this.http.get<Question[]>(
+          `assets/data/${examen}.json`
+        )
+      )
 
-    this.temas[tema] = data.map(q => ({
+    const preguntas = data.map(q => ({
       ...q,
-      type: tema
+      type: examen,
+      source: examen
     }))
 
-    // Guardar en almacenamiento
     await this.storage.set(
       storageKey,
-      this.temas[tema]
+      preguntas
     )
 
-    return this.temas[tema]
+    return preguntas
   }
 
+  /*
+   * CONJUNTO
+   *
+   * Carga todos los temas y, dentro de cada tema,
+   * las 3 fuentes.
+   */
   async getCombined(): Promise<Question[]> {
 
     const todas: Question[] = []
 
-    for (const tema of Object.keys(this.temas)) {
-      todas.push(...this.temas[tema])
+    for (const tema of this.listaTemas) {
+
+      const preguntas =
+        await this.getTema(tema)
+
+      todas.push(...preguntas)
     }
 
     return todas

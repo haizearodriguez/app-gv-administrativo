@@ -1,0 +1,288 @@
+[
+  {
+    "id": 53,
+    "question": "El Proyecto europeo se inició oficialmente en el año:",
+    "answers": {
+      "A": "1950.",
+      "B": "1951.",
+      "C": "1957.",
+      "D": "Ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 54,
+    "question": "Los textos constitutivos principales de la UE son:",
+    "answers": {
+      "A": "Las directivas y reglamentos.",
+      "B": "El Tratado de la UE.",
+      "C": "El Tratado de funcionamiento de la UE.",
+      "D": "Las respuestas b) y c) son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 55,
+    "question": "Las instituciones actuales de la UE son:",
+    "answers": {
+      "A": "Cuatro.",
+      "B": "Siete.",
+      "C": "Cinco.",
+      "D": "Seis."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 56,
+    "question": "El Consejo Europeo está compuesto por:",
+    "answers": {
+      "A": "Los jefes de Estado y de gobierno.",
+      "B": "El Presidente del Consejo.",
+      "C": "El Presidente de la Comisión Europea.",
+      "D": "Todas las respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 57,
+    "question": "El Consejo de la Unión Europea tiene entre sus funciones:",
+    "answers": {
+      "A": "La toma de decisiones.",
+      "B": "Co-legislar junto con el Parlamento Europeo.",
+      "C": "Las respuestas a) y b) son correctas.",
+      "D": "Elegir a los miembros del TJUE."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 58,
+    "question": "¿Cuál de estas afirmaciones sobre la Comisión Europea no es cierta?:",
+    "answers": {
+      "A": "Es un órgano colegiado.",
+      "B": "Su mandato es de 5 años.",
+      "C": "Su presidente lo designa el parlamento.",
+      "D": "Las respuestas a) y b) son correctas."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 59,
+    "question": "La Comisión europea tiene entre sus funciones:",
+    "answers": {
+      "A": "Formular la propuesta de normas jurídicas al Consejo y al Parlamento Europeo.",
+      "B": "Ejecutar las políticas y el presupuesto de la UE.",
+      "C": "Representar a la UE en la escena internacional.",
+      "D": "Todas las respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 60,
+    "question": "Entre las funciones del Parlamento Europeo destacan:",
+    "answers": {
+      "A": "Ejercer conjuntamente con el Consejo la función legislativa y presupuestaria.",
+      "B": "Llevar a cabo las funciones de control político.",
+      "C": "Las respuestas a) y b) son correctas.",
+      "D": "Representa a la UE en la escena internacional."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 61,
+    "question": "¿Cuál de estas afirmaciones en torno a las elecciones europeas es correcta?:",
+    "answers": {
+      "A": "Se celebran cada 5 años.",
+      "B": "Se celebran cada 4 años.",
+      "C": "Cada Estado no mantiene su competencia para aplicar sus criterios y procedimientos electorales a la hora de convocar las elecciones europeas.",
+      "D": "Existe un procedimiento electoral uniforme en toda la UE."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 62,
+    "question": "¿Cuál de estas afirmaciones en torno a las elecciones europeas no es correcta?:",
+    "answers": {
+      "A": "El número mínimo de diputados por país es de 5 y el máximo es de 96.",
+      "B": "En el año 2019 se eligieron un total de 751 eurodiputados.",
+      "C": "Los ciudadanos eligen a los candidatos que presentan los partidos políticos de ámbito nacional o regional.",
+      "D": "Tras los últimos ajustes motivados por la salida del Reino Unido de la UE, el número de eurodiputados actualmente es de 705."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 63,
+    "question": "¿Cuál de estos criterios a la hora de formar grupo en el Parlamento Europeo no se ajusta a la realidad?:",
+    "answers": {
+      "A": "Los miembros elegidos en cada Estado no se agrupan ni trabajan en bloques nacionales.",
+      "B": "El número mínimo para constituir grupo político es de 20 miembros.",
+      "C": "Los miembros que no deseen adherirse a un grupo pasan a formar parte del grupo de los «no inscritos».",
+      "D": "Los distintos grupos políticos del Parlamento Europeo representan los diferentes puntos de vista y enfoques sobre el proceso de integración europea."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 64,
+    "question": "¿Cuál de estas afirmaciones sobre la figura del Defensor del Pueblo Europeo «Ombudsman» es correcta?:",
+    "answers": {
+      "A": "Lo nombra la Comisión Europea para un período de 5 años.",
+      "B": "Lo nombra el Parlamento Europeo para un período de 5 años.",
+      "C": "Recibe las reclamaciones de cualquier ciudadano europeo relativas a la mala gestión de cualquier órgano de la UE.",
+      "D": "Las respuestas a) y c) son respuestas correctas."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 65,
+    "question": "El Tribunal de Justicia de la Unión Europea en la actualidad es una institución integrada por:",
+    "answers": {
+      "A": "Una única instancia.",
+      "B": "Dos instancias.",
+      "C": "Tres instancias.",
+      "D": "Las respuestas a) y c) no son correctas."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 66,
+    "question": "A los jueces del Tribunal de Justicia de la Unión Europea los eligen:",
+    "answers": {
+      "A": "Los gobiernos de los Estados miembros.",
+      "B": "El Parlamento Europeo.",
+      "C": "La Comisión Europea.",
+      "D": "El Consejo de Europa."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 67,
+    "question": "A los Abogados Generales los eligen:",
+    "answers": {
+      "A": "El Parlamento Europeo.",
+      "B": "El Consejo de Europa.",
+      "C": "Los gobiernos de los Estados miembros.",
+      "D": "La Comisión Europea."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 68,
+    "question": "¿Cuál de estas afirmaciones en torno al Tribunal de Justicia de la Unión Europea es correc ta?:",
+    "answers": {
+      "A": "El Tribunal de Justicia de la Unión Europea está vinculado por las conclusiones del Abogado General.",
+      "B": "Los jueces eligen entre ellos al presidente.",
+      "C": "El Tribunal de Justicia de la Unión Europea no está vinculado por las conclusiones del Abogado General.",
+      "D": "Las respuestas b) y c) son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 69,
+    "question": "¿Cuál de estas afirmaciones en torno al Tribunal General es correcta?:",
+    "answers": {
+      "A": "Es competente para conocer determinados recursos, como los de anulación y abstención interpuestos por personas físicas y jurídicas.",
+      "B": "Es una instancia suprema.",
+      "C": "El procedimiento de elección de su presidente difiere del procedimiento de elección del presidente en el caso del Tribunal de Justicia de la Unión Europea.",
+      "D": "Todas las respuestas anteriores son correctas."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 70,
+    "question": "¿Cuál de estos recursos es un recurso sustanciado ante las dos instancias del Tribunal de Justicia de la Unión Europea?:",
+    "answers": {
+      "A": "El recurso de apelación.",
+      "B": "El recurso de reparación de daños y perjuicios.",
+      "C": "El recurso de amparo.",
+      "D": "El recurso de casación."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 71,
+    "question": "¿Cuál de estas normas europeas no tiene la naturaleza jurídica de acto vinculante?:",
+    "answers": {
+      "A": "Los reglamentos.",
+      "B": "Las directivas.",
+      "C": "Los dictámenes.",
+      "D": "Las decisiones."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 72,
+    "question": "Los actos jurídicos vinculantes de la Unión Europea pueden ser:",
+    "answers": {
+      "A": "Legislativos.",
+      "B": "Delegados.",
+      "C": "De ejecución.",
+      "D": "Todas las respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 73,
+    "question": "¿Cuál de estas afirmaciones en torno a los actos jurídicos vinculantes no es correcta?:",
+    "answers": {
+      "A": "Se publican en el Diario Oficial de la Unión Europea.",
+      "B": "Se publican en las 24 lenguas oficiales de la UE.",
+      "C": "No tienen que ser motivados.",
+      "D": "Se han de notificar a los Estados a los que se dirige."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 74,
+    "question": "Los párrafos de motivación que preceden al texto articulado de los actos vinculantes no incluyen los siguientes niveles:",
+    "answers": {
+      "A": "Fundamentos jurídicos.",
+      "B": "Motivación, lo que incluye la mención de las propuestas y dictámenes previamente recabados.",
+      "C": "Párrafos de motivación.",
+      "D": "Apéndices normativos."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 75,
+    "question": "¿Cuál de las siguientes afirmaciones en torno al Reglamento es correcta?:",
+    "answers": {
+      "A": "Es el acto institucional de mayor potencia normativa.",
+      "B": "Es jerárquicamente superior a la directiva.",
+      "C": "Se adopta en ámbitos materiales de competencia compartida.",
+      "D": "Las respuestas b) y c) son correctas."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 76,
+    "question": "¿Cuál de las siguientes afirmaciones en torno al Reglamento no es correcta?:",
+    "answers": {
+      "A": "Es directamente aplicable en el Derecho interno de los Estados miembros.",
+      "B": "Produce efectos en las relaciones internas.",
+      "C": "Es jerárquicamente inferior a la directiva.",
+      "D": "Para entrar en vigor debe ser publicado en el Diario Oficial de la Unión Europea."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 77,
+    "question": "¿Cuál de las siguientes afirmaciones en torno a la Directiva es correcta?:",
+    "answers": {
+      "A": "Es jerárquicamente superior al reglamento.",
+      "B": "Deja espacios por desarrollar por la legislación interna de los Estados miembros.",
+      "C": "Es una técnica de legislación exclusiva de las instituciones de la Unión Europea.",
+      "D": "Regula materias de competencia exclusiva de la Unión Europea."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 78,
+    "question": "¿Cuál de las siguientes afirmaciones en torno a la Directiva no es correcta?:",
+    "answers": {
+      "A": "Deja espacios por desarrollar por la legislación interna de los Estados miembros.",
+      "B": "Regula materias de competencia compartida entre los Estados miembros y la Unión Europea.",
+      "C": "Es jerárquicamente inferior al reglamento.",
+      "D": "Es una norma jurídicamente imperfecta para producir per se efectos jurídicos."
+    },
+    "correct": "C"
+  }
+]
