@@ -1,0 +1,222 @@
+[
+  {
+    "id": 21,
+    "question": "De acuerdo con la Constitución española de 1978:",
+    "answers": {
+      "A": "El Estado se organiza territorialmente en municipios, en provincias y en Comunidades Autónomas, todas las cuales gozarán de autonomía para la gestión de sus propios inte-reses.",
+      "B": "El Estado se organiza territorialmente en municipios, en provincias y en Comunidades Autónomas, de las cuales solo las últimas gozan de autonomía para la gestión de sus propios intereses.",
+      "C": "Tanto la Administración local como la autonómica tienen reconocida una autonomía de carácter político, no así las provincias.",
+      "D": "La Administración local y la Administración Autonómica tienen reconocida constitucio-nalmente una autonomía de carácter político."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 22,
+    "question": "El Estatuto de Autonomía:",
+    "answers": {
+      "A": "Constituye la norma institucional básica de la Comunidad Autónoma, pero subordinada y limitada por la Constitución estatal.",
+      "B": "Constituye la norma institucional básica de la Comunidad Autónoma, al mismo nivel que la Constitución estatal.",
+      "C": "Constituye la norma institucional básica de la Comunidad Autónoma, pero sin estar su-bordinada y limitada por la Constitución estatal.",
+      "D": "No es la norma institucional básica de la Comunidad Autónoma."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 23,
+    "question": "Los Estatutos de Autonomía se caracterizan por ser:",
+    "answers": {
+      "A": "Leyes orgánicas aprobadas por el Parlamento autonómico siguiendo un procedimiento especial.",
+      "B": "Leyes ordinarias aprobadas por el Parlamento estatal.",
+      "C": "Leyes orgánicas, sin presentar ninguna particularidad o especialidad con respecto al resto de leyes orgánicas.",
+      "D": "Son leyes orgánicas especiales por cuanto difieren de las restantes en cuanto a su pro-cedimiento de elaboración y reforma."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 24,
+    "question": "Señala cuál de las siguientes respuestas, con relación al contenido de los Estatutos de Autonomía, es INCORRECTA:",
+    "answers": {
+      "A": "Los Estatutos de Autonomía deben tener un contenido mínimo que viene fijado en la Constitución.",
+      "B": "Los Estatutos de Autonomía deberán contener la delimitación de su territorio.",
+      "C": "Los Estatutos de Autonomía deberán contener la lista de los derechos fundamentales correspondientes a las personas del territorio.",
+      "D": "Los Estatutos de Autonomía deberán contener las competencias asumidas dentro del marco establecido por la Constitución y las bases para el traspaso de los servicios co-rrespondientes a las mismas."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 25,
+    "question": "En su calidad de Administraciones Públicas de carácter territorial y dentro del ámbito de sus competencias, los Municipios y Provincias disponen, entre otras, de las siguientes po-testades:",
+    "answers": {
+      "A": "La potestad reglamentaria y de autoorganización, pero no la potestad tributaria y finan-ciera.",
+      "B": "Las potestades expropiatorias y de investigación, deslinde y recuperación de oficio de sus bienes, pero no la potestad de ejecución forzosa.",
+      "C": "La presunción de legitimidad y la ejecutividad de sus actos, pero no las potestades de ejecución forzosa y sancionadora.",
+      "D": "La potestad de revisión de oficio de sus actos y acuerdos."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 26,
+    "question": "De acuerdo con el vigente ordenamiento español, NO tiene carácter de Entidad Local Territorial:",
+    "answers": {
+      "A": "El Municipio.",
+      "B": "La Comunidad Autónoma.",
+      "C": "La provincia.",
+      "D": "La Isla en los archipiélagos balear y canario."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 27,
+    "question": "De acuerdo con la regulación española relativa a la provincia, puede decirse que:",
+    "answers": {
+      "A": "La provincia es una entidad local con personalidad jurídica propia, determinada por la agrupación de municipios.",
+      "B": "Cualquier alteración de los límites provinciales habrá de ser aprobada por las Cortes Ge-nerales mediante ley ordinaria.",
+      "C": "Cualquier alteración de los límites provinciales habrá de ser aprobada por el Consejo de Ministros.",
+      "D": "No se pueden crear agrupaciones de municipios diferentes de la provincia, salvo que sean aprobadas por el Gobierno debido a razones de interés público."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 28,
+    "question": "Señala cuál de las siguientes respuestas relativas a los Estatutos de Autonomía es INCORREC­TA:",
+    "answers": {
+      "A": "Los Estatutos serán la norma institucional básica de cada Comunidad Autónoma.",
+      "B": "Los Estatutos deben contener la denominación, organización y sede de las institucio-nes autónomas propias.",
+      "C": "El Estado reconocerá y amparará los Estatutos como parte integrante de su ordena-miento jurídico.",
+      "D": "La reforma de los Estatutos se ajustará al procedimiento establecido en la Constitución, requiriendo la aprobación por las Cortes Generales mediante ley orgánica. Tema 2 9"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 29,
+    "question": "La provincia es una entidad territorial:",
+    "answers": {
+      "A": "Cuyo gobierno y administración autónoma corresponde a las Diputaciones u otras Cor-poraciones de carácter representativo.",
+      "B": "Cuyo Gobierno está encomendado siempre a una Diputación provincial.",
+      "C": "Que se configura como una entidad local determinada por la agrupación de municipios, que tiene capacidad y competencias propias para el cumplimiento de sus fines, pero carece de personalidad jurídica propia.",
+      "D": "Cuya organización y gobierno viene establecida en los Estatutos de Autonomía."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 30,
+    "question": "Según establece la normativa vigente en materia de Haciendas locales:",
+    "answers": {
+      "A": "Las Haciendas locales carecen de potestad tributaria y financiera.",
+      "B": "Las Haciendas locales deberán disponer de los medios suficientes para el desempeño de las funciones que la ley atribuye a las Corporaciones respectivas.",
+      "C": "Las Haciendas locales se nutrirán exclusivamente de tributos propios.",
+      "D": "Las Haciendas locales podrán nutrirse de la participación en los tributos del Estado, pero no en los de las Comunidades Autónomas."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 31,
+    "question": "¿Cuál de las siguientes afirmaciones sobre el principio de autonomía es INCORRECTA?:",
+    "answers": {
+      "A": "La Constitución garantiza el derecho a la autonomía de las nacionalidades y regiones que integran el Estado.",
+      "B": "La Constitución reconoce que los municipios gozan de autonomía para la gestión de sus intereses.",
+      "C": "La autonomía de las Comunidades Autónomas y los municipios es una autonomía polí-tica, no meramente administrativa.",
+      "D": "La autonomía de la que gozan las provincias para la defensa de sus intereses no es una autonomía política."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 32,
+    "question": "En relación con el modelo de descentralización del poder político, puede decirse que:",
+    "answers": {
+      "A": "La Constitución impone la organización del territorio en Comunidades Autónomas.",
+      "B": "La organización del territorio en Comunidades Autónomas no es opcional, pues está ba-sada en el principio dispositivo.",
+      "C": "La organización del territorio en Comunidades Autónomas no está sujeta al principio dispositivo de la autonomía.",
+      "D": "La Constitución garantiza la solidaridad entre las nacionalidades y regiones que integran el Estado."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 33,
+    "question": "En relación con el proceso de configuración y desarrollo de la autonomía territorial, es posible afirmar que:",
+    "answers": {
+      "A": "La Constitución prevé dos diferentes procesos de acceso a la autonomía: uno ordinario y otro agravado.",
+      "B": "La Constitución presupone, pero no prevé, un procedimiento de acceso a la autono-mía.",
+      "C": "La práctica totalidad de los Estatutos de Autonomía ha sido modificada en las décadas precedentes.",
+      "D": "El Estatuto de Autonomía del País Vasco se aprobó de acuerdo con la disposición tran-sitoria segunda de la Constitución, y ha sido ya reformado siguiendo el mismo procedi-miento."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 34,
+    "question": "En relación con la Administración de Justicia en las Comunidades Autónomas, puede de-cirse que:",
+    "answers": {
+      "A": "Un Tribunal Superior de Justicia, sin perjuicio de la jurisdicción que corresponde al Tri-bunal Supremo, culminará la organización judicial en el ámbito territorial de la Comuni-dad Autónoma.",
+      "B": "Los Tribunales Superiores de Justicia son órganos jurisdiccionales de las Comunidades Autónomas.",
+      "C": "El poder jurisdiccional está abierto, al igual que el legislativo y el ejecutivo, a la descen-tralización territorial.",
+      "D": "La Constitución no recoge expresamente ninguna disposición sobre la organización ju-dicial en el ámbito territorial de la Comunidad Autónoma."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 35,
+    "question": "Es posible afirmar con relación a la organización institucional de las Comunidades Autó-nomas que:",
+    "answers": {
+      "A": "Los Estatutos de Autonomía no tienen por qué recoger necesariamente la denomina-ción, organización y sede de las instituciones autónomas propias.",
+      "B": "Las leyes autonómicas son dictadas por los Parlamentos autonómicos y promulgadas por el Presidente de la Comunidad Autónoma.",
+      "C": "La elección del Presidente de la Comunidad Autónoma corresponde a los parlamentos autonómicos, dado que los Estatutos de Autonomía prevén un sistema de Gobierno presidencialista en las Comunidades Autónomas.",
+      "D": "La Asamblea legislativa autonómica es elegida por sufragio universal con arreglo a un sistema de representación mayoritaria."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 36,
+    "question": "Cada Comunidad Autónoma cuenta con un Consejo de Gobierno (indíquese la respuesta INCORRECTA):",
+    "answers": {
+      "A": "Que tiene atribuidas funciones ejecutivas y administrativas.",
+      "B": "Dirigido por un Presidente, dado que los Estatutos de Autonomía prevén un sistema de Gobierno presidencialista en las Comunidades Autónomas.",
+      "C": "Cuyos miembros son designados y cesados libremente por su Presidente.",
+      "D": "El Presidente y los miembros del Consejo de Gobierno son políticamente responsables ante la Asamblea Legislativa."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 37,
+    "question": "El Presidente de la Comunidad Autónoma:",
+    "answers": {
+      "A": "Debe ser elegido necesariamente de entre los miembros de la Asamblea Legislativa por la misma Asamblea.",
+      "B": "Responde políticamente ante la Asamblea Legislativa, a diferencia de los miembros del Consejo.",
+      "C": "No tiene por qué ser elegido necesariamente entre los miembros de la Asamblea Le-gislativa.",
+      "D": "No responde políticamente ante la Asamblea Legislativa. Tema 2 11"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 38,
+    "question": "En cuanto principio rector del sistema de distribución de competencias, el principio dispo-sitivo implica:",
+    "answers": {
+      "A": "Que la Constitución establece las competencias de las que dispone cada Comunidad Autónoma.",
+      "B": "Que la Constitución no impone un bloque de competencias concreto para todas las Co-munidades Autónomas, ni para algunas en particular, sino que deja esa decisión en ma-nos de los territorios interesados, debiendo respetarse siempre las reglas constitucio-nales sobre el reparto de competencias.",
+      "C": "Que la Constitución articula un sistema de competencias cuyo reparto queda a disposi-ción del acuerdo entre el Estado y las Comunidades Autónomas.",
+      "D": "Que la Constitución señala las competencias que corresponden al Estado y las que son de las Comunidades autónomas, disponiendo un reparto competencial cerrado."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 39,
+    "question": "En relación con el reparto de competencias que se recoge en la Constitución, es INCO-RRECTO afirmar que:",
+    "answers": {
+      "A": "El instrumento utilizado por la Constitución para articular el reparto de competencias es el sistema de listas.",
+      "B": "La Constitución establece en el art. 149.1 de la Constitución una lista de competencias estatales que quedan excluidas del ámbito de disponibilidad de las Comunidades Autó-nomas.",
+      "C": "Las Comunidades Autónomas pueden asumir funciones no reservadas al Estado sobre ciertas materias incluidas en el artículo 149.1 ya que en muchas materias de ese listado el Estado se reserva solo algunas funciones, pero no todas.",
+      "D": "El artículo 148.1 de la Constitución incluye la lista de las materias que obligatoriamente corresponde asumir a las Comunidades Autónomas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 40,
+    "question": "Si atendemos al sistema de distribución territorial de competencias, es INCORRECTO afir-mar que:",
+    "answers": {
+      "A": "Las Comunidades Autónomas solo pueden disponer de las competencias recogidas en los Estatutos de Autonomía.",
+      "B": "La Constitución contempla la posibilidad de la atribución de competencias estatales a las Comunidades Autónomas mediante transferencia o delegación de competencias de titularidad estatal.",
+      "C": "La Constitución otorga al Estado la competencia sobre las materias no asumidas por los Estatutos de Autonomía.",
+      "D": "Las materias no atribuidas expresamente al Estado por la Constitución podrán corres-ponder a las Comunidades Autónomas, en virtud de sus respectivos Estatutos. Tema 3"
+    },
+    "correct": "A"
+  }
+]

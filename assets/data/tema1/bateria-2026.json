@@ -1,0 +1,288 @@
+[
+  {
+    "id": 1,
+    "question": "¿A través de qué mecanismos garantiza la Constitución española (CE) de 1978 la participación de los ciudadanos en la toma de decisiones de forma directa?:",
+    "answers": {
+      "A": "La iniciativa legislativa popular.",
+      "B": "El referéndum.",
+      "C": "El Jurado popular.",
+      "D": "Las tres respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 2,
+    "question": "¿Qué elementos caracterizan al Estado español como un «Estado de derecho»?",
+    "answers": {
+      "A": "La separación de poderes (legislativo, ejecutivo y judicial).",
+      "B": "El reconocimiento a los poderes públicos para promover las condiciones (políticas públicas), para que la libertad y la igualdad del individuo sean reales y efectivas.",
+      "C": "El reconocimiento de los derechos fundamentales y las libertades públicas.",
+      "D": "Las respuestas b) y c) son correctas."
+    },
+    "correct": "AC"
+  },
+  {
+    "id": 3,
+    "question": "¿Qué elementos caracterizan al Estado español como un «Estado social»?",
+    "answers": {
+      "A": "El reconocimiento a los poderes públicos para promover las condiciones (políticas públicas), para que la libertad y la igualdad del individuo sean reales y efectivas.",
+      "B": "El reconocimiento de los derechos sociales y económicos: derechos de los trabajadores, función social de la propiedad, etc.",
+      "C": "Las respuestas a) y b) son correctas.",
+      "D": "El reconocimiento de los derechos fundamentales y las libertades públicas."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 4,
+    "question": "¿Cuál es el carácter que le confiere la CE de 1978 a la forma de gobierno monárquica?",
+    "answers": {
+      "A": "Permanente.",
+      "B": "Hereditario y vitalicio.",
+      "C": "Democrático.",
+      "D": "Las respuestas a) y b) son correctas."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 5,
+    "question": "¿Sobre qué principios se asienta la forma territorial del Estado? Elija el o los principios correc tos:",
+    "answers": {
+      "A": "Unidad.",
+      "B": "Uniformidad.",
+      "C": "Autonomía.",
+      "D": "Las respuestas a) y c) son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 6,
+    "question": "¿Cuáles son los valores superiores del ordenamiento jurídico español según la CE de 1978?",
+    "answers": {
+      "A": "Solidaridad, igualdad, autonomía y libertad.",
+      "B": "Libertad, justicia, igualdad y pluralismo político.",
+      "C": "Orden y progreso.",
+      "D": "Igualdad, justicia, fraternidad y autonomía."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 7,
+    "question": "El carácter supremo o supralegal de la Constitución se manifiesta en que:",
+    "answers": {
+      "A": "No puede ser reformada de acuerdo con los procedimientos ordinarios válidos para otras normas, sino que exige unos procedimientos específicos de carácter más complejo o dificultoso que el procedimiento legislativo ordinario. La ley no puede modificar la Constitución.",
+      "B": "Sus preceptos no pueden ser alterados ni contradichos ni ignorados por los poderes públicos, pues si así lo hicieran, su actuación sería inconstitucional, y, por tanto, susceptible de ser así declarada.",
+      "C": "No se puede modificar.",
+      "D": "Las respuestas a) y b) son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 8,
+    "question": "¿Cuál es la función primordial del Tribunal Constitucional?",
+    "answers": {
+      "A": "Defender y reformar la Constitución.",
+      "B": "Cerrar la vía jurisdiccional ordinaria.",
+      "C": "Interpretar la Constitución.",
+      "D": "Todas las respuestas anteriores son correctas."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 9,
+    "question": "¿Cuáles son las vías procedimentales principales para realizar el control de constitucionalidad?",
+    "answers": {
+      "A": "El recurso de amparo.",
+      "B": "El recurso de inconstitucionalidad.",
+      "C": "La cuestión de inconstitucionalidad.",
+      "D": "Las respuestas b) y c) son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 10,
+    "question": "La parte dogmática de la CE de 1978 la integran:",
+    "answers": {
+      "A": "El preámbulo, el título preliminar y el título primero.",
+      "B": "El título preliminar y el título primero.",
+      "C": "El preámbulo y el título preliminar.",
+      "D": "El preámbulo y el título primero."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 11,
+    "question": "¿Dónde quedan recogidos en la CE de 1978 los «auténticos» derechos fundamentales?:",
+    "answers": {
+      "A": "Artículos 10 a 55, ambos inclusive.",
+      "B": "Artículos 14 a 29, ambos inclusive.",
+      "C": "Artículos 10 a 29, ambos inclusive.",
+      "D": "Artículos 14 a 55, ambos inclusive."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 12,
+    "question": "¿Qué recoge el Capítulo III del Título I de la CE de 1978?:",
+    "answers": {
+      "A": "Los derechos fundamentales.",
+      "B": "Los derechos y libertades.",
+      "C": "Los principios rectores de la política social y económica.",
+      "D": "Las garantías de las libertades y los derechos fundamentales."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 13,
+    "question": "¿A quién vinculan o frente a quien son exigibles los derechos fundamentales?:",
+    "answers": {
+      "A": "Frente a los particulares.",
+      "B": "Frente a los poderes públicos.",
+      "C": "Frente a particulares y poderes públicos.",
+      "D": "Frente a las autoridades públicas."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 14,
+    "question": "¿Cuáles de estas garantías que recoge la CE de 1978 son garantías no jurisdiccionales?:",
+    "answers": {
+      "A": "La reserva de ley.",
+      "B": "La protección judicial.",
+      "C": "El recurso de amparo.",
+      "D": "La protección internacional y supranacional."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 15,
+    "question": "¿Cuáles de estas garantías que recoge la CE de 1978 son garantías jurisdiccionales?:",
+    "answers": {
+      "A": "La protección judicial.",
+      "B": "La reserva de ley.",
+      "C": "El defensor del pueblo.",
+      "D": "El respeto al contenido esencial de los derechos fundamentales."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 16,
+    "question": "El defensor del pueblo se relaciona:",
+    "answers": {
+      "A": "Con el Congreso.",
+      "B": "Con el Senado.",
+      "C": "Con una Comisión mixta Congreso-Senado.",
+      "D": "Ninguna respuesta es correcta."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 17,
+    "question": "El sistema tributario español, atendiendo a la CE de 1978, debe ser un sistema tributario:",
+    "answers": {
+      "A": "Proporcional.",
+      "B": "Equitativo.",
+      "C": "Solidario.",
+      "D": "Justo."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 18,
+    "question": "La CE de 1978, otorga una protección jurisdiccional extraordinaria a los derechos reconocidos en los arts. 14-29 y la objeción de conciencia (art. 30.2), que consiste en un procedimiento ante los tribunales basado en los principios de:",
+    "answers": {
+      "A": "Prioridad.",
+      "B": "Preferencia y sumariedad.",
+      "C": "Rapidez.",
+      "D": "Tutela reforzada."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 19,
+    "question": "¿Cuáles son los derechos susceptibles de que, ante su vulneración, se plantee un recurso de amparo?:",
+    "answers": {
+      "A": "Todos.",
+      "B": "Los recogidos en el Título I.",
+      "C": "Los recogidos en los artículos que van del artículo 14 al 29 ambos inclusive.",
+      "D": "Los recogidos en los artículos que van del artículo 14 al 29 y el 30.2."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 20,
+    "question": "La sede del Tribunal Europeo de Derechos humanos (TEDH) se encuentra sita en:",
+    "answers": {
+      "A": "Luxemburgo.",
+      "B": "Estrasburgo.",
+      "C": "Rotterdam.",
+      "D": "Ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 21,
+    "question": "Atendiendo al artículo 116 de la CE de 1978 el estado de alarma se establece:",
+    "answers": {
+      "A": "Frente a grandes catástrofes naturales o accidentes.",
+      "B": "En caso de graves alteraciones del orden público.",
+      "C": "Como reacción ante agresiones dirigidas directamente contra la existencia misma del Estado, su integridad territorial y su ordenamiento constitucional.",
+      "D": "Ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 22,
+    "question": "Atendiendo al artículo 116 de la CE de 1978 el estado de excepción se establece:",
+    "answers": {
+      "A": "Frente a grandes catástrofes naturales o accidentes.",
+      "B": "En caso de graves alteraciones del orden público.",
+      "C": "Como reacción ante agresiones dirigidas directamente contra la existencia misma del Estado, su integridad territorial y su ordenamiento constitucional.",
+      "D": "Ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 23,
+    "question": "Atendiendo al artículo 116 de la CE de 1978 el estado de sitio se establece:",
+    "answers": {
+      "A": "Frente a grandes catástrofes naturales o accidentes.",
+      "B": "En caso de graves alteraciones del orden público.",
+      "C": "Como reacción ante agresiones dirigidas directamente contra la existencia misma del Estado, su integridad territorial y su ordenamiento constitucional.",
+      "D": "Ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 24,
+    "question": "El estado de excepción puede implicar la suspensión, ¿de qué derechos?:",
+    "answers": {
+      "A": "Inviolabilidad del domicilio y el secreto de las comunicaciones.",
+      "B": "Libre circulación.",
+      "C": "Libertad religiosa.",
+      "D": "Ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 25,
+    "question": "Para llevar a cabo la posible suspensión «individual» de los derechos fundamentales, a tenor de lo establecido en el art. 55.2 de la CE de 1978, es necesaria:",
+    "answers": {
+      "A": "Su determinación legal.",
+      "B": "La intervención judicial.",
+      "C": "Su determinación normativa.",
+      "D": "La intervención gubernativa preceptiva."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 26,
+    "question": "¿A quién corresponde en última instancia la determinación e identificación de los límites de los derechos fundamentales?:",
+    "answers": {
+      "A": "A los tribunales ordinarios.",
+      "B": "Al Tribunal Europeo de Derechos Humanos (TEDH).",
+      "C": "Al Tribunal Supremo.",
+      "D": "Al Tribunal Constitucional."
+    },
+    "correct": "D"
+  }
+]
