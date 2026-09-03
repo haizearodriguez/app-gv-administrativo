@@ -1,1651 +1,1651 @@
 [
   {
     "id": 1,
-    "question": "¿Qué Título constitucional regula la organización territorial del Estado?",
+    "question": "¿Qué Título de la Constitución regula la organización territorial del Estado?",
     "answers": {
-      "A": "El Título III",
-      "B": "El Título VIII",
-      "C": "El Título VI",
-      "D": "El Título X"
+      "A": "Título VI",
+      "B": "Título VIII",
+      "C": "Título VII",
+      "D": "Título IX"
     },
     "correct": "B"
   },
   {
     "id": 2,
-    "question": "¿Qué entidades menciona el artículo 137 CE?",
+    "question": "¿Qué artículo establece que el Estado se organiza territorialmente en municipios, provincias y Comunidades Autónomas?",
     "answers": {
-      "A": "Comarcas y áreas metropolitanas",
-      "B": "Solo provincias y municipios",
-      "C": "Municipios, provincias y Comunidades Autónomas",
-      "D": "Territorios Históricos y municipios"
+      "A": "141",
+      "B": "138",
+      "C": "137",
+      "D": "140"
     },
     "correct": "C"
   },
   {
     "id": 3,
-    "question": "¿Qué autonomía tienen las Comunidades Autónomas?",
+    "question": "¿Qué autonomía reconoce el artículo 137 a las entidades territoriales?",
     "answers": {
-      "A": "Autonomía exclusivamente administrativa",
-      "B": "Autonomía judicial",
-      "C": "Autonomía internacional",
-      "D": "Autonomía política"
-    },
-    "correct": "D"
-  },
-  {
-    "id": 4,
-    "question": "¿Qué autonomía tienen municipios y provincias?",
-    "answers": {
-      "A": "Autonomía administrativa",
-      "B": "Autonomía soberana",
-      "C": "Autonomía legislativa estatal",
-      "D": "Autonomía internacional"
+      "A": "Autonomía para la gestión de sus propios intereses",
+      "B": "Independencia política",
+      "C": "Soberanía internacional",
+      "D": "Autonomía legislativa plena a todas"
     },
     "correct": "A"
   },
   {
-    "id": 5,
-    "question": "¿Qué artículos regulan específicamente la Administración Local?",
+    "id": 4,
+    "question": "¿Qué tres niveles territoriales menciona el artículo 137?",
     "answers": {
-      "A": "137 a 139",
-      "B": "Los artículos 140 a 142",
-      "C": "143 a 151",
-      "D": "152 a 158"
+      "A": "Provincias, islas y mancomunidades",
+      "B": "Ayuntamientos, diputaciones y cabildos",
+      "C": "Municipios, comarcas y regiones",
+      "D": "Municipios, provincias y Comunidades Autónomas"
     },
-    "correct": "B"
+    "correct": "D"
+  },
+  {
+    "id": 5,
+    "question": "¿Qué artículo constitucional regula específicamente la Administración Local en el inicio del tema?",
+    "answers": {
+      "A": "140",
+      "B": "139",
+      "C": "137",
+      "D": "138"
+    },
+    "correct": "A"
   },
   {
     "id": 6,
-    "question": "¿Qué ley regula las Bases del Régimen Local?",
+    "question": "¿Qué artículos de la Constitución se dedican específicamente a la Administración Local?",
     "answers": {
-      "A": "La Ley 40/2015",
-      "B": "La Ley 39/2015",
-      "C": "La Ley 7/1985, de 2 de abril",
-      "D": "La LO 2/1979"
+      "A": "140-142",
+      "B": "143-145",
+      "C": "146-149",
+      "D": "137-139"
     },
-    "correct": "C"
+    "correct": "A"
   },
   {
     "id": 7,
     "question": "¿Cuál es la entidad básica de la organización territorial del Estado?",
     "answers": {
-      "A": "La mancomunidad",
-      "B": "La provincia",
-      "C": "La comarca",
-      "D": "El municipio"
+      "A": "Comarca",
+      "B": "Comunidad Autónoma",
+      "C": "Provincia",
+      "D": "Municipio"
     },
     "correct": "D"
   },
   {
     "id": 8,
-    "question": "¿Qué es la provincia?",
+    "question": "¿Qué entidad local se define como agrupación de municipios?",
     "answers": {
-      "A": "La entidad local determinada por la agrupación de municipios",
-      "B": "Una Comunidad Autónoma",
-      "C": "Un órgano judicial",
-      "D": "Una agrupación de islas"
-    },
-    "correct": "A"
-  },
-  {
-    "id": 9,
-    "question": "¿Qué entidades gobiernan las islas de Baleares y Canarias?",
-    "answers": {
-      "A": "Diputaciones",
-      "B": "Cabildos y Consejos Insulares",
-      "C": "Juntas Generales",
-      "D": "Consejos de Gobierno"
+      "A": "Isla",
+      "B": "Provincia",
+      "C": "Municipio",
+      "D": "Área metropolitana"
     },
     "correct": "B"
   },
   {
-    "id": 10,
-    "question": "¿Para qué se crean las mancomunidades?",
+    "id": 9,
+    "question": "¿Qué entidad local territorial existe en los archipiélagos balear y canario?",
     "answers": {
-      "A": "Para sustituir a las Comunidades Autónomas",
-      "B": "Para ejercer jurisdicción",
-      "C": "Para ejecutar en común obras y servicios de su competencia",
-      "D": "Para dirigir la política exterior"
+      "A": "Pedanía",
+      "B": "Mancomunidad",
+      "C": "Comarca",
+      "D": "Isla"
     },
-    "correct": "C"
+    "correct": "D"
+  },
+  {
+    "id": 10,
+    "question": "¿Qué órganos gobiernan, administran y representan las islas?",
+    "answers": {
+      "A": "Juntas Generales",
+      "B": "Cabildos y Consejos Insulares",
+      "C": "Diputaciones Provinciales exclusivamente",
+      "D": "Ayuntamientos insulares"
+    },
+    "correct": "B"
   },
   {
     "id": 11,
-    "question": "¿Qué caracteriza a las áreas metropolitanas?",
+    "question": "¿Qué ley clasifica las entidades que integran la Administración Local?",
     "answers": {
-      "A": "Solo existen en archipiélagos",
-      "B": "Agrupan provincias rurales",
-      "C": "Son órganos estatales",
-      "D": "Agrupan municipios de grandes aglomeraciones urbanas vinculados económica y socialmente"
+      "A": "Ley 39/2015",
+      "B": "Ley 30/1992",
+      "C": "Ley 50/1997",
+      "D": "Ley 7/1985, de 2 de abril"
     },
     "correct": "D"
   },
   {
     "id": 12,
-    "question": "¿Qué finalidad tienen las comarcas?",
+    "question": "¿Cuáles son las tres entidades locales territoriales señaladas por la LBRL?",
     "answers": {
-      "A": "Gestionar intereses comunes de varios municipios o prestar servicios en ese ámbito",
-      "B": "Sustituir al Estado",
-      "C": "Ejercer funciones judiciales",
-      "D": "Representar a España internacionalmente"
+      "A": "Provincia, comarca y área metropolitana",
+      "B": "Municipio, cabildo y pedanía",
+      "C": "Municipio, provincia e isla",
+      "D": "Municipio, comarca y mancomunidad"
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 13,
-    "question": "¿Qué Territorios Históricos integran Euskadi?",
+    "question": "¿Qué tipo de entidades son las comarcas?",
     "answers": {
-      "A": "Navarra, Álava y Bizkaia",
-      "B": "Álava, Bizkaia y Gipuzkoa",
-      "C": "Álava, Cantabria y Gipuzkoa",
-      "D": "Bizkaia, Navarra y La Rioja"
+      "A": "Agrupaciones de varios municipios",
+      "B": "Órganos provinciales obligatorios",
+      "C": "Órganos de las Comunidades Autónomas",
+      "D": "Entidades estatales"
     },
-    "correct": "B"
+    "correct": "A"
   },
   {
     "id": 14,
-    "question": "¿Qué instituciones forman la organización de los Territorios Históricos Vascos?",
+    "question": "¿Para qué se crean las áreas metropolitanas?",
     "answers": {
-      "A": "Congreso y Senado",
-      "B": "Parlamento Vasco y Gobierno Vasco",
-      "C": "Juntas Generales y Diputación Foral",
-      "D": "Ayuntamiento y Diputación Provincial"
+      "A": "Para planificación conjunta y coordinación de servicios y obras en grandes aglomeraciones urbanas",
+      "B": "Para sustituir a las Comunidades Autónomas",
+      "C": "Para ejercer competencias estatales",
+      "D": "Para organizar elecciones generales"
     },
-    "correct": "C"
+    "correct": "A"
   },
   {
     "id": 15,
-    "question": "¿Qué expresa el principio imperativo del régimen local?",
+    "question": "¿Para qué se crean las mancomunidades de municipios?",
     "answers": {
-      "A": "Que no existen entidades locales no territoriales",
-      "B": "Que todas las competencias son estatales",
-      "C": "Que todos los municipios deben tener igual población",
-      "D": "Que todo el territorio pertenece a un municipio o provincia"
-    },
-    "correct": "D"
-  },
-  {
-    "id": 16,
-    "question": "¿Qué exige la suficiencia financiera local?",
-    "answers": {
-      "A": "Que las Haciendas locales dispongan de medios suficientes para sus funciones",
-      "B": "Que se financien solo con tasas",
-      "C": "Que carezcan de tributos propios",
-      "D": "Que solo reciban fondos europeos"
-    },
-    "correct": "A"
-  },
-  {
-    "id": 17,
-    "question": "¿De qué se nutren fundamentalmente las Haciendas locales?",
-    "answers": {
-      "A": "Solo de transferencias estatales",
-      "B": "De tributos propios y participación en los del Estado y de las Comunidades Autónomas",
-      "C": "Solo de fondos europeos",
-      "D": "Solo de endeudamiento"
-    },
-    "correct": "B"
-  },
-  {
-    "id": 18,
-    "question": "¿Qué significa subsidiariedad?",
-    "answers": {
-      "A": "Que las provincias dependen de los municipios",
-      "B": "Que siempre decide el Estado",
-      "C": "Que las competencias públicas corresponden, en general, a las autoridades más cercanas a la ciudadanía",
-      "D": "Que toda competencia debe ser autonómica"
+      "A": "Para gestionar competencias estatales",
+      "B": "Para ejercer potestad legislativa",
+      "C": "Para la ejecución en común de obras y servicios de su competencia",
+      "D": "Para sustituir a las diputaciones"
     },
     "correct": "C"
   },
   {
-    "id": 19,
-    "question": "¿Qué instrumento internacional define la autonomía local citado en el tema?",
+    "id": 16,
+    "question": "¿Qué entidades pueden constituirse para administrar de forma descentralizada núcleos de población separados?",
     "answers": {
-      "A": "El Convenio de Schengen",
-      "B": "El Tratado de Maastricht",
-      "C": "La Carta de Naciones Unidas",
-      "D": "La Carta Europea de Autonomía Local"
+      "A": "Comunidades Autónomas",
+      "B": "Provincias",
+      "C": "Entidades de ámbito territorial inferior al municipio",
+      "D": "Áreas metropolitanas exclusivamente"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 17,
+    "question": "¿Cuál es la configuración político-administrativa especial de Euskadi destacada en el tema?",
+    "answers": {
+      "A": "Cuatro provincias forales",
+      "B": "Dos Comunidades Autónomas",
+      "C": "Siete diputaciones provinciales",
+      "D": "Álava, Bizkaia y Gipuzkoa como Territorios Históricos"
     },
     "correct": "D"
   },
   {
-    "id": 20,
-    "question": "¿Dónde se adoptó la Carta Europea de Autonomía Local?",
+    "id": 18,
+    "question": "¿Qué instituciones conforman la organización de los Territorios Históricos Vascos?",
     "answers": {
-      "A": "Estrasburgo",
-      "B": "Bruselas",
-      "C": "Madrid",
-      "D": "Luxemburgo"
-    },
-    "correct": "A"
-  },
-  {
-    "id": 21,
-    "question": "¿Cuándo se adoptó la Carta Europea de Autonomía Local?",
-    "answers": {
-      "A": "6 de diciembre de 1978",
-      "B": "15 de octubre de 1985",
-      "C": "9 de mayo de 1950",
-      "D": "1 de diciembre de 2009"
+      "A": "Parlamento y Gobierno Vasco",
+      "B": "Juntas Generales y Diputación Foral",
+      "C": "Senado y Congreso",
+      "D": "Ayuntamientos y Cabildos"
     },
     "correct": "B"
   },
   {
-    "id": 22,
-    "question": "¿En qué año fue ratificada por España?",
+    "id": 19,
+    "question": "¿Cómo caracteriza el tema a los Territorios Históricos?",
     "answers": {
-      "A": "1993",
-      "B": "1985",
-      "C": "1988",
-      "D": "2001"
+      "A": "Municipios de régimen especial",
+      "B": "Comunidades Autónomas uniprovinciales",
+      "C": "Entes territoriales públicos con organización e instituciones propias de naturaleza política",
+      "D": "Órganos administrativos del Estado sin autonomía"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 20,
+    "question": "¿En qué se diferencian los Territorios Históricos de las provincias de régimen común según el tema?",
+    "answers": {
+      "A": "Son órganos estatales",
+      "B": "Carecen de personalidad jurídica",
+      "C": "Tienen naturaleza y competencias muy diferentes",
+      "D": "No tienen instituciones propias"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 21,
+    "question": "¿Qué principio significa que no existe ninguna parte del territorio español que no pertenezca a un municipio o provincia?",
+    "answers": {
+      "A": "Principio federal",
+      "B": "Principio subsidiario",
+      "C": "Principio imperativo",
+      "D": "Principio dispositivo"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 22,
+    "question": "¿Qué principio reconoce autonomía a municipios, provincias e islas?",
+    "answers": {
+      "A": "Principio de centralización",
+      "B": "Principio de unidad legislativa",
+      "C": "Principio de autonomía de los entes públicos territoriales",
+      "D": "Principio de jerarquía"
     },
     "correct": "C"
   },
   {
     "id": 23,
-    "question": "¿Qué comprende la autonomía local según la Carta?",
+    "question": "¿Qué tipo de autonomía se atribuye a municipios y provincias?",
     "answers": {
-      "A": "La independencia internacional",
-      "B": "La soberanía territorial",
-      "C": "La potestad legislativa estatal",
-      "D": "El derecho y capacidad efectiva de ordenar y gestionar una parte importante de los asuntos públicos"
+      "A": "Autonomía soberana",
+      "B": "Autonomía internacional",
+      "C": "Autonomía administrativa",
+      "D": "Autonomía constitucional plena"
     },
-    "correct": "D"
+    "correct": "C"
   },
   {
     "id": 24,
-    "question": "¿Qué significa gestionar bajo propia responsabilidad?",
+    "question": "¿Qué tipo de autonomía se atribuye a las Comunidades Autónomas?",
     "answers": {
-      "A": "Que las entidades locales gestionan sus asuntos sin estar sometidas a autoridades superiores",
-      "B": "Que no están sujetas a la ley",
-      "C": "Que pueden reformar la Constitución",
-      "D": "Que no pueden ser fiscalizadas"
+      "A": "Autonomía política",
+      "B": "Autonomía diplomática",
+      "C": "Autonomía meramente administrativa",
+      "D": "Autonomía judicial"
     },
     "correct": "A"
   },
   {
     "id": 25,
-    "question": "¿Cuál es una potestad local?",
+    "question": "¿Qué potestades comprende la autonomía local según el tema?",
     "answers": {
-      "A": "La potestad constituyente",
-      "B": "La potestad reglamentaria y de autoorganización",
-      "C": "La potestad diplomática",
-      "D": "La potestad de indulto"
+      "A": "Política exterior y moneda",
+      "B": "Autoorganización y autogobierno",
+      "C": "Legislación penal y civil",
+      "D": "Soberanía exterior y defensa"
     },
     "correct": "B"
   },
   {
     "id": 26,
-    "question": "¿Cuál es otra potestad local?",
+    "question": "¿Qué personalidad tienen municipios, provincias e islas?",
     "answers": {
-      "A": "La potestad de reforma constitucional",
-      "B": "La potestad legislativa estatal",
-      "C": "La potestad tributaria y financiera",
-      "D": "La potestad de celebrar tratados"
+      "A": "Personalidad jurídica propia",
+      "B": "Personalidad jurídica estatal",
+      "C": "No tienen personalidad",
+      "D": "Personalidad internacional"
     },
-    "correct": "C"
+    "correct": "A"
   },
   {
     "id": 27,
-    "question": "¿Qué potestades afectan a los bienes locales?",
+    "question": "¿Qué condición tienen los municipios, provincias e islas en la organización estatal?",
     "answers": {
-      "A": "Potestades jurisdiccionales",
-      "B": "Potestades diplomáticas",
-      "C": "Potestades constituyentes",
-      "D": "Expropiación, investigación, deslinde y recuperación de oficio"
+      "A": "Administraciones públicas",
+      "B": "Órganos legislativos estatales",
+      "C": "Entidades privadas",
+      "D": "Órganos judiciales"
     },
-    "correct": "D"
+    "correct": "A"
   },
   {
     "id": 28,
-    "question": "¿Qué se presume respecto de los actos locales?",
+    "question": "¿Qué artículo constitucional establece la autonomía del municipio?",
     "answers": {
-      "A": "Su legitimidad y ejecutividad",
-      "B": "Su nulidad automática",
-      "C": "Su suspensión automática",
-      "D": "Su inexistencia jurídica"
+      "A": "142",
+      "B": "141",
+      "C": "140",
+      "D": "143"
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 29,
-    "question": "¿Qué potestades permiten la ejecución forzosa y sanción?",
+    "question": "¿Cómo se gobierna y administra el municipio según el modelo constitucional?",
     "answers": {
-      "A": "Las potestades diplomáticas",
-      "B": "Las potestades de ejecución forzosa y sancionadora",
-      "C": "Las potestades legislativas estatales",
-      "D": "Las potestades constitucionales"
-    },
-    "correct": "B"
-  },
-  {
-    "id": 30,
-    "question": "¿Qué significa la inembargabilidad de bienes locales?",
-    "answers": {
-      "A": "Que son bienes privados",
-      "B": "Que nunca pueden transmitirse",
-      "C": "Que no pueden ser embargados en los términos previstos legalmente",
-      "D": "Que están fuera de toda regulación"
-    },
-    "correct": "C"
-  },
-  {
-    "id": 31,
-    "question": "¿Cuándo surge la provincia moderna con Diputación provincial?",
-    "answers": {
-      "A": "Con la Constitución de 1931",
-      "B": "Con la Constitución de 1978",
-      "C": "Con la Ley 7/1985",
-      "D": "Con la Constitución de Cádiz de 1812"
-    },
-    "correct": "D"
-  },
-  {
-    "id": 32,
-    "question": "¿Qué norma consagra la división de España en provincias?",
-    "answers": {
-      "A": "El Real Decreto de 30 de noviembre de 1833",
-      "B": "La Constitución de 1812",
-      "C": "La Ley 7/1985",
-      "D": "La Constitución de 1931"
+      "A": "Por los Ayuntamientos",
+      "B": "Por los Cabildos en todos los casos",
+      "C": "Por las Diputaciones",
+      "D": "Por las Juntas Generales"
     },
     "correct": "A"
   },
   {
-    "id": 33,
-    "question": "¿Cuántas provincias señala el temario?",
+    "id": 30,
+    "question": "¿Quién integra el Ayuntamiento?",
     "answers": {
-      "A": "47",
-      "B": "50",
-      "C": "48",
-      "D": "52"
-    },
-    "correct": "B"
-  },
-  {
-    "id": 34,
-    "question": "¿Qué naturaleza bifronte presenta la provincia?",
-    "answers": {
-      "A": "Es órgano judicial y administrativo",
-      "B": "Es Comunidad Autónoma y municipio",
-      "C": "Es entidad local y división territorial para actividades del Estado",
-      "D": "Es exclusivamente entidad autonómica"
-    },
-    "correct": "C"
-  },
-  {
-    "id": 35,
-    "question": "¿Quién gobierna y administra la provincia en Comunidades pluriprovinciales?",
-    "answers": {
-      "A": "El Tribunal Supremo",
-      "B": "El Senado",
-      "C": "El Gobierno central directamente",
-      "D": "La Diputación u otras Corporaciones representativas"
+      "A": "Presidente y diputados provinciales",
+      "B": "Consejeros autonómicos",
+      "C": "Diputación y Junta General",
+      "D": "Alcalde y Concejales"
     },
     "correct": "D"
   },
   {
-    "id": 36,
-    "question": "¿Cómo se elige al Presidente de la Diputación en primera votación?",
+    "id": 31,
+    "question": "¿Cómo son elegidos los Concejales?",
     "answers": {
-      "A": "Por mayoría absoluta del Pleno",
-      "B": "Por mayoría simple",
-      "C": "Por sorteo",
-      "D": "Por sufragio directo"
+      "A": "Por la Diputación",
+      "B": "Por el Gobierno",
+      "C": "Por los vecinos mediante sufragio universal, igual, libre, directo y secreto",
+      "D": "Por las Cortes"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 32,
+    "question": "¿Cómo son elegidos los Alcaldes según el sistema constitucional descrito?",
+    "answers": {
+      "A": "Por el Senado",
+      "B": "Por el Presidente autonómico",
+      "C": "Por la Diputación",
+      "D": "Por los Concejales o por los vecinos, según proceda"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 33,
+    "question": "¿Qué artículo regula la provincia?",
+    "answers": {
+      "A": "142",
+      "B": "140",
+      "C": "143",
+      "D": "141"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 34,
+    "question": "¿Qué es la provincia constitucionalmente?",
+    "answers": {
+      "A": "Entidad privada",
+      "B": "Entidad local determinada por la agrupación de municipios",
+      "C": "Comunidad Autónoma uniprovincial",
+      "D": "Órgano del Gobierno central"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 35,
+    "question": "¿Qué función constitucional esencial tiene la provincia?",
+    "answers": {
+      "A": "Nombrar ministros",
+      "B": "Garantizar principios de solidaridad y equilibrio intermunicipal mediante su papel como entidad local",
+      "C": "Ejercer política exterior",
+      "D": "Aprobar leyes orgánicas"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 36,
+    "question": "¿Quién gobierna y administra las provincias de régimen común?",
+    "answers": {
+      "A": "Diputaciones u otras corporaciones de carácter representativo",
+      "B": "Cabildos",
+      "C": "Gobierno de España",
+      "D": "Parlamentos autonómicos"
     },
     "correct": "A"
   },
   {
     "id": 37,
-    "question": "¿Qué ocurre en segunda votación si no hubo mayoría absoluta?",
+    "question": "¿Qué entidad sustituye funcionalmente a la Diputación en determinados archipiélagos?",
     "answers": {
-      "A": "Se exige unanimidad",
-      "B": "Es suficiente la mayoría simple",
-      "C": "Se disuelve la Diputación",
-      "D": "Se convoca referéndum"
+      "A": "Ayuntamiento provincial",
+      "B": "Cabildo o Consejo Insular",
+      "C": "Junta General",
+      "D": "Consejo de Estado"
     },
     "correct": "B"
   },
   {
     "id": 38,
-    "question": "¿Cuánto dura el mandato del Presidente de la Diputación?",
+    "question": "¿Qué artículo regula la suficiencia financiera de las Haciendas Locales?",
     "answers": {
-      "A": "Tres años",
-      "B": "Dos años",
-      "C": "Cuatro años",
-      "D": "Cinco años"
+      "A": "143",
+      "B": "142",
+      "C": "140",
+      "D": "141"
     },
-    "correct": "C"
+    "correct": "B"
   },
   {
     "id": 39,
-    "question": "¿Puede ser destituido mediante moción de censura?",
+    "question": "¿Qué principio financiero se reconoce a las Haciendas Locales?",
     "answers": {
-      "A": "Solo por el Gobierno",
-      "B": "No",
-      "C": "Sí, por mayoría simple vecinal",
-      "D": "Sí, por mayoría absoluta de los diputados"
+      "A": "Ausencia de recursos propios",
+      "B": "Autonomía monetaria",
+      "C": "Financiación exclusivamente estatal",
+      "D": "Disponer de medios suficientes para el desempeño de sus funciones"
     },
     "correct": "D"
   },
   {
     "id": 40,
-    "question": "¿Quién nombra a los Vicepresidentes de la Diputación?",
+    "question": "¿De qué fuentes se nutren las Haciendas Locales según el precepto constitucional?",
     "answers": {
-      "A": "El Presidente, entre los miembros de la Junta de Gobierno",
-      "B": "El Pleno por sorteo",
-      "C": "El Gobierno autonómico",
-      "D": "Los concejales"
+      "A": "Solo tasas municipales",
+      "B": "Tributos propios y participación en los del Estado y las Comunidades Autónomas",
+      "C": "Solo transferencias europeas",
+      "D": "Solo impuestos estatales"
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 41,
-    "question": "¿Qué límite tiene la Junta de Gobierno de la Diputación?",
+    "question": "¿Qué finalidad tiene la provincia en relación con los municipios?",
     "answers": {
-      "A": "La mitad",
-      "B": "No más de un tercio del total de diputados",
-      "C": "Dos tercios",
-      "D": "No existe límite"
+      "A": "Ejercicio de soberanía nacional",
+      "B": "Coordinación y cooperación intermunicipal, según el esquema local",
+      "C": "Control judicial",
+      "D": "Sustitución permanente de los ayuntamientos"
     },
     "correct": "B"
   },
   {
     "id": 42,
-    "question": "¿Qué función principal tiene la Junta de Gobierno?",
+    "question": "¿Qué diferencia básica establece el tema entre Administración local y autonómica?",
     "answers": {
-      "A": "Controlar al Tribunal Constitucional",
-      "B": "Aprobar leyes autonómicas",
-      "C": "Asistir y asesorar al Presidente y ejercer competencias delegadas",
-      "D": "Elegir diputados nacionales"
+      "A": "La local tiene soberanía internacional",
+      "B": "No existe diferencia",
+      "C": "La local se integra por municipios, provincias y otras entidades; la autonómica por Comunidades Autónomas",
+      "D": "La autonómica carece de autonomía"
     },
     "correct": "C"
   },
   {
     "id": 43,
-    "question": "¿Cómo se eligen los diputados provinciales?",
+    "question": "¿Qué norma básica del régimen local aparece expresamente citada?",
     "answers": {
-      "A": "Por el Gobierno central",
-      "B": "Por sufragio directo provincial",
-      "C": "Por designación del Rey",
-      "D": "Mediante un sistema indirecto entre y por los concejales de los municipios de la provincia"
-    },
-    "correct": "D"
-  },
-  {
-    "id": 44,
-    "question": "¿Qué función corresponde al Pleno de la Diputación?",
-    "answers": {
-      "A": "Aprobar y modificar los presupuestos",
-      "B": "Nombrar al Presidente del Gobierno",
-      "C": "Aprobar tratados internacionales",
-      "D": "Resolver recursos de amparo"
+      "A": "Ley 7/1985, de 2 de abril",
+      "B": "Ley 39/2015",
+      "C": "Ley Orgánica 3/1981",
+      "D": "Ley 4/1981"
     },
     "correct": "A"
   },
   {
-    "id": 45,
-    "question": "¿Cuál es una competencia propia de la Diputación?",
+    "id": 44,
+    "question": "¿Qué son las mancomunidades?",
     "answers": {
-      "A": "Defensa nacional",
-      "B": "Coordinar los servicios municipales",
-      "C": "Política monetaria",
-      "D": "Legislación penal"
+      "A": "Órganos legislativos autonómicos",
+      "B": "Órganos provinciales constitucionales",
+      "C": "Entidades estatales",
+      "D": "Entidades creadas por municipios para ejecutar en común obras y servicios de su competencia"
     },
-    "correct": "B"
+    "correct": "D"
+  },
+  {
+    "id": 45,
+    "question": "¿Qué caracteriza a las áreas metropolitanas?",
+    "answers": {
+      "A": "Integran municipios de grandes aglomeraciones urbanas vinculados económica y socialmente",
+      "B": "Solo existen en Euskadi",
+      "C": "Agrupan provincias enteras",
+      "D": "Son órganos del Estado"
+    },
+    "correct": "A"
   },
   {
     "id": 46,
-    "question": "¿A qué municipios presta especialmente asistencia la Diputación?",
+    "question": "¿Qué caracteriza a las comarcas?",
     "answers": {
-      "A": "Solo a municipios turísticos",
-      "B": "Solo a capitales",
-      "C": "A los de menor capacidad económica y de gestión",
-      "D": "Solo a municipios insulares"
+      "A": "Agrupan municipios con intereses comunes que requieren gestión propia o servicios en ese ámbito",
+      "B": "Agrupan Comunidades Autónomas",
+      "C": "Sustituyen siempre a las provincias",
+      "D": "Son órganos del Estado"
     },
-    "correct": "C"
+    "correct": "A"
   },
   {
     "id": 47,
-    "question": "¿Puede una Comunidad Autónoma delegar competencias en una Diputación?",
+    "question": "¿Qué finalidad tienen las entidades inferiores al municipio?",
     "answers": {
-      "A": "Solo mediante reforma constitucional",
-      "B": "No",
-      "C": "Solo mediante tratado",
-      "D": "Sí"
+      "A": "Legislación autonómica",
+      "B": "Gobierno provincial",
+      "C": "Ejercicio de competencias estatales",
+      "D": "Administración descentralizada de núcleos de población separados"
     },
     "correct": "D"
   },
   {
     "id": 48,
-    "question": "¿Qué es el municipio?",
+    "question": "¿Cuál es un ejemplo de entidad territorial inferior al municipio citado en el tema?",
     "answers": {
-      "A": "La entidad local básica y cauce inmediato de participación ciudadana",
-      "B": "Un órgano autonómico",
-      "C": "Una división judicial",
-      "D": "Una entidad internacional"
+      "A": "Pedanía",
+      "B": "Comunidad Autónoma",
+      "C": "Provincia",
+      "D": "Territorio Histórico"
     },
     "correct": "A"
   },
   {
     "id": 49,
-    "question": "¿Qué integra el Ayuntamiento salvo en concejo abierto?",
+    "question": "¿Cuál es otro ejemplo de denominación tradicional de entidad inferior al municipio?",
     "answers": {
-      "A": "Presidente y diputados",
-      "B": "Alcalde y concejales",
-      "C": "Juntas Generales y Diputación",
-      "D": "Gobierno y Senado"
+      "A": "Cabildo",
+      "B": "Consejo Insular",
+      "C": "Diputación",
+      "D": "Caserío"
     },
-    "correct": "B"
+    "correct": "D"
   },
   {
     "id": 50,
-    "question": "Conforme al temario, ¿Qué Título constitucional regula la organización territorial del Estado?",
+    "question": "¿Qué peculiaridad tienen los Territorios Históricos de Euskadi?",
     "answers": {
-      "A": "El Título VIII",
-      "B": "El Título III",
-      "C": "El Título VI",
-      "D": "El Título X"
+      "A": "Carecen de órganos representativos",
+      "B": "Dependen orgánicamente del Estado",
+      "C": "Poseen un régimen institucional y competencial propio",
+      "D": "Son idénticos a provincias comunes"
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 51,
-    "question": "Conforme al temario, ¿Qué entidades menciona el artículo 137 CE?",
+    "question": "¿Qué órgano de los Territorios Históricos ejerce la representación política normativa?",
     "answers": {
-      "A": "Solo provincias y municipios",
-      "B": "Municipios, provincias y Comunidades Autónomas",
-      "C": "Comarcas y áreas metropolitanas",
-      "D": "Territorios Históricos y municipios"
+      "A": "Consejo de Estado",
+      "B": "Ayuntamiento",
+      "C": "Congreso",
+      "D": "Juntas Generales"
     },
-    "correct": "B"
+    "correct": "D"
   },
   {
     "id": 52,
-    "question": "Conforme al temario, ¿Qué autonomía tienen las Comunidades Autónomas?",
+    "question": "¿Qué órgano ejecutivo foral aparece en la organización institucional de los Territorios Históricos?",
     "answers": {
-      "A": "Autonomía internacional",
-      "B": "Autonomía judicial",
-      "C": "Autonomía política",
-      "D": "Autonomía exclusivamente administrativa"
+      "A": "Cabildo",
+      "B": "Consejo de Ministros",
+      "C": "Gobierno Civil",
+      "D": "Diputación Foral"
     },
-    "correct": "C"
+    "correct": "D"
   },
   {
     "id": 53,
-    "question": "Conforme al temario, ¿Qué autonomía tienen municipios y provincias?",
+    "question": "¿Qué artículo contiene las materias que en principio son competencia exclusiva del Estado?",
     "answers": {
-      "A": "Autonomía internacional",
-      "B": "Autonomía soberana",
-      "C": "Autonomía legislativa estatal",
-      "D": "Autonomía administrativa"
+      "A": "149.1",
+      "B": "151.1",
+      "C": "148.1",
+      "D": "150.1"
     },
-    "correct": "D"
+    "correct": "A"
   },
   {
     "id": 54,
-    "question": "Conforme al temario, ¿Qué artículos regulan específicamente la Administración Local?",
+    "question": "¿Qué artículo contiene el marco de materias que pueden asumir las Comunidades Autónomas?",
     "answers": {
-      "A": "Los artículos 140 a 142",
-      "B": "137 a 139",
-      "C": "143 a 151",
-      "D": "152 a 158"
+      "A": "150.2",
+      "B": "137",
+      "C": "149.1",
+      "D": "148.1"
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 55,
-    "question": "Conforme al temario, ¿Qué ley regula las Bases del Régimen Local?",
+    "question": "¿Qué artículo contempla la transferencia o delegación de competencias estatales?",
     "answers": {
-      "A": "La Ley 39/2015",
-      "B": "La Ley 7/1985, de 2 de abril",
-      "C": "La Ley 40/2015",
-      "D": "La LO 2/1979"
+      "A": "149",
+      "B": "148",
+      "C": "150",
+      "D": "151"
     },
-    "correct": "B"
+    "correct": "C"
   },
   {
     "id": 56,
-    "question": "Conforme al temario, ¿Cuál es la entidad básica de la organización territorial del Estado?",
+    "question": "¿Qué dos grandes tipos de competencias autonómicas distingue el tema?",
     "answers": {
-      "A": "La comarca",
-      "B": "La provincia",
-      "C": "El municipio",
-      "D": "La mancomunidad"
+      "A": "Exclusivas y compartidas",
+      "B": "Federales y confederales",
+      "C": "Judiciales y militares",
+      "D": "Locales y estatales"
     },
-    "correct": "C"
+    "correct": "A"
   },
   {
     "id": 57,
-    "question": "Conforme al temario, ¿Qué es la provincia?",
+    "question": "¿Qué caracteriza a una competencia exclusiva autonómica?",
     "answers": {
-      "A": "Una agrupación de islas",
-      "B": "Una Comunidad Autónoma",
-      "C": "Un órgano judicial",
-      "D": "La entidad local determinada por la agrupación de municipios"
+      "A": "La Comunidad asume facultades legislativas plenas, desarrollo reglamentario y gestión o ejecución",
+      "B": "Solo ejecuta leyes estatales",
+      "C": "Carece de facultades ejecutivas",
+      "D": "Solo dicta reglamentos"
     },
-    "correct": "D"
+    "correct": "A"
   },
   {
     "id": 58,
-    "question": "Conforme al temario, ¿Qué entidades gobiernan las islas de Baleares y Canarias?",
+    "question": "¿Qué caracteriza a una competencia compartida?",
     "answers": {
-      "A": "Cabildos y Consejos Insulares",
-      "B": "Diputaciones",
-      "C": "Juntas Generales",
-      "D": "Consejos de Gobierno"
-    },
-    "correct": "A"
-  },
-  {
-    "id": 59,
-    "question": "Conforme al temario, ¿Para qué se crean las mancomunidades?",
-    "answers": {
-      "A": "Para ejercer jurisdicción",
-      "B": "Para ejecutar en común obras y servicios de su competencia",
-      "C": "Para sustituir a las Comunidades Autónomas",
-      "D": "Para dirigir la política exterior"
+      "A": "Solo el Estado ejecuta",
+      "B": "El Estado conserva determinadas facultades y la Comunidad asume desarrollo y/o ejecución",
+      "C": "No existe distribución",
+      "D": "La Comunidad ejerce siempre todas las facultades"
     },
     "correct": "B"
   },
   {
-    "id": 60,
-    "question": "Conforme al temario, ¿Qué caracteriza a las áreas metropolitanas?",
+    "id": 59,
+    "question": "¿Qué puede reservarse el Estado en una materia compartida?",
     "answers": {
-      "A": "Son órganos estatales",
-      "B": "Agrupan provincias rurales",
-      "C": "Agrupan municipios de grandes aglomeraciones urbanas vinculados económica y socialmente",
-      "D": "Solo existen en archipiélagos"
+      "A": "Solo gestión local",
+      "B": "Solo financiación europea",
+      "C": "Legislación básica",
+      "D": "Solo nombramientos"
     },
     "correct": "C"
   },
   {
-    "id": 61,
-    "question": "Conforme al temario, ¿Qué finalidad tienen las comarcas?",
+    "id": 60,
+    "question": "¿Qué efecto de la cláusula de cierre permitió a las Comunidades de autonomía plena asumir competencias no atribuidas en exclusiva al Estado?",
     "answers": {
-      "A": "Representar a España internacionalmente",
-      "B": "Sustituir al Estado",
-      "C": "Ejercer funciones judiciales",
-      "D": "Gestionar intereses comunes de varios municipios o prestar servicios en ese ámbito"
+      "A": "Segundo efecto exclusivamente",
+      "B": "Artículo 150.3",
+      "C": "Artículo 137",
+      "D": "Primer efecto de la cláusula de cierre del artículo 149.3"
     },
     "correct": "D"
   },
   {
-    "id": 62,
-    "question": "Conforme al temario, ¿Qué Territorios Históricos integran Euskadi?",
+    "id": 61,
+    "question": "¿Qué ocurre con las materias no asumidas por los Estatutos de Autonomía según el segundo efecto de la cláusula de cierre?",
     "answers": {
-      "A": "Álava, Bizkaia y Gipuzkoa",
-      "B": "Navarra, Álava y Bizkaia",
-      "C": "Álava, Cantabria y Gipuzkoa",
-      "D": "Bizkaia, Navarra y La Rioja"
-    },
-    "correct": "A"
-  },
-  {
-    "id": 63,
-    "question": "Conforme al temario, ¿Qué instituciones forman la organización de los Territorios Históricos Vascos?",
-    "answers": {
-      "A": "Parlamento Vasco y Gobierno Vasco",
-      "B": "Juntas Generales y Diputación Foral",
-      "C": "Congreso y Senado",
-      "D": "Ayuntamiento y Diputación Provincial"
+      "A": "Corresponden a la Unión Europea",
+      "B": "Corresponden al Estado",
+      "C": "Corresponden automáticamente a los municipios",
+      "D": "Quedan sin titular"
     },
     "correct": "B"
   },
   {
-    "id": 64,
-    "question": "Conforme al temario, ¿Qué expresa el principio imperativo del régimen local?",
+    "id": 62,
+    "question": "¿Qué papel desempeñan los Estatutos de Autonomía en la distribución competencial?",
     "answers": {
-      "A": "Que todos los municipios deben tener igual población",
-      "B": "Que todas las competencias son estatales",
-      "C": "Que todo el territorio pertenece a un municipio o provincia",
-      "D": "Que no existen entidades locales no territoriales"
+      "A": "Carecen de valor jurídico",
+      "B": "Regulan exclusivamente municipios",
+      "C": "Sustituyen a la Constitución",
+      "D": "Asumen competencias dentro del marco constitucional"
     },
-    "correct": "C"
+    "correct": "D"
+  },
+  {
+    "id": 63,
+    "question": "¿Qué posibilidad contempla el artículo 150 respecto de competencias estatales?",
+    "answers": {
+      "A": "Transferencia a la Unión Europea",
+      "B": "Supresión de las Comunidades Autónomas",
+      "C": "Delegación a municipios exclusivamente",
+      "D": "Transferencia o delegación a las Comunidades Autónomas"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 64,
+    "question": "¿Qué órgano territorial tiene autonomía política según el tema?",
+    "answers": {
+      "A": "Municipio",
+      "B": "Mancomunidad",
+      "C": "Provincia",
+      "D": "Comunidad Autónoma"
+    },
+    "correct": "D"
   },
   {
     "id": 65,
-    "question": "Conforme al temario, ¿Qué exige la suficiencia financiera local?",
+    "question": "¿Qué órganos son característicos del autogobierno de una Comunidad Autónoma?",
     "answers": {
-      "A": "Que solo reciban fondos europeos",
-      "B": "Que se financien solo con tasas",
-      "C": "Que carezcan de tributos propios",
-      "D": "Que las Haciendas locales dispongan de medios suficientes para sus funciones"
+      "A": "Congreso y Senado",
+      "B": "Diputación y Ayuntamiento",
+      "C": "Cabildo y Junta General",
+      "D": "Asamblea legislativa, Gobierno y Presidente"
     },
     "correct": "D"
   },
   {
     "id": 66,
-    "question": "Conforme al temario, ¿De qué se nutren fundamentalmente las Haciendas locales?",
+    "question": "¿Qué institución representa la potestad legislativa autonómica?",
     "answers": {
-      "A": "De tributos propios y participación en los del Estado y de las Comunidades Autónomas",
-      "B": "Solo de transferencias estatales",
-      "C": "Solo de fondos europeos",
-      "D": "Solo de endeudamiento"
+      "A": "Diputación",
+      "B": "Asamblea legislativa o Parlamento autonómico",
+      "C": "Ayuntamiento",
+      "D": "Cabildo"
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 67,
-    "question": "Conforme al temario, ¿Qué significa subsidiariedad?",
+    "question": "¿Qué institución ejerce el poder ejecutivo autonómico?",
     "answers": {
-      "A": "Que siempre decide el Estado",
-      "B": "Que las competencias públicas corresponden, en general, a las autoridades más cercanas a la ciudadanía",
-      "C": "Que las provincias dependen de los municipios",
-      "D": "Que toda competencia debe ser autonómica"
+      "A": "Ayuntamiento",
+      "B": "Gobierno autonómico",
+      "C": "Senado",
+      "D": "Diputación Provincial"
     },
     "correct": "B"
   },
   {
     "id": 68,
-    "question": "Conforme al temario, ¿Qué instrumento internacional define la autonomía local citado en el tema?",
+    "question": "¿Quién preside el Gobierno autonómico?",
     "answers": {
-      "A": "La Carta de Naciones Unidas",
-      "B": "El Tratado de Maastricht",
-      "C": "La Carta Europea de Autonomía Local",
-      "D": "El Convenio de Schengen"
+      "A": "Presidente de la Comunidad Autónoma",
+      "B": "Alcalde",
+      "C": "Presidente del Senado",
+      "D": "Presidente de la Diputación siempre"
     },
-    "correct": "C"
+    "correct": "A"
   },
   {
     "id": 69,
-    "question": "Conforme al temario, ¿Dónde se adoptó la Carta Europea de Autonomía Local?",
+    "question": "¿Qué principio territorial garantiza la Constitución junto a la autonomía?",
     "answers": {
-      "A": "Luxemburgo",
-      "B": "Bruselas",
-      "C": "Madrid",
-      "D": "Estrasburgo"
+      "A": "Solidaridad",
+      "B": "Jerarquía provincial",
+      "C": "Centralización",
+      "D": "Soberanía municipal"
     },
-    "correct": "D"
+    "correct": "A"
   },
   {
     "id": 70,
-    "question": "Conforme al temario, ¿Cuándo se adoptó la Carta Europea de Autonomía Local?",
+    "question": "¿Qué principio impide privilegios económicos o sociales entre territorios?",
     "answers": {
-      "A": "15 de octubre de 1985",
-      "B": "6 de diciembre de 1978",
-      "C": "9 de mayo de 1950",
-      "D": "1 de diciembre de 2009"
+      "A": "Jerarquía local",
+      "B": "Autonomía financiera absoluta",
+      "C": "Igualdad y solidaridad territorial",
+      "D": "Confederación"
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 71,
-    "question": "Conforme al temario, ¿En qué año fue ratificada por España?",
+    "question": "¿Qué función general cumplen los Estatutos de Autonomía?",
     "answers": {
-      "A": "1985",
-      "B": "1988",
-      "C": "1993",
-      "D": "2001"
+      "A": "Son reglamentos municipales",
+      "B": "Son leyes estatales ordinarias sin especialidad",
+      "C": "Son la norma institucional básica de cada Comunidad Autónoma",
+      "D": "Son tratados internacionales"
     },
-    "correct": "B"
+    "correct": "C"
   },
   {
     "id": 72,
-    "question": "Conforme al temario, ¿Qué comprende la autonomía local según la Carta?",
+    "question": "¿Qué tipo de norma es el Estatuto de Autonomía?",
     "answers": {
-      "A": "La potestad legislativa estatal",
-      "B": "La soberanía territorial",
-      "C": "El derecho y capacidad efectiva de ordenar y gestionar una parte importante de los asuntos públicos",
-      "D": "La independencia internacional"
+      "A": "Ley orgánica",
+      "B": "Reglamento",
+      "C": "Ley ordinaria autonómica",
+      "D": "Decreto-ley autonómico"
     },
-    "correct": "C"
+    "correct": "A"
   },
   {
     "id": 73,
-    "question": "Conforme al temario, ¿Qué significa gestionar bajo propia responsabilidad?",
+    "question": "¿Quién aprueba formalmente los Estatutos de Autonomía como leyes orgánicas?",
     "answers": {
-      "A": "Que no pueden ser fiscalizadas",
-      "B": "Que no están sujetas a la ley",
-      "C": "Que pueden reformar la Constitución",
-      "D": "Que las entidades locales gestionan sus asuntos sin estar sometidas a autoridades superiores"
+      "A": "Cabildos",
+      "B": "Cortes Generales",
+      "C": "Diputaciones",
+      "D": "Ayuntamientos"
     },
-    "correct": "D"
+    "correct": "B"
   },
   {
     "id": 74,
-    "question": "Conforme al temario, ¿Cuál es una potestad local?",
+    "question": "¿Qué relación existe entre Constitución y Estatuto?",
     "answers": {
-      "A": "La potestad reglamentaria y de autoorganización",
-      "B": "La potestad constituyente",
-      "C": "La potestad diplomática",
-      "D": "La potestad de indulto"
+      "A": "El Estatuto prevalece sobre la Constitución",
+      "B": "Son normas del mismo rango",
+      "C": "El Estatuto debe respetar el marco constitucional",
+      "D": "La Constitución no afecta al Estatuto"
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 75,
-    "question": "Conforme al temario, ¿Cuál es otra potestad local?",
+    "question": "¿Qué principio rige la organización territorial junto con la autonomía?",
     "answers": {
-      "A": "La potestad legislativa estatal",
-      "B": "La potestad tributaria y financiera",
-      "C": "La potestad de reforma constitucional",
-      "D": "La potestad de celebrar tratados"
+      "A": "Soberanía provincial",
+      "B": "Independencia territorial",
+      "C": "Unidad de la Nación española",
+      "D": "Confederación"
     },
-    "correct": "B"
+    "correct": "C"
   },
   {
     "id": 76,
-    "question": "Conforme al temario, ¿Qué potestades afectan a los bienes locales?",
+    "question": "¿Qué principio se aplica a la organización local según el tema?",
     "answers": {
-      "A": "Potestades constituyentes",
-      "B": "Potestades diplomáticas",
-      "C": "Expropiación, investigación, deslinde y recuperación de oficio",
-      "D": "Potestades jurisdiccionales"
+      "A": "Autonomía para la gestión de intereses propios",
+      "B": "Soberanía exterior",
+      "C": "Subordinación absoluta al Estado",
+      "D": "Centralización"
     },
-    "correct": "C"
+    "correct": "A"
   },
   {
     "id": 77,
-    "question": "Conforme al temario, ¿Qué se presume respecto de los actos locales?",
+    "question": "¿Qué entidad local tiene carácter necesario?",
     "answers": {
-      "A": "Su inexistencia jurídica",
-      "B": "Su nulidad automática",
-      "C": "Su suspensión automática",
-      "D": "Su legitimidad y ejecutividad"
+      "A": "Municipio",
+      "B": "Área metropolitana",
+      "C": "Mancomunidad",
+      "D": "Comarca"
     },
-    "correct": "D"
+    "correct": "A"
   },
   {
     "id": 78,
-    "question": "Conforme al temario, ¿Qué potestades permiten la ejecución forzosa y sanción?",
+    "question": "¿Qué otra entidad local genuina y necesaria señala el tema junto al municipio?",
     "answers": {
-      "A": "Las potestades de ejecución forzosa y sancionadora",
-      "B": "Las potestades diplomáticas",
-      "C": "Las potestades legislativas estatales",
-      "D": "Las potestades constitucionales"
-    },
-    "correct": "A"
-  },
-  {
-    "id": 79,
-    "question": "Conforme al temario, ¿Qué significa la inembargabilidad de bienes locales?",
-    "answers": {
-      "A": "Que nunca pueden transmitirse",
-      "B": "Que no pueden ser embargados en los términos previstos legalmente",
-      "C": "Que son bienes privados",
-      "D": "Que están fuera de toda regulación"
+      "A": "Área metropolitana",
+      "B": "Provincia",
+      "C": "Mancomunidad",
+      "D": "Pedanía"
     },
     "correct": "B"
   },
   {
-    "id": 80,
-    "question": "Conforme al temario, ¿Cuándo surge la provincia moderna con Diputación provincial?",
+    "id": 79,
+    "question": "¿Cuál de estas NO es una entidad local territorial de las tres enumeradas por la LBRL en el tema?",
     "answers": {
-      "A": "Con la Ley 7/1985",
-      "B": "Con la Constitución de 1978",
-      "C": "Con la Constitución de Cádiz de 1812",
-      "D": "Con la Constitución de 1931"
+      "A": "Comarca",
+      "B": "Municipio",
+      "C": "Provincia",
+      "D": "Isla"
     },
-    "correct": "C"
+    "correct": "A"
   },
   {
-    "id": 81,
-    "question": "Conforme al temario, ¿Qué norma consagra la división de España en provincias?",
+    "id": 80,
+    "question": "¿Cuál de estas sí es una entidad local territorial?",
     "answers": {
-      "A": "La Constitución de 1931",
-      "B": "La Constitución de 1812",
-      "C": "La Ley 7/1985",
-      "D": "El Real Decreto de 30 de noviembre de 1833"
+      "A": "Mancomunidad",
+      "B": "Comarca",
+      "C": "Área metropolitana",
+      "D": "Isla"
     },
     "correct": "D"
   },
   {
-    "id": 82,
-    "question": "Conforme al temario, ¿Cuántas provincias señala el temario?",
+    "id": 81,
+    "question": "¿Qué entidad local se basa en una agrupación voluntaria de municipios para servicios comunes?",
     "answers": {
-      "A": "50",
-      "B": "47",
-      "C": "48",
-      "D": "52"
+      "A": "Mancomunidad",
+      "B": "Comunidad Autónoma",
+      "C": "Territorio Histórico",
+      "D": "Provincia"
     },
     "correct": "A"
   },
   {
-    "id": 83,
-    "question": "Conforme al temario, ¿Qué naturaleza bifronte presenta la provincia?",
+    "id": 82,
+    "question": "¿Qué entidad responde a la necesidad de coordinación en grandes aglomeraciones urbanas?",
     "answers": {
-      "A": "Es Comunidad Autónoma y municipio",
-      "B": "Es entidad local y división territorial para actividades del Estado",
-      "C": "Es órgano judicial y administrativo",
-      "D": "Es exclusivamente entidad autonómica"
+      "A": "Mancomunidad",
+      "B": "Provincia",
+      "C": "Pedanía",
+      "D": "Área metropolitana"
     },
-    "correct": "B"
+    "correct": "D"
+  },
+  {
+    "id": 83,
+    "question": "¿Qué entidad responde a intereses comunes de varios municipios en un ámbito supramunicipal?",
+    "answers": {
+      "A": "Isla",
+      "B": "Ayuntamiento",
+      "C": "Cabildo",
+      "D": "Comarca"
+    },
+    "correct": "D"
   },
   {
     "id": 84,
-    "question": "Conforme al temario, ¿Quién gobierna y administra la provincia en Comunidades pluriprovinciales?",
+    "question": "¿Qué institución administra una isla canaria?",
     "answers": {
-      "A": "El Gobierno central directamente",
-      "B": "El Senado",
-      "C": "La Diputación u otras Corporaciones representativas",
-      "D": "El Tribunal Supremo"
+      "A": "Diputación Foral",
+      "B": "Ayuntamiento provincial",
+      "C": "Junta General",
+      "D": "Cabildo"
     },
-    "correct": "C"
+    "correct": "D"
   },
   {
     "id": 85,
-    "question": "Conforme al temario, ¿Cómo se elige al Presidente de la Diputación en primera votación?",
+    "question": "¿Qué institución administra una isla balear?",
     "answers": {
-      "A": "Por sufragio directo",
-      "B": "Por mayoría simple",
-      "C": "Por sorteo",
-      "D": "Por mayoría absoluta del Pleno"
+      "A": "Junta General",
+      "B": "Diputación Provincial",
+      "C": "Cabildo",
+      "D": "Consejo Insular"
     },
     "correct": "D"
   },
   {
     "id": 86,
-    "question": "Conforme al temario, ¿Qué ocurre en segunda votación si no hubo mayoría absoluta?",
+    "question": "¿Qué órgano representa al municipio?",
     "answers": {
-      "A": "Es suficiente la mayoría simple",
-      "B": "Se exige unanimidad",
-      "C": "Se disuelve la Diputación",
-      "D": "Se convoca referéndum"
+      "A": "Junta General",
+      "B": "Diputación",
+      "C": "Parlamento autonómico",
+      "D": "Ayuntamiento"
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 87,
-    "question": "Conforme al temario, ¿Cuánto dura el mandato del Presidente de la Diputación?",
+    "question": "¿Qué órgano representa a la provincia de régimen común?",
     "answers": {
-      "A": "Dos años",
-      "B": "Cuatro años",
-      "C": "Tres años",
-      "D": "Cinco años"
+      "A": "Cabildo",
+      "B": "Ayuntamiento",
+      "C": "Diputación Provincial",
+      "D": "Gobierno autonómico"
     },
-    "correct": "B"
+    "correct": "C"
   },
   {
     "id": 88,
-    "question": "Conforme al temario, ¿Puede ser destituido mediante moción de censura?",
+    "question": "¿Qué órgano representa políticamente a los Territorios Históricos?",
     "answers": {
-      "A": "Sí, por mayoría simple vecinal",
-      "B": "No",
-      "C": "Sí, por mayoría absoluta de los diputados",
-      "D": "Solo por el Gobierno"
+      "A": "Diputación Provincial común",
+      "B": "Cabildo",
+      "C": "Juntas Generales",
+      "D": "Ayuntamiento"
     },
     "correct": "C"
   },
   {
     "id": 89,
-    "question": "Conforme al temario, ¿Quién nombra a los Vicepresidentes de la Diputación?",
+    "question": "¿Qué órgano ejecutivo corresponde a un Territorio Histórico vasco?",
     "answers": {
-      "A": "Los concejales",
-      "B": "El Pleno por sorteo",
-      "C": "El Gobierno autonómico",
-      "D": "El Presidente, entre los miembros de la Junta de Gobierno"
-    },
-    "correct": "D"
-  },
-  {
-    "id": 90,
-    "question": "Conforme al temario, ¿Qué límite tiene la Junta de Gobierno de la Diputación?",
-    "answers": {
-      "A": "No más de un tercio del total de diputados",
-      "B": "La mitad",
-      "C": "Dos tercios",
-      "D": "No existe límite"
+      "A": "Diputación Foral",
+      "B": "Consejo Insular",
+      "C": "Cabildo",
+      "D": "Diputación Provincial común"
     },
     "correct": "A"
   },
   {
-    "id": 91,
-    "question": "Conforme al temario, ¿Qué función principal tiene la Junta de Gobierno?",
+    "id": 90,
+    "question": "¿Cuál de estas provincias es Territorio Histórico vasco?",
     "answers": {
-      "A": "Aprobar leyes autonómicas",
-      "B": "Asistir y asesorar al Presidente y ejercer competencias delegadas",
-      "C": "Controlar al Tribunal Constitucional",
-      "D": "Elegir diputados nacionales"
+      "A": "La Rioja",
+      "B": "Cantabria",
+      "C": "Álava",
+      "D": "Navarra"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 91,
+    "question": "¿Qué tres Territorios Históricos integran la Comunidad Autónoma de Euskadi?",
+    "answers": {
+      "A": "Bizkaia, Cantabria y Gipuzkoa",
+      "B": "Álava, Bizkaia y Gipuzkoa",
+      "C": "Álava, Navarra y Gipuzkoa",
+      "D": "Álava, Burgos y Bizkaia"
     },
     "correct": "B"
   },
   {
     "id": 92,
-    "question": "Conforme al temario, ¿Cómo se eligen los diputados provinciales?",
+    "question": "¿Qué característica distingue la autonomía local de la autonómica?",
     "answers": {
-      "A": "Por designación del Rey",
-      "B": "Por sufragio directo provincial",
-      "C": "Mediante un sistema indirecto entre y por los concejales de los municipios de la provincia",
-      "D": "Por el Gobierno central"
-    },
-    "correct": "C"
-  },
-  {
-    "id": 93,
-    "question": "Conforme al temario, ¿Qué función corresponde al Pleno de la Diputación?",
-    "answers": {
-      "A": "Resolver recursos de amparo",
-      "B": "Nombrar al Presidente del Gobierno",
-      "C": "Aprobar tratados internacionales",
-      "D": "Aprobar y modificar los presupuestos"
+      "A": "La primera es política y la segunda administrativa",
+      "B": "Ambas son soberanas",
+      "C": "Ambas son internacionales",
+      "D": "La primera es administrativa y la segunda política"
     },
     "correct": "D"
   },
   {
-    "id": 94,
-    "question": "Conforme al temario, ¿Cuál es una competencia propia de la Diputación?",
+    "id": 93,
+    "question": "¿Qué potestad forma parte de la autonomía local?",
     "answers": {
-      "A": "Coordinar los servicios municipales",
+      "A": "Autoorganización",
       "B": "Defensa nacional",
-      "C": "Política monetaria",
-      "D": "Legislación penal"
+      "C": "Legislación penal",
+      "D": "Política exterior"
     },
     "correct": "A"
   },
   {
-    "id": 95,
-    "question": "Conforme al temario, ¿A qué municipios presta especialmente asistencia la Diputación?",
+    "id": 94,
+    "question": "¿Qué concepto expresa que los entes locales gestionan sus intereses propios?",
     "answers": {
-      "A": "Solo a capitales",
-      "B": "A los de menor capacidad económica y de gestión",
-      "C": "Solo a municipios turísticos",
-      "D": "Solo a municipios insulares"
+      "A": "Tutela estatal absoluta",
+      "B": "Autonomía local",
+      "C": "Centralización",
+      "D": "Soberanía"
     },
     "correct": "B"
   },
   {
-    "id": 96,
-    "question": "Conforme al temario, ¿Puede una Comunidad Autónoma delegar competencias en una Diputación?",
+    "id": 95,
+    "question": "¿Qué entidad no es mencionada como parte necesaria del territorio municipal?",
     "answers": {
-      "A": "Solo mediante tratado",
-      "B": "No",
-      "C": "Sí",
-      "D": "Solo mediante reforma constitucional"
+      "A": "Isla en archipiélagos",
+      "B": "Provincia",
+      "C": "Mancomunidad",
+      "D": "Municipio"
     },
     "correct": "C"
   },
   {
-    "id": 97,
-    "question": "Conforme al temario, ¿Qué es el municipio?",
+    "id": 96,
+    "question": "¿Qué norma constitucional articula la organización territorial en el Título VIII?",
     "answers": {
-      "A": "Una entidad internacional",
-      "B": "Un órgano autonómico",
-      "C": "Una división judicial",
-      "D": "La entidad local básica y cauce inmediato de participación ciudadana"
+      "A": "Código Civil",
+      "B": "Constitución de 1978",
+      "C": "Tratado de Lisboa",
+      "D": "LBRL exclusivamente"
     },
-    "correct": "D"
+    "correct": "B"
   },
   {
-    "id": 98,
-    "question": "Conforme al temario, ¿Qué integra el Ayuntamiento salvo en concejo abierto?",
+    "id": 97,
+    "question": "¿Qué ley se utiliza en el tema para desarrollar la clasificación de entidades locales?",
     "answers": {
-      "A": "Alcalde y concejales",
-      "B": "Presidente y diputados",
-      "C": "Juntas Generales y Diputación",
-      "D": "Gobierno y Senado"
+      "A": "Ley 7/1985",
+      "B": "Ley Orgánica 4/1981",
+      "C": "Ley Orgánica 3/1981",
+      "D": "Ley 50/1997"
     },
     "correct": "A"
   },
   {
-    "id": 99,
-    "question": "En relación con la cuestión planteada, ¿Qué Título constitucional regula la organización territorial del Estado?",
+    "id": 98,
+    "question": "¿Qué tipo de agrupación puede formar una comarca?",
     "answers": {
-      "A": "El Título X",
-      "B": "El Título III",
-      "C": "El Título VI",
-      "D": "El Título VIII"
+      "A": "Solo entidades inferiores",
+      "B": "Varios municipios",
+      "C": "Varias provincias necesariamente",
+      "D": "Varias Comunidades Autónomas"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 99,
+    "question": "¿Qué necesidad justifica la creación de áreas metropolitanas?",
+    "answers": {
+      "A": "Administración de justicia",
+      "B": "Defensa militar",
+      "C": "Ejercicio de soberanía",
+      "D": "Planificación conjunta y coordinación"
     },
     "correct": "D"
   },
   {
     "id": 100,
-    "question": "En relación con la cuestión planteada, ¿Qué entidades menciona el artículo 137 CE?",
+    "question": "¿Qué objetivo específico tienen las mancomunidades?",
     "answers": {
-      "A": "Municipios, provincias y Comunidades Autónomas",
-      "B": "Solo provincias y municipios",
-      "C": "Comarcas y áreas metropolitanas",
-      "D": "Territorios Históricos y municipios"
+      "A": "Legislar sobre derechos fundamentales",
+      "B": "Controlar provincias",
+      "C": "Nombrar alcaldes",
+      "D": "Obras y servicios de competencia municipal en común"
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 101,
-    "question": "En relación con la cuestión planteada, ¿Qué autonomía tienen las Comunidades Autónomas?",
+    "question": "¿Qué principio asegura que todo el territorio esté integrado en municipios y provincias?",
     "answers": {
-      "A": "Autonomía judicial",
-      "B": "Autonomía política",
-      "C": "Autonomía internacional",
-      "D": "Autonomía exclusivamente administrativa"
+      "A": "Dispositivo",
+      "B": "Imperativo",
+      "C": "Federal",
+      "D": "Autonómico"
     },
     "correct": "B"
   },
   {
     "id": 102,
-    "question": "En relación con la cuestión planteada, ¿Qué autonomía tienen municipios y provincias?",
+    "question": "¿Qué principio diferencia la autonomía política de las Comunidades de la autonomía administrativa local?",
     "answers": {
-      "A": "Autonomía legislativa estatal",
-      "B": "Autonomía soberana",
-      "C": "Autonomía administrativa",
-      "D": "Autonomía internacional"
+      "A": "Principio de unidad presupuestaria",
+      "B": "Principio de jerarquía",
+      "C": "Principio de autonomía de los entes públicos territoriales",
+      "D": "Principio de centralización"
     },
     "correct": "C"
   },
   {
     "id": 103,
-    "question": "En relación con la cuestión planteada, ¿Qué artículos regulan específicamente la Administración Local?",
+    "question": "¿Qué artículo sirve de eje del sistema de distribución de competencias estatales?",
     "answers": {
-      "A": "152 a 158",
-      "B": "137 a 139",
-      "C": "143 a 151",
-      "D": "Los artículos 140 a 142"
+      "A": "137 CE",
+      "B": "148.1 CE",
+      "C": "142 CE",
+      "D": "149.1 CE"
     },
     "correct": "D"
   },
   {
     "id": 104,
-    "question": "En relación con la cuestión planteada, ¿Qué ley regula las Bases del Régimen Local?",
+    "question": "¿Qué artículo funciona como marco de las competencias que pueden asumir las Comunidades Autónomas?",
     "answers": {
-      "A": "La Ley 7/1985, de 2 de abril",
-      "B": "La Ley 39/2015",
-      "C": "La Ley 40/2015",
-      "D": "La LO 2/1979"
+      "A": "150 CE",
+      "B": "148.1 CE",
+      "C": "140 CE",
+      "D": "149.1 CE"
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 105,
-    "question": "En relación con la cuestión planteada, ¿Cuál es la entidad básica de la organización territorial del Estado?",
+    "question": "¿Qué artículo permite al Estado transferir o delegar competencias de titularidad estatal?",
     "answers": {
-      "A": "La provincia",
-      "B": "El municipio",
-      "C": "La comarca",
-      "D": "La mancomunidad"
+      "A": "149.3 CE",
+      "B": "150 CE",
+      "C": "143 CE",
+      "D": "141 CE"
     },
     "correct": "B"
   },
   {
     "id": 106,
-    "question": "En relación con la cuestión planteada, ¿Qué es la provincia?",
+    "question": "¿Qué sucede con las competencias no asumidas por los Estatutos, según el esquema del tema?",
     "answers": {
-      "A": "Un órgano judicial",
-      "B": "Una Comunidad Autónoma",
-      "C": "La entidad local determinada por la agrupación de municipios",
-      "D": "Una agrupación de islas"
-    },
-    "correct": "C"
-  },
-  {
-    "id": 107,
-    "question": "En relación con la cuestión planteada, ¿Qué entidades gobiernan las islas de Baleares y Canarias?",
-    "answers": {
-      "A": "Consejos de Gobierno",
-      "B": "Diputaciones",
-      "C": "Juntas Generales",
-      "D": "Cabildos y Consejos Insulares"
-    },
-    "correct": "D"
-  },
-  {
-    "id": 108,
-    "question": "En relación con la cuestión planteada, ¿Para qué se crean las mancomunidades?",
-    "answers": {
-      "A": "Para ejecutar en común obras y servicios de su competencia",
-      "B": "Para ejercer jurisdicción",
-      "C": "Para sustituir a las Comunidades Autónomas",
-      "D": "Para dirigir la política exterior"
+      "A": "El Estado conserva la competencia",
+      "B": "Quedan automáticamente sin titular",
+      "C": "Las asume la provincia",
+      "D": "Pasan siempre a los municipios"
     },
     "correct": "A"
   },
   {
-    "id": 109,
-    "question": "En relación con la cuestión planteada, ¿Qué caracteriza a las áreas metropolitanas?",
+    "id": 107,
+    "question": "¿Qué combinación describe una competencia exclusiva autonómica?",
     "answers": {
-      "A": "Agrupan provincias rurales",
-      "B": "Agrupan municipios de grandes aglomeraciones urbanas vinculados económica y socialmente",
-      "C": "Son órganos estatales",
-      "D": "Solo existen en archipiélagos"
+      "A": "Legislación plena + reglamento + ejecución",
+      "B": "Solo ejecución",
+      "C": "Solo legislación básica estatal",
+      "D": "Solo gestión financiera"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 108,
+    "question": "¿Qué combinación puede describir una competencia compartida?",
+    "answers": {
+      "A": "Solo competencias municipales",
+      "B": "Solo legislación autonómica plena",
+      "C": "Desarrollo y ejecución autonómicos con legislación estatal",
+      "D": "Solo ejecución estatal"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 109,
+    "question": "¿Qué facultad puede corresponder al Estado como legislación básica?",
+    "answers": {
+      "A": "Gestionar todos los servicios locales",
+      "B": "Fijar bases comunes de una materia",
+      "C": "Aprobar ordenanzas municipales",
+      "D": "Nombrar todos los alcaldes"
     },
     "correct": "B"
   },
   {
     "id": 110,
-    "question": "En relación con la cuestión planteada, ¿Qué finalidad tienen las comarcas?",
+    "question": "¿Qué facultad es típicamente de ejecución o gestión?",
     "answers": {
-      "A": "Ejercer funciones judiciales",
-      "B": "Sustituir al Estado",
-      "C": "Gestionar intereses comunes de varios municipios o prestar servicios en ese ámbito",
-      "D": "Representar a España internacionalmente"
+      "A": "Aplicación administrativa de la normativa",
+      "B": "Reforma estatutaria",
+      "C": "Aprobación de la Constitución",
+      "D": "Control de constitucionalidad"
     },
-    "correct": "C"
+    "correct": "A"
   },
   {
     "id": 111,
-    "question": "En relación con la cuestión planteada, ¿Qué Territorios Históricos integran Euskadi?",
+    "question": "¿Qué órgano local posee personalidad jurídica propia?",
     "answers": {
-      "A": "Bizkaia, Navarra y La Rioja",
-      "B": "Navarra, Álava y Bizkaia",
-      "C": "Álava, Cantabria y Gipuzkoa",
-      "D": "Álava, Bizkaia y Gipuzkoa"
+      "A": "Municipio",
+      "B": "Solo el Estado",
+      "C": "Solo la Comunidad Autónoma",
+      "D": "Solo la Unión Europea"
     },
-    "correct": "D"
+    "correct": "A"
   },
   {
     "id": 112,
-    "question": "En relación con la cuestión planteada, ¿Qué instituciones forman la organización de los Territorios Históricos Vascos?",
+    "question": "¿Qué entidad local tiene autonomía para gestionar sus intereses en el ámbito insular?",
     "answers": {
-      "A": "Juntas Generales y Diputación Foral",
-      "B": "Parlamento Vasco y Gobierno Vasco",
-      "C": "Congreso y Senado",
-      "D": "Ayuntamiento y Diputación Provincial"
+      "A": "Área metropolitana",
+      "B": "Isla",
+      "C": "Mancomunidad",
+      "D": "Comarca"
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 113,
-    "question": "En relación con la cuestión planteada, ¿Qué expresa el principio imperativo del régimen local?",
+    "question": "¿Qué denominación recibe la institución insular canaria?",
     "answers": {
-      "A": "Que todas las competencias son estatales",
-      "B": "Que todo el territorio pertenece a un municipio o provincia",
-      "C": "Que todos los municipios deben tener igual población",
-      "D": "Que no existen entidades locales no territoriales"
+      "A": "Diputación Foral",
+      "B": "Consejo Insular",
+      "C": "Junta General",
+      "D": "Cabildo"
     },
-    "correct": "B"
+    "correct": "D"
   },
   {
     "id": 114,
-    "question": "En relación con la cuestión planteada, ¿Qué exige la suficiencia financiera local?",
+    "question": "¿Qué denominación recibe la institución insular balear?",
     "answers": {
-      "A": "Que carezcan de tributos propios",
-      "B": "Que se financien solo con tasas",
-      "C": "Que las Haciendas locales dispongan de medios suficientes para sus funciones",
-      "D": "Que solo reciban fondos europeos"
+      "A": "Junta General",
+      "B": "Consejo Insular",
+      "C": "Cabildo",
+      "D": "Diputación Provincial"
     },
-    "correct": "C"
+    "correct": "B"
   },
   {
     "id": 115,
-    "question": "En relación con la cuestión planteada, ¿De qué se nutren fundamentalmente las Haciendas locales?",
+    "question": "¿Qué órganos tienen naturaleza política propia en los Territorios Históricos?",
     "answers": {
-      "A": "Solo de endeudamiento",
-      "B": "Solo de transferencias estatales",
-      "C": "Solo de fondos europeos",
-      "D": "De tributos propios y participación en los del Estado y de las Comunidades Autónomas"
-    },
-    "correct": "D"
-  },
-  {
-    "id": 116,
-    "question": "En relación con la cuestión planteada, ¿Qué significa subsidiariedad?",
-    "answers": {
-      "A": "Que las competencias públicas corresponden, en general, a las autoridades más cercanas a la ciudadanía",
-      "B": "Que siempre decide el Estado",
-      "C": "Que las provincias dependen de los municipios",
-      "D": "Que toda competencia debe ser autonómica"
-    },
-    "correct": "A"
-  },
-  {
-    "id": 117,
-    "question": "En relación con la cuestión planteada, ¿Qué instrumento internacional define la autonomía local citado en el tema?",
-    "answers": {
-      "A": "El Tratado de Maastricht",
-      "B": "La Carta Europea de Autonomía Local",
-      "C": "La Carta de Naciones Unidas",
-      "D": "El Convenio de Schengen"
-    },
-    "correct": "B"
-  },
-  {
-    "id": 118,
-    "question": "En relación con la cuestión planteada, ¿Dónde se adoptó la Carta Europea de Autonomía Local?",
-    "answers": {
-      "A": "Madrid",
-      "B": "Bruselas",
-      "C": "Estrasburgo",
-      "D": "Luxemburgo"
+      "A": "Parlamento Europeo y Comisión",
+      "B": "Congreso y Senado",
+      "C": "Juntas Generales y Diputación Foral",
+      "D": "Ayuntamiento y Cabildo"
     },
     "correct": "C"
   },
   {
-    "id": 119,
-    "question": "En relación con la cuestión planteada, ¿Cuándo se adoptó la Carta Europea de Autonomía Local?",
+    "id": 116,
+    "question": "¿Cuál es la relación entre municipio y provincia?",
     "answers": {
-      "A": "1 de diciembre de 2009",
-      "B": "6 de diciembre de 1978",
-      "C": "9 de mayo de 1950",
-      "D": "15 de octubre de 1985"
+      "A": "Son entidades idénticas",
+      "B": "La provincia es una Comunidad Autónoma",
+      "C": "El municipio depende orgánicamente de la provincia",
+      "D": "La provincia está determinada por la agrupación de municipios"
     },
     "correct": "D"
   },
   {
-    "id": 120,
-    "question": "En relación con la cuestión planteada, ¿En qué año fue ratificada por España?",
+    "id": 117,
+    "question": "¿Qué entidad constituye la base de la organización territorial del Estado?",
     "answers": {
-      "A": "1988",
-      "B": "1985",
-      "C": "1993",
-      "D": "2001"
+      "A": "Municipio",
+      "B": "Mancomunidad",
+      "C": "Provincia",
+      "D": "Comarca"
     },
     "correct": "A"
   },
   {
-    "id": 121,
-    "question": "En relación con la cuestión planteada, ¿Qué comprende la autonomía local según la Carta?",
+    "id": 118,
+    "question": "¿Qué entidades pueden agrupar municipios con intereses comunes?",
     "answers": {
-      "A": "La soberanía territorial",
-      "B": "El derecho y capacidad efectiva de ordenar y gestionar una parte importante de los asuntos públicos",
-      "C": "La potestad legislativa estatal",
-      "D": "La independencia internacional"
+      "A": "Tribunales",
+      "B": "Comunidades Autónomas extranjeras",
+      "C": "Senado",
+      "D": "Comarcas"
     },
-    "correct": "B"
+    "correct": "D"
+  },
+  {
+    "id": 119,
+    "question": "¿Qué entidad puede integrar municipios de una gran aglomeración urbana?",
+    "answers": {
+      "A": "Área metropolitana",
+      "B": "Provincia necesariamente",
+      "C": "Territorio Histórico",
+      "D": "Pedanía"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 120,
+    "question": "¿Qué entidad permite ejecutar conjuntamente obras y servicios municipales?",
+    "answers": {
+      "A": "Comunidad Autónoma",
+      "B": "Área metropolitana exclusivamente",
+      "C": "Mancomunidad",
+      "D": "Provincia exclusivamente"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 121,
+    "question": "¿Qué entidad se orienta a núcleos separados dentro de un municipio?",
+    "answers": {
+      "A": "Comunidad Autónoma",
+      "B": "Territorio Histórico",
+      "C": "Entidad territorial inferior al municipio",
+      "D": "Provincia"
+    },
+    "correct": "C"
   },
   {
     "id": 122,
-    "question": "En relación con la cuestión planteada, ¿Qué significa gestionar bajo propia responsabilidad?",
+    "question": "¿Qué ejemplo de entidad inferior al municipio aparece expresamente en el tema?",
     "answers": {
-      "A": "Que pueden reformar la Constitución",
-      "B": "Que no están sujetas a la ley",
-      "C": "Que las entidades locales gestionan sus asuntos sin estar sometidas a autoridades superiores",
-      "D": "Que no pueden ser fiscalizadas"
+      "A": "Cabildo",
+      "B": "Provincia",
+      "C": "Parroquia",
+      "D": "Diputación"
     },
     "correct": "C"
   },
   {
     "id": 123,
-    "question": "En relación con la cuestión planteada, ¿Cuál es una potestad local?",
+    "question": "¿Qué otro ejemplo de entidad inferior al municipio aparece expresamente?",
     "answers": {
-      "A": "La potestad de indulto",
-      "B": "La potestad constituyente",
-      "C": "La potestad diplomática",
-      "D": "La potestad reglamentaria y de autoorganización"
-    },
-    "correct": "D"
-  },
-  {
-    "id": 124,
-    "question": "En relación con la cuestión planteada, ¿Cuál es otra potestad local?",
-    "answers": {
-      "A": "La potestad tributaria y financiera",
-      "B": "La potestad legislativa estatal",
-      "C": "La potestad de reforma constitucional",
-      "D": "La potestad de celebrar tratados"
+      "A": "Aldea",
+      "B": "Territorio Histórico",
+      "C": "Provincia",
+      "D": "Comunidad Autónoma"
     },
     "correct": "A"
   },
   {
-    "id": 125,
-    "question": "En relación con la cuestión planteada, ¿Qué potestades afectan a los bienes locales?",
+    "id": 124,
+    "question": "¿Qué otro ejemplo aparece expresamente?",
     "answers": {
-      "A": "Potestades diplomáticas",
-      "B": "Expropiación, investigación, deslinde y recuperación de oficio",
-      "C": "Potestades constituyentes",
-      "D": "Potestades jurisdiccionales"
+      "A": "Consejo Insular",
+      "B": "Cabildo",
+      "C": "Diputación Foral",
+      "D": "Barrio"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 125,
+    "question": "¿Qué diferencia de naturaleza destaca el tema entre Territorios Históricos y provincias comunes?",
+    "answers": {
+      "A": "No hay diferencia",
+      "B": "Los primeros tienen organización, instituciones y régimen privativo de naturaleza política",
+      "C": "Los primeros carecen de autonomía",
+      "D": "Las provincias comunes tienen soberanía"
     },
     "correct": "B"
   },
   {
     "id": 126,
-    "question": "En relación con la cuestión planteada, ¿Qué se presume respecto de los actos locales?",
+    "question": "¿Qué órganos representan a la ciudadanía en un Ayuntamiento?",
     "answers": {
-      "A": "Su suspensión automática",
-      "B": "Su nulidad automática",
-      "C": "Su legitimidad y ejecutividad",
-      "D": "Su inexistencia jurídica"
-    },
-    "correct": "C"
-  },
-  {
-    "id": 127,
-    "question": "En relación con la cuestión planteada, ¿Qué potestades permiten la ejecución forzosa y sanción?",
-    "answers": {
-      "A": "Las potestades constitucionales",
-      "B": "Las potestades diplomáticas",
-      "C": "Las potestades legislativas estatales",
-      "D": "Las potestades de ejecución forzosa y sancionadora"
+      "A": "Parlamento y Gobierno autonómico",
+      "B": "Diputación y Juntas Generales",
+      "C": "Cabildo y Consejo Insular",
+      "D": "Alcalde y Concejales"
     },
     "correct": "D"
   },
   {
-    "id": 128,
-    "question": "En relación con la cuestión planteada, ¿Qué significa la inembargabilidad de bienes locales?",
+    "id": 127,
+    "question": "¿Qué sufragio se menciona para la elección de Concejales?",
     "answers": {
-      "A": "Que no pueden ser embargados en los términos previstos legalmente",
-      "B": "Que nunca pueden transmitirse",
-      "C": "Que son bienes privados",
-      "D": "Que están fuera de toda regulación"
+      "A": "Corporativo",
+      "B": "Indirecto exclusivamente",
+      "C": "Universal, igual, libre, directo y secreto",
+      "D": "Censitario"
     },
-    "correct": "A"
+    "correct": "C"
+  },
+  {
+    "id": 128,
+    "question": "¿Qué característica de los órganos municipales deriva de la autonomía local?",
+    "answers": {
+      "A": "Independencia del Estado",
+      "B": "Autogobierno y autoorganización dentro del marco legal",
+      "C": "Potestad constitucional",
+      "D": "Soberanía exterior"
+    },
+    "correct": "B"
   },
   {
     "id": 129,
-    "question": "En relación con la cuestión planteada, ¿Cuándo surge la provincia moderna con Diputación provincial?",
+    "question": "¿Qué objetivo persigue la suficiencia financiera local?",
     "answers": {
-      "A": "Con la Constitución de 1978",
-      "B": "Con la Constitución de Cádiz de 1812",
-      "C": "Con la Ley 7/1985",
-      "D": "Con la Constitución de 1931"
+      "A": "Financiar exclusivamente al Estado",
+      "B": "Permitir el desempeño de las funciones locales",
+      "C": "Sustituir a las Comunidades Autónomas",
+      "D": "Eliminar los tributos propios"
     },
     "correct": "B"
   },
   {
     "id": 130,
-    "question": "En relación con la cuestión planteada, ¿Qué norma consagra la división de España en provincias?",
+    "question": "¿De qué participan las Haciendas Locales además de sus tributos propios?",
     "answers": {
-      "A": "La Ley 7/1985",
-      "B": "La Constitución de 1812",
-      "C": "El Real Decreto de 30 de noviembre de 1833",
-      "D": "La Constitución de 1931"
-    },
-    "correct": "C"
-  },
-  {
-    "id": 131,
-    "question": "En relación con la cuestión planteada, ¿Cuántas provincias señala el temario?",
-    "answers": {
-      "A": "52",
-      "B": "47",
-      "C": "48",
-      "D": "50"
-    },
-    "correct": "D"
-  },
-  {
-    "id": 132,
-    "question": "En relación con la cuestión planteada, ¿Qué naturaleza bifronte presenta la provincia?",
-    "answers": {
-      "A": "Es entidad local y división territorial para actividades del Estado",
-      "B": "Es Comunidad Autónoma y municipio",
-      "C": "Es órgano judicial y administrativo",
-      "D": "Es exclusivamente entidad autonómica"
+      "A": "De los del Estado y de las Comunidades Autónomas",
+      "B": "Solo de tributos provinciales",
+      "C": "Solo de tasas estatales",
+      "D": "Solo de tributos europeos"
     },
     "correct": "A"
   },
   {
-    "id": 133,
-    "question": "En relación con la cuestión planteada, ¿Quién gobierna y administra la provincia en Comunidades pluriprovinciales?",
+    "id": 131,
+    "question": "¿Qué entidad puede ser considerada necesaria frente a otras de carácter asociativo?",
     "answers": {
-      "A": "El Senado",
-      "B": "La Diputación u otras Corporaciones representativas",
-      "C": "El Gobierno central directamente",
-      "D": "El Tribunal Supremo"
+      "A": "Provincia",
+      "B": "Área metropolitana",
+      "C": "Mancomunidad",
+      "D": "Comarca"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 132,
+    "question": "¿Qué entidad puede ser considerada necesaria frente a otras creadas para fines específicos?",
+    "answers": {
+      "A": "Mancomunidad",
+      "B": "Municipio",
+      "C": "Área metropolitana",
+      "D": "Comarca"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 133,
+    "question": "¿Qué dos Administraciones territoriales distingue el tema tras el artículo 137?",
+    "answers": {
+      "A": "Judicial y legislativa",
+      "B": "Local y autonómica",
+      "C": "Central y europea",
+      "D": "Provincial y europea"
     },
     "correct": "B"
   },
   {
     "id": 134,
-    "question": "En relación con la cuestión planteada, ¿Cómo se elige al Presidente de la Diputación en primera votación?",
+    "question": "¿Qué integra la Administración local según el tema?",
     "answers": {
-      "A": "Por sorteo",
-      "B": "Por mayoría simple",
-      "C": "Por mayoría absoluta del Pleno",
-      "D": "Por sufragio directo"
-    },
-    "correct": "C"
-  },
-  {
-    "id": 135,
-    "question": "En relación con la cuestión planteada, ¿Qué ocurre en segunda votación si no hubo mayoría absoluta?",
-    "answers": {
-      "A": "Se convoca referéndum",
-      "B": "Se exige unanimidad",
-      "C": "Se disuelve la Diputación",
-      "D": "Es suficiente la mayoría simple"
+      "A": "Solo provincias",
+      "B": "Solo municipios",
+      "C": "Solo Comunidades Autónomas",
+      "D": "Municipios, provincias y otras entidades"
     },
     "correct": "D"
   },
   {
-    "id": 136,
-    "question": "En relación con la cuestión planteada, ¿Cuánto dura el mandato del Presidente de la Diputación?",
+    "id": 135,
+    "question": "¿Qué integra la Administración autonómica?",
     "answers": {
-      "A": "Cuatro años",
-      "B": "Dos años",
-      "C": "Tres años",
-      "D": "Cinco años"
-    },
-    "correct": "A"
-  },
-  {
-    "id": 137,
-    "question": "En relación con la cuestión planteada, ¿Puede ser destituido mediante moción de censura?",
-    "answers": {
-      "A": "No",
-      "B": "Sí, por mayoría absoluta de los diputados",
-      "C": "Sí, por mayoría simple vecinal",
-      "D": "Solo por el Gobierno"
+      "A": "Municipios y provincias",
+      "B": "Comunidades Autónomas",
+      "C": "Mancomunidades",
+      "D": "Cabildos exclusivamente"
     },
     "correct": "B"
   },
   {
-    "id": 138,
-    "question": "En relación con la cuestión planteada, ¿Quién nombra a los Vicepresidentes de la Diputación?",
+    "id": 136,
+    "question": "¿Qué tipo de autonomía tienen las Comunidades Autónomas?",
     "answers": {
-      "A": "El Gobierno autonómico",
-      "B": "El Pleno por sorteo",
-      "C": "El Presidente, entre los miembros de la Junta de Gobierno",
-      "D": "Los concejales"
+      "A": "Judicial",
+      "B": "Administrativa únicamente",
+      "C": "Política",
+      "D": "Internacional"
     },
     "correct": "C"
   },
   {
-    "id": 139,
-    "question": "En relación con la cuestión planteada, ¿Qué límite tiene la Junta de Gobierno de la Diputación?",
+    "id": 137,
+    "question": "¿Qué tipo de autonomía tienen municipios y provincias?",
     "answers": {
-      "A": "No existe límite",
-      "B": "La mitad",
-      "C": "Dos tercios",
-      "D": "No más de un tercio del total de diputados"
+      "A": "Internacional",
+      "B": "Política soberana",
+      "C": "Constituyente",
+      "D": "Administrativa"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 138,
+    "question": "¿Qué institución foral es propia de Álava, Bizkaia y Gipuzkoa?",
+    "answers": {
+      "A": "Consejo Insular",
+      "B": "Diputación Foral",
+      "C": "Cabildo",
+      "D": "Diputación Provincial de régimen común"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 139,
+    "question": "¿Qué institución normativa foral es propia de los Territorios Históricos?",
+    "answers": {
+      "A": "Cabildo",
+      "B": "Parlamento estatal",
+      "C": "Senado",
+      "D": "Juntas Generales"
     },
     "correct": "D"
   },
   {
     "id": 140,
-    "question": "En relación con la cuestión planteada, ¿Qué función principal tiene la Junta de Gobierno?",
+    "question": "¿Cuál es la denominación de la entidad territorial vasca que no coincide plenamente con la provincia común?",
     "answers": {
-      "A": "Asistir y asesorar al Presidente y ejercer competencias delegadas",
-      "B": "Aprobar leyes autonómicas",
-      "C": "Controlar al Tribunal Constitucional",
-      "D": "Elegir diputados nacionales"
-    },
-    "correct": "A"
-  },
-  {
-    "id": 141,
-    "question": "En relación con la cuestión planteada, ¿Cómo se eligen los diputados provinciales?",
-    "answers": {
-      "A": "Por sufragio directo provincial",
-      "B": "Mediante un sistema indirecto entre y por los concejales de los municipios de la provincia",
-      "C": "Por designación del Rey",
-      "D": "Por el Gobierno central"
+      "A": "Área metropolitana",
+      "B": "Territorio Histórico",
+      "C": "Comarca",
+      "D": "Mancomunidad"
     },
     "correct": "B"
   },
   {
-    "id": 142,
-    "question": "En relación con la cuestión planteada, ¿Qué función corresponde al Pleno de la Diputación?",
+    "id": 141,
+    "question": "¿Qué artículo se utiliza para la cláusula de cierre competencial?",
     "answers": {
-      "A": "Aprobar tratados internacionales",
-      "B": "Nombrar al Presidente del Gobierno",
-      "C": "Aprobar y modificar los presupuestos",
-      "D": "Resolver recursos de amparo"
+      "A": "148.1",
+      "B": "137",
+      "C": "150.2",
+      "D": "149.3"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 142,
+    "question": "¿Qué dos efectos de la cláusula de cierre describe el tema?",
+    "answers": {
+      "A": "Solo transferencia estatal",
+      "B": "Solo delegación local",
+      "C": "Asunción por CCAA de materias no reservadas y atribución al Estado de las no asumidas por Estatutos",
+      "D": "Transferencia de municipios al Estado y disolución provincial"
     },
     "correct": "C"
   },
   {
     "id": 143,
-    "question": "En relación con la cuestión planteada, ¿Cuál es una competencia propia de la Diputación?",
+    "question": "¿Qué relación existe entre artículo 149.1 y Estatutos?",
     "answers": {
-      "A": "Legislación penal",
-      "B": "Defensa nacional",
-      "C": "Política monetaria",
-      "D": "Coordinar los servicios municipales"
+      "A": "El 149.1 regula exclusivamente municipios",
+      "B": "El 149.1 fija competencias estatales y los Estatutos asumen las que corresponden dentro del marco constitucional",
+      "C": "Los Estatutos prevalecen sobre el 149.1",
+      "D": "No existe relación"
     },
-    "correct": "D"
+    "correct": "B"
   },
   {
     "id": 144,
-    "question": "En relación con la cuestión planteada, ¿A qué municipios presta especialmente asistencia la Diputación?",
+    "question": "¿Qué instrumento permite transferir o delegar competencias estatales a una Comunidad Autónoma?",
     "answers": {
-      "A": "A los de menor capacidad económica y de gestión",
-      "B": "Solo a capitales",
-      "C": "Solo a municipios turísticos",
-      "D": "Solo a municipios insulares"
+      "A": "Artículo 150 CE",
+      "B": "Artículo 142 CE",
+      "C": "Artículo 137 CE",
+      "D": "Artículo 140 CE"
     },
     "correct": "A"
   },
   {
     "id": 145,
-    "question": "En relación con la cuestión planteada, ¿Puede una Comunidad Autónoma delegar competencias en una Diputación?",
+    "question": "¿Qué concepto expresa la capacidad de una entidad para gestionar sus propios intereses?",
     "answers": {
-      "A": "No",
-      "B": "Sí",
-      "C": "Solo mediante tratado",
-      "D": "Solo mediante reforma constitucional"
+      "A": "Autonomía",
+      "B": "Centralización",
+      "C": "Soberanía",
+      "D": "Tutela"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 146,
+    "question": "¿Qué diferencia fundamental existe entre soberanía y autonomía en este contexto?",
+    "answers": {
+      "A": "La autonomía se ejerce dentro del marco constitucional y no equivale a soberanía",
+      "B": "La soberanía pertenece a las provincias",
+      "C": "La autonomía implica independencia internacional",
+      "D": "Son conceptos idénticos"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 147,
+    "question": "¿Qué Título constitucional regula la organización territorial del Estado?",
+    "answers": {
+      "A": "El Título X",
+      "B": "El Título VIII",
+      "C": "El Título III",
+      "D": "El Título VI"
     },
     "correct": "B"
   },
   {
-    "id": 146,
-    "question": "En relación con la cuestión planteada, ¿Qué es el municipio?",
-    "answers": {
-      "A": "Una división judicial",
-      "B": "Un órgano autonómico",
-      "C": "La entidad local básica y cauce inmediato de participación ciudadana",
-      "D": "Una entidad internacional"
-    },
-    "correct": "C"
-  },
-  {
-    "id": 147,
-    "question": "En relación con la cuestión planteada, ¿Qué integra el Ayuntamiento salvo en concejo abierto?",
-    "answers": {
-      "A": "Gobierno y Senado",
-      "B": "Presidente y diputados",
-      "C": "Juntas Generales y Diputación",
-      "D": "Alcalde y concejales"
-    },
-    "correct": "D"
-  },
-  {
     "id": 148,
-    "question": "¿Qué Título constitucional regula la organización territorial del Estado?",
+    "question": "¿Qué entidades menciona el artículo 137 CE?",
     "answers": {
-      "A": "El Título VIII",
-      "B": "El Título III",
-      "C": "El Título VI",
-      "D": "El Título X"
+      "A": "Municipios, provincias y Comunidades Autónomas",
+      "B": "Comarcas y áreas metropolitanas",
+      "C": "Territorios Históricos y municipios",
+      "D": "Solo provincias y municipios"
     },
     "correct": "A"
   },
   {
     "id": 149,
-    "question": "¿Qué entidades menciona el artículo 137 CE?",
-    "answers": {
-      "A": "Solo provincias y municipios",
-      "B": "Municipios, provincias y Comunidades Autónomas",
-      "C": "Comarcas y áreas metropolitanas",
-      "D": "Territorios Históricos y municipios"
-    },
-    "correct": "B"
-  },
-  {
-    "id": 150,
     "question": "¿Qué autonomía tienen las Comunidades Autónomas?",
     "answers": {
       "A": "Autonomía internacional",
-      "B": "Autonomía judicial",
+      "B": "Autonomía exclusivamente administrativa",
       "C": "Autonomía política",
-      "D": "Autonomía exclusivamente administrativa"
+      "D": "Autonomía judicial"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 150,
+    "question": "¿Qué autonomía tienen municipios y provincias?",
+    "answers": {
+      "A": "Autonomía internacional",
+      "B": "Autonomía soberana",
+      "C": "Autonomía administrativa",
+      "D": "Autonomía legislativa estatal"
     },
     "correct": "C"
   }
