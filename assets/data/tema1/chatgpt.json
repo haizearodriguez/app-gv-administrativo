@@ -1,442 +1,1652 @@
 [
   {
     "id": 1,
-    "question": "Según el temario, ¿qué proceso político permitió el paso del régimen autoritario a un sistema constitucional democrático?",
+    "question": "¿Qué fecha fue ratificada la Constitución Española de 1978 mediante referéndum?",
     "answers": {
-      "A": "La reforma política iniciada tras la muerte de Franco",
-      "B": "Una reforma exclusivamente judicial",
-      "C": "La sustitución inmediata de las Cortes por una asamblea constituyente",
-      "D": "La proclamación de una república federal"
+      "A": "20 de noviembre de 1975",
+      "B": "6 de diciembre de 1978",
+      "C": "15 de junio de 1977",
+      "D": "29 de diciembre de 1978"
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 2,
-    "question": "¿Qué fecha corresponde a la ratificación de la Constitución Española de 1978 mediante referéndum?",
+    "question": "¿Qué ley sirvió de fundamento para la transición política hacia la Constitución democrática?",
     "answers": {
-      "A": "6 de diciembre de 1978",
-      "B": "27 de diciembre de 1978",
-      "C": "29 de diciembre de 1978",
-      "D": "15 de junio de 1977"
+      "A": "La Ley de Bases del Régimen Local",
+      "B": "La Ley Orgánica del Tribunal Constitucional",
+      "C": "La Ley para la Reforma Política de 1977",
+      "D": "La Ley de Reforma del Código Civil"
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 3,
-    "question": "¿Cuál de los siguientes NO es uno de los valores superiores del ordenamiento jurídico del artículo 1.1 CE?",
+    "question": "¿Quién presidía el Gobierno que envió a las Cortes el proyecto de Ley para la Reforma Política?",
     "answers": {
-      "A": "Libertad",
-      "B": "Justicia",
-      "C": "Seguridad jurídica",
-      "D": "Pluralismo político"
+      "A": "Leopoldo Calvo-Sotelo",
+      "B": "Juan Carlos I",
+      "C": "Felipe González",
+      "D": "Adolfo Suárez"
     },
-    "correct": "C"
+    "correct": "D"
   },
   {
     "id": 4,
-    "question": "De acuerdo con el artículo 1.2 CE, ¿dónde reside la soberanía nacional?",
+    "question": "¿Cuántos diputados integraron la ponencia constitucional del Congreso?",
     "answers": {
-      "A": "En las Cortes Generales",
-      "B": "En el Gobierno",
-      "C": "En el pueblo español",
-      "D": "En el Rey"
-    },
-    "correct": "C"
-  },
-  {
-    "id": 5,
-    "question": "¿Cuál es la forma política del Estado español?",
-    "answers": {
-      "A": "República parlamentaria",
-      "B": "Monarquía absoluta",
-      "C": "Monarquía parlamentaria",
-      "D": "Estado federal"
-    },
-    "correct": "C"
-  },
-  {
-    "id": 6,
-    "question": "¿Qué conjunto recoge los tres principios sobre los que la Constitución asienta la organización territorial del Estado?",
-    "answers": {
-      "A": "Unidad, autonomía y solidaridad",
-      "B": "Legalidad, jerarquía y publicidad",
-      "C": "Igualdad, libertad y justicia",
-      "D": "Centralización, descentralización y subsidiariedad"
+      "A": "Siete",
+      "B": "Cinco",
+      "C": "Nueve",
+      "D": "Doce"
     },
     "correct": "A"
   },
   {
-    "id": 7,
-    "question": "¿Cuál de los siguientes NO aparece entre los elementos característicos del Estado de Derecho señalados en el temario?",
+    "id": 5,
+    "question": "¿Qué órgano elaboró el texto definitivo ante las diferencias entre Congreso y Senado?",
     "answers": {
-      "A": "Separación de poderes",
-      "B": "Principio de legalidad",
-      "C": "Reconocimiento de derechos fundamentales",
-      "D": "Soberanía del Rey"
+      "A": "El Tribunal Constitucional",
+      "B": "Una Comisión Mixta Congreso-Senado",
+      "C": "La Diputación Permanente",
+      "D": "El Consejo de Estado"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 6,
+    "question": "¿Cómo define el artículo 1.1 CE a España?",
+    "answers": {
+      "A": "Como una confederación territorial",
+      "B": "Como una república federal",
+      "C": "Como un Estado social y democrático de Derecho",
+      "D": "Como un Estado unitario centralizado"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 7,
+    "question": "¿Cuál es uno de los valores superiores del ordenamiento jurídico?",
+    "answers": {
+      "A": "La jerarquía administrativa",
+      "B": "La neutralidad política",
+      "C": "La uniformidad territorial",
+      "D": "El pluralismo político"
     },
     "correct": "D"
   },
   {
     "id": 8,
-    "question": "¿Qué característica jurídica expresa que la Constitución es la norma fundamental de la que dependen la validez y eficacia de las demás normas?",
+    "question": "¿Dónde reside la soberanía nacional?",
     "answers": {
-      "A": "Carácter programático",
-      "B": "Carácter normativo supremo",
-      "C": "Carácter consuetudinario",
-      "D": "Carácter reglamentario"
+      "A": "En el pueblo español",
+      "B": "En el Rey",
+      "C": "En las Cortes Generales",
+      "D": "En el Gobierno"
     },
-    "correct": "B"
+    "correct": "A"
   },
   {
     "id": 9,
-    "question": "¿Cuál es la función primordial atribuida al Tribunal Constitucional?",
+    "question": "¿Cuál es un mecanismo de democracia directa citado en el temario?",
     "answers": {
-      "A": "Ejercer la potestad legislativa",
-      "B": "Ser el intérprete supremo de la Constitución",
-      "C": "Dirigir el Gobierno",
-      "D": "Aprobar los Presupuestos Generales del Estado"
+      "A": "La moción de censura",
+      "B": "La iniciativa legislativa popular",
+      "C": "La investidura parlamentaria",
+      "D": "La cuestión de confianza"
     },
     "correct": "B"
   },
   {
     "id": 10,
-    "question": "¿Cuántos magistrados integran el Tribunal Constitucional según el temario?",
+    "question": "¿Qué elemento caracteriza al Estado de Derecho?",
     "answers": {
-      "A": "10",
-      "B": "11",
-      "C": "12",
-      "D": "15"
+      "A": "La subordinación de los tribunales al Gobierno",
+      "B": "La concentración de poderes",
+      "C": "La separación de poderes",
+      "D": "La inexistencia de control jurídico"
     },
     "correct": "C"
   },
   {
     "id": 11,
-    "question": "¿Cuál de las siguientes materias NO corresponde al control de constitucionalidad del Tribunal Constitucional en los términos expuestos?",
+    "question": "¿Qué principio implica la sujeción de ciudadanos y poderes públicos a la Constitución y al ordenamiento?",
     "answers": {
-      "A": "Leyes orgánicas",
-      "B": "Decretos-leyes",
-      "C": "Tratados internacionales",
-      "D": "Normas del Derecho de la Unión Europea"
+      "A": "El principio de autonomía",
+      "B": "El principio de oportunidad",
+      "C": "El principio de representación",
+      "D": "El principio de legalidad"
     },
     "correct": "D"
   },
   {
     "id": 12,
-    "question": "¿Qué dos vías se señalan como principales para realizar el control de constitucionalidad de las normas con fuerza de ley?",
+    "question": "¿Qué caracteriza al Estado social según el temario?",
     "answers": {
-      "A": "Recurso de casación y recurso de revisión",
-      "B": "Recurso de inconstitucionalidad y cuestión de inconstitucionalidad",
-      "C": "Recurso de amparo y habeas corpus",
-      "D": "Conflicto colectivo y cuestión prejudicial"
+      "A": "La promoción de condiciones para que libertad e igualdad sean reales y efectivas",
+      "B": "La ausencia de intervención pública",
+      "C": "La eliminación de la propiedad privada",
+      "D": "La subordinación de todos los derechos al mercado"
     },
-    "correct": "B"
+    "correct": "A"
   },
   {
     "id": 13,
-    "question": "¿Qué partes integran la parte dogmática de la Constitución según el temario?",
+    "question": "¿Cuál es la forma política del Estado español?",
     "answers": {
-      "A": "Títulos II a X",
-      "B": "Preámbulo, Título Preliminar y Título I",
-      "C": "Solo el Título I",
-      "D": "Preámbulo y Títulos II a X"
+      "A": "La república parlamentaria",
+      "B": "La monarquía parlamentaria",
+      "C": "La monarquía absoluta",
+      "D": "La república presidencialista"
     },
     "correct": "B"
   },
   {
     "id": 14,
-    "question": "¿Qué títulos comprende la parte orgánica de la Constitución?",
+    "question": "¿Qué carácter tiene la función del Rey respecto de la unidad y permanencia del Estado?",
     "answers": {
-      "A": "Títulos I a III",
-      "B": "Títulos II a X",
-      "C": "Títulos III a IX",
-      "D": "Títulos II a IX"
-    },
-    "correct": "B"
-  },
-  {
-    "id": 15,
-    "question": "¿Cuántas Disposiciones Adicionales contiene la Constitución Española de 1978?",
-    "answers": {
-      "A": "3",
-      "B": "4",
-      "C": "5",
-      "D": "9"
-    },
-    "correct": "B"
-  },
-  {
-    "id": 16,
-    "question": "¿Cuántas Disposiciones Transitorias contiene la Constitución según el temario?",
-    "answers": {
-      "A": "7",
-      "B": "8",
-      "C": "9",
-      "D": "10"
+      "A": "Judicial y fiscal",
+      "B": "Ejecutivo y legislativo",
+      "C": "Moderador y simbólico",
+      "D": "Administrativo y sancionador"
     },
     "correct": "C"
   },
   {
-    "id": 17,
-    "question": "¿Qué prevé específicamente la Disposición Adicional Primera?",
+    "id": 15,
+    "question": "¿Qué instrumento permite al Congreso exigir responsabilidad política al Gobierno?",
     "answers": {
-      "A": "La entrada en vigor de la Constitución",
-      "B": "El amparo y respeto de los derechos históricos de los territorios forales",
-      "C": "La reforma constitucional",
-      "D": "La organización del Tribunal Constitucional"
+      "A": "La iniciativa legislativa popular",
+      "B": "El recurso de amparo",
+      "C": "La cuestión prejudicial",
+      "D": "La moción de censura"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 16,
+    "question": "¿Cuáles son los tres principios territoriales básicos de la CE señalados en el tema?",
+    "answers": {
+      "A": "Unidad, autonomía y solidaridad",
+      "B": "Centralización, jerarquía y uniformidad",
+      "C": "Federalismo, independencia y soberanía",
+      "D": "Bilateralidad, subsidiariedad y veto"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 17,
+    "question": "¿A través de qué se ha desarrollado el proceso de descentralización territorial?",
+    "answers": {
+      "A": "Los reglamentos municipales",
+      "B": "Los Estatutos de Autonomía",
+      "C": "Los tratados internacionales",
+      "D": "Las leyes ordinarias estatales exclusivamente"
     },
     "correct": "B"
   },
   {
     "id": 18,
-    "question": "¿Qué Disposición Transitoria prevé la posibilidad de incorporación de Navarra al Consejo General Vasco o al régimen autonómico vasco?",
+    "question": "¿Qué consecuencia del consenso constitucional destaca el temario?",
     "answers": {
-      "A": "La primera",
-      "B": "La tercera",
-      "C": "La cuarta",
-      "D": "La séptima"
+      "A": "La eliminación de la interpretación jurídica",
+      "B": "La ausencia de regulación constitucional",
+      "C": "El uso de fórmulas más abiertas en materias de difícil consenso",
+      "D": "La regulación idéntica de todas las materias"
     },
     "correct": "C"
   },
   {
     "id": 19,
-    "question": "¿En qué Título de la Constitución se regulan los derechos y deberes fundamentales?",
+    "question": "¿Cuál de estos principios aparece en el artículo 9.3 CE?",
     "answers": {
-      "A": "Título Preliminar",
-      "B": "Título I",
-      "C": "Título II",
-      "D": "Título VIII"
+      "A": "La doble nacionalidad obligatoria",
+      "B": "La soberanía autonómica",
+      "C": "El mandato imperativo",
+      "D": "La seguridad jurídica"
     },
-    "correct": "B"
+    "correct": "D"
   },
   {
     "id": 20,
-    "question": "¿Qué artículos constituyen, en sentido estricto, el núcleo central de los derechos fundamentales según el temario?",
+    "question": "¿Qué significa que la Constitución tenga carácter normativo?",
     "answers": {
-      "A": "Arts. 10 a 13",
-      "B": "Arts. 14 a 29",
-      "C": "Arts. 30 a 38",
-      "D": "Arts. 39 a 52"
+      "A": "Que contiene normas jurídicas vinculantes",
+      "B": "Que es solo una declaración política",
+      "C": "Que solo obliga al Parlamento",
+      "D": "Que carece de eficacia jurídica"
     },
-    "correct": "B"
+    "correct": "A"
   },
   {
     "id": 21,
-    "question": "¿Qué establece el artículo 10.2 CE respecto de la interpretación de los derechos y libertades?",
+    "question": "¿Qué carácter especial tiene la Constitución respecto del resto del ordenamiento?",
     "answers": {
-      "A": "Que debe hacerse exclusivamente conforme a las leyes orgánicas",
-      "B": "Que debe hacerse de conformidad con la Declaración Universal de Derechos Humanos y los tratados y acuerdos internacionales ratificados por España",
-      "C": "Que corresponde exclusivamente al Tribunal Supremo",
-      "D": "Que debe atender únicamente a la jurisprudencia española"
+      "A": "Es una norma reglamentaria",
+      "B": "Es la norma suprema",
+      "C": "Es una norma administrativa",
+      "D": "Es una norma meramente programática"
     },
     "correct": "B"
   },
   {
     "id": 22,
-    "question": "¿Cuál es la diferencia esencial entre la dimensión subjetiva y objetiva de los derechos fundamentales?",
+    "question": "¿Qué institución es el intérprete supremo de la Constitución?",
     "answers": {
-      "A": "La subjetiva se refiere a facultades de las personas y la objetiva a su función como valores o elementos estructurales del ordenamiento",
-      "B": "La subjetiva solo afecta a poderes públicos y la objetiva solo a particulares",
-      "C": "La subjetiva corresponde al Estado y la objetiva a los ciudadanos",
-      "D": "No existe diferencia entre ambas"
+      "A": "El Consejo de Estado",
+      "B": "El Tribunal Supremo",
+      "C": "El Tribunal Constitucional",
+      "D": "El Congreso"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 23,
+    "question": "¿Cuántos magistrados integran el Tribunal Constitucional?",
+    "answers": {
+      "A": "Veinte",
+      "B": "Diez",
+      "C": "Quince",
+      "D": "Doce"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 24,
+    "question": "¿Cuántos magistrados del Tribunal Constitucional son propuestos por el Congreso?",
+    "answers": {
+      "A": "Cuatro",
+      "B": "Dos",
+      "C": "Seis",
+      "D": "Ocho"
     },
     "correct": "A"
   },
   {
-    "id": 23,
-    "question": "¿Qué Capítulo del Título I contiene los principios rectores de la política social y económica?",
+    "id": 25,
+    "question": "¿Cuántos magistrados son propuestos por el Senado?",
     "answers": {
-      "A": "Capítulo I",
-      "B": "Capítulo II",
-      "C": "Capítulo III",
-      "D": "Capítulo V"
-    },
-    "correct": "C"
-  },
-  {
-    "id": 24,
-    "question": "Respecto de los principios rectores del Capítulo III del Título I, ¿cuál es la afirmación correcta?",
-    "answers": {
-      "A": "Son siempre directamente invocables ante los tribunales sin desarrollo legal",
-      "B": "Son mandatos dirigidos a los poderes públicos y necesitan, en general, desarrollo legislativo para ser invocados judicialmente",
-      "C": "Solo vinculan a los particulares",
-      "D": "Carecen de cualquier relevancia constitucional"
+      "A": "Dos",
+      "B": "Cuatro",
+      "C": "Seis",
+      "D": "Ocho"
     },
     "correct": "B"
-  },
-  {
-    "id": 25,
-    "question": "¿Cuál de los siguientes derechos pertenece a la Sección 1.ª del Capítulo II del Título I?",
-    "answers": {
-      "A": "Derecho a la propiedad privada",
-      "B": "Libertad de empresa",
-      "C": "Derecho de reunión",
-      "D": "Derecho al trabajo"
-    },
-    "correct": "C"
   },
   {
     "id": 26,
-    "question": "¿Qué garantía reforzada corresponde a los derechos de los artículos 14 a 29?",
+    "question": "¿Cuántos magistrados son propuestos por el Gobierno?",
     "answers": {
-      "A": "Solo reserva de ley ordinaria",
-      "B": "Reserva de ley orgánica, reforma agravada, procedimiento preferente y sumario y recurso de amparo",
-      "C": "Únicamente reforma ordinaria",
-      "D": "Ninguna garantía especial"
+      "A": "Cuatro",
+      "B": "Uno",
+      "C": "Dos",
+      "D": "Seis"
     },
-    "correct": "B"
+    "correct": "C"
   },
   {
     "id": 27,
-    "question": "¿Cuál de los siguientes derechos se encuadra en la Sección 2.ª del Capítulo II del Título I?",
+    "question": "¿Cuántos magistrados son propuestos por el CGPJ?",
     "answers": {
-      "A": "Derecho a la vida",
-      "B": "Libertad ideológica",
-      "C": "Derecho a la educación",
-      "D": "Derecho a la propiedad"
+      "A": "Cuatro",
+      "B": "Uno",
+      "C": "Tres",
+      "D": "Dos"
     },
     "correct": "D"
   },
   {
     "id": 28,
-    "question": "¿Son absolutos los derechos fundamentales?",
+    "question": "¿Qué órgano controla la constitucionalidad de las normas con fuerza de ley?",
     "answers": {
-      "A": "Sí, nunca pueden tener límites",
-      "B": "No, pueden estar sujetos a límites constitucionales expresos o implícitos",
-      "C": "Sí, salvo durante la reforma constitucional",
-      "D": "Solo son absolutos frente a particulares"
-    },
-    "correct": "B"
-  },
-  {
-    "id": 29,
-    "question": "¿Qué ejemplo de límite específico de un derecho se recoge en el temario?",
-    "answers": {
-      "A": "El orden público como límite de las libertades ideológica, religiosa y de culto",
-      "B": "La mayoría parlamentaria como límite de la libertad de expresión",
-      "C": "La nacionalidad como límite de la tutela judicial",
-      "D": "El presupuesto como límite del derecho de asociación"
+      "A": "El Tribunal Constitucional",
+      "B": "El Tribunal Supremo",
+      "C": "El Consejo de Estado",
+      "D": "El Senado"
     },
     "correct": "A"
   },
   {
-    "id": 30,
-    "question": "¿Cómo se caracteriza la eficacia de los derechos fundamentales frente a los poderes públicos?",
+    "id": 29,
+    "question": "¿Qué vías principales utiliza el Tribunal Constitucional para el control de constitucionalidad?",
     "answers": {
-      "A": "Indirecta y condicionada siempre a una ley",
-      "B": "Directa y plenamente exigible",
-      "C": "Solo política",
-      "D": "Exclusivamente administrativa"
+      "A": "El recurso de amparo y el habeas corpus",
+      "B": "El recurso y la cuestión de inconstitucionalidad",
+      "C": "La moción de censura y la cuestión de confianza",
+      "D": "El recurso ordinario y el extraordinario"
     },
     "correct": "B"
   },
   {
-    "id": 31,
-    "question": "¿Cómo vinculan los derechos fundamentales a los particulares según el temario?",
+    "id": 30,
+    "question": "¿Quién controla las normas del Derecho de la Unión Europea según el temario?",
     "answers": {
-      "A": "No les vinculan nunca",
-      "B": "Les vinculan directamente en todos los casos",
-      "C": "Les vinculan indirectamente, mediante la actuación de los poderes públicos",
-      "D": "Solo les vinculan mediante tratados internacionales"
+      "A": "El Tribunal Supremo",
+      "B": "El Tribunal Constitucional",
+      "C": "El Tribunal de Justicia de la Unión Europea",
+      "D": "El Congreso"
     },
     "correct": "C"
   },
   {
-    "id": 32,
-    "question": "¿Qué garantía supone que la regulación del ejercicio de los derechos fundamentales deba realizarse por ley?",
+    "id": 31,
+    "question": "¿Qué otra función fundamental corresponde al Tribunal Constitucional?",
     "answers": {
-      "A": "Reserva de ley",
-      "B": "Reserva reglamentaria",
-      "C": "Principio de oportunidad",
-      "D": "Control difuso"
+      "A": "Dirigir la política exterior",
+      "B": "Aprobar los Presupuestos Generales del Estado",
+      "C": "Nombrar alcaldes",
+      "D": "Resolver conflictos de competencia"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 32,
+    "question": "¿Cuántos Títulos contiene la Constitución además del Título Preliminar?",
+    "answers": {
+      "A": "Diez",
+      "B": "Ocho",
+      "C": "Nueve",
+      "D": "Once"
     },
     "correct": "A"
   },
   {
     "id": 33,
-    "question": "¿Qué requisito reforzado se exige para el desarrollo de los derechos de la Sección 1.ª del Capítulo II?",
+    "question": "¿Qué artículos comprende el Título Preliminar?",
     "answers": {
-      "A": "Ley ordinaria aprobada por mayoría simple",
-      "B": "Ley orgánica aprobada por mayoría absoluta del Congreso",
-      "C": "Decreto-ley",
-      "D": "Reglamento parlamentario"
+      "A": "Los artículos 10 a 55",
+      "B": "Los artículos 1 a 9",
+      "C": "Los artículos 56 a 65",
+      "D": "Los artículos 137 a 158"
     },
     "correct": "B"
   },
   {
     "id": 34,
-    "question": "¿Qué significa respetar el contenido esencial de un derecho fundamental?",
+    "question": "¿Qué integra la parte dogmática de la Constitución?",
     "answers": {
-      "A": "Que el legislador puede eliminar cualquier parte del derecho",
-      "B": "Que debe preservarse un núcleo mínimo indisponible del derecho",
-      "C": "Que solo se protege el contenido económico",
-      "D": "Que el derecho solo puede ejercerse por funcionarios"
+      "A": "Solo el Título I",
+      "B": "Títulos II a X",
+      "C": "Preámbulo, Título Preliminar y Título I",
+      "D": "Las disposiciones transitorias"
     },
-    "correct": "B"
+    "correct": "C"
   },
   {
     "id": 35,
-    "question": "¿Cuál es una característica del Defensor del Pueblo según el temario?",
+    "question": "¿Qué Títulos forman la parte orgánica?",
     "answers": {
-      "A": "Tiene competencias ejecutivas sobre las Administraciones",
-      "B": "Actúa con independencia y autonomía y formula principalmente recomendaciones e informes",
-      "C": "Es un órgano del Poder Judicial",
-      "D": "Es elegido directamente por sufragio universal"
+      "A": "El Preámbulo y el Título Preliminar",
+      "B": "El Título I exclusivamente",
+      "C": "Los Títulos VIII y IX",
+      "D": "Los Títulos II a X"
     },
-    "correct": "B"
+    "correct": "D"
   },
   {
     "id": 36,
-    "question": "¿Cuál es la duración del mandato del Defensor del Pueblo?",
+    "question": "¿Qué órgano está regulado en el Título III?",
     "answers": {
-      "A": "3 años",
-      "B": "4 años",
-      "C": "5 años",
-      "D": "6 años"
+      "A": "Las Cortes Generales",
+      "B": "El Gobierno",
+      "C": "El Poder Judicial",
+      "D": "El Tribunal Constitucional"
     },
-    "correct": "C"
+    "correct": "A"
   },
   {
     "id": 37,
-    "question": "¿Qué mayoría se exige para la designación del Defensor del Pueblo por las Cortes en los términos del temario?",
+    "question": "¿Qué Título regula el Gobierno y la Administración?",
     "answers": {
-      "A": "Mayoría simple en una Cámara",
-      "B": "Mayoría absoluta solo del Senado",
-      "C": "Tres quintos en ambas Cámaras",
-      "D": "Unanimidad"
+      "A": "El Título II",
+      "B": "El Título IV",
+      "C": "El Título III",
+      "D": "El Título VI"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 38,
+    "question": "¿Qué Título regula el Poder Judicial?",
+    "answers": {
+      "A": "El Título V",
+      "B": "El Título IV",
+      "C": "El Título VI",
+      "D": "El Título VII"
     },
     "correct": "C"
   },
   {
-    "id": 38,
-    "question": "¿Qué recurso puede interponer el Defensor del Pueblo ante el Tribunal Constitucional?",
-    "answers": {
-      "A": "Solo recurso de casación",
-      "B": "Recursos de inconstitucionalidad y de amparo",
-      "C": "Solo cuestión de inconstitucionalidad",
-      "D": "Solo recurso contencioso-administrativo"
-    },
-    "correct": "B"
-  },
-  {
     "id": 39,
-    "question": "¿Qué derechos disfrutan de protección jurisdiccional extraordinaria además de la tutela judicial ordinaria?",
+    "question": "¿Cuántas Disposiciones Adicionales tiene la Constitución?",
     "answers": {
-      "A": "Todos los derechos constitucionales sin excepción mediante amparo",
-      "B": "Los reconocidos en los arts. 14 a 29 y la objeción de conciencia del art. 30.2",
-      "C": "Solo los derechos sociales del Capítulo III",
-      "D": "Únicamente los derechos de propiedad y empresa"
+      "A": "Una",
+      "B": "Tres",
+      "C": "Nueve",
+      "D": "Cuatro"
     },
-    "correct": "B"
+    "correct": "D"
   },
   {
     "id": 40,
-    "question": "¿Cuál de las siguientes afirmaciones sobre los estados excepcionales es correcta según el temario?",
+    "question": "¿Cuántas Disposiciones Transitorias tiene?",
     "answers": {
-      "A": "El estado de alarma supone siempre suspensión formal de derechos fundamentales",
-      "B": "El estado de excepción puede implicar la suspensión de determinados derechos",
-      "C": "El estado de sitio no permite suspender ningún derecho",
-      "D": "Los tres estados tienen idénticos efectos sobre los derechos"
+      "A": "Nueve",
+      "B": "Cuatro",
+      "C": "Siete",
+      "D": "Diez"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 41,
+    "question": "¿Qué protege la Primera Disposición Adicional?",
+    "answers": {
+      "A": "La mayoría de edad",
+      "B": "Los derechos históricos de los territorios forales",
+      "C": "La capitalidad del Estado",
+      "D": "La reforma constitucional"
     },
     "correct": "B"
+  },
+  {
+    "id": 42,
+    "question": "¿Qué prevé la Disposición Transitoria Cuarta?",
+    "answers": {
+      "A": "La reforma del Senado",
+      "B": "La creación del Tribunal Constitucional",
+      "C": "La posibilidad de incorporación de Navarra al Consejo General Vasco o al régimen autonómico vasco",
+      "D": "La entrada en vigor del euro"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 43,
+    "question": "¿Qué regula la Disposición Derogatoria?",
+    "answers": {
+      "A": "La reforma de los Estatutos",
+      "B": "La elección del Rey",
+      "C": "La organización municipal",
+      "D": "Las normas que quedan derogadas tras la entrada en vigor de la Constitución"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 44,
+    "question": "¿Qué establece la Disposición Final destacada en el temario?",
+    "answers": {
+      "A": "La publicación de la Constitución y su entrada en vigor el mismo día de su publicación",
+      "B": "Su entrada en vigor un año después",
+      "C": "Su publicación exclusivamente en castellano",
+      "D": "Su aprobación por el Tribunal Constitucional"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 45,
+    "question": "¿En qué Título aparecen los derechos y deberes fundamentales?",
+    "answers": {
+      "A": "En el Título Preliminar",
+      "B": "En el Título I",
+      "C": "En el Título II",
+      "D": "En el Título VIII"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 46,
+    "question": "¿Qué artículos constituyen el núcleo duro de los derechos fundamentales?",
+    "answers": {
+      "A": "Los artículos 30 a 38",
+      "B": "Los artículos 1 a 9",
+      "C": "Los artículos 14 a 29",
+      "D": "Los artículos 39 a 52"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 47,
+    "question": "¿Qué dimensiones presentan los derechos fundamentales?",
+    "answers": {
+      "A": "Administrativa y judicial",
+      "B": "Política y económica",
+      "C": "Nacional e internacional",
+      "D": "Subjetiva y objetiva"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 48,
+    "question": "¿Qué artículo fundamenta el orden político y la paz social en la dignidad de la persona?",
+    "answers": {
+      "A": "El artículo 10.1 CE",
+      "B": "El artículo 1.1 CE",
+      "C": "El artículo 9.3 CE",
+      "D": "El artículo 14 CE"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 49,
+    "question": "¿Qué exige el artículo 10.2 CE para interpretar los derechos y libertades?",
+    "answers": {
+      "A": "Conformidad exclusiva con las leyes orgánicas",
+      "B": "Conformidad con la Declaración Universal de Derechos Humanos y los tratados ratificados por España",
+      "C": "Conformidad exclusiva con la jurisprudencia del Tribunal Supremo",
+      "D": "Conformidad únicamente con el Derecho de la UE"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 50,
+    "question": "¿Qué edad establece la Constitución como mayoría de edad?",
+    "answers": {
+      "A": "17 años",
+      "B": "16 años",
+      "C": "18 años",
+      "D": "21 años"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 51,
+    "question": "¿Qué establece el artículo 14 como cláusula general?",
+    "answers": {
+      "A": "El derecho de reunión",
+      "B": "La libertad de empresa",
+      "C": "El derecho a la educación",
+      "D": "La igualdad de todos los españoles ante la ley"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 52,
+    "question": "¿Qué garantía caracteriza a los derechos de los artículos 14 a 29?",
+    "answers": {
+      "A": "La reserva de ley orgánica",
+      "B": "La reserva de reglamento",
+      "C": "La ausencia de tutela judicial",
+      "D": "La reforma mediante ley ordinaria"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 53,
+    "question": "¿Son los derechos fundamentales derechos absolutos?",
+    "answers": {
+      "A": "Sí, en todo caso",
+      "B": "No; pueden estar sujetos a límites expresos o implícitos",
+      "C": "Sí, salvo durante la normalidad constitucional",
+      "D": "No, pero solo pueden limitarse por reglamento"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 54,
+    "question": "¿Qué criterio debe respetarse al establecer límites a los derechos fundamentales?",
+    "answers": {
+      "A": "La oportunidad política",
+      "B": "La discrecionalidad absoluta",
+      "C": "La proporcionalidad y adecuación",
+      "D": "La analogía penal"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 55,
+    "question": "¿Qué distingue titularidad y ejercicio de un derecho?",
+    "answers": {
+      "A": "La titularidad solo existe para extranjeros",
+      "B": "Son conceptos idénticos",
+      "C": "El ejercicio siempre precede a la titularidad",
+      "D": "Una persona puede ser titular del derecho y no estar en condiciones de ejercerlo"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 56,
+    "question": "¿Qué regla general señala el temario respecto de los extranjeros?",
+    "answers": {
+      "A": "Son titulares de derechos fundamentales inherentes a la dignidad, aunque algunos ejercicios pueden limitarse",
+      "B": "Carecen de derechos fundamentales",
+      "C": "Tienen exactamente los mismos derechos políticos en todo caso",
+      "D": "Solo poseen derechos económicos"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 57,
+    "question": "¿Qué derecho de participación puede reconocerse a extranjeros en determinadas condiciones?",
+    "answers": {
+      "A": "El acceso a la Corona",
+      "B": "El sufragio activo y pasivo en elecciones municipales",
+      "C": "La elección del Presidente del Gobierno",
+      "D": "El sufragio en todas las elecciones nacionales"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 58,
+    "question": "¿Qué implica la ciudadanía de la Unión Europea para los españoles?",
+    "answers": {
+      "A": "La obligación de residir en Bruselas",
+      "B": "La pérdida de la nacionalidad española",
+      "C": "La titularidad de derechos como circular y residir libremente en Estados miembros",
+      "D": "La pérdida de derechos municipales"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 59,
+    "question": "¿Pueden las personas jurídicas ser titulares de algunos derechos fundamentales?",
+    "answers": {
+      "A": "Solo si son Administraciones Públicas",
+      "B": "No, nunca",
+      "C": "Sí, de todos sin excepción",
+      "D": "Sí, cuando sean compatibles con su naturaleza"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 60,
+    "question": "¿A qué están sujetos expresamente ciudadanos y poderes públicos?",
+    "answers": {
+      "A": "A la Constitución y al resto del ordenamiento jurídico",
+      "B": "Solo a los reglamentos",
+      "C": "Solo a las leyes autonómicas",
+      "D": "Únicamente a los tratados internacionales"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 61,
+    "question": "¿Qué establece el artículo 30 CE sobre la defensa de España?",
+    "answers": {
+      "A": "Que es solo una obligación de extranjeros",
+      "B": "Que es un derecho y un deber de los españoles",
+      "C": "Que es competencia exclusiva municipal",
+      "D": "Que no tiene regulación constitucional"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 62,
+    "question": "¿Exige la Constitución necesariamente un servicio militar obligatorio?",
+    "answers": {
+      "A": "Sí, durante toda la vida",
+      "B": "Sí, siempre",
+      "C": "No; corresponde a la ley regular las obligaciones militares",
+      "D": "Sí, exclusivamente para funcionarios"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 63,
+    "question": "¿Qué deber tributario establece el artículo 31 CE?",
+    "answers": {
+      "A": "Contribuir únicamente si se es ciudadano de la UE",
+      "B": "Financiar exclusivamente al Estado",
+      "C": "Pagar solo tasas municipales",
+      "D": "Contribuir al sostenimiento de los gastos públicos"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 64,
+    "question": "¿En qué debe basarse el sistema tributario?",
+    "answers": {
+      "A": "En la capacidad económica, igualdad y progresividad",
+      "B": "En la igualdad absoluta de cuotas",
+      "C": "En la regresividad",
+      "D": "En la discrecionalidad administrativa"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 65,
+    "question": "¿Puede el sistema tributario tener carácter confiscatorio?",
+    "answers": {
+      "A": "Sí, cuando lo acuerde el Gobierno",
+      "B": "No",
+      "C": "Sí, siempre que exista déficit",
+      "D": "Solo respecto de personas jurídicas"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 66,
+    "question": "¿Puede establecerse un servicio civil para fines de interés general?",
+    "answers": {
+      "A": "Solo mediante tratado internacional",
+      "B": "No, está constitucionalmente prohibido",
+      "C": "Sí, mediante regulación legal",
+      "D": "Solo por ordenanza municipal"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 67,
+    "question": "¿Qué ocurre con los principios rectores del Capítulo III del Título I?",
+    "answers": {
+      "A": "Solo vinculan a los particulares",
+      "B": "Son siempre derechos subjetivos directamente exigibles",
+      "C": "Carecen de cualquier valor jurídico",
+      "D": "No son directamente invocables ante los tribunales ordinarios sin desarrollo legal"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 68,
+    "question": "¿Qué obligación impone la Constitución al legislador respecto del contenido esencial?",
+    "answers": {
+      "A": "Debe respetarlo al regular los derechos fundamentales",
+      "B": "Puede eliminarlo por ley ordinaria",
+      "C": "Debe sustituirlo por reglamento",
+      "D": "No existe límite constitucional"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 69,
+    "question": "¿Qué es el Defensor del Pueblo?",
+    "answers": {
+      "A": "Un órgano del Poder Judicial",
+      "B": "Alto comisionado de las Cortes Generales para la defensa de los derechos del Título I",
+      "C": "Un órgano del Gobierno",
+      "D": "Un tribunal internacional"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 70,
+    "question": "¿Qué actividad supervisa el Defensor del Pueblo?",
+    "answers": {
+      "A": "Solo la actividad judicial",
+      "B": "Solo la actividad del Parlamento Europeo",
+      "C": "La actividad de las Administraciones Públicas",
+      "D": "Solo la actividad municipal"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 71,
+    "question": "¿Tiene el Defensor del Pueblo competencias ejecutivas?",
+    "answers": {
+      "A": "Sí, sobre las Cortes",
+      "B": "Sí, plenas",
+      "C": "Sí, sobre los tribunales",
+      "D": "No"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 72,
+    "question": "¿Cuánto dura el mandato del Defensor del Pueblo según el temario?",
+    "answers": {
+      "A": "Cinco años",
+      "B": "Dos años",
+      "C": "Cuatro años",
+      "D": "Seis años"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 73,
+    "question": "¿Qué mayoría se exige para su designación por las Cortes según el temario?",
+    "answers": {
+      "A": "Mayoría simple",
+      "B": "Tres quintos en ambas Cámaras",
+      "C": "Mayoría absoluta solo del Congreso",
+      "D": "Dos tercios solo del Senado"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 74,
+    "question": "¿Puede el Defensor del Pueblo actuar de oficio?",
+    "answers": {
+      "A": "Solo por orden judicial",
+      "B": "No, nunca",
+      "C": "Sí",
+      "D": "Solo por autorización del Gobierno"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 75,
+    "question": "¿Son gratuitas las actuaciones ante el Defensor del Pueblo?",
+    "answers": {
+      "A": "Solo para ciudadanos españoles",
+      "B": "No",
+      "C": "Solo para funcionarios",
+      "D": "Sí"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 76,
+    "question": "¿Puede el Defensor del Pueblo interponer recurso de inconstitucionalidad y de amparo?",
+    "answers": {
+      "A": "Sí",
+      "B": "No, solo puede formular recomendaciones",
+      "C": "Solo recurso de amparo",
+      "D": "Solo recurso de inconstitucionalidad"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 77,
+    "question": "¿Qué garantiza el derecho a la tutela judicial efectiva?",
+    "answers": {
+      "A": "La ausencia de cualquier requisito procesal",
+      "B": "El acceso a jueces y tribunales sin indefensión",
+      "C": "La inmunidad frente a las leyes",
+      "D": "La revisión automática de todas las sentencias"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 78,
+    "question": "¿Qué derechos protege el recurso de amparo constitucional según el temario?",
+    "answers": {
+      "A": "Solo los derechos económicos",
+      "B": "Todos los derechos del Título I",
+      "C": "Los del artículo 14, los artículos 15 a 29 y el artículo 30.2",
+      "D": "Solo el artículo 31"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 79,
+    "question": "¿Quién puede interponer recurso de amparo?",
+    "answers": {
+      "A": "Solo los jueces",
+      "B": "Solo el Gobierno",
+      "C": "Solo el Senado",
+      "D": "Personas físicas o jurídicas afectadas, el Defensor del Pueblo y el Ministerio Fiscal"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 80,
+    "question": "¿Qué carácter tiene el recurso de amparo respecto de la protección judicial ordinaria?",
+    "answers": {
+      "A": "Subsidiario",
+      "B": "Automático",
+      "C": "Preventivo en todo caso",
+      "D": "Exclusivo"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 81,
+    "question": "¿Qué debe hacerse antes de acudir en amparo al Tribunal Constitucional?",
+    "answers": {
+      "A": "Solicitar autorización al Gobierno",
+      "B": "Agotar los instrumentos ordinarios de defensa",
+      "C": "Acudir al Parlamento Europeo",
+      "D": "Presentar una iniciativa legislativa popular"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 82,
+    "question": "¿Qué efecto puede producir una sentencia estimatoria de amparo?",
+    "answers": {
+      "A": "La disolución de las Cortes",
+      "B": "La reforma automática de la Constitución",
+      "C": "La nulidad del acto o resolución impugnado",
+      "D": "La suspensión de todas las leyes"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 83,
+    "question": "¿Dónde tiene su sede el Tribunal Europeo de Derechos Humanos?",
+    "answers": {
+      "A": "La Haya",
+      "B": "Luxemburgo",
+      "C": "Bruselas",
+      "D": "Estrasburgo"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 84,
+    "question": "¿Qué requisito debe cumplirse antes de acudir al TEDH?",
+    "answers": {
+      "A": "Agotar previamente las vías internas",
+      "B": "Obtener autorización del Parlamento Europeo",
+      "C": "Agotar solo la vía administrativa",
+      "D": "Presentar una cuestión de inconstitucionalidad"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 85,
+    "question": "¿Qué ocurre con las sentencias firmes del TEDH?",
+    "answers": {
+      "A": "Son meras recomendaciones",
+      "B": "Tienen fuerza vinculante para el Estado afectado",
+      "C": "Carecen de efectos",
+      "D": "Solo vinculan al Parlamento Europeo"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 86,
+    "question": "¿Qué instrumento europeo de derechos fundamentales debe respetarse cuando los Estados aplican Derecho de la UE?",
+    "answers": {
+      "A": "El Reglamento del Parlamento Europeo exclusivamente",
+      "B": "La Constitución francesa",
+      "C": "La Carta de Derechos Fundamentales de la Unión Europea",
+      "D": "La Declaración de Schuman"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 87,
+    "question": "¿Qué tres situaciones excepcionales contempla el artículo 116 CE?",
+    "answers": {
+      "A": "Alarma, guerra y referéndum",
+      "B": "Guerra, paz y neutralidad",
+      "C": "Emergencia, crisis y conflicto",
+      "D": "Alarma, excepción y sitio"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 88,
+    "question": "¿Qué caracteriza al estado de alarma según el temario?",
+    "answers": {
+      "A": "No supone suspensión en sentido estricto de los derechos fundamentales, aunque puede limitar su ejercicio",
+      "B": "Suspende automáticamente todos los derechos",
+      "C": "Solo puede declararse por los ayuntamientos",
+      "D": "Implica siempre estado de sitio"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 89,
+    "question": "¿Qué puede suspenderse durante el estado de excepción?",
+    "answers": {
+      "A": "Todos los derechos sin excepción",
+      "B": "Entre otros, la inviolabilidad del domicilio y el secreto de las comunicaciones",
+      "C": "El derecho a la nacionalidad",
+      "D": "La dignidad de la persona"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 90,
+    "question": "¿Qué derecho puede añadirse a la suspensión en el estado de sitio respecto de las garantías del artículo 17.3?",
+    "answers": {
+      "A": "El derecho a la educación",
+      "B": "El derecho a la propiedad",
+      "C": "Las garantías relativas a la información sobre la detención y asistencia letrada",
+      "D": "El derecho de fundación"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 91,
+    "question": "¿Qué contempla el artículo 55.2 CE?",
+    "answers": {
+      "A": "La suspensión del sistema tributario",
+      "B": "La suspensión colectiva de todos los derechos",
+      "C": "La supresión del Tribunal Constitucional",
+      "D": "La posible suspensión individual de determinados derechos en investigaciones sobre bandas armadas o elementos terroristas"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 92,
+    "question": "Conforme al temario, ¿Qué fecha fue ratificada la Constitución Española de 1978 mediante referéndum?",
+    "answers": {
+      "A": "15 de junio de 1977",
+      "B": "20 de noviembre de 1975",
+      "C": "6 de diciembre de 1978",
+      "D": "29 de diciembre de 1978"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 93,
+    "question": "Conforme al temario, ¿Qué ley sirvió de fundamento para la transición política hacia la Constitución democrática?",
+    "answers": {
+      "A": "La Ley de Reforma del Código Civil",
+      "B": "La Ley Orgánica del Tribunal Constitucional",
+      "C": "La Ley de Bases del Régimen Local",
+      "D": "La Ley para la Reforma Política de 1977"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 94,
+    "question": "Conforme al temario, ¿Quién presidía el Gobierno que envió a las Cortes el proyecto de Ley para la Reforma Política?",
+    "answers": {
+      "A": "Adolfo Suárez",
+      "B": "Juan Carlos I",
+      "C": "Felipe González",
+      "D": "Leopoldo Calvo-Sotelo"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 95,
+    "question": "Conforme al temario, ¿Cuántos diputados integraron la ponencia constitucional del Congreso?",
+    "answers": {
+      "A": "Cinco",
+      "B": "Siete",
+      "C": "Nueve",
+      "D": "Doce"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 96,
+    "question": "Conforme al temario, ¿Qué órgano elaboró el texto definitivo ante las diferencias entre Congreso y Senado?",
+    "answers": {
+      "A": "La Diputación Permanente",
+      "B": "El Tribunal Constitucional",
+      "C": "Una Comisión Mixta Congreso-Senado",
+      "D": "El Consejo de Estado"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 97,
+    "question": "Conforme al temario, ¿Cómo define el artículo 1.1 CE a España?",
+    "answers": {
+      "A": "Como un Estado unitario centralizado",
+      "B": "Como una república federal",
+      "C": "Como una confederación territorial",
+      "D": "Como un Estado social y democrático de Derecho"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 98,
+    "question": "Conforme al temario, ¿Cuál es uno de los valores superiores del ordenamiento jurídico?",
+    "answers": {
+      "A": "El pluralismo político",
+      "B": "La neutralidad política",
+      "C": "La uniformidad territorial",
+      "D": "La jerarquía administrativa"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 99,
+    "question": "Conforme al temario, ¿Dónde reside la soberanía nacional?",
+    "answers": {
+      "A": "En el Rey",
+      "B": "En el pueblo español",
+      "C": "En las Cortes Generales",
+      "D": "En el Gobierno"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 100,
+    "question": "Conforme al temario, ¿Cuál es un mecanismo de democracia directa citado en el temario?",
+    "answers": {
+      "A": "La investidura parlamentaria",
+      "B": "La moción de censura",
+      "C": "La iniciativa legislativa popular",
+      "D": "La cuestión de confianza"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 101,
+    "question": "Conforme al temario, ¿Qué elemento caracteriza al Estado de Derecho?",
+    "answers": {
+      "A": "La inexistencia de control jurídico",
+      "B": "La concentración de poderes",
+      "C": "La subordinación de los tribunales al Gobierno",
+      "D": "La separación de poderes"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 102,
+    "question": "Conforme al temario, ¿Qué principio implica la sujeción de ciudadanos y poderes públicos a la Constitución y al ordenamiento?",
+    "answers": {
+      "A": "El principio de legalidad",
+      "B": "El principio de oportunidad",
+      "C": "El principio de representación",
+      "D": "El principio de autonomía"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 103,
+    "question": "Conforme al temario, ¿Qué caracteriza al Estado social según el temario?",
+    "answers": {
+      "A": "La ausencia de intervención pública",
+      "B": "La promoción de condiciones para que libertad e igualdad sean reales y efectivas",
+      "C": "La eliminación de la propiedad privada",
+      "D": "La subordinación de todos los derechos al mercado"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 104,
+    "question": "Conforme al temario, ¿Cuál es la forma política del Estado español?",
+    "answers": {
+      "A": "La monarquía absoluta",
+      "B": "La república parlamentaria",
+      "C": "La monarquía parlamentaria",
+      "D": "La república presidencialista"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 105,
+    "question": "Conforme al temario, ¿Qué carácter tiene la función del Rey respecto de la unidad y permanencia del Estado?",
+    "answers": {
+      "A": "Administrativo y sancionador",
+      "B": "Ejecutivo y legislativo",
+      "C": "Judicial y fiscal",
+      "D": "Moderador y simbólico"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 106,
+    "question": "Conforme al temario, ¿Qué instrumento permite al Congreso exigir responsabilidad política al Gobierno?",
+    "answers": {
+      "A": "La moción de censura",
+      "B": "El recurso de amparo",
+      "C": "La cuestión prejudicial",
+      "D": "La iniciativa legislativa popular"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 107,
+    "question": "Conforme al temario, ¿Cuáles son los tres principios territoriales básicos de la CE señalados en el tema?",
+    "answers": {
+      "A": "Centralización, jerarquía y uniformidad",
+      "B": "Unidad, autonomía y solidaridad",
+      "C": "Federalismo, independencia y soberanía",
+      "D": "Bilateralidad, subsidiariedad y veto"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 108,
+    "question": "Conforme al temario, ¿A través de qué se ha desarrollado el proceso de descentralización territorial?",
+    "answers": {
+      "A": "Los tratados internacionales",
+      "B": "Los reglamentos municipales",
+      "C": "Los Estatutos de Autonomía",
+      "D": "Las leyes ordinarias estatales exclusivamente"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 109,
+    "question": "Conforme al temario, ¿Qué consecuencia del consenso constitucional destaca el temario?",
+    "answers": {
+      "A": "La regulación idéntica de todas las materias",
+      "B": "La ausencia de regulación constitucional",
+      "C": "La eliminación de la interpretación jurídica",
+      "D": "El uso de fórmulas más abiertas en materias de difícil consenso"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 110,
+    "question": "Conforme al temario, ¿Cuál de estos principios aparece en el artículo 9.3 CE?",
+    "answers": {
+      "A": "La seguridad jurídica",
+      "B": "La soberanía autonómica",
+      "C": "El mandato imperativo",
+      "D": "La doble nacionalidad obligatoria"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 111,
+    "question": "Conforme al temario, ¿Qué significa que la Constitución tenga carácter normativo?",
+    "answers": {
+      "A": "Que es solo una declaración política",
+      "B": "Que contiene normas jurídicas vinculantes",
+      "C": "Que solo obliga al Parlamento",
+      "D": "Que carece de eficacia jurídica"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 112,
+    "question": "Conforme al temario, ¿Qué carácter especial tiene la Constitución respecto del resto del ordenamiento?",
+    "answers": {
+      "A": "Es una norma administrativa",
+      "B": "Es una norma reglamentaria",
+      "C": "Es la norma suprema",
+      "D": "Es una norma meramente programática"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 113,
+    "question": "Conforme al temario, ¿Qué institución es el intérprete supremo de la Constitución?",
+    "answers": {
+      "A": "El Congreso",
+      "B": "El Tribunal Supremo",
+      "C": "El Consejo de Estado",
+      "D": "El Tribunal Constitucional"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 114,
+    "question": "Conforme al temario, ¿Cuántos magistrados integran el Tribunal Constitucional?",
+    "answers": {
+      "A": "Doce",
+      "B": "Diez",
+      "C": "Quince",
+      "D": "Veinte"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 115,
+    "question": "Conforme al temario, ¿Cuántos magistrados del Tribunal Constitucional son propuestos por el Congreso?",
+    "answers": {
+      "A": "Dos",
+      "B": "Cuatro",
+      "C": "Seis",
+      "D": "Ocho"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 116,
+    "question": "Conforme al temario, ¿Cuántos magistrados son propuestos por el Senado?",
+    "answers": {
+      "A": "Seis",
+      "B": "Dos",
+      "C": "Cuatro",
+      "D": "Ocho"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 117,
+    "question": "Conforme al temario, ¿Cuántos magistrados son propuestos por el Gobierno?",
+    "answers": {
+      "A": "Seis",
+      "B": "Uno",
+      "C": "Cuatro",
+      "D": "Dos"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 118,
+    "question": "Conforme al temario, ¿Cuántos magistrados son propuestos por el CGPJ?",
+    "answers": {
+      "A": "Dos",
+      "B": "Uno",
+      "C": "Tres",
+      "D": "Cuatro"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 119,
+    "question": "Conforme al temario, ¿Qué órgano controla la constitucionalidad de las normas con fuerza de ley?",
+    "answers": {
+      "A": "El Tribunal Supremo",
+      "B": "El Tribunal Constitucional",
+      "C": "El Consejo de Estado",
+      "D": "El Senado"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 120,
+    "question": "Conforme al temario, ¿Qué vías principales utiliza el Tribunal Constitucional para el control de constitucionalidad?",
+    "answers": {
+      "A": "La moción de censura y la cuestión de confianza",
+      "B": "El recurso de amparo y el habeas corpus",
+      "C": "El recurso y la cuestión de inconstitucionalidad",
+      "D": "El recurso ordinario y el extraordinario"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 121,
+    "question": "Conforme al temario, ¿Quién controla las normas del Derecho de la Unión Europea según el temario?",
+    "answers": {
+      "A": "El Congreso",
+      "B": "El Tribunal Constitucional",
+      "C": "El Tribunal Supremo",
+      "D": "El Tribunal de Justicia de la Unión Europea"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 122,
+    "question": "Conforme al temario, ¿Qué otra función fundamental corresponde al Tribunal Constitucional?",
+    "answers": {
+      "A": "Resolver conflictos de competencia",
+      "B": "Aprobar los Presupuestos Generales del Estado",
+      "C": "Nombrar alcaldes",
+      "D": "Dirigir la política exterior"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 123,
+    "question": "Conforme al temario, ¿Cuántos Títulos contiene la Constitución además del Título Preliminar?",
+    "answers": {
+      "A": "Ocho",
+      "B": "Diez",
+      "C": "Nueve",
+      "D": "Once"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 124,
+    "question": "Conforme al temario, ¿Qué artículos comprende el Título Preliminar?",
+    "answers": {
+      "A": "Los artículos 56 a 65",
+      "B": "Los artículos 10 a 55",
+      "C": "Los artículos 1 a 9",
+      "D": "Los artículos 137 a 158"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 125,
+    "question": "Conforme al temario, ¿Qué integra la parte dogmática de la Constitución?",
+    "answers": {
+      "A": "Las disposiciones transitorias",
+      "B": "Títulos II a X",
+      "C": "Solo el Título I",
+      "D": "Preámbulo, Título Preliminar y Título I"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 126,
+    "question": "Conforme al temario, ¿Qué Títulos forman la parte orgánica?",
+    "answers": {
+      "A": "Los Títulos II a X",
+      "B": "El Título I exclusivamente",
+      "C": "Los Títulos VIII y IX",
+      "D": "El Preámbulo y el Título Preliminar"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 127,
+    "question": "Conforme al temario, ¿Qué órgano está regulado en el Título III?",
+    "answers": {
+      "A": "El Gobierno",
+      "B": "Las Cortes Generales",
+      "C": "El Poder Judicial",
+      "D": "El Tribunal Constitucional"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 128,
+    "question": "Conforme al temario, ¿Qué Título regula el Gobierno y la Administración?",
+    "answers": {
+      "A": "El Título III",
+      "B": "El Título II",
+      "C": "El Título IV",
+      "D": "El Título VI"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 129,
+    "question": "Conforme al temario, ¿Qué Título regula el Poder Judicial?",
+    "answers": {
+      "A": "El Título VII",
+      "B": "El Título IV",
+      "C": "El Título V",
+      "D": "El Título VI"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 130,
+    "question": "Conforme al temario, ¿Cuántas Disposiciones Adicionales tiene la Constitución?",
+    "answers": {
+      "A": "Cuatro",
+      "B": "Tres",
+      "C": "Nueve",
+      "D": "Una"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 131,
+    "question": "Conforme al temario, ¿Cuántas Disposiciones Transitorias tiene?",
+    "answers": {
+      "A": "Cuatro",
+      "B": "Nueve",
+      "C": "Siete",
+      "D": "Diez"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 132,
+    "question": "Conforme al temario, ¿Qué protege la Primera Disposición Adicional?",
+    "answers": {
+      "A": "La capitalidad del Estado",
+      "B": "La mayoría de edad",
+      "C": "Los derechos históricos de los territorios forales",
+      "D": "La reforma constitucional"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 133,
+    "question": "Conforme al temario, ¿Qué prevé la Disposición Transitoria Cuarta?",
+    "answers": {
+      "A": "La entrada en vigor del euro",
+      "B": "La creación del Tribunal Constitucional",
+      "C": "La reforma del Senado",
+      "D": "La posibilidad de incorporación de Navarra al Consejo General Vasco o al régimen autonómico vasco"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 134,
+    "question": "Conforme al temario, ¿Qué regula la Disposición Derogatoria?",
+    "answers": {
+      "A": "Las normas que quedan derogadas tras la entrada en vigor de la Constitución",
+      "B": "La elección del Rey",
+      "C": "La organización municipal",
+      "D": "La reforma de los Estatutos"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 135,
+    "question": "Conforme al temario, ¿Qué establece la Disposición Final destacada en el temario?",
+    "answers": {
+      "A": "Su entrada en vigor un año después",
+      "B": "La publicación de la Constitución y su entrada en vigor el mismo día de su publicación",
+      "C": "Su publicación exclusivamente en castellano",
+      "D": "Su aprobación por el Tribunal Constitucional"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 136,
+    "question": "Conforme al temario, ¿En qué Título aparecen los derechos y deberes fundamentales?",
+    "answers": {
+      "A": "En el Título II",
+      "B": "En el Título Preliminar",
+      "C": "En el Título I",
+      "D": "En el Título VIII"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 137,
+    "question": "Conforme al temario, ¿Qué artículos constituyen el núcleo duro de los derechos fundamentales?",
+    "answers": {
+      "A": "Los artículos 39 a 52",
+      "B": "Los artículos 1 a 9",
+      "C": "Los artículos 30 a 38",
+      "D": "Los artículos 14 a 29"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 138,
+    "question": "Conforme al temario, ¿Qué dimensiones presentan los derechos fundamentales?",
+    "answers": {
+      "A": "Subjetiva y objetiva",
+      "B": "Política y económica",
+      "C": "Nacional e internacional",
+      "D": "Administrativa y judicial"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 139,
+    "question": "Conforme al temario, ¿Qué artículo fundamenta el orden político y la paz social en la dignidad de la persona?",
+    "answers": {
+      "A": "El artículo 1.1 CE",
+      "B": "El artículo 10.1 CE",
+      "C": "El artículo 9.3 CE",
+      "D": "El artículo 14 CE"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 140,
+    "question": "Conforme al temario, ¿Qué exige el artículo 10.2 CE para interpretar los derechos y libertades?",
+    "answers": {
+      "A": "Conformidad exclusiva con la jurisprudencia del Tribunal Supremo",
+      "B": "Conformidad exclusiva con las leyes orgánicas",
+      "C": "Conformidad con la Declaración Universal de Derechos Humanos y los tratados ratificados por España",
+      "D": "Conformidad únicamente con el Derecho de la UE"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 141,
+    "question": "Conforme al temario, ¿Qué edad establece la Constitución como mayoría de edad?",
+    "answers": {
+      "A": "21 años",
+      "B": "16 años",
+      "C": "17 años",
+      "D": "18 años"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 142,
+    "question": "Conforme al temario, ¿Qué establece el artículo 14 como cláusula general?",
+    "answers": {
+      "A": "La igualdad de todos los españoles ante la ley",
+      "B": "La libertad de empresa",
+      "C": "El derecho a la educación",
+      "D": "El derecho de reunión"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 143,
+    "question": "Conforme al temario, ¿Qué garantía caracteriza a los derechos de los artículos 14 a 29?",
+    "answers": {
+      "A": "La reserva de reglamento",
+      "B": "La reserva de ley orgánica",
+      "C": "La ausencia de tutela judicial",
+      "D": "La reforma mediante ley ordinaria"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 144,
+    "question": "Conforme al temario, ¿Son los derechos fundamentales derechos absolutos?",
+    "answers": {
+      "A": "Sí, salvo durante la normalidad constitucional",
+      "B": "Sí, en todo caso",
+      "C": "No; pueden estar sujetos a límites expresos o implícitos",
+      "D": "No, pero solo pueden limitarse por reglamento"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 145,
+    "question": "Conforme al temario, ¿Qué criterio debe respetarse al establecer límites a los derechos fundamentales?",
+    "answers": {
+      "A": "La analogía penal",
+      "B": "La discrecionalidad absoluta",
+      "C": "La oportunidad política",
+      "D": "La proporcionalidad y adecuación"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 146,
+    "question": "Conforme al temario, ¿Qué distingue titularidad y ejercicio de un derecho?",
+    "answers": {
+      "A": "Una persona puede ser titular del derecho y no estar en condiciones de ejercerlo",
+      "B": "Son conceptos idénticos",
+      "C": "El ejercicio siempre precede a la titularidad",
+      "D": "La titularidad solo existe para extranjeros"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 147,
+    "question": "Conforme al temario, ¿Qué regla general señala el temario respecto de los extranjeros?",
+    "answers": {
+      "A": "Carecen de derechos fundamentales",
+      "B": "Son titulares de derechos fundamentales inherentes a la dignidad, aunque algunos ejercicios pueden limitarse",
+      "C": "Tienen exactamente los mismos derechos políticos en todo caso",
+      "D": "Solo poseen derechos económicos"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 148,
+    "question": "Conforme al temario, ¿Qué derecho de participación puede reconocerse a extranjeros en determinadas condiciones?",
+    "answers": {
+      "A": "La elección del Presidente del Gobierno",
+      "B": "El acceso a la Corona",
+      "C": "El sufragio activo y pasivo en elecciones municipales",
+      "D": "El sufragio en todas las elecciones nacionales"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 149,
+    "question": "Conforme al temario, ¿Qué implica la ciudadanía de la Unión Europea para los españoles?",
+    "answers": {
+      "A": "La pérdida de derechos municipales",
+      "B": "La pérdida de la nacionalidad española",
+      "C": "La obligación de residir en Bruselas",
+      "D": "La titularidad de derechos como circular y residir libremente en Estados miembros"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 150,
+    "question": "Conforme al temario, ¿Pueden las personas jurídicas ser titulares de algunos derechos fundamentales?",
+    "answers": {
+      "A": "Sí, cuando sean compatibles con su naturaleza",
+      "B": "No, nunca",
+      "C": "Sí, de todos sin excepción",
+      "D": "Solo si son Administraciones Públicas"
+    },
+    "correct": "A"
   }
 ]
