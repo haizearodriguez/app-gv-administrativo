@@ -12,18 +12,18 @@
   },
   {
     "id": 28,
-    "question": "A tenor de lo establecido en la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local (LBRL), ¿cuáles de estas realidades son Entidades Locales territoriales?:",
+    "question": "Revisar: A tenor de lo establecido en la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local (LBRL), ¿cuáles de estas realidades son Entidades Locales territoriales?:",
     "answers": {
       "A": "Las comarcas.",
       "B": "Las islas.",
       "C": "Las áreas metropolitanas.",
       "D": "Las respuestas anteriores no son correctas."
     },
-    "correct": "D"
+    "correct": "B"
   },
   {
     "id": 29,
-    "question": "A tenor de lo establecido en la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local (LBRL), ¿cuáles de estas realidades son Entidades Locales?:",
+    "question": "Revisar: A tenor de lo establecido en la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local (LBRL), ¿cuáles de estas realidades son Entidades Locales?:",
     "answers": {
       "A": "Las mancomunidades.",
       "B": "Los municipios.",
@@ -111,14 +111,14 @@
   },
   {
     "id": 37,
-    "question": "Atendiendo al art. 36.1 LBRL, ¿cuál de estas competencias es una competencia propia de la Diputación Provincial?:",
+    "question": "Revisar: Atendiendo al art. 36.1 LBRL, ¿cuál de estas competencias es una competencia propia de la Diputación Provincial?:",
     "answers": {
       "A": "La dirección de la política municipal en su ámbito territorial.",
       "B": "La fiscalización del gasto de los municipios sitos en su ámbito territorial.",
       "C": "El fomento y la administración de los intereses peculiares de la provincia.",
       "D": "Las tres respuestas anteriores no son correctas."
     },
-    "correct": "D"
+    "correct": "C"
   },
   {
     "id": 38,
