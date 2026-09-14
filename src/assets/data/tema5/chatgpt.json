@@ -1,0 +1,1091 @@
+[
+  {
+    "id": 1,
+    "question": "¿A qué Estatuto hay que recurrir para comprender la distribución competencial entre Instituciones Comunes y Territorios Históricos?",
+    "answers": {
+      "A": "Al Estatuto de Gernika de 1979, aprobado por Ley Orgánica 3/1979.",
+      "B": "A la Constitución exclusivamente.",
+      "C": "Al Concierto Económico.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 2,
+    "question": "¿Qué artículo del Estatuto de Gernika recoge las competencias exclusivas de organización e instituciones de los Territorios Históricos?",
+    "answers": {
+      "A": "El artículo 37.3.",
+      "B": "El artículo 41.",
+      "C": "El artículo 2.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 3,
+    "question": "¿Cuáles son las cinco materias de competencia exclusiva de los Territorios Históricos según el art. 37.3?",
+    "answers": {
+      "A": "Organización de sus instituciones, presupuestos, demarcaciones territoriales, bienes provinciales/municipales y régimen electoral municipal.",
+      "B": "Defensa, relaciones exteriores y moneda.",
+      "C": "Educación y sanidad.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 4,
+    "question": "¿Qué artículo del Estatuto recoge el sistema de Concierto Económico?",
+    "answers": {
+      "A": "El artículo 41.",
+      "B": "El artículo 37.",
+      "C": "El artículo 24.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 5,
+    "question": "¿Qué sentencia del Tribunal Constitucional definió el núcleo intangible de la foralidad?",
+    "answers": {
+      "A": "STC 76/1988, de 26 de abril.",
+      "B": "STC 94/1985.",
+      "C": "STC 40/2011.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 6,
+    "question": "¿Qué Ley desarrolla el reparto de competencias entre Instituciones Comunes y Territorios Históricos?",
+    "answers": {
+      "A": "Ley 27/1983, de 25 de noviembre (Ley de Territorios Históricos, LTH).",
+      "B": "Ley 12/2002.",
+      "C": "Ley 2/2016.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 7,
+    "question": "¿Qué principios rigen las relaciones entre Instituciones Comunes y Territorios Históricos según el art. 2 de la LTH?",
+    "answers": {
+      "A": "Colaboración y solidaridad.",
+      "B": "Subordinación jerárquica.",
+      "C": "Confrontación.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 8,
+    "question": "¿Qué establece la cláusula residual del art. 6.1 de la LTH?",
+    "answers": {
+      "A": "Que es competencia de las Instituciones Comunes toda materia no atribuida a los Territorios Históricos.",
+      "B": "Que todas las materias son de los Territorios Históricos.",
+      "C": "Que no existe reparto competencial.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 9,
+    "question": "¿A quién reserva en exclusiva la LTH la facultad de dictar normas con rango de Ley (art. 6.2)?",
+    "answers": {
+      "A": "Al Parlamento Vasco.",
+      "B": "A las Juntas Generales.",
+      "C": "A las Diputaciones Forales.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 10,
+    "question": "¿Qué cuatro tipos de potestades corresponden a los Territorios Históricos en materias de competencia exclusiva (art. 8.1 LTH)?",
+    "answers": {
+      "A": "Normativa, reglamentaria, administrativa (incluida inspección) y revisora en vía administrativa.",
+      "B": "Solo la reglamentaria.",
+      "C": "Solo la ejecutiva.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 11,
+    "question": "¿Qué límite establece la Comisión Arbitral en su Decisión 5/2003 respecto a la modificación del esquema competencial?",
+    "answers": {
+      "A": "Que debe hacerse mediante modificación de la LTH o ley singular que delimite expresamente la nueva distribución.",
+      "B": "Que no puede modificarse nunca.",
+      "C": "Que solo el Tribunal Constitucional puede modificarla.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 12,
+    "question": "¿Qué tipo de potestad NO tienen los Territorios Históricos en materias de desarrollo normativo y ejecución (art. 8.2 LTH)?",
+    "answers": {
+      "A": "La potestad normativa originaria (plena).",
+      "B": "La potestad reglamentaria.",
+      "C": "La potestad administrativa.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 13,
+    "question": "¿Qué materias corresponden a los Territorios Históricos con desarrollo normativo y ejecución según el art. 7 b) LTH?",
+    "answers": {
+      "A": "Sanidad vegetal, producción y sanidad animal, riqueza piscícola continental, patrimonio histórico y fomento del deporte, entre otras.",
+      "B": "Defensa y relaciones exteriores.",
+      "C": "Justicia.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 14,
+    "question": "¿Qué establece el art. 39 del Estatuto de Gernika respecto a los conflictos entre Instituciones Comunes y Territorios Históricos?",
+    "answers": {
+      "A": "Que se someten a la decisión de una Comisión Arbitral.",
+      "B": "Que los resuelve el Gobierno central.",
+      "C": "Que no existe mecanismo de resolución.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 15,
+    "question": "¿Qué Ley regula la Comisión Arbitral?",
+    "answers": {
+      "A": "Ley 13/1994, de 30 de junio.",
+      "B": "Ley 27/1983.",
+      "C": "Ley 12/2002.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 16,
+    "question": "¿Quién debe presidir la Comisión Arbitral?",
+    "answers": {
+      "A": "El Presidente o Presidenta del Tribunal Superior de Justicia del País Vasco.",
+      "B": "El Lehendakari.",
+      "C": "El Presidente del Parlamento Vasco.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 17,
+    "question": "¿Cuántos vocales integran la Comisión Arbitral además del Presidente?",
+    "answers": {
+      "A": "Seis vocales.",
+      "B": "Tres vocales.",
+      "C": "Doce vocales.",
+      "D": "Cuatro vocales."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 18,
+    "question": "¿Cómo se designan los seis vocales de la Comisión Arbitral?",
+    "answers": {
+      "A": "Tres por el Gobierno Vasco y uno por cada una de las tres Diputaciones Forales.",
+      "B": "Todos por el Gobierno Vasco.",
+      "C": "Todos por el Parlamento Vasco.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 19,
+    "question": "¿Cuál es la duración del mandato de los vocales de la Comisión Arbitral?",
+    "answers": {
+      "A": "Seis años.",
+      "B": "Cuatro años.",
+      "C": "Diez años.",
+      "D": "Dos años."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 20,
+    "question": "¿Cuándo se constituyó la Comisión Arbitral?",
+    "answers": {
+      "A": "En diciembre de 1996.",
+      "B": "En 1979.",
+      "C": "En 2002.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 21,
+    "question": "¿Qué tipos de asuntos resuelve la Comisión Arbitral?",
+    "answers": {
+      "A": "Cuestiones de competencia y conflictos de competencia (positivos y negativos).",
+      "B": "Solo cuestiones penales.",
+      "C": "Solo cuestiones tributarias.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 22,
+    "question": "¿Pueden recurrirse ante los Tribunales las decisiones de la Comisión Arbitral?",
+    "answers": {
+      "A": "No, son firmes y no cabe recurso alguno.",
+      "B": "Sí, ante el Tribunal Supremo.",
+      "C": "Sí, ante el TC.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 23,
+    "question": "¿Mediante qué sistema se regulan las relaciones financieras y tributarias entre la CAE y el Estado?",
+    "answers": {
+      "A": "El sistema de Concierto Económico.",
+      "B": "El sistema de financiación autonómica común.",
+      "C": "El régimen económico fiscal de Canarias.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 24,
+    "question": "¿Cuál es la diferencia esencial entre el modelo de financiación de régimen común y el modelo foral?",
+    "answers": {
+      "A": "En el régimen foral son las instituciones vascas/navarras, y no el Estado, quienes legislan y recaudan los tributos, contribuyendo con el cupo/aportación.",
+      "B": "No hay ninguna diferencia.",
+      "C": "En el régimen común las CCAA legislan y recaudan todos los tributos.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 25,
+    "question": "¿Cómo se denomina el sistema del Concierto Económico en Navarra?",
+    "answers": {
+      "A": "Convenio Económico.",
+      "B": "Concierto Foral.",
+      "C": "Pacto Fiscal.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 26,
+    "question": "¿Qué Ley regula actualmente el Concierto Económico vasco?",
+    "answers": {
+      "A": "Ley 12/2002, de 23 de mayo.",
+      "B": "Ley 12/1981.",
+      "C": "Ley 25/2001.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 27,
+    "question": "¿Cómo se denomina el sistema de riesgo asumido por Euskadi en el Concierto Económico?",
+    "answers": {
+      "A": "Sistema «de riesgo unilateral».",
+      "B": "Sistema de riesgo compartido.",
+      "C": "Sistema de compensación automática.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 28,
+    "question": "¿Qué sentencia del TJUE avaló la compatibilidad del Concierto Económico con el Derecho de la UE?",
+    "answers": {
+      "A": "Sentencia del TJUE de 11 de septiembre de 2008, siguiendo la doctrina del «caso Azores» (6 de septiembre de 2006).",
+      "B": "Sentencia del TJUE de 2000.",
+      "C": "STC 76/1988.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 29,
+    "question": "¿Cuándo se aprobó el primer Concierto Económico para Bizkaia, Gipuzkoa y Álava?",
+    "answers": {
+      "A": "Mediante Real Decreto de 28 de febrero de 1878.",
+      "B": "En 1937.",
+      "C": "En 1981.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 30,
+    "question": "¿Qué ocurrió con el Concierto Económico durante la Guerra Civil?",
+    "answers": {
+      "A": "Fue abolido para Bizkaia y Gipuzkoa por el Decreto-Ley de 23 de junio de 1937, manteniéndose para Álava.",
+      "B": "Se mantuvo intacto en los tres territorios.",
+      "C": "Se abolió también para Álava.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 31,
+    "question": "¿Qué Ley aprobó el Concierto Económico tras la restauración de la democracia, en 1981?",
+    "answers": {
+      "A": "Ley 12/1981, de 13 de mayo.",
+      "B": "Ley 12/2002.",
+      "C": "Ley 25/2001.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 32,
+    "question": "¿Qué problema surgió al terminar la vigencia del Concierto de 1981 en 2001?",
+    "answers": {
+      "A": "El Estado impuso una prórroga unilateral mediante Ley 25/2001, rompiendo la bilateralidad.",
+      "B": "Se renovó automáticamente sin problemas.",
+      "C": "Se abolió definitivamente.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 33,
+    "question": "¿En qué órgano se negoció el nuevo Concierto de 2002?",
+    "answers": {
+      "A": "En la Comisión Mixta de Cupo (hoy Comisión Mixta de Concierto).",
+      "B": "En el Parlamento Vasco exclusivamente.",
+      "C": "En el Tribunal Constitucional.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 34,
+    "question": "¿Qué vigencia tiene el actual Concierto Económico de 2002 a diferencia de sus antecesores?",
+    "answers": {
+      "A": "Vigencia ilimitada, sin límite temporal.",
+      "B": "20 años.",
+      "C": "5 años.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 35,
+    "question": "¿Cuándo tuvo lugar la última modificación relevante del Concierto Económico según el temario?",
+    "answers": {
+      "A": "En 2017, por Ley 10/2017, de 28 de diciembre.",
+      "B": "En 2002.",
+      "C": "En 1981.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 36,
+    "question": "¿En cuántos capítulos se estructura el Concierto Económico de 2002?",
+    "answers": {
+      "A": "Tres capítulos: ámbito tributario, ámbito financiero y órganos de gestión.",
+      "B": "Un solo capítulo.",
+      "C": "Cinco capítulos.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 37,
+    "question": "¿Quiénes son competentes para mantener, establecer y regular el sistema tributario en cada Territorio Histórico?",
+    "answers": {
+      "A": "Los Órganos Forales (Juntas Generales), y no las Instituciones Comunes.",
+      "B": "El Parlamento Vasco.",
+      "C": "El Gobierno central.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 38,
+    "question": "¿Cómo se denomina el mecanismo por el que, desde 2010, las Normas Forales Tributarias no son recurribles ante tribunales ordinarios sino ante el TC?",
+    "answers": {
+      "A": "El «blindaje del Concierto Económico».",
+      "B": "El «efecto directo».",
+      "C": "La «cláusula de cierre».",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 39,
+    "question": "¿Qué sentencia del TC avaló el blindaje del Concierto Económico en 2010?",
+    "answers": {
+      "A": "STC 118/2016, de 23 de junio.",
+      "B": "STC 76/1988.",
+      "C": "STC 94/1985.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 40,
+    "question": "¿Qué distingue a los «tributos concertados de normativa autónoma» de los «de normativa no autónoma»?",
+    "answers": {
+      "A": "Los primeros son de plena competencia de los Territorios Históricos; los segundos siguen las normas sustantivas y formales del Estado.",
+      "B": "No existe distinción.",
+      "C": "Los primeros son competencia exclusiva del Estado.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 41,
+    "question": "¿Qué impuesto se cita como ejemplo de tributo concertado de normativa autónoma?",
+    "answers": {
+      "A": "El Impuesto sobre la Renta de las Personas Físicas (IRPF).",
+      "B": "El IVA.",
+      "C": "Los Impuestos Especiales.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 42,
+    "question": "¿Qué impuesto se cita como ejemplo de tributo concertado de normativa no autónoma?",
+    "answers": {
+      "A": "El IVA.",
+      "B": "El Impuesto sobre Sucesiones y Donaciones.",
+      "C": "El Impuesto sobre el Patrimonio.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 43,
+    "question": "¿Qué órgano se encarga en cada Territorio Histórico de la exacción, gestión, inspección y recaudación de tributos?",
+    "answers": {
+      "A": "La Diputación Foral respectiva.",
+      "B": "El Gobierno Vasco.",
+      "C": "La Agencia Tributaria estatal.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 44,
+    "question": "¿Cuál es la aportación del País Vasco al Estado en el Concierto Económico?",
+    "answers": {
+      "A": "El cupo global, integrado por los cupos de cada Territorio Histórico.",
+      "B": "Un porcentaje del IVA nacional.",
+      "C": "Una cuota fija anual sin cálculo.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 45,
+    "question": "¿Con qué periodicidad se aprueba la metodología de señalamiento del cupo?",
+    "answers": {
+      "A": "Cada cinco años, mediante Ley votada por las Cortes Generales.",
+      "B": "Cada mes.",
+      "C": "Cada legislatura sin plazo fijo.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 46,
+    "question": "¿Qué Ley estableció la metodología del cupo para el quinquenio 2017-2021?",
+    "answers": {
+      "A": "Ley 11/2017, de 28 de diciembre.",
+      "B": "Ley 12/2002.",
+      "C": "Ley 10/2017.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 47,
+    "question": "¿Cuál es el índice de imputación fijado en la actual Ley del Cupo?",
+    "answers": {
+      "A": "6,24%.",
+      "B": "10%.",
+      "C": "50%.",
+      "D": "1%."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 48,
+    "question": "¿En cuántos plazos se abona anualmente el cupo a la Hacienda estatal?",
+    "answers": {
+      "A": "Tres plazos iguales, en mayo, septiembre y diciembre.",
+      "B": "Un solo pago anual.",
+      "C": "Doce mensualidades.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 49,
+    "question": "¿Qué órganos de gestión prevé la Ley del Concierto Económico?",
+    "answers": {
+      "A": "La Comisión Mixta del Concierto Económico, la Comisión de Coordinación y Evaluación Normativa, y la Junta Arbitral.",
+      "B": "Solo la Junta Arbitral.",
+      "C": "Solo el Tribunal Constitucional.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 50,
+    "question": "¿Cómo se adoptan los acuerdos de la Comisión Mixta del Concierto Económico?",
+    "answers": {
+      "A": "Por unanimidad.",
+      "B": "Por mayoría simple.",
+      "C": "Por sorteo.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 51,
+    "question": "¿Cuántos miembros integran la Junta Arbitral del Concierto Económico?",
+    "answers": {
+      "A": "Tres miembros, expertos con más de quince años de ejercicio profesional en materia tributaria.",
+      "B": "Seis miembros.",
+      "C": "Doce miembros.",
+      "D": "Un solo miembro."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 52,
+    "question": "¿Ante qué órgano pueden recurrirse los acuerdos de la Junta Arbitral del Concierto?",
+    "answers": {
+      "A": "Ante la Sala correspondiente del Tribunal Supremo.",
+      "B": "Ante el Tribunal Constitucional únicamente.",
+      "C": "No cabe recurso alguno.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 53,
+    "question": "¿Qué Ley regula las Instituciones Locales de Euskadi?",
+    "answers": {
+      "A": "Ley 2/2016, de 7 de abril.",
+      "B": "Ley 27/1983.",
+      "C": "Ley 7/1985.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 54,
+    "question": "¿Cuántos años transcurrieron desde que el Parlamento Vasco comenzó a legislar hasta la aprobación de la Ley de Instituciones Locales de Euskadi?",
+    "answers": {
+      "A": "Más de treinta y cinco años.",
+      "B": "Diez años.",
+      "C": "Cinco años.",
+      "D": "Cincuenta años."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 55,
+    "question": "¿Qué entidades tienen la consideración de entidades locales según el art. 2 de la Ley 2/2016?",
+    "answers": {
+      "A": "El municipio, los concejos, las mancomunidades de municipios, las cuadrillas alavesas y otras entidades que agrupen entidades locales.",
+      "B": "Solo el municipio.",
+      "C": "Solo las Diputaciones Forales.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 56,
+    "question": "¿Cuántos ámbitos materiales de competencias propias recoge el artículo 17 de la Ley 2/2016?",
+    "answers": {
+      "A": "37 ámbitos.",
+      "B": "10 ámbitos.",
+      "C": "100 ámbitos.",
+      "D": "5 ámbitos."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 57,
+    "question": "¿Qué tres tipos de competencias municipales distingue la Ley 2/2016?",
+    "answers": {
+      "A": "Propias, transferidas y delegadas.",
+      "B": "Solo propias.",
+      "C": "Solo delegadas.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 58,
+    "question": "¿Cómo se garantiza el autogobierno de los municipios según el art. 14.3 de la Ley?",
+    "answers": {
+      "A": "Mediante la atribución de competencias propias, y solo excepcionalmente por transferidas o delegadas.",
+      "B": "Únicamente mediante competencias delegadas.",
+      "C": "No se garantiza autogobierno alguno.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 59,
+    "question": "¿Quién puede transferir competencias a los municipios según el art. 21 de la Ley 2/2016?",
+    "answers": {
+      "A": "La Comunidad Autónoma (por ley) o el Territorio Histórico (por norma foral).",
+      "B": "Solo el Estado.",
+      "C": "Solo la Unión Europea.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 60,
+    "question": "¿Qué órgano de representación de los municipios se creó como estructura institucional de participación en las políticas públicas con 18 miembros?",
+    "answers": {
+      "A": "El Consejo Vasco de Políticas Públicas.",
+      "B": "La Comisión Arbitral.",
+      "C": "El Ararteko.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 61,
+    "question": "¿Qué órgano de alerta temprana salvaguarda la autonomía municipal en los procesos normativos que afecten a competencias propias?",
+    "answers": {
+      "A": "La Comisión de Gobiernos Locales de Euskadi.",
+      "B": "El Tribunal Vasco de Cuentas.",
+      "C": "La Comisión Arbitral.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 62,
+    "question": "¿Cuántos miembros integran la Comisión de Gobiernos Locales de Euskadi?",
+    "answers": {
+      "A": "Doce miembros, que representan a los municipios vascos.",
+      "B": "Seis miembros.",
+      "C": "Dieciocho miembros.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 63,
+    "question": "¿Qué órgano es clave para la financiación de los tres niveles institucionales de Euskadi según la Ley 2/2016?",
+    "answers": {
+      "A": "El Consejo Vasco de Finanzas Públicas.",
+      "B": "El Tribunal de Cuentas.",
+      "C": "La Comisión Mixta del Cupo.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 64,
+    "question": "¿Qué instituciones se consideran Instituciones Comunes de la Comunidad Autónoma de Euskadi?",
+    "answers": {
+      "A": "El Gobierno Vasco y el Parlamento Vasco.",
+      "B": "Las Diputaciones Forales.",
+      "C": "Las Juntas Generales.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 65,
+    "question": "¿Qué instituciones se consideran Órganos Forales de los Territorios Históricos?",
+    "answers": {
+      "A": "Las Diputaciones Forales y las Juntas Generales de Bizkaia, Gipuzkoa y Álava.",
+      "B": "El Gobierno Vasco.",
+      "C": "El Parlamento Vasco.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 66,
+    "question": "¿En qué artículos de la LTH se encuentra regulado el sistema de distribución de competencias entre Instituciones Comunes y Territorios Históricos?",
+    "answers": {
+      "A": "En los artículos 6 a 8.",
+      "B": "En los artículos 1 a 3.",
+      "C": "En los artículos 40 a 50.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 67,
+    "question": "¿Qué modelo sigue la LTH a diferencia del modelo Estado-Comunidades Autónomas de la Constitución?",
+    "answers": {
+      "A": "No establece listados para ambas partes, sino que enumera únicamente las competencias de los Territorios Históricos.",
+      "B": "Establece un listado doble idéntico al de la CE.",
+      "C": "No existe ningún listado.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 68,
+    "question": "¿Qué tipo de potestad tienen los Territorios Históricos en materias de mera ejecución (art. 8.3 LTH)?",
+    "answers": {
+      "A": "La reglamentaria (para organizar sus servicios), la administrativa y la revisora en vía administrativa.",
+      "B": "La potestad legislativa plena.",
+      "C": "Ninguna potestad.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 69,
+    "question": "¿Qué artículo de la LTH prevé que las Diputaciones puedan realizar estadísticas para sus fines propios?",
+    "answers": {
+      "A": "El artículo 9.",
+      "B": "El artículo 12.",
+      "C": "El artículo 41.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 70,
+    "question": "¿Qué artículo de la LTH permite al Gobierno Vasco delegar en las Diputaciones Forales la gestión de servicios de competencia autonómica?",
+    "answers": {
+      "A": "El artículo 13.",
+      "B": "El artículo 6.",
+      "C": "El artículo 39.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 71,
+    "question": "¿Qué facultades se reserva siempre el Gobierno Vasco al delegar la gestión de servicios en las Diputaciones (art. 13 LTH)?",
+    "answers": {
+      "A": "Dictar reglamentos de ejecución, establecer directrices y recabar información sobre la gestión.",
+      "B": "Ninguna facultad.",
+      "C": "Renunciar a toda supervisión.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 72,
+    "question": "¿Cuál es el objeto del Convenio Económico en Navarra, en paralelo al Concierto Económico vasco?",
+    "answers": {
+      "A": "Regular las relaciones financieras y tributarias entre Navarra y el Estado bajo principios similares.",
+      "B": "No tiene relación alguna con el Concierto vasco.",
+      "C": "Es idéntico al régimen común.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 73,
+    "question": "¿Qué Ley regula el régimen económico fiscal de Canarias, mencionado como especialidad del régimen común?",
+    "answers": {
+      "A": "Ley 30/1972, de 22 de julio.",
+      "B": "Ley 8/1980.",
+      "C": "Ley 12/2002.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 74,
+    "question": "¿Qué Ley Orgánica regula la financiación de las Comunidades Autónomas de régimen común?",
+    "answers": {
+      "A": "Ley Orgánica 8/1980, de 22 de septiembre.",
+      "B": "Ley Orgánica 3/1979.",
+      "C": "Ley Orgánica 5/1985.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 75,
+    "question": "¿Qué establece el art. 3 del Concierto Económico respecto a la elaboración de normativa tributaria por los Territorios Históricos?",
+    "answers": {
+      "A": "Deben respetar el principio de armonización fiscal.",
+      "B": "No existe ninguna limitación.",
+      "C": "Deben aplicar exclusivamente la normativa estatal.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 76,
+    "question": "¿Qué establece el art. 4 del Concierto Económico como principio de colaboración?",
+    "answers": {
+      "A": "Que las Instituciones competentes comunicarán a la Administración del Estado sus proyectos normativos en materia tributaria, y viceversa.",
+      "B": "Que no existe comunicación entre ambas Administraciones.",
+      "C": "Que solo el Estado comunica sus proyectos.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 77,
+    "question": "¿Qué tributos NO están concertados según el Concierto Económico, correspondiendo en exclusiva al Estado?",
+    "answers": {
+      "A": "Los derechos de importación y gravámenes a la importación en el IVA y en los Impuestos Especiales.",
+      "B": "El IRPF.",
+      "C": "El Impuesto de Sociedades.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 78,
+    "question": "¿Qué impuestos locales son regulados por los Territorios Históricos según el art. 41 del Concierto Económico?",
+    "answers": {
+      "A": "El Impuesto de Bienes Inmuebles, el Impuesto sobre Actividades Económicas y el Impuesto sobre Vehículos de Tracción Mecánica.",
+      "B": "El IVA.",
+      "C": "El Impuesto de Sociedades.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 79,
+    "question": "¿Qué principios rigen las relaciones financieras entre el Estado y el País Vasco según el art. 48 del Concierto?",
+    "answers": {
+      "A": "Autonomía fiscal y financiera, solidaridad, coordinación con el Estado y contribución a las cargas no asumidas.",
+      "B": "Subordinación absoluta al Estado.",
+      "C": "Independencia fiscal total sin coordinación.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 80,
+    "question": "¿Qué se entiende por «cargas del Estado no asumidas por la Comunidad Autónoma» a efectos del cupo?",
+    "answers": {
+      "A": "Las que corresponden a competencias cuyo ejercicio no ha sido efectivamente asumido, como defensa o relaciones internacionales.",
+      "B": "Todas las competencias del Estado sin excepción.",
+      "C": "Ninguna carga existe.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 81,
+    "question": "¿Qué compensación específica prevé la Disposición Transitoria Cuarta del Concierto?",
+    "answers": {
+      "A": "Una compensación a favor de la Diputación Foral de Álava por competencias no asumidas por la CAE que en régimen común corresponden al Estado.",
+      "B": "Una compensación a Bizkaia exclusivamente.",
+      "C": "Ninguna compensación.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 82,
+    "question": "¿Qué función tiene la Comisión de Coordinación y Evaluación Normativa del Concierto Económico?",
+    "answers": {
+      "A": "Evaluar la adecuación de la normativa tributaria al Concierto y resolver consultas sobre puntos de conexión.",
+      "B": "Legislar directamente.",
+      "C": "Sustituir a la Junta Arbitral en todo caso.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 83,
+    "question": "¿Qué función tiene la Junta Arbitral del Concierto Económico?",
+    "answers": {
+      "A": "Resolver conflictos entre Administraciones sobre puntos de conexión y domiciliación de contribuyentes.",
+      "B": "Aprobar el presupuesto estatal.",
+      "C": "Legislar en materia tributaria.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 84,
+    "question": "¿Qué Decreto aprueba el Reglamento de la Junta Arbitral prevista en el Concierto Económico?",
+    "answers": {
+      "A": "Real Decreto 1760/2007, de 28 de diciembre.",
+      "B": "Real Decreto 2948/1976.",
+      "C": "Real Decreto 1978.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 85,
+    "question": "¿Qué régimen económico local prevé la Ley 2/2016 respecto a la financiación de competencias?",
+    "answers": {
+      "A": "Que no se pueden disociar competencias y financiación, garantizándose la participación en el Consejo Vasco de Finanzas Públicas.",
+      "B": "Que la financiación es irrelevante para la autonomía local.",
+      "C": "Que el Estado financia directamente a los municipios.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 86,
+    "question": "¿Cuáles son los principios que inspiran la dirección política y acción de gobierno local según el art. 4.2 de la Ley 2/2016?",
+    "answers": {
+      "A": "Autonomía local, autonomía financiera, autoorganización, proximidad, transparencia y buen gobierno, entre otros.",
+      "B": "Solo la autonomía financiera.",
+      "C": "Ninguno en concreto.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 87,
+    "question": "¿Qué establece el art. 22 de la Ley 2/2016 sobre la delegación de competencias en los municipios?",
+    "answers": {
+      "A": "Que la financiación de las competencias delegadas también debe estar garantizada.",
+      "B": "Que las competencias delegadas no requieren financiación.",
+      "C": "Que no cabe delegación de competencias.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 88,
+    "question": "¿Qué Título de la Ley 2/2016 regula la financiación local?",
+    "answers": {
+      "A": "El Título IX.",
+      "B": "El Título I.",
+      "C": "El Título III.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 89,
+    "question": "¿Qué Título de la Ley 2/2016 aborda las competencias que pueden asumir las entidades locales?",
+    "answers": {
+      "A": "El Título III.",
+      "B": "El Título I.",
+      "C": "El Título IX.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 90,
+    "question": "¿Qué Título de la Ley 2/2016 regula el gobierno abierto, la transparencia y la participación ciudadana?",
+    "answers": {
+      "A": "El Título VI.",
+      "B": "El Título II.",
+      "C": "El Título VIII.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 91,
+    "question": "¿Qué objetivo persigue la Ley 2/2016 respecto al fomento del uso del euskera a nivel local?",
+    "answers": {
+      "A": "Atribuir a los municipios, como competencia propia, el fomento y la planificación de la normalización del uso del euskera.",
+      "B": "Prohibir el uso del euskera en la Administración local.",
+      "C": "No regula esta materia.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 92,
+    "question": "¿Qué normativa afecta, entre otras, a la materia local en Euskadi según el temario?",
+    "answers": {
+      "A": "La Carta Europea de Autonomía Local, la legislación básica estatal, el Estatuto de Gernika, la Ley de Concierto Económico y las Normas Forales.",
+      "B": "Solo la LBRL.",
+      "C": "Solo el Estatuto de Gernika.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 93,
+    "question": "¿Qué recoge el art. 16 de la Ley 2/2016 como cláusula universal de competencias municipales?",
+    "answers": {
+      "A": "Que los municipios pueden ejercer actividades de interés local no encuadradas en competencias propias, transferidas o delegadas, sin duplicidad ni riesgo financiero.",
+      "B": "Que los municipios no pueden asumir ninguna competencia adicional.",
+      "C": "Que solo pueden ejercer competencias delegadas.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 94,
+    "question": "¿Cuál es la relación entre las competencias «exclusivas», «de desarrollo normativo y ejecución» y «de ejecución» de los Territorios Históricos en cuanto a su amplitud?",
+    "answers": {
+      "A": "Las exclusivas son las de mayor amplitud (potestad normativa propia), seguidas por las de desarrollo y las de mera ejecución (menor amplitud).",
+      "B": "Todas tienen idéntica amplitud.",
+      "C": "Las de ejecución tienen mayor amplitud que las exclusivas.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 95,
+    "question": "¿Qué naturaleza jurídica tienen los Territorios Históricos, en suma, según el temario?",
+    "answers": {
+      "A": "Entes territoriales de naturaleza sustantiva y carácter público, dotados de organización, instituciones y régimen propio de naturaleza política.",
+      "B": "Simples divisiones administrativas sin personalidad propia.",
+      "C": "Órganos dependientes del Gobierno central.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 96,
+    "question": "¿Qué exige el principio de armonización fiscal del art. 3 del Concierto Económico respecto a la terminología tributaria?",
+    "answers": {
+      "A": "Que los Territorios Históricos se adecuen a la Ley General Tributaria en cuanto a terminología y conceptos.",
+      "B": "Que empleen terminología completamente distinta a la estatal.",
+      "C": "Que no exista ninguna obligación de adecuación.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 97,
+    "question": "Según el Concierto Económico, ¿qué presión fiscal deben mantener los Territorios Históricos respecto al resto del Estado?",
+    "answers": {
+      "A": "Una presión efectiva global equivalente a la existente en el resto del Estado.",
+      "B": "Una presión siempre superior.",
+      "C": "Una presión siempre inferior.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 98,
+    "question": "¿En qué se basa el reparto de aplicación de normativa (Territorio Histórico o Estado) en cada impuesto concertado?",
+    "answers": {
+      "A": "En los llamados «puntos de conexión» (domicilio fiscal, volumen de operaciones, lugar de prestación, etc.).",
+      "B": "En un sorteo anual.",
+      "C": "En la decisión exclusiva del Estado.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 99,
+    "question": "¿Quién es competente para la exacción de tasas por utilización o aprovechamiento especial del dominio público local en Euskadi?",
+    "answers": {
+      "A": "Las Diputaciones Forales.",
+      "B": "El Gobierno Vasco.",
+      "C": "El Estado.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "A"
+  }
+]
