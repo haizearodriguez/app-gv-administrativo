@@ -1,0 +1,288 @@
+[
+  {
+    "id": 131,
+    "question": "¿Qué es la igualdad?:",
+    "answers": {
+      "A": "Un valor superior del ordenamiento jurídico.",
+      "B": "Un principio jurídico.",
+      "C": "Un derecho fundamental.",
+      "D": "Las tres respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 132,
+    "question": "¿Cuál de estos organismos se dedica en exclusiva a la implementación de las políticas de igualdad?:",
+    "answers": {
+      "A": "ONU Mujeres.",
+      "B": "OIT.",
+      "C": "PNUD.",
+      "D": "UNFPA."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 133,
+    "question": "Entre los objetivos que persigue el Convenio Estambul (2011) se encuentra:",
+    "answers": {
+      "A": "Proteger a la mujer de todas las formas de violencia.",
+      "B": "Trabajar para la eliminación de todo tipo de discriminación contra las mujeres.",
+      "C": "Trabajar por el logro de la igualdad real de mujeres y hombres.",
+      "D": "Las tres respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 134,
+    "question": "El Texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres establece en su art. 1 el objeto de la mismas:",
+    "answers": {
+      "A": "Establece los principios generales que han de presidir la actuación de los poderes públicos en materia de igualdad entre mujeres y hombres.",
+      "B": "Regula un conjunto de medidas dirigidas a promover y garantizar la igualdad de oportunidades y trato de mujeres y hombres en todos los ámbitos de la vida.",
+      "C": "Su ámbito de aplicación es el Estado español.",
+      "D": "Su fin último es lograr una sociedad igualitaria y libre de violencia machista."
+    },
+    "correct": null
+  },
+  {
+    "id": 135,
+    "question": "Respecto del principio de la igualdad de trato recogido en la Ley 4/2005, de 18 de febrero, para la igualdad de mujeres y hombres, ese principio supone un principio más junto con:",
+    "answers": {
+      "A": "La igualdad de oportunidades.",
+      "B": "Respeto a la diversidad y a la diferencia.",
+      "C": "La igualdad en la aplicación de la ley.",
+      "D": "Las respuestas a) y b) son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 136,
+    "question": "Atendiendo al art. 3.1c) de la Ley 4/2005, de 18 de febrero, para la igualdad de mujeres y hombres, ¿cuál de estas medidas se considera discriminatoria?:",
+    "answers": {
+      "A": "Las medidas fundamentadas en acciones positivas para las mujeres.",
+      "B": "Las medidas fundamentadas en la necesidad de una protección especial de los sexos por motivos biológicos.",
+      "C": "Cualquier medida potenciadora de las mujeres.",
+      "D": "Las medidas fundamentadas en la promoción de la incorporación de los hombres al trabajo doméstico y de cuidado de las personas."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 137,
+    "question": "¿Cuál de las siguientes frases define mejor el principio de la igualdad de oportunidades contemplado en el Texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres?:",
+    "answers": {
+      "A": "Se trata de garantizar el derecho de todas las personas, de mujeres y de hombres, a participar de manera activa y equitativa en todas las áreas de la esfera tanto pública como privada.",
+      "B": "Las mujeres y los hombres deben disponer de similares recursos iniciales.",
+      "C": "Se trata de lograr metas iguales para ambos sexos.",
+      "D": "Una persona, una oportunidad."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 138,
+    "question": "La integración de la perspectiva de género plantea la necesidad de solucionar los desequilibrios existentes entre hombres y mujeres mediante acciones tales como:",
+    "answers": {
+      "A": "La redistribución equitativa de las actividades entre los sexos (en las esferas de lo público y privado).",
+      "B": "La justa valoración de los distintos trabajos que realizan mujeres y hombres, especialmente en lo referente a la crianza de las hijas e hijos, el cuidado de los enfermos y las tareas domésticas.",
+      "C": "La modificación de las estructuras sociales, los mecanismos, las reglas, prácticas y valores que reproducen la desigualdad.",
+      "D": "Todas las respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 139,
+    "question": "Se entiende por integración de la perspectiva de género:",
+    "answers": {
+      "A": "La adecuación de las políticas públicas del pasado a las cuestiones de género.",
+      "B": "La consideración sistemática de las diferentes situaciones, condiciones, aspiraciones y necesidades de mujeres y hombres, incorporando objetivos y actuaciones específicas dirigidas a eliminar las desigualdades y promover la igualdad en todas las políticas y acciones, a todos los niveles y en todas sus fases de planificación, ejecución y evaluación.",
+      "C": "La consolidación en las políticas públicas de la eliminación de las discriminaciones.",
+      "D": "Ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 140,
+    "question": "Uno de los instrumentos más eficaces para trabajar por la igualdad efectiva de hombres y mujeres es:",
+    "answers": {
+      "A": "Una política de principios adecuada en la materia.",
+      "B": "Una legislación efectiva.",
+      "C": "La acción positiva.",
+      "D": "Las respuestas a) y b) son correctas."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 141,
+    "question": "La acción positiva se legitima en función de:",
+    "answers": {
+      "A": "La persona beneficiaria.",
+      "B": "La pertenencia a un colectivo discriminado.",
+      "C": "La pertenencia a un colectivo discriminado, el de las mujeres.",
+      "D": "Las respuestas b) y c) son correctas."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 142,
+    "question": "El origen de las acciones positivas lo encontramos en:",
+    "answers": {
+      "A": "La década de los 60 del siglo XX en Estados Unidos.",
+      "B": "La década de los 60 del siglo XX en el Reino Unido.",
+      "C": "La década de los 70 del siglo XX en Estados Unidos.",
+      "D": "La década de los 70 del siglo XX en el Reino Unido."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 143,
+    "question": "Un estereotipo de género es:",
+    "answers": {
+      "A": "Una idea discriminatoria internamente asumida.",
+      "B": "Una opinión o prejuicio acerca de los atributos que hombres y mujeres poseen o debiesen poseer.",
+      "C": "Una realidad globalmente asumida.",
+      "D": "Las tres respuestas anteriores son correctas."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 144,
+    "question": "Según el derecho internacional de los derechos humanos, se asigna a los Estados la obligación de:",
+    "answers": {
+      "A": "Llevar a cabo políticas públicas en favor de los colectivos discriminados.",
+      "B": "Actuar activamente en la protección de las mujeres.",
+      "C": "Eliminar la discriminación contra hombres y mujeres en todos los ámbitos de la vida.",
+      "D": "Establecer en sus agendas públicas cuestiones como la discriminación por cuestión de género."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 145,
+    "question": "Teóricamente la representación equilibrada entre hombres y mujeres se puede definir como:",
+    "answers": {
+      "A": "La igualdad exacta en el porcentaje de representación entre sexos.",
+      "B": "Un porcentaje de participación en el que ningún sexo predomina sobre otro.",
+      "C": "La equiparación porcentual entre sexos.",
+      "D": "Ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 146,
+    "question": "A efectos del art. 3.10 del Texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres, se considera que existe representación equilibrada en los órganos administrativos pluripersonales, cuando los dos sexos están al menos representados en un:",
+    "answers": {
+      "A": "50%.",
+      "B": "40%.",
+      "C": "30%.",
+      "D": "Ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 147,
+    "question": "Cuando el Texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres, se refiere en su art. 3.10 a órganos pluripersonales se refiere a órganos tales como:",
+    "answers": {
+      "A": "Comisiones.",
+      "B": "Consejos.",
+      "C": "Tribunales.",
+      "D": "Todas las respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 148,
+    "question": "Al amparo del art. 3.11 del Texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres, todas las actuaciones llevadas a cabo en materia de igualdad deben llevarse a cabo de forma coordinada con la colaboración de:",
+    "answers": {
+      "A": "Todas las instituciones de la Comunidad Autónoma Vasca, de todas las entidades y la ciudadanía.",
+      "B": "Todas las instituciones de la Comunidad Autónoma Vasca, de todas las entidades, la ciudadanía y las empresas.",
+      "C": "Todas las instituciones públicas y privadas de la Comunidad Autónoma Vasca, de todas las entidades y la ciudadanía.",
+      "D": "Todas las instituciones de la Comunidad Autónoma Vasca, de todas las entidades y organismos públicos y privados y la ciudadanía."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 149,
+    "question": "El Texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres promueve la creación de diferentes estructuras de coordinación, entre las que se encuentran:",
+    "answers": {
+      "A": "Emakunde.",
+      "B": "Comisión interdepartamental.",
+      "C": "Órganos de igualdad.",
+      "D": "Las respuestas a) y b) son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 150,
+    "question": "Entre las estructuras informales destacan:",
+    "answers": {
+      "A": "Grupo técnico departamental.",
+      "B": "Red de unidades de igualdad.",
+      "C": "Berdinsarea.",
+      "D": "Todas las respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 151,
+    "question": "De acuerdo con el art. 20.1 del Texto refundido de la Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres, todo órgano de la administración que promueva un proyecto de norma deberá realizar una evaluación previa en función del género, es decir:",
+    "answers": {
+      "A": "Deberá analizar solo las consecuencias positivas de la aplicación de dicha norma para eliminar las desigualdades.",
+      "B": "Deberá analizar solo las consecuencias negativas de la aplicación de dicha norma para eliminar las desigualdades.",
+      "C": "Deberá analizar las consecuencias positivas o negativas de la aplicación de dicha norma para eliminar las desigualdades.",
+      "D": "Ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": null
+  },
+  {
+    "id": 152,
+    "question": "Una vez realizada la evaluación de impacto de género, el órgano que promueva la norma debe incorporar medidas correctoras de cara a eliminar las desigualdades detectadas y promover la igualdad. Entre las medidas correctoras de carácter general destaca entre otras la inclusión en las normas que regulan los procesos selectivos o la concesión de premios, de una cláusula por la que se garantice que en los Tribunales y en los Jurados los dos sexos estén representados al menos al:",
+    "answers": {
+      "A": "30 %.",
+      "B": "40 %.",
+      "C": "50 %.",
+      "D": "Ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 153,
+    "question": "La evaluación previa del impacto de género y, en su caso, la inclusión de medidas correctoras:",
+    "answers": {
+      "A": "No se realizará de forma excepcional y mediante informe motivado y aprobado por el órgano competente donde se justifique tal omisión.",
+      "B": "Se realizará de forma excepcional y mediante informe motivado y aprobado por el órgano competente donde se justifique tal omisión.",
+      "C": "Es preceptiva conforme a la legislación vigente.",
+      "D": "No es preceptiva conforme a la legislación vigente."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 154,
+    "question": "En el ámbito local las «evaluaciones previas del impacto en función del género», es una herramienta que data del año:",
+    "answers": {
+      "A": "2016.",
+      "B": "2017.",
+      "C": "2018.",
+      "D": "2019."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 155,
+    "question": "En relación con el uso no sexista de todo tipo de lenguaje, Emakunde ha publicado el siguiente trabajo:",
+    "answers": {
+      "A": "Propuestas para un uso no sexista del lenguaje (1987).",
+      "B": "Euskararen erabilera ez sexista (2008).",
+      "C": "Guía de lenguaje para el ámbito del deporte (2010).",
+      "D": "Guía de lenguaje para el ámbito de la salud (2010)."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 156,
+    "question": "El Estudio de seguimiento y evaluación sobre la aplicación de cláusulas de igualdad en contratos, subvenciones y convenios de las Administraciones Públicas vascas, contratado por Emakunde con ocasión de la evaluación de la Ley 4/2005, data de:",
+    "answers": {
+      "A": "2013.",
+      "B": "2014.",
+      "C": "2015.",
+      "D": "2016."
+    },
+    "correct": "C"
+  }
+]

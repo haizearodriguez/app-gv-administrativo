@@ -1,0 +1,288 @@
+[
+  {
+    "id": 105,
+    "question": "En cuanto a la distribución de competencias entre las instituciones comunes de la Comunidad Autónoma de Euskadi y las instituciones forales de los Territorios Históricos:",
+    "answers": {
+      "A": "Debemos tener en cuenta lo señalado en el Estatuto de Autonomía del País Vasco.",
+      "B": "Los Territorios Históricos tienen reservadas unas competencias, algunas de las cuales se pueden considerar un núcleo intocable para el legislador vasco.",
+      "C": "Entre las competencias que el Estatuto atribuye a los Territorios Históricos se encuentra la competencia para conservar, restablecer y actualizar su organización e instituciones privativas de autogobierno.",
+      "D": "Las respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 106,
+    "question": "En materia de competencias, el Estatuto de Autonomía de Gernika:",
+    "answers": {
+      "A": "Estableció un reparto rígido de competencias entre las Instituciones Comunes y los Territorios Históricos.",
+      "B": "Todas las normas estatutarias que atribuyen competencias a los Territorios Históricos se encuentren contenidas en el Título Preliminar del Estatuto.",
+      "C": "La atribución de competencias a los Territorios Históricos se realizó a través de una Ley del Parlamento vasco de tipo especial o de mayoría cualificada.",
+      "D": "Las respuestas anteriores son incorrectas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 107,
+    "question": "Según la Ley de Territorios Históricos (art. 7), son una de las clases de competencias de los Territorios Históricos las competencias:",
+    "answers": {
+      "A": "Exclusivas.",
+      "B": "Compartidas.",
+      "C": "Residuales.",
+      "D": "Las respuestas anteriores son incorrectas."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 108,
+    "question": "Según la Ley de Territorios Históricos (art. 8), en las materias que sean competencia exclusiva de los Territorios Históricos les corresponden a estos ciertas potestades:",
+    "answers": {
+      "A": "Potestad legislativa.",
+      "B": "Potestad revisora en la vía administrativa.",
+      "C": "Potestad revisora en la vía judicial.",
+      "D": "Potestad administrativa, quedando excluida expresamente la potestad de inspección."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 109,
+    "question": "La Comisión Arbitral:",
+    "answers": {
+      "A": "No aparece mencionada en el Estatuto de Autonomía vasco.",
+      "B": "Resuelve los conflictos de competencia que se puedan suscitar entre los Territorios Históricos y la Unión Europa.",
+      "C": "Queda sometida a la Ley 13/1994 de 30 de junio, por la que se regula la Comisión Arbitral.",
+      "D": "Las respuestas anteriores son incorrectas."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 110,
+    "question": "Respecto de la composición de la Comisión Arbitral:",
+    "answers": {
+      "A": "Cuenta con dos presidentes o presidentas.",
+      "B": "Cuenta con un Presidente o Presidenta, cargo que debe recaer en el Presidente o Presidenta del Tribunal Superior de Justicia del País Vasco.",
+      "C": "Cuenta con doce vocales.",
+      "D": "Uno de sus miembros es el o la Lehendakari."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 111,
+    "question": "La Comisión Arbitral es competente:",
+    "answers": {
+      "A": "En lo que se refiere a los denominados conflictos de competencia, pero solo de los positivos.",
+      "B": "En lo que se refiere a los denominados conflictos de competencia, pero solo de los negativos.",
+      "C": "En lo que se refiere a los denominados conflictos de competencia, sean positivos o negativos.",
+      "D": "No es competente en los denominados conflictos de competencia, sean positivos o negativos."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 112,
+    "question": "Una característica del sistema de Concierto Económico es:",
+    "answers": {
+      "A": "Se aplica en todas las comunidades autónomas del Estado español.",
+      "B": "Se fundamenta en un sistema denominado «de riesgo unilateral», que supone que Euskadi ha de pagar al Estado el «cupo» pactado, en cualquier caso, tanto si la recaudación va bien como si va mal.",
+      "C": "Este sistema deriva de uno de los derechos históricos vascos, los cuales están especialmente protegidos por la Constitución.",
+      "D": "Entre las anteriores hay dos respuestas correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 113,
+    "question": "Los antecedentes históricos del actual Concierto Económico Vasco se remontan a:",
+    "answers": {
+      "A": "La Edad Media.",
+      "B": "Las Cruzadas.",
+      "C": "Finales del siglo XIX, tras la derogación de los Fueros Vascos en 1876.",
+      "D": "La II República española."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 114,
+    "question": "El reconocimiento y amparo en la Constitución de 1978 de los derechos históricos de los Territorios Forales se encuentra recogido en:",
+    "answers": {
+      "A": "La Disposición Adicional Primera.",
+      "B": "La Disposición Final última.",
+      "C": "El Preámbulo.",
+      "D": "El Título Preliminar."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 115,
+    "question": "Mediante la Ley 12/1981, de 13 de mayo, por la que se aprobaba el Concierto Económico con la Comunidad Autónoma del País Vasco:",
+    "answers": {
+      "A": "Se imponía unilateralmente por el Estado el Concierto Económico para el País Vasco.",
+      "B": "Se establecía para el País Vasco un Concierto con una vigencia prevista de cuarenta años.",
+      "C": "Se recuperaba y concretaba para los tres Territorios Históricos el disfrute del sistema de Concierto Económico.",
+      "D": "Se suprimía el sistema de Concierto Económico."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 116,
+    "question": "Según el Estatuto (art. 41), el contenido del Concierto debe respetar los siguientes principios:",
+    "answers": {
+      "A": "Las Instituciones competentes de los Territorios Históricos podrán mantener, establecer y regular dentro de su territorio, el régimen tributario, sin atender a la estructura general impositiva del Estado.",
+      "B": "La exacción, gestión, liquidación, recaudación e inspección de todos los impuestos, se efectuará, dentro de cada Territorio Histórico, por las Juntas Generales.",
+      "C": "La aportación del País Vasco al Estado consistirá en un cupo global, integrado por los correspondientes a cada uno de sus Territorios, como contribución a todas las cargas del Estado que no asuma la Comunidad Autónoma.",
+      "D": "Las respuestas anteriores son correctas."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 117,
+    "question": "Quienes aprueban la normativa reguladora del régimen tributario para su Territorio Histórico a través de Normas Forales y sus Normas Forales Tributarias son:",
+    "answers": {
+      "A": "Las Juntas Generales.",
+      "B": "Las Diputaciones Forales.",
+      "C": "El Parlamento Vasco.",
+      "D": "Las Cortes Generales."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 118,
+    "question": "Por la expresión «blindaje del Concierto Económico» se entiende:",
+    "answers": {
+      "A": "La imposibilidad de recurrir la normativa reguladora del régimen tributario de los Territorios Históricos en los Tribunales ordinarios.",
+      "B": "La posibilidad de recurrir la normativa reguladora del régimen tributario de los Territorios Históricos en el Senado.",
+      "C": "La posibilidad de recurrir la normativa reguladora del régimen tributario estatal ante las Juntas Generales de los Territorios Históricos.",
+      "D": "La imposibilidad de recurrir la normativa reguladora del régimen tributario de los Territorios Históricos ante órgano o tribunal alguno."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 119,
+    "question": "El sistema tributario que establezcan los Territorios Históricos debe seguir los siguientes principios:",
+    "answers": {
+      "A": "Respeto de la solidaridad.",
+      "B": "Atención a la estructura general impositiva del Estado.",
+      "C": "Coordinación, armonización fiscal y colaboración mutua entre las instituciones de los Territorios Históricos, según las normas que al efecto dicte el Parlamento Vasco.",
+      "D": "Las respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 120,
+    "question": "En la elaboración de la normativa tributaria, los Territorios Históricos:",
+    "answers": {
+      "A": "Deberán respetar el denominado principio de armonización fiscal.",
+      "B": "Se adecuarán a la Ley General Tributaria en cuanto a la terminología y conceptos.",
+      "C": "Respetarán y garantizarán la libertad de circulación y establecimiento de las personas y la libre circulación de bienes, capitales y servicios en todo el territorio español.",
+      "D": "Las respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 121,
+    "question": "En general, puede decirse que existen una serie de tributos denominados:",
+    "answers": {
+      "A": "Concertados.",
+      "B": "Concentrados.",
+      "C": "Conformados.",
+      "D": "Las respuestas anteriores son incorrectas."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 122,
+    "question": "Es un principio por el que se rigen las relaciones financieras entre el Estado y el País Vasco el de:",
+    "answers": {
+      "A": "Autonomía fiscal y financiera de las instituciones del País Vasco para el desarrollo y ejecución de sus competencias.",
+      "B": "Solidaridad, en los términos prevenidos en la Constitución y en el Estatuto de Autonomía.",
+      "C": "Contribución del País Vasco a las cargas del Estado que no asuma la Comunidad Autónoma Vasca, según lo previsto en el propio Concierto.",
+      "D": "Las respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 123,
+    "question": "A efectos del Cupo, se consideran cargas del Estado no asumidas por la Comunidad Autónoma, las que correspondan a las competencias cuyo ejercicio no haya sido efectivamente asumido por ella, tales como:",
+    "answers": {
+      "A": "Relaciones internacionales.",
+      "B": "Defensa.",
+      "C": "Regímenes aduanero y arancelario.",
+      "D": "Las respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 124,
+    "question": "El denominado «índice de imputación»:",
+    "answers": {
+      "A": "Pretende reflejar la participación de la economía vasca en el conjunto de la economía española.",
+      "B": "Cambia cada año.",
+      "C": "Se establece por la Ley de Presupuestos.",
+      "D": "Sirve para calcular lo que el Estado debe pagar al País Vasco por las competencias pendientes de transferir."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 125,
+    "question": "Si durante el período de vigencia anual del cupo, la Comunidad Autónoma asumiese nuevas competencias cuyo coste anual a nivel estatal hubiese sido incluido dentro de las cargas del Estado que sirvieron de base para la determinación de la cuantía provisional del cupo:",
+    "answers": {
+      "A": "Se procederá a aumentar el importe del cupo.",
+      "B": "Se procederá, en definitiva, a reducir el cupo, en la cuantía que proceda.",
+      "C": "Se procederá a suspender el Concierto Económico vigente, para pasar a negociar inmediatamente uno nuevo.",
+      "D": "No se hará nada: en ocasiones saldrá beneficiado el País Vasco y en otras, el Estado."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 126,
+    "question": "La Ley del Concierto Económico prevé varios órganos encargados de resolver las posibles disputas y problemas en su aplicación y desarrollar otras funciones:",
+    "answers": {
+      "A": "Sí, y uno de ellos se denomina Comisión del Cupo y del Concierto Económico.",
+      "B": "Sí, y uno de ellos se denomina Junta Arbitral.",
+      "C": "No, solo se establece un único órgano de ese tipo.",
+      "D": "No, no se establece ningún órgano de ese tipo."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 127,
+    "question": "¿Qué normativa de las siguientes tiene mayor interés para conocer el marco jurídico de los municipios y las demás entidades locales vascas?:",
+    "answers": {
+      "A": "La Carta Mundial de la Autonomía Local.",
+      "B": "La legislación básica del Estado en materia de régimen local.",
+      "C": "La Declaración Universal de los Derechos Humanos.",
+      "D": "El Tratado de Roma."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 128,
+    "question": "En la Exposición de Motivos de la Ley 2/2016, de 7 de abril, de Instituciones Locales de Euskadi se recogen los objetivos que se pretende alcanzar, tales como:",
+    "answers": {
+      "A": "Garantizar la sostenibilidad financiera de los municipios.",
+      "B": "Fomentar la condición de administración de proximidad que tiene el municipio en relación con la ciudadanía.",
+      "C": "Dotar de visibilidad institucional al municipio en el sistema de poderes públicos vascos.",
+      "D": "Las respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 129,
+    "question": "La Ley 2/2016, de 7 de abril, de Instituciones Locales de Euskadi señala que tendrán la consideración de entidades locales a los efectos previstos en dicha Ley:",
+    "answers": {
+      "A": "Las cuadrillas alavesas.",
+      "B": "Las mancomunidades de municipios vascos, pero solo cuando sean interprovinciales.",
+      "C": "Las asociaciones de vecinos.",
+      "D": "Las respuestas anteriores son incorrectas."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 130,
+    "question": "La Ley 2/2016, de 7 de abril, de Instituciones Locales de Euskadi establece (art. 16) una cláusula universal de competencias municipales y actividades, servicios o prestaciones que no tengan el carácter de competencias propias, transferidas o delegadas, según la cual:",
+    "answers": {
+      "A": "Las entidades locales podrán ejercitar cualquier tipo de actividad, servicio o prestación, sin límite alguno, si es en interés del vecindario.",
+      "B": "Las entidades locales podrán ejercitar cualquier tipo de actividad, servicio o prestación que, desarrollada en interés de la comunidad local, no se encuadre dentro de las competencias propias, transferidas o delegadas, aunque incurra en supuestos de duplicidad con otras instituciones.",
+      "C": "Las entidades locales podrán ejercitar cualquier tipo de actividad, servicio o prestación que, desarrollada en interés de la comunidad local, no se encuadre dentro de las competencias propias, transferidas o delegadas, aunque se ponga en riesgo la sostenibilidad financiera de la hacienda de la entidad en su conjunto.",
+      "D": "Las respuestas anteriores son incorrectas."
+    },
+    "correct": "D"
+  }
+]

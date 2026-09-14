@@ -1,0 +1,266 @@
+[
+  {
+    "id": 83,
+    "question": "La delimitación de competencias entre las Instituciones Comunes de la Comunidad Autó-noma (Parlamento Vasco y Gobierno Vasco) y los Órganos Forales de sus Territorios His-tóricos (Juntas Generales y Diputaciones Forales):",
+    "answers": {
+      "A": "Está recogida en la Constitución y en el Estatuto de Autonomía del País Vasco.",
+      "B": "Está recogida en el Estatuto de Autonomía del País Vasco.",
+      "C": "Está regulada en la ley del Parlamento Vasco conocida como Ley de Territorios Históri-cos (Ley 27/1983).",
+      "D": "Está regulada en la ley del Parlamento español conocida como Ley de Territorios Histó-ricos (Ley 27/1983)."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 84,
+    "question": "En el modelo de distribución competencial del poder dentro del País Vasco, los Territorios Históricos (indíquese la respuesta incorrecta):",
+    "answers": {
+      "A": "Tienen reservadas una serie de competencias que constituyen el núcleo de la foralidad, el cual es intocable para el legislador vasco.",
+      "B": "Tienen reservadas una serie de competencias que constituyen el núcleo de la foralidad, el cual es intangible o invulnerable para el legislador estatal.",
+      "C": "Disponen de un núcleo competencial que se identifica como garantía institucional de la foralidad, que deriva de la Disposición Adicional Primera de la Constitución y de su re-conocimiento de los derechos históricos de los Territorios Forales.",
+      "D": "Disponen de un núcleo de competencias reforzado, que solo puede ser limitado o res-tringido por el legislador."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 85,
+    "question": "Dentro de las competencias de los Territorios Históricos que constituyen el núcleo esen-cial e intocable de la foralidad NO se encuentran:",
+    "answers": {
+      "A": "Las competencias para conservar, restablecer y actualizar su organización e institucio-nes privativas de autogobierno.",
+      "B": "Las competencias sobre carreteras y caminos.",
+      "C": "Las competencias sobre organización, régimen y funcionamiento de sus propias institu-ciones.",
+      "D": "Las competencias sobre conservación, modificación y desarrollo del Derecho civil Foral y especial."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 86,
+    "question": "La competencia sobre la legislación y la ejecución en todas aquellas materias que, corres-pondiendo a la Comunidad Autónoma del País Vasco según el Estatuto de Autonomía, no se reconozcan o atribuyan expresamente a los órganos Forales de los Territorios Históri-cos, corresponde a:",
+    "answers": {
+      "A": "Los Órganos Forales de los Territorios Históricos.",
+      "B": "Las Diputaciones Forales.",
+      "C": "Las Instituciones Comunes de la Comunidad Autónoma del País Vasco.",
+      "D": "Las Juntas Generales."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 87,
+    "question": "En el País Vasco la facultad para dictar normas con rango de Ley corresponde:",
+    "answers": {
+      "A": "En exclusiva al Parlamento Vasco, tal y como lo señala el Estatuto de Autonomía.",
+      "B": "En exclusiva al Parlamento Vasco, tal y como lo señala la Ley de Territorios Históricos LTH (Ley 27/1983).",
+      "C": "Al Parlamento Vasco y a las Juntas Generales.",
+      "D": "Al Parlamento Vasco y, tratándose de materia tributaria, también a las Juntas Genera-les."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 88,
+    "question": "A la hora de regular el sistema de distribución de competencias entre las Instituciones Co-munes de la Comunidad y los Territorios Históricos:",
+    "answers": {
+      "A": "Los listados de competencias correspondientes a unas y otros vienen establecidos en la Ley de Territorios Históricos (Ley 27/1983).",
+      "B": "Los listados de competencias correspondientes a unas y otros vienen recogidos en el Estatuto de Autonomía.",
+      "C": "Los listados de competencias correspondientes a unas y otros están regulados en una Ley orgánica.",
+      "D": "No existen tales listados, sino que la Ley de Territorios Históricos (Ley 27/1983) ha op-tado por enumerar únicamente las competencias correspondientes a los Territorios His-tóricos, atribuyendo el resto a las Instituciones Comunes, salvo que les sean transferi-das a aquellos."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 89,
+    "question": "Los Territorios Históricos tienen en materia de régimen electoral municipal:",
+    "answers": {
+      "A": "Una competencia exclusiva.",
+      "B": "No tienen competencia exclusiva, pero sí competencias de desarrollo normativo y eje-cución.",
+      "C": "Solo tienen competencias de ejecución.",
+      "D": "No tienen competencias en esta materia."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 90,
+    "question": "Cuando la competencia de los Territorios Históricos en una materia es de «desarrollo nor-mativo y ejecución», ello implica (indíquese la respuesta INCORRECTA):",
+    "answers": {
+      "A": "Que los Territorios Históricos no pueden dictar en esa materia normas preferentes a cualquier otra de las Instituciones Comunes, sino que deben atenerse a las normas dic-tadas por estas, a las que desarrollan y que ejecutan.",
+      "B": "Que los Territorios Históricos solo pueden dictar en esta materia normas reglamenta-rias.",
+      "C": "En el ámbito interno de la Comunidad Autónoma Vasca, en este tipo de competencias, las Instituciones Comunes tendrían la competencia para dictar normas básicas y los Te-rritorios Históricos la normativa de desarrollo.",
+      "D": "La potestad normativa de las Instituciones Comunes debe limitarse a regular lo «bá-sico». Tema 5 23"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 91,
+    "question": "Cuando la competencia de los Territorios Históricos en una materia es una competencia «exclusiva», ello implica (indíquese la respuesta INCORRECTA):",
+    "answers": {
+      "A": "Que los Territorios Históricos tienen tanto la potestad legislativa como la de desarrollo normativo y ejecución.",
+      "B": "Que las Normas Forales emanadas por los Territorios Históricos en esa materia se apli-can con preferencia a cualesquiera otras dictadas por las Instituciones comunes.",
+      "C": "Que los Territorios Históricos tienen la potestad normativa, así como la reglamentaria, la administrativa, incluida la inspección, y la revisora en la vía administrativa.",
+      "D": "Que la competencia del desarrollo normativo y la ejecución de la legislación básica del Estado en la materia corresponde a los Territorios Históricos."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 92,
+    "question": "La competencia de los Territorios Históricos en materia de «Programas de deporte esco-lar y deporte para todos» es:",
+    "answers": {
+      "A": "Una competencia exclusiva.",
+      "B": "Competencia de desarrollo normativo y ejecución.",
+      "C": "En esta materia los Territorios solo tienen competencias de ejecución.",
+      "D": "Una competencia legislativa, reglamentaria y de ejecución."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 93,
+    "question": "La competencia de los Territorios Históricos en materia de conservación, mejora y restau-ración del Patrimonio Histórico Artístico Monumental y Arqueológico es:",
+    "answers": {
+      "A": "Una competencia legislativa, reglamentaria y de ejecución.",
+      "B": "Competencia de desarrollo normativo y ejecución.",
+      "C": "En esta materia los Territorios solo tienen competencias de ejecución.",
+      "D": "Una competencia exclusiva."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 94,
+    "question": "Los conflictos de competencia que se puedan suscitar entre las instituciones de la Comu-nidad Autónoma y las de los Territorios Históricos se someterán a la decisión de:",
+    "answers": {
+      "A": "El Tribunal Superior de Justicia del País Vasco.",
+      "B": "La Comisión Arbitral.",
+      "C": "La Comisión Jurídica Asesora.",
+      "D": "La Sala de Conflictos de competencia del Tribunal Supremo."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 95,
+    "question": "En cuanto a su composición, la Comisión Arbitral:",
+    "answers": {
+      "A": "Está formada por un Presidente y seis Vocales, los cuales son designados tres por el Gobierno Vasco y uno por cada Diputación Foral, previa consulta informativa al Parla-mento y a las Juntas Generales respectivas.",
+      "B": "Está formada por seis Vocales, tres designados por el Parlamento Vasco y otros tres por las Juntas Generales de los Territorios Históricos, siendo presidida por el Presi-dente del Tribunal Superior de Justicia del País Vasco.",
+      "C": "Está formada por seis Magistrados del Tribunal Superior de Justicia del País Vasco, es-tando presidida por su Presidente.",
+      "D": "Está formada por un Vocal elegido por el Gobierno Vasco, otro designado por las Dipu-taciones Forales y el Presidente del Tribunal Superior de Justicia del País Vasco."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 96,
+    "question": "La Comisión Arbitral conoce de:",
+    "answers": {
+      "A": "De las cuestiones de competencia que se formulen respecto de leyes del Parlamento Vasco.",
+      "B": "De los conflictos de competencia que se formulen respecto de normas forales de las Juntas Generales.",
+      "C": "De las cuestiones de competencia que se formulen respecto de proyectos y proposi-ciones de ley o de norma foral en tramitación.",
+      "D": "De los conflictos de competencia que se formulen respecto de proyectos y proposicio-nes de ley o de norma foral en tramitación."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 97,
+    "question": "La Comisión Arbitral conoce de los conflictos de competencia que se susciten en relación a:",
+    "answers": {
+      "A": "Las disposiciones, resoluciones o actos del Parlamento Vasco.",
+      "B": "Las disposiciones, resoluciones o actos de las Juntas Generales.",
+      "C": "Las disposiciones, resoluciones o actos del Parlamento Vasco y las Juntas Generales.",
+      "D": "Las disposiciones, resoluciones o actos del Gobierno Vasco o de las Diputaciones Fora-les."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 98,
+    "question": "Las decisiones que adopta la Comisión Arbitral para resolver las cuestiones de compe­ tencia:",
+    "answers": {
+      "A": "Se denominan decisiones, las cuales son firmes y no pueden ser recurridas ante los Tri-bunales.",
+      "B": "Se denominan sentencias, y pueden ser recurridas ante el Tribunal Superior de Justicia del País Vasco.",
+      "C": "Solo son recurribles ante el Tribunal Supremo.",
+      "D": "Se denominan resoluciones y son recurribles ante el Tribunal Constitucional."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 99,
+    "question": "Las relaciones de orden tributario entre el Estado y el País Vasco vendrán reguladas me-diante el sistema foral tradicional de Concierto Económico, un sistema (indíquese la res-puesta INCORRECTA):",
+    "answers": {
+      "A": "Cuyos antecedentes históricos se remontan a finales del siglo xix, tras la derogación de los Fueros Vascos en 1876.",
+      "B": "Cuyo amparo viene establecido en la propia Constitución española, y cuya actualización general se lleva a cabo en el marco de la Constitución y del Estatuto de Autonomía del País Vasco.",
+      "C": "Que se concreta mediante una Ley del Parlamento Vasco, en la actualidad la Ley 12/2002, por la que se aprueba el Concierto Económico con la Comunidad Autó-noma del País Vasco.",
+      "D": "Que se caracteriza por ser un pacto bilateral, realizado entre dos partes, la que repre-senta al Estado y la representación vasca, compuesta a su vez por representantes de las Instituciones Centrales de la Comunidad Autónoma y de los Órganos Forales de sus Territorios Históricos."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 100,
+    "question": "De acuerdo con el Estatuto de Autonomía, las instituciones competentes para mantener, establecer y regular el régimen tributario para los Territorios Históricos son:",
+    "answers": {
+      "A": "El Parlamento Vasco.",
+      "B": "El Parlamento Vasco a iniciativa de las Diputaciones Forales.",
+      "C": "Las Juntas Generales de cada Territorio Histórico.",
+      "D": "Las Diputaciones Forales."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 101,
+    "question": "El conocimiento de los recursos interpuestos contra las Normas Forales fiscales de los Te-rritorios de Álava, Gipuzkoa y Bizkaia corresponde:",
+    "answers": {
+      "A": "A la Comisión Arbitral.",
+      "B": "Al Tribunal Superior de Justicia del País Vasco.",
+      "C": "Al Tribunal Constitucional.",
+      "D": "A la Sala Tercera del Tribunal Supremo. Tema 5 25"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 102,
+    "question": "Según establece la Ley por la que se aprueba el Concierto, la aportación del País Vasco al Estado consistirá en un cupo global (indíquese la respuesta INCORRECTA):",
+    "answers": {
+      "A": "Que está integrado por los correspondientes a cada uno de sus Territorios Históricos como contribución a todas las cargas del Estado que no asuma la Comunidad Autó-noma del País Vasco.",
+      "B": "Cuya metodología de señalamiento es aprobada mediante ley votada por las Cortes Ge-nerales.",
+      "C": "Cuyo cálculo se aprueba por Ley cada 10 años, previo acuerdo de la Comisión Mixta del Concierto Económico.",
+      "D": "Para cuyo cálculo deberá restarse del cupo correspondiente a cada Territorio Histórico la parte imputable de los tributos no concertados."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 103,
+    "question": "La función de acordar la metodología para el señalamiento del cupo en cada quinquenio corresponde a:",
+    "answers": {
+      "A": "La Comisión Arbitral.",
+      "B": "La Comisión Mixta del Concierto Económico.",
+      "C": "La Comisión de Coordinación y Evaluación Normativa.",
+      "D": "La Junta Arbitral."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 104,
+    "question": "Resolver las consultas que se planteen sobre la aplicación de los puntos de conexión con-tenidos en el Concierto Económico es una función que corresponde a:",
+    "answers": {
+      "A": "La Comisión Arbitral.",
+      "B": "La Comisión Mixta del Concierto Económico.",
+      "C": "La Comisión de Coordinación y Evaluación Normativa.",
+      "D": "La Junta Arbitral."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 105,
+    "question": "Conocer de los conflictos que surjan entre las Administraciones interesadas como conse-cuencia de la interpretación y aplicación del Concierto Económico a casos concretos con-cernientes a relaciones tributarias individuales es una función que corresponde a:",
+    "answers": {
+      "A": "La Comisión Arbitral.",
+      "B": "La Comisión Mixta del Concierto Económico.",
+      "C": "La Comisión de Coordinación y Evaluación Normativa.",
+      "D": "La Junta Arbitral."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 106,
+    "question": "El marco jurídico regulador de los municipios y las demás entidades locales vascas y sus competencias está recogido en la actualidad en:",
+    "answers": {
+      "A": "El Estatuto de Autonomía.",
+      "B": "La Ley 2/2016 de Instituciones Locales de Euskadi.",
+      "C": "El Estatuto de Gernika y la Ley 7/1985 Reguladora de las Bases del Régimen Local.",
+      "D": "La Ley de Territorios Históricos. Tema 6"
+    },
+    "correct": "B"
+  }
+]

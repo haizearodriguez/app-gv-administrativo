@@ -1,0 +1,288 @@
+[
+  {
+    "id": 79,
+    "question": "El Estatuto vasco de autonomía se inicia:",
+    "answers": {
+      "A": "Con un Preámbulo.",
+      "B": "Con una Exposición de Motivos.",
+      "C": "Con el Título Preliminar.",
+      "D": "Con una Declaración."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 80,
+    "question": "El Estatuto vasco de autonomía incluye:",
+    "answers": {
+      "A": "Una Disposición Adicional y nueve Disposiciones Transitorias.",
+      "B": "Nueve Disposiciones Adicionales y una Disposición Transitoria.",
+      "C": "Nueve Disposiciones Adicionales y nueve Disposiciones Transitorias.",
+      "D": "Una Disposición Adicional y una Disposición Transitoria."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 81,
+    "question": "Según el art. 1 del Estatuto vasco de autonomía, la Comunidad Autónoma recibe:",
+    "answers": {
+      "A": "La denominación de «Euskadi» o «País Vasco», en la versión en castellano del Estatuto.",
+      "B": "La denominación de «Euskadi» o «Euskal Herria», en la versión en euskera del Estatuto.",
+      "C": "Las respuestas a) y b) son correctas.",
+      "D": "Las respuestas a) y b) son incorrectas."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 82,
+    "question": "Según el art. 2 del Estatuto vasco de autonomía, tienen derecho a formar parte de la Comunidad Autónoma del País Vasco:",
+    "answers": {
+      "A": "Álava, Gipuzkoa y Bizkaia.",
+      "B": "Álava, Gipuzkoa y Bizkaia, así como Navarra.",
+      "C": "Las provincias que así lo deseen.",
+      "D": "Las provincias limítrofes que así lo deseen."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 83,
+    "question": "La posibilidad de integración de Navarra en la Comunidad Autónoma del País Vasco:",
+    "answers": {
+      "A": "No se cita en la Constitución española.",
+      "B": "Se prohíbe en la Constitución española.",
+      "C": "Aparecía prevista en la Constitución española, pero se ha suprimido esa referencia.",
+      "D": "Aparece prevista en la Constitución española, en la Disposición Transitoria cuarta."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 84,
+    "question": "Los conocidos como «enclaves» en la Comunidad Autónoma Vasca:",
+    "answers": {
+      "A": "Son territorios enclavados geográficamente en su totalidad dentro del territorio de la Comunidad Autónoma Vasca pero que pertenecen a Provincias o Comunidades Autóno mas ajenas a la vasca.",
+      "B": "El art. 8 del Estatuto vasco de autonomía contempla el procedimiento de agregación de los enclaves territoriales a la Comunidad Autónoma Vasca.",
+      "C": "Son dos los casos de este tipo.",
+      "D": "Las tres respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 85,
+    "question": "La sede del Parlamento y Gobierno vascos:",
+    "answers": {
+      "A": "No fue fijada por el Estatuto vasco de autonomía.",
+      "B": "Quedó fijada por la Ley 1/1980, de 23 de mayo, de sede de las instituciones de la Comunidad Autónoma del País Vasco.",
+      "C": "Quedó fijada en Vitoria-Gasteiz.",
+      "D": "Las tres respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 86,
+    "question": "La bandera de la Comunidad Autónoma del País Vasco:",
+    "answers": {
+      "A": "No fue fijada por el Estatuto vasco de autonomía.",
+      "B": "Quedó fijada con todo detalle por una ley de símbolos de la Comunidad Autónoma del País Vasco.",
+      "C": "El Estatuto, en su art. 5, describe la bandera del País Vasco (bicrucífera, compuesta de aspa verde, cruz blanca superpuesta y fondo rojo).",
+      "D": "Las respuestas anteriores son incorrectas."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 87,
+    "question": "El himno y el escudo de la Comunidad Autónoma del País Vasco:",
+    "answers": {
+      "A": "Ambos aparecen descritos en el Estatuto vasco de autonomía.",
+      "B": "Ambos quedaron fijados en una ley de símbolos de la Comunidad Autónoma del País Vasco.",
+      "C": "La Comunidad Autónoma del País Vasco no cuenta con himno ni escudo oficiales.",
+      "D": "En el Estatuto vasco de autonomía no se hace referencia a esos dos elementos."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 88,
+    "question": "Con respecto a la lengua, la Constitución:",
+    "answers": {
+      "A": "Declara la oficialidad del castellano en todo el Estado.",
+      "B": "Establece, respecto del castellano, el deber de conocerlo y el derecho a usarlo.",
+      "C": "Posibilita la cooficialidad de otras lenguas distintas del castellano, según lo que determinen los Estatutos de Autonomía.",
+      "D": "Las respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 89,
+    "question": "Con respecto a la lengua, el Estatuto vasco de autonomía:",
+    "answers": {
+      "A": "Declara que el euskera, lengua propia del Pueblo Vasco, tendrá el carácter de lengua cooficial de Euskadi.",
+      "B": "Declara, sobre el euskera, que todos los habitantes de la Comunidad tendrán el deber de conocerla y el derecho a usarla.",
+      "C": "Declara, sobre el euskera y el castellano, que todos los habitantes de la Comunidad tendrán el deber de conocerla y el derecho a usarla.",
+      "D": "Declara, sobre el euskera, que todos los habitantes de la Comunidad tendrán el derecho a conocerla y el deber de usarla."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 90,
+    "question": "Con respecto a la lengua, señale la respuesta correcta:",
+    "answers": {
+      "A": "La Real Academia de la Lengua Vasca-Euskaltzaindia es institución consultiva oficial en lo referente al euskera.",
+      "B": "Las previsiones del Estatuto de Autonomía son desarrolladas mediante la Ley 10/1982, de 24 de noviembre, básica de normalización del uso del euskera.",
+      "C": "España ha firmado y ratificado la Carta Europea de las Lenguas Regionales o Minoritarias.",
+      "D": "Las respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 91,
+    "question": "La Ley 27/1983, de 25 de noviembre, de Relaciones entre las Instituciones Comunes de la Comunidad Autónoma y los Órganos Forales de sus Territorios Históricos:",
+    "answers": {
+      "A": "Esa ley establece la vertebración o arquitectura interna de la Comunidad Autónoma del País Vasco.",
+      "B": "Esa ley delimita el reparto de competencias entre el Estado, por una parte, y los Órganos Forales de sus Territorios Históricos, por otro.",
+      "C": "Se trata de una ley previa en el tiempo al Estatuto de Autonomía del País Vasco.",
+      "D": "Se trata de una ley dada por las Cortes Generales."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 92,
+    "question": "La reforma del Estatuto vasco de autonomía:",
+    "answers": {
+      "A": "No es posible reformar el Estatuto vasco de autonomía.",
+      "B": "Podemos señalar que el Estatuto recoge un procedimiento general de reforma y tres procedimientos específicos para supuestos concretos.",
+      "C": "La reforma se debe acometer cada cuatro años necesariamente.",
+      "D": "El Estatuto vasco de autonomía no contiene regulación alguna al respecto."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 93,
+    "question": "En materia de competencias:",
+    "answers": {
+      "A": "En el Estatuto de Autonomía se establecen algunas normas de distribución de competencias entre las Instituciones Comunes de la Comunidad Autónoma Vasca y los Órganos Forales de sus Territorios Históricos.",
+      "B": "La mayoría de las competencias asumidas por la Comunidad Autónoma Vasca están recogidas en el Título I del Estatuto, pero hay otras que aparecen en el Estatuto fuera de ese Título.",
+      "C": "Ejemplos de competencias asumidas por Euskadi y contenidas en el Estatuto son las relacionadas con el euskera o la relativa al Concierto Económico.",
+      "D": "Las respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 94,
+    "question": "El Estatuto (art. 26) señala las siguientes características del Parlamento Vasco en materia de composición y elección de sus parlamentarios y parlamentarias:",
+    "answers": {
+      "A": "Estará integrado por un número igual de representantes de cada Territorio Histórico.",
+      "B": "La circunscripción electoral será única: el territorio de la Comunidad autónoma del País Vasco.",
+      "C": "El Parlamento Vasco será elegido por un período de seis años.",
+      "D": "Los representantes serán elegidos por sufragio indirecto y secreto."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 95,
+    "question": "El Estatuto (art. 25) señala como funciones principales del Parlamento Vasco:",
+    "answers": {
+      "A": "Ejercer la potestad reglamentaria.",
+      "B": "Redactar los presupuestos de la Comunidad.",
+      "C": "Ser controlado por el Gobierno Vasco.",
+      "D": "Las respuestas anteriores son incorrectas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 96,
+    "question": "Según el Estatuto (art. 27), las Leyes del Parlamento vasco:",
+    "answers": {
+      "A": "Son promulgadas por el Presidente o Presidenta del Gobierno Vasco.",
+      "B": "Se publican en el Boletín Oficial del País Vasco, pero no se publican en el Boletín Oficial del Estado.",
+      "C": "Se publican en el Boletín Oficial del Estado, pero no se publican en el Boletín Oficial del País Vasco.",
+      "D": "Las respuestas anteriores son incorrectas."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 97,
+    "question": "Según el Estatuto (art. 27), el Parlamento vasco, de entre sus miembros, elegirá, para su organización y funcionamiento:",
+    "answers": {
+      "A": "Un Presidente o Presidenta.",
+      "B": "Una Asamblea universal.",
+      "C": "Una Junta Directiva.",
+      "D": "Una Junta de Gobierno."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 98,
+    "question": "Según el Estatuto (art. 28), corresponde al Parlamento vasco, además de sus funciones principales:",
+    "answers": {
+      "A": "Designar a varios Senadores, que representan al País Vasco en el Senado.",
+      "B": "Solicitar del Gobierno del Estado la adopción de un proyecto de Ley.",
+      "C": "Remitir a la Mesa del Congreso de los Diputados una proposición de Ley.",
+      "D": "Las respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 99,
+    "question": "Según el Estatuto (art. 33), el o la Lehendakari:",
+    "answers": {
+      "A": "Puede ser miembro del Parlamento Vasco.",
+      "B": "Puede no ser miembro del Parlamento Vasco.",
+      "C": "Es necesario que sea miembro del Parlamento Vasco.",
+      "D": "Es necesario que no sea miembro del Parlamento Vasco."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 100,
+    "question": "Según el Estatuto (art. 33), el o la Lehendakari:",
+    "answers": {
+      "A": "Será designado por el Parlamento Vasco.",
+      "B": "Será designado por el Rey.",
+      "C": "Será designado por las Cortes Generales.",
+      "D": "Será designado directamente por los ciudadanos vascos."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 101,
+    "question": "La Ley 7/1981, de 30 de junio, sobre Ley de Gobierno:",
+    "answers": {
+      "A": "Esta ley está dedicada en su totalidad a la figura del o la Lehendakari de Euskadi.",
+      "B": "Según esta ley, las ausencias temporales del o la Lehendakari superiores a tres días precisarán de la previa autorización del Parlamento.",
+      "C": "Según esta ley, el o la Lehendakari define el Programa de Gobierno, designa y separa a los Consejeros y Consejeras, y dicta decretos que crean o extinguen los Departamentos del Gobierno Vasco.",
+      "D": "Las respuestas anteriores son correctas."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 102,
+    "question": "El Gobierno Vasco:",
+    "answers": {
+      "A": "El Gobierno está integrado por el o la Lehendakari, las Consejeras o Consejeros, las Viceconsejeras o Viceconsejeros y las Directoras o Directores Generales.",
+      "B": "En el Gobierno ambos sexos estarán representados al menos en un 40%.",
+      "C": "Todos los miembros del Gobierno los elige el Parlamento vasco.",
+      "D": "No existe norma alguna que determine una representación mínima de sexos en el Gobierno."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 103,
+    "question": "Los Consejeros o Consejeras del Gobierno vasco:",
+    "answers": {
+      "A": "Poseen una única condición, como titulares de un Departamento.",
+      "B": "Poseen una doble condición: por un lado, como miembros del Gobierno; por otro, como titulares de un Departamento.",
+      "C": "Poseen una triple condición: primero, como miembros del Gobierno; segundo, como titulares de un Departamento; y tercero, como miembros del Parlamento vasco.",
+      "D": "Las respuestas anteriores son incorrectas."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 104,
+    "question": "El o la vicepresidente del Gobierno Vasco:",
+    "answers": {
+      "A": "Esta figura aparece recogida expresamente en el Estatuto vasco de autonomía.",
+      "B": "Es una figura necesaria en todo momento: siempre debe haber un Vicepresidente o una Vicepresidenta.",
+      "C": "No es imprescindible que sea nombrado uno o varios Vicepresidentes o Vicepresidentas.",
+      "D": "Puede nombrarse como Vicepresidente o Vicepresidenta a una persona que no reúna la condición de Consejero o Consejera."
+    },
+    "correct": "C"
+  }
+]
