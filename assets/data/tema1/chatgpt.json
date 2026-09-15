@@ -3,32 +3,32 @@
     "id": 1,
     "question": "¿A través de qué mecanismos garantiza la Constitución española (CE) de 1978 la participación de los ciudadanos en la toma de decisiones de forma directa?",
     "answers": {
-      "A": "La iniciativa legislativa popular.",
+      "A": "El Jurado popular.",
       "B": "El referéndum.",
-      "C": "El Jurado popular.",
-      "D": "Las tres respuestas anteriores son correctas."
+      "C": "Las tres respuestas anteriores son correctas.",
+      "D": "La iniciativa legislativa popular."
     },
-    "correct": "D"
+    "correct": "C"
   },
   {
     "id": 2,
     "question": "¿Qué elementos caracterizan al Estado español como un «Estado de derecho»?",
     "answers": {
-      "A": "La separación de poderes (legislativo, ejecutivo y judicial).",
-      "B": "El reconocimiento a los poderes públicos para promover las condiciones para que la libertad y la igualdad sean reales y efectivas.",
-      "C": "El reconocimiento de los derechos fundamentales y las libertades públicas.",
-      "D": "Las respuestas b) y c) son correctas."
+      "A": "Las respuestas b) y c) son correctas.",
+      "B": "El reconocimiento de los derechos fundamentales y las libertades públicas.",
+      "C": "La separación de poderes (legislativo, ejecutivo y judicial).",
+      "D": "El reconocimiento a los poderes públicos para promover las condiciones para que la libertad y la igualdad sean reales y efectivas."
     },
-    "correct": "AC"
+    "correct": "BC"
   },
   {
     "id": 3,
     "question": "¿Qué elementos caracterizan al Estado español como un «Estado social»?",
     "answers": {
-      "A": "El reconocimiento a los poderes públicos para promover las condiciones (políticas públicas) para que la libertad y la igualdad del individuo sean reales y efectivas.",
-      "B": "El reconocimiento de los derechos sociales y económicos.",
+      "A": "El reconocimiento de los derechos sociales y económicos.",
+      "B": "El reconocimiento de los derechos fundamentales y las libertades públicas.",
       "C": "Las respuestas a) y b) son correctas.",
-      "D": "El reconocimiento de los derechos fundamentales y las libertades públicas."
+      "D": "El reconocimiento a los poderes públicos para promover las condiciones (políticas públicas) para que la libertad y la igualdad del individuo sean reales y efectivas."
     },
     "correct": "C"
   },
@@ -36,42 +36,42 @@
     "id": 4,
     "question": "¿Cuál es el carácter que le confiere la CE de 1978 a la forma de gobierno monárquica?",
     "answers": {
-      "A": "Permanente.",
-      "B": "Hereditario y vitalicio.",
-      "C": "Democrático.",
+      "A": "Hereditario y vitalicio.",
+      "B": "Democrático.",
+      "C": "Permanente.",
       "D": "Las respuestas a) y b) son correctas."
     },
-    "correct": "B"
+    "correct": "A"
   },
   {
     "id": 5,
     "question": "¿Sobre qué principios se asienta la forma territorial del Estado?",
     "answers": {
-      "A": "Unidad.",
-      "B": "Uniformidad.",
-      "C": "Autonomía.",
-      "D": "Las respuestas a) y c) son correctas."
+      "A": "Uniformidad.",
+      "B": "Autonomía.",
+      "C": "Las respuestas a) y c) son correctas.",
+      "D": "Unidad."
     },
-    "correct": "D"
+    "correct": "C"
   },
   {
     "id": 6,
     "question": "¿Cuáles son los valores superiores del ordenamiento jurídico español según la CE de 1978?",
     "answers": {
-      "A": "Solidaridad, igualdad, autonomía y libertad.",
-      "B": "Libertad, justicia, igualdad y pluralismo político.",
+      "A": "Libertad, justicia, igualdad y pluralismo político.",
+      "B": "Igualdad, justicia, fraternidad y autonomía.",
       "C": "Orden y progreso.",
-      "D": "Igualdad, justicia, fraternidad y autonomía."
+      "D": "Solidaridad, igualdad, autonomía y libertad."
     },
-    "correct": "B"
+    "correct": "A"
   },
   {
     "id": 7,
     "question": "El carácter supremo o supralegal de la Constitución se manifiesta en que:",
     "answers": {
-      "A": "No puede ser reformada de acuerdo con los procedimientos ordinarios válidos para otras normas.",
+      "A": "No se puede modificar.",
       "B": "Sus preceptos no pueden ser alterados ni contradichos ni ignorados por los poderes públicos.",
-      "C": "No se puede modificar.",
+      "C": "No puede ser reformada de acuerdo con los procedimientos ordinarios válidos para otras normas.",
       "D": "Las respuestas a) y b) son correctas."
     },
     "correct": "D"
@@ -80,20 +80,20 @@
     "id": 8,
     "question": "¿Cuál es la función primordial del Tribunal Constitucional?",
     "answers": {
-      "A": "Defender y reformar la Constitución.",
-      "B": "Cerrar la vía jurisdiccional ordinaria.",
-      "C": "Interpretar la Constitución.",
-      "D": "Todas las respuestas anteriores son correctas."
+      "A": "Cerrar la vía jurisdiccional ordinaria.",
+      "B": "Todas las respuestas anteriores son correctas.",
+      "C": "Defender y reformar la Constitución.",
+      "D": "Interpretar la Constitución."
     },
-    "correct": "C"
+    "correct": "D"
   },
   {
     "id": 9,
     "question": "¿Cuáles son las vías procedimentales principales para realizar el control de constitucionalidad?",
     "answers": {
       "A": "El recurso de amparo.",
-      "B": "El recurso de inconstitucionalidad.",
-      "C": "La cuestión de inconstitucionalidad.",
+      "B": "La cuestión de inconstitucionalidad.",
+      "C": "El recurso de inconstitucionalidad.",
       "D": "Las respuestas b) y c) son correctas."
     },
     "correct": "D"
@@ -102,21 +102,21 @@
     "id": 10,
     "question": "La parte dogmática de la CE de 1978 la integran:",
     "answers": {
-      "A": "El preámbulo, el título preliminar y el título primero.",
-      "B": "El título preliminar y el título primero.",
-      "C": "El preámbulo y el título preliminar.",
-      "D": "El preámbulo y el título primero."
+      "A": "El preámbulo y el título preliminar.",
+      "B": "El preámbulo y el título primero.",
+      "C": "El preámbulo, el título preliminar y el título primero.",
+      "D": "El título preliminar y el título primero."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 11,
     "question": "¿Dónde quedan recogidos en la CE de 1978 los «auténticos» derechos fundamentales?",
     "answers": {
-      "A": "Artículos 10 a 55, ambos inclusive.",
+      "A": "Artículos 10 a 29, ambos inclusive.",
       "B": "Artículos 14 a 29, ambos inclusive.",
-      "C": "Artículos 10 a 29, ambos inclusive.",
-      "D": "Artículos 14 a 55, ambos inclusive."
+      "C": "Artículos 14 a 55, ambos inclusive.",
+      "D": "Artículos 10 a 55, ambos inclusive."
     },
     "correct": "B"
   },
@@ -124,34 +124,34 @@
     "id": 12,
     "question": "¿Qué recoge el Capítulo III del Título I de la CE de 1978?",
     "answers": {
-      "A": "Los derechos fundamentales.",
-      "B": "Los derechos y libertades.",
-      "C": "Los principios rectores de la política social y económica.",
-      "D": "Las garantías de las libertades y los derechos fundamentales."
+      "A": "Las garantías de las libertades y los derechos fundamentales.",
+      "B": "Los principios rectores de la política social y económica.",
+      "C": "Los derechos y libertades.",
+      "D": "Los derechos fundamentales."
     },
-    "correct": "C"
+    "correct": "B"
   },
   {
     "id": 13,
     "question": "¿A quién vinculan o frente a quién son exigibles los derechos fundamentales?",
     "answers": {
-      "A": "Frente a los particulares.",
+      "A": "Frente a las autoridades públicas.",
       "B": "Frente a los poderes públicos.",
-      "C": "Frente a particulares y poderes públicos.",
-      "D": "Frente a las autoridades públicas."
+      "C": "Frente a los particulares.",
+      "D": "Frente a particulares y poderes públicos."
     },
-    "correct": "C"
+    "correct": "D"
   },
   {
     "id": 14,
     "question": "¿Cuáles de estas garantías que recoge la CE de 1978 son garantías no jurisdiccionales?",
     "answers": {
-      "A": "La reserva de ley.",
-      "B": "La protección judicial.",
-      "C": "El recurso de amparo.",
-      "D": "La protección internacional y supranacional."
+      "A": "El recurso de amparo.",
+      "B": "La protección internacional y supranacional.",
+      "C": "La protección judicial.",
+      "D": "La reserva de ley."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 15,
@@ -159,8 +159,8 @@
     "answers": {
       "A": "La protección judicial.",
       "B": "La reserva de ley.",
-      "C": "El defensor del pueblo.",
-      "D": "El respeto al contenido esencial de los derechos fundamentales."
+      "C": "El respeto al contenido esencial de los derechos fundamentales.",
+      "D": "El defensor del pueblo."
     },
     "correct": "A"
   },
@@ -168,10 +168,10 @@
     "id": 16,
     "question": "El defensor del pueblo se relaciona con:",
     "answers": {
-      "A": "Con el Congreso.",
-      "B": "Con el Senado.",
+      "A": "Ninguna respuesta es correcta.",
+      "B": "Con el Congreso.",
       "C": "Con una Comisión mixta Congreso-Senado.",
-      "D": "Ninguna respuesta es correcta."
+      "D": "Con el Senado."
     },
     "correct": "C"
   },
@@ -179,34 +179,34 @@
     "id": 17,
     "question": "El sistema tributario español, atendiendo a la CE de 1978, debe ser un sistema tributario:",
     "answers": {
-      "A": "Proporcional.",
-      "B": "Equitativo.",
+      "A": "Equitativo.",
+      "B": "Justo.",
       "C": "Solidario.",
-      "D": "Justo."
+      "D": "Proporcional."
     },
-    "correct": "D"
+    "correct": "B"
   },
   {
     "id": 18,
     "question": "La CE de 1978 otorga una protección jurisdiccional extraordinaria a los derechos reconocidos en los arts. 14-29 y la objeción de conciencia (art. 30.2), basada en los principios de:",
     "answers": {
-      "A": "Prioridad.",
-      "B": "Preferencia y sumariedad.",
-      "C": "Rapidez.",
-      "D": "Tutela reforzada."
+      "A": "Preferencia y sumariedad.",
+      "B": "Tutela reforzada.",
+      "C": "Prioridad.",
+      "D": "Rapidez."
     },
-    "correct": "B"
+    "correct": "A"
   },
   {
     "id": 19,
     "question": "¿Cuáles son los derechos susceptibles de recurso de amparo?",
     "answers": {
-      "A": "Todos.",
-      "B": "Los recogidos en el Título I.",
-      "C": "Los recogidos en los artículos que van del artículo 14 al 29 ambos inclusive.",
-      "D": "Los recogidos en los artículos 14 al 29 y el 30.2."
+      "A": "Los recogidos en los artículos 14 al 29 y el 30.2.",
+      "B": "Los recogidos en los artículos que van del artículo 14 al 29 ambos inclusive.",
+      "C": "Los recogidos en el Título I.",
+      "D": "Todos."
     },
-    "correct": "D"
+    "correct": "A"
   },
   {
     "id": 20,
@@ -224,9 +224,9 @@
     "question": "Atendiendo al artículo 116 de la CE de 1978, el estado de alarma se establece:",
     "answers": {
       "A": "Frente a grandes catástrofes naturales o accidentes.",
-      "B": "En caso de graves alteraciones del orden público.",
-      "C": "Como reacción ante agresiones dirigidas contra la existencia misma del Estado.",
-      "D": "Ninguna de las respuestas anteriores es correcta."
+      "B": "Como reacción ante agresiones dirigidas contra la existencia misma del Estado.",
+      "C": "Ninguna de las respuestas anteriores es correcta.",
+      "D": "En caso de graves alteraciones del orden público."
     },
     "correct": "A"
   },
@@ -235,20 +235,20 @@
     "question": "Atendiendo al artículo 116 de la CE de 1978, el estado de excepción se establece:",
     "answers": {
       "A": "Frente a grandes catástrofes naturales o accidentes.",
-      "B": "En caso de graves alteraciones del orden público.",
+      "B": "Ninguna de las respuestas anteriores es correcta.",
       "C": "Como reacción ante agresiones dirigidas contra la existencia misma del Estado.",
-      "D": "Ninguna de las respuestas anteriores es correcta."
+      "D": "En caso de graves alteraciones del orden público."
     },
-    "correct": "B"
+    "correct": "D"
   },
   {
     "id": 23,
     "question": "Atendiendo al artículo 116 de la CE de 1978, el estado de sitio se establece:",
     "answers": {
-      "A": "Frente a grandes catástrofes naturales o accidentes.",
-      "B": "En caso de graves alteraciones del orden público.",
+      "A": "En caso de graves alteraciones del orden público.",
+      "B": "Ninguna de las respuestas anteriores es correcta.",
       "C": "Como reacción ante agresiones dirigidas contra la existencia misma del Estado, su integridad territorial y su ordenamiento constitucional.",
-      "D": "Ninguna de las respuestas anteriores es correcta."
+      "D": "Frente a grandes catástrofes naturales o accidentes."
     },
     "correct": "C"
   },
@@ -256,67 +256,67 @@
     "id": 24,
     "question": "El estado de excepción puede implicar la suspensión, entre otros, del derecho a:",
     "answers": {
-      "A": "Inviolabilidad del domicilio y el secreto de las comunicaciones.",
-      "B": "Libre circulación.",
-      "C": "Libertad religiosa.",
-      "D": "Ninguna de las respuestas anteriores es correcta."
+      "A": "Libertad religiosa.",
+      "B": "Ninguna de las respuestas anteriores es correcta.",
+      "C": "Inviolabilidad del domicilio y el secreto de las comunicaciones.",
+      "D": "Libre circulación."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 25,
     "question": "Para llevar a cabo la posible suspensión «individual» de los derechos fundamentales (art. 55.2 CE), es necesaria:",
     "answers": {
-      "A": "Su determinación legal.",
-      "B": "La intervención judicial.",
-      "C": "Su determinación normativa.",
+      "A": "Su determinación normativa.",
+      "B": "Su determinación legal.",
+      "C": "La intervención judicial.",
       "D": "La intervención gubernativa preceptiva."
     },
-    "correct": "B"
+    "correct": "C"
   },
   {
     "id": 26,
     "question": "¿A quién corresponde en última instancia la determinación de los límites de los derechos fundamentales?",
     "answers": {
-      "A": "A los tribunales ordinarios.",
-      "B": "Al Tribunal Europeo de Derechos Humanos (TEDH).",
-      "C": "Al Tribunal Supremo.",
-      "D": "Al Tribunal Constitucional."
+      "A": "Al Tribunal Europeo de Derechos Humanos (TEDH).",
+      "B": "Al Tribunal Constitucional.",
+      "C": "A los tribunales ordinarios.",
+      "D": "Al Tribunal Supremo."
     },
-    "correct": "D"
+    "correct": "B"
   },
   {
     "id": 27,
     "question": "¿Qué recoge el art. 1.1 de la CE?",
     "answers": {
-      "A": "Que España se constituye en un Estado social y democrático de Derecho, que propugna la libertad, la justicia, la igualdad y el pluralismo político.",
-      "B": "Que la soberanía nacional reside en el pueblo español.",
-      "C": "El derecho a la autonomía de las nacionalidades y regiones.",
-      "D": "Ninguna de las anteriores."
+      "A": "Ninguna de las anteriores.",
+      "B": "El derecho a la autonomía de las nacionalidades y regiones.",
+      "C": "Que la soberanía nacional reside en el pueblo español.",
+      "D": "Que España se constituye en un Estado social y democrático de Derecho, que propugna la libertad, la justicia, la igualdad y el pluralismo político."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 28,
     "question": "Según el art. 1.2 CE, la soberanía nacional reside en:",
     "answers": {
-      "A": "El Rey.",
-      "B": "El pueblo español, del que emanan los poderes del Estado.",
-      "C": "Las Cortes Generales.",
-      "D": "El Gobierno."
+      "A": "El pueblo español, del que emanan los poderes del Estado.",
+      "B": "El Gobierno.",
+      "C": "El Rey.",
+      "D": "Las Cortes Generales."
     },
-    "correct": "B"
+    "correct": "A"
   },
   {
     "id": 29,
     "question": "¿Qué mecanismos de democracia directa cita el temario para dar efectividad a la soberanía popular?",
     "answers": {
-      "A": "La iniciativa legislativa popular, el referéndum y el jurado popular.",
+      "A": "El recurso de amparo.",
       "B": "El sufragio pasivo únicamente.",
-      "C": "La moción de censura.",
-      "D": "El recurso de amparo."
+      "C": "La iniciativa legislativa popular, el referéndum y el jurado popular.",
+      "D": "La moción de censura."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 30,
@@ -333,21 +333,21 @@
     "id": 31,
     "question": "¿Qué caracteriza a la monarquía parlamentaria como forma política del Estado español?",
     "answers": {
-      "A": "La Jefatura del Estado recae en el Rey, con carácter hereditario y vitalicio, y un sistema de gobierno parlamentario.",
-      "B": "El Rey ostenta poderes ejecutivos plenos.",
-      "C": "El sistema es presidencialista.",
-      "D": "El Rey es elegido cada 4 años."
+      "A": "El sistema es presidencialista.",
+      "B": "La Jefatura del Estado recae en el Rey, con carácter hereditario y vitalicio, y un sistema de gobierno parlamentario.",
+      "C": "El Rey es elegido cada 4 años.",
+      "D": "El Rey ostenta poderes ejecutivos plenos."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 32,
     "question": "La CE asienta la organización territorial del Estado en tres principios, que son:",
     "answers": {
       "A": "Unidad de la Nación, autonomía de nacionalidades y regiones, y solidaridad entre ellas.",
-      "B": "Centralización, uniformidad y jerarquía.",
+      "B": "Ninguna de las anteriores.",
       "C": "Federalismo, confederación y soberanía compartida.",
-      "D": "Ninguna de las anteriores."
+      "D": "Centralización, uniformidad y jerarquía."
     },
     "correct": "A"
   },
@@ -366,53 +366,53 @@
     "id": 34,
     "question": "¿Qué principios, de carácter más concreto que los valores superiores, recoge el art. 9.3 CE?",
     "answers": {
-      "A": "El principio de legalidad, la jerarquía normativa, la publicidad de las normas, la irretroactividad de disposiciones sancionadoras desfavorables, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad.",
-      "B": "La libertad, la justicia, la igualdad y el pluralismo político.",
-      "C": "La unidad, autonomía y solidaridad.",
-      "D": "Ninguna de las anteriores."
+      "A": "La libertad, la justicia, la igualdad y el pluralismo político.",
+      "B": "Ninguna de las anteriores.",
+      "C": "El principio de legalidad, la jerarquía normativa, la publicidad de las normas, la irretroactividad de disposiciones sancionadoras desfavorables, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad.",
+      "D": "La unidad, autonomía y solidaridad."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 35,
     "question": "La Constitución se configura, además de como norma organizativa y garantizadora de derechos, como:",
     "answers": {
-      "A": "Un sistema de valores y principios.",
-      "B": "Un simple texto declarativo sin fuerza jurídica.",
-      "C": "Un tratado internacional.",
+      "A": "Un simple texto declarativo sin fuerza jurídica.",
+      "B": "Un tratado internacional.",
+      "C": "Un sistema de valores y principios.",
       "D": "Un reglamento administrativo."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 36,
     "question": "El carácter normativo de la Constitución implica que:",
     "answers": {
-      "A": "Contiene normas jurídicas con fuerza vinculante exigible por vías jurídicas.",
-      "B": "Es un mero texto político sin eficacia jurídica.",
-      "C": "Solo vincula a los ciudadanos, no a los poderes públicos.",
-      "D": "Ninguna de las anteriores."
+      "A": "Es un mero texto político sin eficacia jurídica.",
+      "B": "Solo vincula a los ciudadanos, no a los poderes públicos.",
+      "C": "Ninguna de las anteriores.",
+      "D": "Contiene normas jurídicas con fuerza vinculante exigible por vías jurídicas."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 37,
     "question": "El Tribunal Constitucional consta de:",
     "answers": {
-      "A": "9 magistrados.",
-      "B": "12 magistrados.",
+      "A": "12 magistrados.",
+      "B": "9 magistrados.",
       "C": "15 magistrados.",
       "D": "20 magistrados."
     },
-    "correct": "B"
+    "correct": "A"
   },
   {
     "id": 38,
     "question": "Los magistrados del Tribunal Constitucional son propuestos, entre otros, por:",
     "answers": {
       "A": "4 por el Congreso de los Diputados, 4 por el Senado, 2 por el Gobierno y 2 por el CGPJ.",
-      "B": "8 por el Congreso y 4 por el Senado.",
-      "C": "Todos por el Gobierno.",
+      "B": "Todos por el Gobierno.",
+      "C": "8 por el Congreso y 4 por el Senado.",
       "D": "12 por las Comunidades Autónomas."
     },
     "correct": "A"
@@ -421,21 +421,21 @@
     "id": 39,
     "question": "El TC puede declarar la inconstitucionalidad de:",
     "answers": {
-      "A": "Estatutos de Autonomía, leyes orgánicas, leyes ordinarias, decretos-leyes, decretos legislativos, tratados internacionales, reglamentos parlamentarios y normas forales fiscales de los Territorios Históricos.",
-      "B": "Solo de reglamentos administrativos.",
-      "C": "Solo de sentencias judiciales.",
-      "D": "Solo de actos de Comunidades Autónomas."
+      "A": "Solo de reglamentos administrativos.",
+      "B": "Estatutos de Autonomía, leyes orgánicas, leyes ordinarias, decretos-leyes, decretos legislativos, tratados internacionales, reglamentos parlamentarios y normas forales fiscales de los Territorios Históricos.",
+      "C": "Solo de actos de Comunidades Autónomas.",
+      "D": "Solo de sentencias judiciales."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 40,
     "question": "¿Qué órgano tiene competencia sobre el Derecho de la Unión Europea en lugar del Tribunal Constitucional?",
     "answers": {
-      "A": "El Tribunal Supremo.",
+      "A": "El Consejo General del Poder Judicial.",
       "B": "El Tribunal de Justicia de la Unión Europea.",
       "C": "El Tribunal Europeo de Derechos Humanos.",
-      "D": "El Consejo General del Poder Judicial."
+      "D": "El Tribunal Supremo."
     },
     "correct": "B"
   },
@@ -443,142 +443,142 @@
     "id": 41,
     "question": "La Constitución establece una cláusula derogatoria de gran amplitud, lo que supone que:",
     "answers": {
-      "A": "Las normas previas que contradigan la CE no serán eficaces o aplicables.",
+      "A": "Ninguna de las anteriores.",
       "B": "Solo se derogan las leyes orgánicas anteriores.",
-      "C": "Se necesita un desarrollo legislativo posterior para su eficacia.",
-      "D": "Ninguna de las anteriores."
+      "C": "Las normas previas que contradigan la CE no serán eficaces o aplicables.",
+      "D": "Se necesita un desarrollo legislativo posterior para su eficacia."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 42,
     "question": "La CE de 1978 consta de:",
     "answers": {
-      "A": "Un Preámbulo, Título Preliminar, X Títulos, cuatro Disposiciones Adicionales, nueve Disposiciones Transitorias, una Disposición Derogatoria y una Disposición Final.",
+      "A": "Un Preámbulo y cinco Títulos.",
       "B": "Solo Título Preliminar y Títulos I al X.",
-      "C": "Un Preámbulo y cinco Títulos.",
+      "C": "Un Preámbulo, Título Preliminar, X Títulos, cuatro Disposiciones Adicionales, nueve Disposiciones Transitorias, una Disposición Derogatoria y una Disposición Final.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 43,
     "question": "El Título Preliminar de la CE abarca los artículos:",
     "answers": {
-      "A": "Del 1 al 9.",
+      "A": "Del 56 al 169.",
       "B": "Del 10 al 55.",
       "C": "Del 1 al 169.",
-      "D": "Del 56 al 169."
+      "D": "Del 1 al 9."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 44,
     "question": "Los X Títulos de la parte orgánica de la CE abarcan los artículos:",
     "answers": {
-      "A": "Del 1 al 9.",
-      "B": "Del 10 al 169.",
+      "A": "Del 56 al 96.",
+      "B": "Del 1 al 9.",
       "C": "Del 14 al 55.",
-      "D": "Del 56 al 96."
+      "D": "Del 10 al 169."
     },
-    "correct": "B"
+    "correct": "D"
   },
   {
     "id": 45,
     "question": "La parte orgánica de la CE regula:",
     "answers": {
-      "A": "Los principales órganos que ejercen el poder público, su organización, composición y competencias.",
-      "B": "Únicamente los derechos fundamentales.",
-      "C": "Solo la Corona.",
-      "D": "Ninguna de las anteriores."
+      "A": "Únicamente los derechos fundamentales.",
+      "B": "Los principales órganos que ejercen el poder público, su organización, composición y competencias.",
+      "C": "Ninguna de las anteriores.",
+      "D": "Solo la Corona."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 46,
     "question": "¿Qué comprende la dimensión vertical de la parte orgánica de la CE?",
     "answers": {
-      "A": "El reparto de competencias entre el Estado central y las Comunidades Autónomas.",
-      "B": "La organización de los poderes legislativo, ejecutivo y judicial.",
-      "C": "La regulación del Rey.",
-      "D": "Ninguna de las anteriores."
+      "A": "La regulación del Rey.",
+      "B": "El reparto de competencias entre el Estado central y las Comunidades Autónomas.",
+      "C": "Ninguna de las anteriores.",
+      "D": "La organización de los poderes legislativo, ejecutivo y judicial."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 47,
     "question": "¿Cuántas Disposiciones Adicionales tiene la CE de 1978?",
     "answers": {
-      "A": "Cuatro.",
+      "A": "Una.",
       "B": "Cinco.",
       "C": "Nueve.",
-      "D": "Una."
+      "D": "Cuatro."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 48,
     "question": "¿Cuántas Disposiciones Transitorias tiene la CE de 1978?",
     "answers": {
-      "A": "Cuatro.",
-      "B": "Cinco.",
-      "C": "Nueve.",
+      "A": "Cinco.",
+      "B": "Nueve.",
+      "C": "Cuatro.",
       "D": "Una."
     },
-    "correct": "C"
+    "correct": "B"
   },
   {
     "id": 49,
     "question": "La Primera Disposición Adicional de la CE se refiere a:",
     "answers": {
-      "A": "El amparo y respeto de los derechos históricos de los territorios forales.",
-      "B": "La incorporación de Navarra al régimen autonómico vasco.",
-      "C": "El sistema electoral.",
-      "D": "El Tribunal Constitucional."
+      "A": "El Tribunal Constitucional.",
+      "B": "El amparo y respeto de los derechos históricos de los territorios forales.",
+      "C": "La incorporación de Navarra al régimen autonómico vasco.",
+      "D": "El sistema electoral."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 50,
     "question": "La Disposición Transitoria Cuarta de la CE prevé:",
     "answers": {
-      "A": "La posibilidad de incorporación de Navarra al Consejo General Vasco o al régimen autonómico vasco.",
-      "B": "La reforma constitucional agravada.",
-      "C": "La creación del Tribunal Constitucional.",
-      "D": "Ninguna de las anteriores."
+      "A": "La reforma constitucional agravada.",
+      "B": "La creación del Tribunal Constitucional.",
+      "C": "Ninguna de las anteriores.",
+      "D": "La posibilidad de incorporación de Navarra al Consejo General Vasco o al régimen autonómico vasco."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 51,
     "question": "La Disposición Final de la CE establece:",
     "answers": {
-      "A": "La publicación de la Constitución en el BOE y en las demás lenguas de España, y su entrada en vigor ese mismo día.",
+      "A": "Ninguna de las anteriores.",
       "B": "La entrada en vigor a los 20 días de su publicación.",
       "C": "Que la Constitución no necesita publicación.",
-      "D": "Ninguna de las anteriores."
+      "D": "La publicación de la Constitución en el BOE y en las demás lenguas de España, y su entrada en vigor ese mismo día."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 52,
     "question": "El artículo 10.1 CE afirma que el orden político y la paz social se fundamentan en:",
     "answers": {
-      "A": "La dignidad de la persona y los derechos inviolables que le son inherentes.",
-      "B": "La soberanía popular.",
+      "A": "La soberanía popular.",
+      "B": "Ninguna de las anteriores.",
       "C": "La separación de poderes.",
-      "D": "Ninguna de las anteriores."
+      "D": "La dignidad de la persona y los derechos inviolables que le son inherentes."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 53,
     "question": "El artículo 10.2 CE obliga a que la interpretación de los derechos y libertades se realice:",
     "answers": {
       "A": "De conformidad con la Declaración Universal de Derechos Humanos y los tratados internacionales ratificados por España.",
-      "B": "Exclusivamente conforme al Código Civil.",
+      "B": "Ninguna de las anteriores.",
       "C": "Según los usos y costumbres locales.",
-      "D": "Ninguna de las anteriores."
+      "D": "Exclusivamente conforme al Código Civil."
     },
     "correct": "A"
   },
@@ -587,33 +587,33 @@
     "question": "¿En cuántos Capítulos se estructura el Título I de la CE tras el art. 10?",
     "answers": {
       "A": "Tres.",
-      "B": "Cuatro.",
-      "C": "Cinco.",
-      "D": "Seis."
+      "B": "Cinco.",
+      "C": "Seis.",
+      "D": "Cuatro."
     },
-    "correct": "C"
+    "correct": "B"
   },
   {
     "id": 55,
     "question": "El Capítulo I del Título I de la CE se titula:",
     "answers": {
-      "A": "De los españoles y extranjeros.",
-      "B": "De los derechos y libertades.",
+      "A": "De las garantías de las libertades y derechos fundamentales.",
+      "B": "De los españoles y extranjeros.",
       "C": "De los principios rectores de la política social y económica.",
-      "D": "De las garantías de las libertades y derechos fundamentales."
+      "D": "De los derechos y libertades."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 56,
     "question": "El Capítulo I del Título I de la CE establece la mayoría de edad a los:",
     "answers": {
       "A": "16 años.",
-      "B": "18 años.",
-      "C": "21 años.",
-      "D": "25 años."
+      "B": "25 años.",
+      "C": "18 años.",
+      "D": "21 años."
     },
-    "correct": "B"
+    "correct": "C"
   },
   {
     "id": 57,
@@ -630,67 +630,67 @@
     "id": 58,
     "question": "El artículo 14 CE establece:",
     "answers": {
-      "A": "La igualdad de todos los españoles ante la ley, prohibiendo la discriminación.",
-      "B": "El derecho a la vida.",
-      "C": "El derecho a la libertad religiosa.",
-      "D": "Ninguna de las anteriores."
+      "A": "El derecho a la vida.",
+      "B": "El derecho a la libertad religiosa.",
+      "C": "Ninguna de las anteriores.",
+      "D": "La igualdad de todos los españoles ante la ley, prohibiendo la discriminación."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 59,
     "question": "La Sección 1.ª del Capítulo II del Título I (arts. 15 a 29) se considera:",
     "answers": {
-      "A": "El «núcleo duro» de los derechos fundamentales en sentido estricto.",
-      "B": "Los principios rectores de la política social.",
-      "C": "Los deberes constitucionales.",
-      "D": "Ninguna de las anteriores."
+      "A": "Los deberes constitucionales.",
+      "B": "Ninguna de las anteriores.",
+      "C": "Los principios rectores de la política social.",
+      "D": "El «núcleo duro» de los derechos fundamentales en sentido estricto."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 60,
     "question": "¿Cuáles de las siguientes garantías reforzadas poseen los derechos de la Sección 1.ª (arts. 14-29)?",
     "answers": {
-      "A": "Reserva de ley orgánica.",
-      "B": "Procedimiento agravado de reforma.",
+      "A": "Todas las anteriores son correctas.",
+      "B": "Reserva de ley orgánica.",
       "C": "Procedimiento preferente y sumario, y recurso de amparo.",
-      "D": "Todas las anteriores son correctas."
+      "D": "Procedimiento agravado de reforma."
     },
-    "correct": "D"
+    "correct": "A"
   },
   {
     "id": 61,
     "question": "La Sección 2.ª del Capítulo II del Título I (arts. 30 a 38) recoge, entre otros, el derecho a:",
     "answers": {
-      "A": "La propiedad, a contraer matrimonio, al trabajo y a la negociación colectiva.",
-      "B": "La vida y la libertad religiosa.",
-      "C": "La tutela judicial efectiva.",
-      "D": "Ninguna de las anteriores."
+      "A": "La vida y la libertad religiosa.",
+      "B": "La tutela judicial efectiva.",
+      "C": "Ninguna de las anteriores.",
+      "D": "La propiedad, a contraer matrimonio, al trabajo y a la negociación colectiva."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 62,
     "question": "¿Qué garantía tienen los derechos de la Sección 2.ª del Capítulo II?",
     "answers": {
-      "A": "Reserva de ley ordinaria y reforma constitucional por procedimiento ordinario.",
-      "B": "Reserva de ley orgánica.",
-      "C": "Recurso de amparo directo.",
-      "D": "Ninguna de las anteriores."
+      "A": "Ninguna de las anteriores.",
+      "B": "Recurso de amparo directo.",
+      "C": "Reserva de ley ordinaria y reforma constitucional por procedimiento ordinario.",
+      "D": "Reserva de ley orgánica."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 63,
     "question": "El Capítulo III del Título I recoge:",
     "answers": {
-      "A": "Los principios rectores de la política social y económica.",
-      "B": "Los derechos fundamentales en sentido estricto.",
-      "C": "Las garantías jurisdiccionales.",
-      "D": "Ninguna de las anteriores."
+      "A": "Los derechos fundamentales en sentido estricto.",
+      "B": "Ninguna de las anteriores.",
+      "C": "Los principios rectores de la política social y económica.",
+      "D": "Las garantías jurisdiccionales."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 64,
@@ -698,8 +698,8 @@
     "answers": {
       "A": "Solo pueden ser invocados ante los tribunales de acuerdo con la ley que los desarrolle.",
       "B": "Son directamente exigibles ante los tribunales sin necesidad de desarrollo legislativo.",
-      "C": "Tienen recurso de amparo directo.",
-      "D": "Ninguna de las anteriores."
+      "C": "Ninguna de las anteriores.",
+      "D": "Tienen recurso de amparo directo."
     },
     "correct": "A"
   },
@@ -707,10 +707,10 @@
     "id": 65,
     "question": "¿Cuál de estos NO se encuentra entre los principios rectores del Capítulo III?",
     "answers": {
-      "A": "La protección de la familia y la infancia.",
-      "B": "El fomento del deporte.",
+      "A": "La protección de los consumidores.",
+      "B": "La protección de la familia y la infancia.",
       "C": "El derecho a la vida.",
-      "D": "La protección de los consumidores."
+      "D": "El fomento del deporte."
     },
     "correct": "C"
   },
@@ -718,43 +718,43 @@
     "id": 66,
     "question": "El Capítulo IV del Título I regula:",
     "answers": {
-      "A": "Las garantías de las libertades y derechos fundamentales.",
+      "A": "Los principios rectores.",
       "B": "Los deberes constitucionales.",
-      "C": "Los principios rectores.",
+      "C": "Las garantías de las libertades y derechos fundamentales.",
       "D": "La suspensión de derechos."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 67,
     "question": "El Capítulo V del Título I regula:",
     "answers": {
-      "A": "La suspensión de los derechos y libertades.",
-      "B": "Los principios rectores.",
-      "C": "Las garantías jurisdiccionales.",
+      "A": "Los principios rectores.",
+      "B": "Las garantías jurisdiccionales.",
+      "C": "La suspensión de los derechos y libertades.",
       "D": "Los deberes militares."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 68,
     "question": "Los derechos fundamentales vinculan de forma directa a:",
     "answers": {
-      "A": "Los poderes públicos.",
+      "A": "Ninguna de las anteriores.",
       "B": "Únicamente a los particulares.",
       "C": "Solo a las Comunidades Autónomas.",
-      "D": "Ninguna de las anteriores."
+      "D": "Los poderes públicos."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 69,
     "question": "La vinculación de los derechos fundamentales frente a los particulares se considera:",
     "answers": {
       "A": "Indirecta, a través de la actuación de los poderes públicos.",
-      "B": "Directa e inmediata sin intervención de los poderes públicos.",
-      "C": "Inexistente.",
-      "D": "Ninguna de las anteriores."
+      "B": "Ninguna de las anteriores.",
+      "C": "Directa e inmediata sin intervención de los poderes públicos.",
+      "D": "Inexistente."
     },
     "correct": "A"
   },
@@ -762,108 +762,108 @@
     "id": 70,
     "question": "Los límites implícitos de los derechos fundamentales:",
     "answers": {
-      "A": "Solo pueden basarse en otros bienes constitucionalmente protegidos.",
-      "B": "Pueden establecerse libremente por cualquier autoridad administrativa.",
+      "A": "Pueden establecerse libremente por cualquier autoridad administrativa.",
+      "B": "Solo pueden basarse en otros bienes constitucionalmente protegidos.",
       "C": "No existen en el ordenamiento español.",
-      "D": "Ninguna de las anteriores."
-    },
-    "correct": "A"
-  },
-  {
-    "id": 71,
-    "question": "¿Quién determina en última instancia los límites implícitos de los derechos fundamentales?",
-    "answers": {
-      "A": "El Tribunal Constitucional.",
-      "B": "El Defensor del Pueblo.",
-      "C": "El Consejo de Ministros.",
-      "D": "El Tribunal Supremo únicamente."
-    },
-    "correct": "A"
-  },
-  {
-    "id": 72,
-    "question": "En materia de titularidad de los derechos fundamentales, la CE distingue tres grupos de derechos en relación con los extranjeros. ¿Cuál de estos pertenece al primer grupo (predicable de toda persona)?",
-    "answers": {
-      "A": "El derecho a la vida.",
-      "B": "El derecho de sufragio activo en elecciones generales.",
-      "C": "El acceso a funciones y cargos públicos.",
-      "D": "Ninguna de las anteriores."
-    },
-    "correct": "A"
-  },
-  {
-    "id": 73,
-    "question": "¿Qué artículo de la CE excluye a los extranjeros de los derechos de participación política y acceso a funciones públicas, salvo excepciones?",
-    "answers": {
-      "A": "El artículo 13.",
-      "B": "El artículo 14.",
-      "C": "El artículo 10.",
-      "D": "El artículo 30."
-    },
-    "correct": "A"
-  },
-  {
-    "id": 74,
-    "question": "Las personas jurídicas, según el Tribunal Constitucional, son titulares de derechos fundamentales:",
-    "answers": {
-      "A": "Que pueden ostentar de acuerdo con su naturaleza, como la igualdad ante la ley o la inviolabilidad de domicilio.",
-      "B": "De todos los derechos fundamentales sin excepción.",
-      "C": "De ningún derecho fundamental.",
-      "D": "Ninguna de las anteriores."
-    },
-    "correct": "A"
-  },
-  {
-    "id": 75,
-    "question": "El deber y derecho de defender a España se recoge en el artículo:",
-    "answers": {
-      "A": "30 de la CE.",
-      "B": "31 de la CE.",
-      "C": "35 de la CE.",
-      "D": "9 de la CE."
-    },
-    "correct": "A"
-  },
-  {
-    "id": 76,
-    "question": "¿La CE exige la existencia de un servicio militar obligatorio?",
-    "answers": {
-      "A": "Sí, siempre.",
-      "B": "No, es la ley quien puede fijarlo u optar por un ejército profesional.",
-      "C": "Solo en caso de guerra.",
       "D": "Ninguna de las anteriores."
     },
     "correct": "B"
   },
   {
+    "id": 71,
+    "question": "¿Quién determina en última instancia los límites implícitos de los derechos fundamentales?",
+    "answers": {
+      "A": "El Consejo de Ministros.",
+      "B": "El Defensor del Pueblo.",
+      "C": "El Tribunal Supremo únicamente.",
+      "D": "El Tribunal Constitucional."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 72,
+    "question": "En materia de titularidad de los derechos fundamentales, la CE distingue tres grupos de derechos en relación con los extranjeros. ¿Cuál de estos pertenece al primer grupo (predicable de toda persona)?",
+    "answers": {
+      "A": "El derecho de sufragio activo en elecciones generales.",
+      "B": "Ninguna de las anteriores.",
+      "C": "El derecho a la vida.",
+      "D": "El acceso a funciones y cargos públicos."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 73,
+    "question": "¿Qué artículo de la CE excluye a los extranjeros de los derechos de participación política y acceso a funciones públicas, salvo excepciones?",
+    "answers": {
+      "A": "El artículo 10.",
+      "B": "El artículo 30.",
+      "C": "El artículo 13.",
+      "D": "El artículo 14."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 74,
+    "question": "Las personas jurídicas, según el Tribunal Constitucional, son titulares de derechos fundamentales:",
+    "answers": {
+      "A": "De ningún derecho fundamental.",
+      "B": "Que pueden ostentar de acuerdo con su naturaleza, como la igualdad ante la ley o la inviolabilidad de domicilio.",
+      "C": "Ninguna de las anteriores.",
+      "D": "De todos los derechos fundamentales sin excepción."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 75,
+    "question": "El deber y derecho de defender a España se recoge en el artículo:",
+    "answers": {
+      "A": "9 de la CE.",
+      "B": "30 de la CE.",
+      "C": "31 de la CE.",
+      "D": "35 de la CE."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 76,
+    "question": "¿La CE exige la existencia de un servicio militar obligatorio?",
+    "answers": {
+      "A": "Solo en caso de guerra.",
+      "B": "Ninguna de las anteriores.",
+      "C": "No, es la ley quien puede fijarlo u optar por un ejército profesional.",
+      "D": "Sí, siempre."
+    },
+    "correct": "C"
+  },
+  {
     "id": 77,
     "question": "La objeción de conciencia al servicio militar se recoge:",
     "answers": {
-      "A": "De forma expresa en la Constitución.",
-      "B": "En ninguna norma.",
+      "A": "En ninguna norma.",
+      "B": "Ninguna de las anteriores.",
       "C": "Solo en un reglamento.",
-      "D": "Ninguna de las anteriores."
+      "D": "De forma expresa en la Constitución."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 78,
     "question": "El artículo 31 CE establece la obligación de contribuir al sostenimiento de los gastos públicos:",
     "answers": {
-      "A": "Basada en un sistema justo, inspirado en igualdad y progresividad, sin carácter confiscatorio.",
-      "B": "De forma proporcional exclusivamente.",
-      "C": "Solo para las personas físicas residentes.",
-      "D": "Ninguna de las anteriores."
+      "A": "De forma proporcional exclusivamente.",
+      "B": "Solo para las personas físicas residentes.",
+      "C": "Ninguna de las anteriores.",
+      "D": "Basada en un sistema justo, inspirado en igualdad y progresividad, sin carácter confiscatorio."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 79,
     "question": "Según el art. 31 CE, el término «todos» respecto a la contribución tributaria incluye a:",
     "answers": {
       "A": "Todas las personas físicas y jurídicas residentes en España, con independencia de su nacionalidad.",
-      "B": "Solo a los españoles.",
-      "C": "Solo a las personas jurídicas.",
+      "B": "Solo a las personas jurídicas.",
+      "C": "Solo a los españoles.",
       "D": "Ninguna de las anteriores."
     },
     "correct": "A"
@@ -872,31 +872,31 @@
     "id": 80,
     "question": "La CE contempla la posibilidad de establecer:",
     "answers": {
-      "A": "Un servicio civil para el cumplimiento de fines de interés general.",
-      "B": "Solo el servicio militar obligatorio.",
-      "C": "Ningún otro deber más allá del militar y tributario.",
-      "D": "Ninguna de las anteriores."
+      "A": "Ningún otro deber más allá del militar y tributario.",
+      "B": "Un servicio civil para el cumplimiento de fines de interés general.",
+      "C": "Ninguna de las anteriores.",
+      "D": "Solo el servicio militar obligatorio."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 81,
     "question": "El Defensor del Pueblo, según el art. 54 CE, es designado por:",
     "answers": {
-      "A": "Las Cortes Generales, como alto comisionado.",
-      "B": "El Gobierno.",
-      "C": "El Rey.",
-      "D": "El Tribunal Supremo."
+      "A": "El Rey.",
+      "B": "Las Cortes Generales, como alto comisionado.",
+      "C": "El Tribunal Supremo.",
+      "D": "El Gobierno."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 82,
     "question": "¿Qué ley orgánica regula al Defensor del Pueblo?",
     "answers": {
       "A": "Ley Orgánica 3/1981, de 6 de abril.",
-      "B": "Ley Orgánica 2/1979.",
-      "C": "Ley Orgánica 5/1985.",
+      "B": "Ley Orgánica 5/1985.",
+      "C": "Ley Orgánica 2/1979.",
       "D": "Ley Orgánica 3/2007."
     },
     "correct": "A"
@@ -906,130 +906,130 @@
     "question": "El Defensor del Pueblo tiene competencias ejecutivas para anular actos administrativos.",
     "answers": {
       "A": "Verdadero, puede anular directamente cualquier acto.",
-      "B": "Falso, carece de competencias ejecutivas; su proyección es más política que jurídica.",
-      "C": "Solo en materia tributaria.",
-      "D": "Ninguna de las anteriores."
+      "B": "Ninguna de las anteriores.",
+      "C": "Falso, carece de competencias ejecutivas; su proyección es más política que jurídica.",
+      "D": "Solo en materia tributaria."
     },
-    "correct": "B"
+    "correct": "C"
   },
   {
     "id": 84,
     "question": "La reserva de ley respecto a los derechos fundamentales del Capítulo II del Título I implica que:",
     "answers": {
-      "A": "Su regulación debe hacerse por ley, no por otro órgano distinto del legislativo.",
-      "B": "Pueden ser regulados por reglamento.",
-      "C": "No requieren regulación alguna.",
-      "D": "Ninguna de las anteriores."
+      "A": "No requieren regulación alguna.",
+      "B": "Ninguna de las anteriores.",
+      "C": "Su regulación debe hacerse por ley, no por otro órgano distinto del legislativo.",
+      "D": "Pueden ser regulados por reglamento."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 85,
     "question": "El contenido esencial de un derecho fundamental constituye:",
     "answers": {
-      "A": "Un núcleo mínimo indisponible para todos los poderes públicos.",
-      "B": "Un límite fijado libremente por el legislador.",
-      "C": "Una categoría inexistente en la doctrina constitucional.",
-      "D": "Ninguna de las anteriores."
+      "A": "Ninguna de las anteriores.",
+      "B": "Una categoría inexistente en la doctrina constitucional.",
+      "C": "Un núcleo mínimo indisponible para todos los poderes públicos.",
+      "D": "Un límite fijado libremente por el legislador."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 86,
     "question": "El recurso de amparo constitucional puede ser interpuesto por:",
     "answers": {
-      "A": "Toda persona física o jurídica afectada, el Defensor del Pueblo y el Ministerio Fiscal.",
-      "B": "Únicamente por el Defensor del Pueblo.",
-      "C": "Solo por las Comunidades Autónomas.",
-      "D": "Ninguna de las anteriores."
+      "A": "Únicamente por el Defensor del Pueblo.",
+      "B": "Ninguna de las anteriores.",
+      "C": "Toda persona física o jurídica afectada, el Defensor del Pueblo y el Ministerio Fiscal.",
+      "D": "Solo por las Comunidades Autónomas."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 87,
     "question": "El recurso de amparo tiene carácter subsidiario, lo que significa que:",
     "answers": {
-      "A": "Solo puede acudirse al TC tras haber agotado los instrumentos ordinarios de defensa.",
-      "B": "Se puede acudir directamente al TC sin pasar por los tribunales ordinarios.",
+      "A": "Se puede acudir directamente al TC sin pasar por los tribunales ordinarios.",
+      "B": "Solo puede acudirse al TC tras haber agotado los instrumentos ordinarios de defensa.",
       "C": "No existe agotamiento de la vía previa.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 88,
     "question": "El TC, al otorgar el amparo, puede acordar como efecto:",
     "answers": {
-      "A": "La declaración de nulidad del acto impugnado, el reconocimiento del derecho vulnerado y el restablecimiento en la integridad del derecho.",
-      "B": "Solo la nulidad del acto impugnado.",
+      "A": "Solo la nulidad del acto impugnado.",
+      "B": "Ninguna de las anteriores.",
       "C": "Solo una indemnización económica.",
-      "D": "Ninguna de las anteriores."
+      "D": "La declaración de nulidad del acto impugnado, el reconocimiento del derecho vulnerado y el restablecimiento en la integridad del derecho."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 89,
     "question": "¿Cuáles son las tres vías internacionales/supranacionales de protección de derechos humanos mencionadas en el temario?",
     "answers": {
-      "A": "El Comité de Derechos Humanos de la ONU, el TEDH y la Carta de Derechos Fundamentales de la UE.",
-      "B": "Solo el TEDH.",
-      "C": "Solo la ONU.",
-      "D": "Ninguna de las anteriores."
+      "A": "Ninguna de las anteriores.",
+      "B": "Solo la ONU.",
+      "C": "El Comité de Derechos Humanos de la ONU, el TEDH y la Carta de Derechos Fundamentales de la UE.",
+      "D": "Solo el TEDH."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 90,
     "question": "El acceso al TEDH exige:",
     "answers": {
-      "A": "Haber agotado previamente todas las vías internas, incluido en su caso el recurso de amparo.",
-      "B": "Presentar la demanda de forma inmediata sin trámites previos.",
-      "C": "Solicitar autorización del Gobierno del Estado.",
-      "D": "Ninguna de las anteriores."
+      "A": "Solicitar autorización del Gobierno del Estado.",
+      "B": "Haber agotado previamente todas las vías internas, incluido en su caso el recurso de amparo.",
+      "C": "Ninguna de las anteriores.",
+      "D": "Presentar la demanda de forma inmediata sin trámites previos."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 91,
     "question": "El estado de alarma se regula, junto al estado de excepción y de sitio, en la:",
     "answers": {
-      "A": "Ley Orgánica 4/1981.",
-      "B": "Ley Orgánica 3/1981.",
+      "A": "Ley Orgánica 5/1985.",
+      "B": "Ley Orgánica 4/1981.",
       "C": "Ley Orgánica 2/1979.",
-      "D": "Ley Orgánica 5/1985."
+      "D": "Ley Orgánica 3/1981."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 92,
     "question": "Durante el estado de alarma, ¿se produce una suspensión de derechos fundamentales en sentido estricto?",
     "answers": {
-      "A": "No, solo puede limitarse el ejercicio de algunos derechos.",
-      "B": "Sí, se suspenden todos los derechos.",
-      "C": "Solo se suspende el derecho de huelga.",
-      "D": "Ninguna de las anteriores."
+      "A": "Ninguna de las anteriores.",
+      "B": "Solo se suspende el derecho de huelga.",
+      "C": "Sí, se suspenden todos los derechos.",
+      "D": "No, solo puede limitarse el ejercicio de algunos derechos."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 93,
     "question": "¿Qué derechos puede implicar la suspensión durante el estado de sitio, además de los del estado de excepción?",
     "answers": {
-      "A": "Las garantías del art. 17.3 CE relativas a la información inmediata al detenido de sus derechos y a la asistencia letrada.",
+      "A": "Ninguna de las anteriores.",
       "B": "El derecho a la vida.",
-      "C": "El derecho de sufragio.",
-      "D": "Ninguna de las anteriores."
+      "C": "Las garantías del art. 17.3 CE relativas a la información inmediata al detenido de sus derechos y a la asistencia letrada.",
+      "D": "El derecho de sufragio."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 94,
     "question": "La suspensión individual de derechos del art. 55.2 CE afecta a personas relacionadas con:",
     "answers": {
       "A": "Investigaciones sobre bandas armadas o elementos terroristas.",
-      "B": "Cualquier delito común.",
-      "C": "Infracciones administrativas leves.",
-      "D": "Ninguna de las anteriores."
+      "B": "Infracciones administrativas leves.",
+      "C": "Ninguna de las anteriores.",
+      "D": "Cualquier delito común."
     },
     "correct": "A"
   },
@@ -1038,9 +1038,9 @@
     "question": "¿Qué derechos concretos puede afectar la suspensión individual del art. 55.2 CE?",
     "answers": {
       "A": "La inviolabilidad del domicilio, el secreto de las comunicaciones y el plazo máximo de detención preventiva.",
-      "B": "El derecho al honor.",
+      "B": "Ninguna de las anteriores.",
       "C": "El derecho a la educación.",
-      "D": "Ninguna de las anteriores."
+      "D": "El derecho al honor."
     },
     "correct": "A"
   },
@@ -1048,99 +1048,99 @@
     "id": 96,
     "question": "La forma de gobierno de España es:",
     "answers": {
-      "A": "La monarquía parlamentaria.",
-      "B": "La república presidencialista.",
-      "C": "La monarquía absoluta.",
+      "A": "La monarquía absoluta.",
+      "B": "La monarquía parlamentaria.",
+      "C": "La república presidencialista.",
       "D": "El sistema federal puro."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 97,
     "question": "El Congreso y el Senado forman conjuntamente:",
     "answers": {
-      "A": "Las Cortes Generales.",
-      "B": "El Tribunal Constitucional.",
-      "C": "El Consejo de Estado.",
-      "D": "Ninguna de las anteriores."
+      "A": "El Consejo de Estado.",
+      "B": "Ninguna de las anteriores.",
+      "C": "El Tribunal Constitucional.",
+      "D": "Las Cortes Generales."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 98,
     "question": "La Constitución de 1978 fue ratificada en referéndum y sancionada por el Rey el:",
     "answers": {
-      "A": "6 de diciembre de 1978.",
-      "B": "20 de noviembre de 1975.",
+      "A": "20 de noviembre de 1975.",
+      "B": "29 de diciembre de 1978.",
       "C": "15 de junio de 1977.",
-      "D": "29 de diciembre de 1978."
+      "D": "6 de diciembre de 1978."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 99,
     "question": "El artículo 9.1 CE establece que:",
     "answers": {
-      "A": "Los ciudadanos y los poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico.",
+      "A": "Ninguna de las anteriores.",
       "B": "Solo los ciudadanos están sujetos a la Constitución.",
-      "C": "Solo los poderes públicos están sujetos a la Constitución.",
-      "D": "Ninguna de las anteriores."
+      "C": "Los ciudadanos y los poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico.",
+      "D": "Solo los poderes públicos están sujetos a la Constitución."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 100,
     "question": "El artículo 9.2 CE encomienda a los poderes públicos:",
     "answers": {
-      "A": "Promover las condiciones para que la libertad e igualdad sean reales y efectivas, y remover los obstáculos que lo impidan.",
+      "A": "Regular el régimen electoral.",
       "B": "Garantizar exclusivamente la seguridad jurídica.",
-      "C": "Regular el régimen electoral.",
-      "D": "Ninguna de las anteriores."
+      "C": "Ninguna de las anteriores.",
+      "D": "Promover las condiciones para que la libertad e igualdad sean reales y efectivas, y remover los obstáculos que lo impidan."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 101,
     "question": "¿Qué antecedente normativo sirvió de fundamento para la transición política previa a la CE de 1978?",
     "answers": {
-      "A": "La Ley para la Reforma Política de 1977.",
+      "A": "Ninguna de las anteriores.",
       "B": "La Ley de Bases del Régimen Local.",
-      "C": "El Estatuto de los Trabajadores.",
-      "D": "Ninguna de las anteriores."
+      "C": "La Ley para la Reforma Política de 1977.",
+      "D": "El Estatuto de los Trabajadores."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 102,
     "question": "¿Quién elaboró el anteproyecto de la Constitución de 1978?",
     "answers": {
-      "A": "Una ponencia de siete diputados del Congreso.",
-      "B": "El Senado en pleno.",
-      "C": "El Gobierno de Franco.",
-      "D": "El Rey Juan Carlos I directamente."
+      "A": "El Senado en pleno.",
+      "B": "Una ponencia de siete diputados del Congreso.",
+      "C": "El Rey Juan Carlos I directamente.",
+      "D": "El Gobierno de Franco."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 103,
     "question": "La Comisión Mixta Congreso-Senado en el proceso constituyente de 1978 se creó para:",
     "answers": {
-      "A": "Resolver las diferencias entre el texto aprobado por el Congreso y el aprobado por el Senado.",
-      "B": "Elegir al primer Tribunal Constitucional.",
-      "C": "Redactar los Estatutos de Autonomía.",
-      "D": "Ninguna de las anteriores."
+      "A": "Elegir al primer Tribunal Constitucional.",
+      "B": "Resolver las diferencias entre el texto aprobado por el Congreso y el aprobado por el Senado.",
+      "C": "Ninguna de las anteriores.",
+      "D": "Redactar los Estatutos de Autonomía."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 104,
     "question": "La eficacia de los derechos fundamentales implica que son exigibles frente a los poderes públicos:",
     "answers": {
-      "A": "Sin necesidad de previo desarrollo por ley.",
-      "B": "Solo si existe ley de desarrollo.",
-      "C": "Únicamente ante el Defensor del Pueblo.",
-      "D": "Ninguna de las anteriores."
+      "A": "Únicamente ante el Defensor del Pueblo.",
+      "B": "Sin necesidad de previo desarrollo por ley.",
+      "C": "Ninguna de las anteriores.",
+      "D": "Solo si existe ley de desarrollo."
     },
-    "correct": "A"
+    "correct": "B"
   }
 ]
