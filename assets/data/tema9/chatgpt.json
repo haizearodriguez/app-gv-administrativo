@@ -1,0 +1,948 @@
+[
+  {
+    "id": 1,
+    "question": "El Estatuto Básico del Empleado Público (EBEP) está aprobado por:",
+    "answers": {
+      "A": "El Real Decreto 364/1995",
+      "B": "El Real Decreto Legislativo 5/2015, de 30 de octubre",
+      "C": "La Ley 7/2007, de 12 de abril, sin modificaciones posteriores",
+      "D": "La Ley 30/1984"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 2,
+    "question": "Según el EBEP, son empleados públicos:",
+    "answers": {
+      "A": "Exclusivamente los cargos de elección popular",
+      "B": "Solo el personal directivo profesional",
+      "C": "Quienes desempeñan funciones retribuidas en las Administraciones Públicas al servicio de los intereses generales",
+      "D": "Únicamente quienes ostentan la condición de funcionario de carrera"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 3,
+    "question": "El EBEP clasifica al personal al servicio de las Administraciones Públicas en las siguientes clases:",
+    "answers": {
+      "A": "Solo personal eventual y personal directivo",
+      "B": "Funcionarios de carrera y cargos políticos exclusivamente",
+      "C": "Funcionarios de carrera, funcionarios interinos, personal laboral y personal eventual",
+      "D": "Únicamente funcionarios de carrera y personal laboral"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 4,
+    "question": "Son funcionarios de carrera quienes:",
+    "answers": {
+      "A": "Prestan servicios exclusivamente mediante contrato laboral indefinido",
+      "B": "En virtud de nombramiento legal están vinculados a una Administración Pública por una relación estatutaria regulada por el Derecho Administrativo para el desempeño de servicios profesionales retribuidos de carácter permanente",
+      "C": "Son nombrados libremente sin superar proceso selectivo alguno",
+      "D": "Ocupan el puesto únicamente con carácter temporal y eventual"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 5,
+    "question": "Son funcionarios interinos quienes:",
+    "answers": {
+      "A": "Tienen la misma inamovilidad que los funcionarios de carrera",
+      "B": "Ocupan puestos de libre designación de manera permanente",
+      "C": "Por razones de necesidad y urgencia son nombrados como tales para el desempeño de funciones propias de funcionarios de carrera cuando se den las circunstancias previstas legalmente",
+      "D": "Son contratados exclusivamente para funciones de confianza política"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 6,
+    "question": "Entre las circunstancias que permiten el nombramiento de funcionarios interinos se encuentra:",
+    "answers": {
+      "A": "La existencia de plazas vacantes cuando no sea posible su cobertura por funcionarios de carrera",
+      "B": "La necesidad de sustituir a un cargo de elección popular",
+      "C": "La ausencia de presupuesto para cubrir la plaza",
+      "D": "La voluntad exclusiva del interesado sin ninguna causa habilitante"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 7,
+    "question": "El personal laboral al servicio de las Administraciones Públicas es:",
+    "answers": {
+      "A": "Equivalente en todo a los funcionarios de carrera",
+      "B": "Exclusivamente personal de alta dirección",
+      "C": "El que en virtud de contrato de trabajo formalizado por escrito presta servicios retribuidos",
+      "D": "El que ejerce funciones de autoridad sin contrato alguno"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 8,
+    "question": "El personal eventual es aquel que:",
+    "answers": {
+      "A": "En virtud de nombramiento y con carácter no permanente, solo realiza funciones expresamente calificadas como de confianza o asesoramiento especial",
+      "B": "Tiene garantizada la inamovilidad en su puesto",
+      "C": "Accede mediante concurso-oposición ordinario",
+      "D": "Ocupa plazas estructurales de la plantilla con carácter indefinido"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 9,
+    "question": "El cese del personal eventual se produce:",
+    "answers": {
+      "A": "Únicamente mediante expediente disciplinario",
+      "B": "Exclusivamente por sentencia judicial firme",
+      "C": "Solo tras la jubilación por edad",
+      "D": "Libremente y en todo caso cuando se produzca el cese de la autoridad a la que preste su función de confianza o asesoramiento"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 10,
+    "question": "La condición de personal eventual no podrá constituir mérito para:",
+    "answers": {
+      "A": "El acceso a la Función Pública o para la promoción interna",
+      "B": "El disfrute de vacaciones",
+      "C": "La percepción de retribuciones",
+      "D": "El acceso a la Seguridad Social"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 11,
+    "question": "Según el EBEP, los principios que rigen el acceso al empleo público son, entre otros:",
+    "answers": {
+      "A": "Libre designación generalizada",
+      "B": "Sorteo público sin evaluación de méritos",
+      "C": "Antigüedad exclusiva sin más criterios",
+      "D": "Igualdad, mérito y capacidad, así como publicidad de las convocatorias"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 12,
+    "question": "Los derechos individuales de los empleados públicos reconocidos en el EBEP incluyen, entre otros:",
+    "answers": {
+      "A": "El derecho a elegir libremente su destino sin convocatoria",
+      "B": "El derecho a no cumplir ninguna jornada laboral",
+      "C": "El derecho a la carrera profesional y a la promoción interna",
+      "D": "El derecho a no ser evaluado nunca en su desempeño"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 13,
+    "question": "Entre los derechos de carácter individual ejercidos colectivamente, el EBEP reconoce:",
+    "answers": {
+      "A": "El derecho al honor exclusivamente",
+      "B": "El derecho a la libre circulación de mercancías",
+      "C": "El derecho a la propiedad privada",
+      "D": "La libertad sindical y la negociación colectiva"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 14,
+    "question": "Los deberes de los empleados públicos recogidos en el EBEP incluyen, entre otros:",
+    "answers": {
+      "A": "La prohibición absoluta de ejercer el derecho de huelga en todo caso",
+      "B": "La afiliación obligatoria a un partido político",
+      "C": "El respeto a la Constitución y al resto de normas que integran el ordenamiento jurídico",
+      "D": "La obligación de residir en la capital del Estado"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 15,
+    "question": "El Código de Conducta de los empleados públicos, recogido en el EBEP, se estructura en:",
+    "answers": {
+      "A": "Reglas de protocolo internacional",
+      "B": "Normas de tráfico y seguridad vial",
+      "C": "Principios éticos y principios de conducta",
+      "D": "Exclusivamente sanciones económicas"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 16,
+    "question": "Entre los principios éticos de los empleados públicos recogidos en el EBEP se encuentra:",
+    "answers": {
+      "A": "La obtención del máximo beneficio personal en el ejercicio del cargo",
+      "B": "La objetividad, integridad, neutralidad, responsabilidad, imparcialidad, confidencialidad, dedicación al servicio público, transparencia, ejemplaridad, austeridad, accesibilidad, eficacia, honradez, promoción del entorno cultural y medioambiental y respeto a la igualdad entre mujeres y hombres",
+      "C": "La aceptación de regalos de particulares sin ninguna limitación",
+      "D": "La preferencia por intereses privados sobre el interés general"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 17,
+    "question": "El derecho a la carrera profesional y la promoción interna de los empleados públicos se articula, entre otras, a través de las siguientes modalidades:",
+    "answers": {
+      "A": "Solo mediante sorteo entre el personal",
+      "B": "Exclusivamente mediante libre designación directa",
+      "C": "Carrera horizontal, carrera vertical, promoción interna vertical y promoción interna horizontal",
+      "D": "Únicamente mediante ascenso automático por antigüedad"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 18,
+    "question": "La «carrera horizontal» consiste en:",
+    "answers": {
+      "A": "El ingreso en un cuerpo de nivel superior",
+      "B": "El cambio de puesto de trabajo mediante concurso",
+      "C": "La jubilación anticipada voluntaria",
+      "D": "La progresión de grado, categoría, escalón u otros conceptos análogos sin necesidad de cambiar de puesto de trabajo"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 19,
+    "question": "La «carrera vertical» consiste en:",
+    "answers": {
+      "A": "La reducción voluntaria de jornada",
+      "B": "La permanencia indefinida en el mismo puesto sin posibilidad de cambio",
+      "C": "El ascenso en la estructura de puestos de trabajo mediante los procedimientos de provisión establecidos",
+      "D": "El cambio de Administración sin concurso"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 20,
+    "question": "El sistema retributivo de los funcionarios de carrera, según el EBEP, se compone de retribuciones básicas y retribuciones complementarias; entre las retribuciones básicas se encuentra:",
+    "answers": {
+      "A": "Solo el complemento específico",
+      "B": "Exclusivamente el complemento de destino",
+      "C": "Las gratificaciones por servicios extraordinarios",
+      "D": "El sueldo y los trienios"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 21,
+    "question": "Entre las retribuciones complementarias de los funcionarios se incluyen, conforme al EBEP:",
+    "answers": {
+      "A": "Las pagas extraordinarias únicamente",
+      "B": "El sueldo base exclusivamente",
+      "C": "Únicamente los trienios",
+      "D": "El complemento de destino, el complemento específico y el complemento de productividad"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 22,
+    "question": "Los «trienios» consisten en:",
+    "answers": {
+      "A": "Una cantidad igual para cada subgrupo o grupo de clasificación profesional por cada tres años de servicio",
+      "B": "Una deducción salarial por antigüedad",
+      "C": "Un premio único concedido en el momento de la jubilación",
+      "D": "Un complemento exclusivo para el personal eventual"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 23,
+    "question": "El complemento de destino retribuye:",
+    "answers": {
+      "A": "Los servicios extraordinarios prestados fuera de la jornada",
+      "B": "La productividad individual medida por objetivos",
+      "C": "El nivel del puesto de trabajo que se desempeña",
+      "D": "Exclusivamente la especial dificultad técnica del puesto"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 24,
+    "question": "El complemento específico retribuye, entre otros factores:",
+    "answers": {
+      "A": "Las condiciones particulares de los puestos de trabajo en atención a su especial dificultad técnica, dedicación, responsabilidad, incompatibilidad, peligrosidad o penosidad",
+      "B": "El número de hijos a cargo del funcionario",
+      "C": "Exclusivamente la antigüedad en el cuerpo",
+      "D": "El nivel de estudios no relacionado con el puesto"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 25,
+    "question": "El complemento de productividad retribuye:",
+    "answers": {
+      "A": "El especial rendimiento, la actividad extraordinaria y el interés o iniciativa con que el funcionario desempeña su trabajo",
+      "B": "El puesto de trabajo con independencia del desempeño",
+      "C": "Los trienios consolidados",
+      "D": "Únicamente la antigüedad acumulada"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 26,
+    "question": "Las gratificaciones por servicios extraordinarios retribuyen:",
+    "answers": {
+      "A": "El desempeño habitual del puesto en jornada ordinaria",
+      "B": "La antigüedad del funcionario",
+      "C": "Las vacaciones no disfrutadas en el año natural",
+      "D": "Servicios prestados fuera de la jornada normal de trabajo, sin que su cuantía pueda ser fija en su cuantía ni periódica en su devengo"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 27,
+    "question": "La Mesa General de Negociación de las Administraciones Públicas, prevista en el EBEP, tiene por objeto la negociación de:",
+    "answers": {
+      "A": "Exclusivamente la política exterior del Estado",
+      "B": "Los presupuestos de las comunidades autónomas",
+      "C": "Materias comunes al personal funcionario, estatutario y laboral de cada Administración Pública",
+      "D": "El régimen electoral general"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 28,
+    "question": "Las materias objeto de negociación colectiva en el ámbito de la función pública incluyen, entre otras:",
+    "answers": {
+      "A": "El nombramiento de los miembros del Gobierno",
+      "B": "La política monetaria del Banco Central Europeo",
+      "C": "La organización territorial del Estado",
+      "D": "La aplicación del incremento de las retribuciones y los planes de ordenación de recursos humanos"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 29,
+    "question": "Según el EBEP, quedan excluidas de la obligatoriedad de la negociación colectiva, entre otras, las materias relativas a:",
+    "answers": {
+      "A": "Los sistemas de retribución básica",
+      "B": "El calendario laboral",
+      "C": "La decisión sobre la estructura, organización y potestad de organización de las Administraciones Públicas",
+      "D": "Las condiciones de trabajo del personal funcionario sin excepción alguna"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 30,
+    "question": "La jornada de trabajo de los empleados públicos se puede establecer con carácter:",
+    "answers": {
+      "A": "Solo nocturna",
+      "B": "Exclusivamente en fin de semana",
+      "C": "General o especial, pudiendo ser a tiempo completo o a tiempo parcial",
+      "D": "Únicamente a tiempo completo sin posibilidad de reducción"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 31,
+    "question": "El permiso por asuntos particulares reconocido a los empleados públicos consiste, con carácter general, en:",
+    "answers": {
+      "A": "Un permiso exclusivo para el personal directivo",
+      "B": "La obligación de justificar documentalmente cada día solicitado",
+      "C": "Un número determinado de días al año no vinculados a causa alguna, adicionales a los días de libre disposición que puedan establecerse",
+      "D": "Un permiso retribuido únicamente en caso de enfermedad grave"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 32,
+    "question": "El permiso por matrimonio o inscripción como pareja de hecho reconocido a los empleados públicos tiene una duración de:",
+    "answers": {
+      "A": "Treinta días naturales",
+      "B": "Seis meses",
+      "C": "Un único día laborable",
+      "D": "Quince días naturales"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 33,
+    "question": "El permiso por nacimiento para la madre biológica, conforme a la normativa vigente de función pública, tiene una duración de:",
+    "answers": {
+      "A": "Un mes sin posibilidad de ampliación",
+      "B": "Una semana exclusivamente",
+      "C": "Treinta días naturales improrrogables",
+      "D": "Dieciséis semanas ininterrumpidas, ampliables en los supuestos de discapacidad del hijo o hija o parto múltiple"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 34,
+    "question": "El permiso por lactancia de un hijo o hija menor de doce meses da derecho a:",
+    "answers": {
+      "A": "Ningún tipo de permiso específico",
+      "B": "La reducción de jornada únicamente al 50 % sin alternativas",
+      "C": "Un año completo de excedencia obligatoria",
+      "D": "Una hora de ausencia del trabajo que podrá dividirse en dos fracciones, con posibilidad de sustitución por una reducción de jornada o su acumulación en jornadas completas"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 35,
+    "question": "El permiso por fallecimiento, accidente o enfermedad grave de un familiar dentro del primer grado de consanguinidad o afinidad tiene una duración de:",
+    "answers": {
+      "A": "No está reconocido como permiso retribuido",
+      "B": "Un único día en todo caso",
+      "C": "Tres días hábiles cuando el suceso se produzca en la misma localidad y cinco días hábiles cuando sea en distinta localidad",
+      "D": "Quince días naturales siempre"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 36,
+    "question": "Las vacaciones anuales retribuidas de los funcionarios públicos, con carácter general, tienen una duración de:",
+    "answers": {
+      "A": "Veintidós días hábiles por año completo de servicio, o los días que correspondan proporcionalmente",
+      "B": "Treinta días naturales sin posibilidad de fraccionamiento",
+      "C": "Quince días hábiles improrrogables",
+      "D": "Un mes natural exclusivamente en agosto"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 37,
+    "question": "Los días adicionales de vacaciones en función de la antigüedad en el servicio activo se reconocen, con carácter general, a partir de:",
+    "answers": {
+      "A": "Quince años de servicio, incrementándose progresivamente hasta un máximo adicional",
+      "B": "Los veinticinco años de servicio exclusivamente, sin incrementos posteriores",
+      "C": "El primer día de servicio sin antigüedad mínima",
+      "D": "Nunca se reconocen días adicionales por antigüedad"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 38,
+    "question": "Los deberes de los empleados públicos incluyen, entre otros, el de:",
+    "answers": {
+      "A": "Participar activamente en campañas electorales de carácter partidista durante el servicio",
+      "B": "Aceptar regalos de los administrados sin ninguna restricción",
+      "C": "Anteponer siempre el interés particular al interés general",
+      "D": "Guardar sigilo respecto a los asuntos que conozcan por razón de su cargo"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 39,
+    "question": "Los derechos de los empleados públicos relativos a la negociación colectiva, representación y participación institucional se enmarcan dentro de:",
+    "answers": {
+      "A": "Los derechos colectivos reconocidos por el EBEP",
+      "B": "Los derechos exclusivamente individuales no colectivos",
+      "C": "El régimen de incompatibilidades",
+      "D": "Las obligaciones disciplinarias"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 40,
+    "question": "El derecho de huelga de los empleados públicos se ejerce, conforme al EBEP, con la obligación de garantizar, entre otros aspectos:",
+    "answers": {
+      "A": "La ausencia de cualquier negociación previa",
+      "B": "La paralización total de todos los servicios públicos sin excepción",
+      "C": "El mantenimiento de los servicios esenciales de la comunidad",
+      "D": "La imposibilidad de que la Administración adopte medidas de seguridad"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 41,
+    "question": "La situación administrativa de «servicio activo» de los funcionarios de carrera se define como:",
+    "answers": {
+      "A": "Aquella en la que se encuentran quienes prestan servicios en su condición de funcionario de carrera, cualquiera que sea la Administración u órgano donde lo hagan",
+      "B": "Una situación idéntica a la excedencia voluntaria",
+      "C": "Una situación disciplinaria sancionadora",
+      "D": "Una situación exclusiva del personal eventual"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 42,
+    "question": "La «excedencia voluntaria por interés particular» de un funcionario de carrera exige, con carácter general, haber prestado servicios efectivos durante:",
+    "answers": {
+      "A": "Solo puede solicitarse una vez durante toda la vida profesional",
+      "B": "Ningún periodo mínimo de servicios",
+      "C": "Veinticinco años ininterrumpidos como único supuesto posible",
+      "D": "Un periodo mínimo determinado inmediatamente anterior, conforme fije la normativa aplicable"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 43,
+    "question": "La «excedencia por cuidado de familiares» da derecho a:",
+    "answers": {
+      "A": "El despido automático tras seis meses",
+      "B": "La reserva del puesto de trabajo durante el primer año, con cómputo a efectos de trienios, carrera y derechos del régimen de Seguridad Social",
+      "C": "Ninguna reserva de puesto en ningún caso",
+      "D": "La pérdida inmediata de la condición de funcionario"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 44,
+    "question": "Los funcionarios en situación de «servicios especiales» perciben:",
+    "answers": {
+      "A": "Las retribuciones del puesto o cargo que desempeñen y no las que les correspondan como funcionarios de carrera, sin perjuicio del cómputo de tiempo a efectos de trienios y derechos pasivos",
+      "B": "Doble retribución de ambos puestos simultáneamente",
+      "C": "Ninguna retribución mientras dure la situación",
+      "D": "Solo las retribuciones básicas, nunca las complementarias"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 45,
+    "question": "El régimen disciplinario de los funcionarios públicos, regulado en el EBEP, clasifica las faltas en:",
+    "answers": {
+      "A": "Faltas penales y faltas civiles exclusivamente",
+      "B": "Solo faltas leves",
+      "C": "Únicamente graves y muy graves",
+      "D": "Muy graves, graves y leves"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 46,
+    "question": "Entre las faltas muy graves tipificadas en el EBEP se encuentra:",
+    "answers": {
+      "A": "Cambiar de opinión política de forma pública",
+      "B": "Un retraso injustificado de cinco minutos en la entrada al trabajo",
+      "C": "El incumplimiento del deber de respeto a la Constitución y a los Estatutos de Autonomía en el ejercicio de la función pública",
+      "D": "No asistir a una reunión informal de departamento"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 47,
+    "question": "Entre las faltas muy graves se incluye también:",
+    "answers": {
+      "A": "Disfrutar de las vacaciones anuales reconocidas",
+      "B": "Toda actuación que suponga discriminación por razón de origen racial o étnico, religión o convicciones, discapacidad, edad u orientación sexual",
+      "C": "Llegar puntualmente al puesto de trabajo",
+      "D": "Solicitar un permiso retribuido conforme a la normativa"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 48,
+    "question": "El acoso laboral, sexual y por razón de sexo, así como el acoso por razón de origen racial o étnico, religión o convicciones, discapacidad, edad u orientación sexual, se tipifica en el EBEP como:",
+    "answers": {
+      "A": "Falta muy grave",
+      "B": "Falta grave solo si hay reincidencia",
+      "C": "Falta leve",
+      "D": "Mera irregularidad sin consecuencias disciplinarias"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 49,
+    "question": "El abandono del servicio, así como no hacerse cargo voluntariamente de las tareas o funciones que tienen encomendadas, se tipifica como:",
+    "answers": {
+      "A": "Falta leve sin mayor trascendencia",
+      "B": "Falta muy grave",
+      "C": "Un mero error administrativo",
+      "D": "Una causa de ascenso automático"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 50,
+    "question": "La adopción de acuerdos manifiestamente ilegales que causen perjuicio grave a la Administración o a la ciudadanía se tipifica en el EBEP como:",
+    "answers": {
+      "A": "Falta muy grave",
+      "B": "Un mérito evaluable en la carrera profesional",
+      "C": "Falta leve",
+      "D": "Una recomendación de buenas prácticas sin sanción"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 51,
+    "question": "Las sanciones disciplinarias que pueden imponerse a los funcionarios públicos incluyen, entre otras:",
+    "answers": {
+      "A": "La separación del servicio, la suspensión de funciones y el traslado forzoso",
+      "B": "Exclusivamente felicitaciones públicas",
+      "C": "La concesión automática de ascenso",
+      "D": "Únicamente el aumento de sueldo"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 52,
+    "question": "La sanción de «separación del servicio» supone:",
+    "answers": {
+      "A": "Un aumento del complemento específico",
+      "B": "La pérdida de la condición de funcionario",
+      "C": "La concesión de una medalla al mérito",
+      "D": "Un simple cambio de destino temporal"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 53,
+    "question": "Las infracciones muy graves prescriben, conforme a los plazos generales establecidos en la normativa de régimen disciplinario, en un plazo de:",
+    "answers": {
+      "A": "Tres años, salvo previsión distinta en la legislación autonómica de desarrollo",
+      "B": "Un mes en todo caso",
+      "C": "Quince días naturales",
+      "D": "Nunca prescriben"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 54,
+    "question": "El régimen de incompatibilidades del personal al servicio de las Administraciones Públicas se basa, con carácter general, en el principio de:",
+    "answers": {
+      "A": "Ausencia total de regulación sobre esta materia",
+      "B": "Incompatibilidad para el desempeño de un segundo puesto o actividad, salvo las excepciones legalmente previstas",
+      "C": "Obligatoriedad de ejercer siempre una segunda actividad privada",
+      "D": "Plena libertad para acumular un número ilimitado de puestos públicos"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 55,
+    "question": "El complemento de productividad, a diferencia del complemento de destino, se caracteriza por:",
+    "answers": {
+      "A": "No tener carácter fijo ni consolidable, y retribuir el especial rendimiento o la actividad extraordinaria",
+      "B": "Ser siempre fijo y consolidable con independencia del rendimiento",
+      "C": "No poder ser nunca objeto de negociación colectiva",
+      "D": "Vincularse exclusivamente a la antigüedad"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 56,
+    "question": "La jubilación forzosa de los funcionarios de carrera se declara, con carácter general, al cumplir:",
+    "answers": {
+      "A": "La edad legalmente establecida, pudiendo prolongarse voluntariamente en determinados supuestos previstos por la normativa",
+      "B": "Los cuarenta años de servicio sin tener en cuenta la edad",
+      "C": "Nunca se declara jubilación forzosa",
+      "D": "Los treinta años de edad"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 57,
+    "question": "El personal directivo profesional en las Administraciones Públicas, según el EBEP, desarrolla funciones:",
+    "answers": {
+      "A": "De carácter exclusivamente político sin responsabilidad técnica",
+      "B": "Idénticas a las del personal eventual en todo caso",
+      "C": "De especial responsabilidad, siendo su designación atendida a criterios de competencia profesional y experiencia",
+      "D": "Sin ningún tipo de evaluación de desempeño"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 58,
+    "question": "La «movilidad por razón de violencia de género» de las empleadas públicas víctimas de esta situación da derecho a:",
+    "answers": {
+      "A": "La pérdida automática de su puesto de trabajo",
+      "B": "Solo un permiso de un día",
+      "C": "Solicitar el traslado a otro puesto de trabajo propio de su cuerpo o categoría, sin necesidad de que exista vacante de necesaria provisión",
+      "D": "Ninguna medida específica de protección laboral"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 59,
+    "question": "Según el EBEP, el acceso al empleo público de las personas con discapacidad se garantiza mediante:",
+    "answers": {
+      "A": "La reserva de un cupo no inferior a un porcentaje determinado de las vacantes para ser cubiertas por personas con discapacidad",
+      "B": "La ausencia de cualquier adaptación de tiempos o medios",
+      "C": "Un proceso selectivo diferenciado sin ningún tipo de reserva de plazas",
+      "D": "La exclusión total de estas personas de los procesos selectivos ordinarios"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 60,
+    "question": "El EBEP establece como principio rector de la ordenación de la actividad profesional el de:",
+    "answers": {
+      "A": "Evaluación del desempeño, conforme a criterios de transparencia, objetividad, imparcialidad y no discriminación",
+      "B": "Discrecionalidad absoluta sin ningún criterio objetivo",
+      "C": "Sorteo aleatorio entre empleados",
+      "D": "Antigüedad exclusiva sin evaluación de ningún tipo"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 61,
+    "question": "Los procesos selectivos de acceso al empleo público, conforme al EBEP, podrán consistir en:",
+    "answers": {
+      "A": "Oposición, concurso-oposición o concurso de valoración de méritos",
+      "B": "Únicamente libre designación directa",
+      "C": "Exclusivamente sorteo público",
+      "D": "Solo nombramiento político discrecional"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 62,
+    "question": "Respecto de la provisión de puestos de trabajo, los sistemas previstos con carácter general en la normativa de función pública son, entre otros:",
+    "answers": {
+      "A": "La subasta pública del puesto de trabajo",
+      "B": "El concurso y la libre designación con convocatoria pública",
+      "C": "La herencia del puesto entre familiares",
+      "D": "Únicamente el sorteo entre los aspirantes"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 63,
+    "question": "La Ley 11/2022 de Empleo Público Vasco regula, entre otras materias:",
+    "answers": {
+      "A": "El régimen electoral municipal",
+      "B": "La organización judicial del País Vasco",
+      "C": "Exclusivamente el régimen fiscal autonómico",
+      "D": "La ordenación, planificación y gestión de los recursos humanos al servicio de las Administraciones Públicas vascas"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 64,
+    "question": "Las «Mesas de Negociación» específicas en el ámbito de la Administración General de la CAE se constituyen, entre otras, para negociar las condiciones de trabajo de:",
+    "answers": {
+      "A": "El personal de embajadas extranjeras",
+      "B": "Exclusivamente el personal de limpieza viaria municipal",
+      "C": "Organismos internacionales no vinculados a la CAE",
+      "D": "Colectivos específicos de personal, como el personal docente, sanitario o de la Ertzaintza, en sus respectivos ámbitos funcionales"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 65,
+    "question": "Según el EBEP, el derecho a la formación continua y a la actualización permanente de conocimientos y capacidades profesionales se reconoce:",
+    "answers": {
+      "A": "Como un derecho individual de los empleados públicos, orientado a garantizar su progresión profesional",
+      "B": "Exclusivamente para quienes estén en situación de excedencia",
+      "C": "Únicamente como una obligación sin derecho correlativo",
+      "D": "Solo para el personal directivo"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 66,
+    "question": "El principio de «mérito y capacidad» en el acceso al empleo público implica que:",
+    "answers": {
+      "A": "Solo se aplica a los puestos de libre designación",
+      "B": "No resulta exigible en los procesos de promoción interna",
+      "C": "La selección debe basarse en la valoración objetiva de la cualificación y aptitud de los aspirantes, no en criterios arbitrarios",
+      "D": "Puede sustituirse libremente por criterios de amistad o afinidad política"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 67,
+    "question": "El permiso por paternidad/segundo progenitor, actualmente denominado permiso por nacimiento para el progenitor distinto de la madre biológica, tiene una duración, conforme a la normativa vigente, de:",
+    "answers": {
+      "A": "Una semana improrrogable",
+      "B": "Dos días exclusivamente",
+      "C": "Dieciséis semanas, en los mismos términos que el reconocido a la madre biológica",
+      "D": "No está reconocido en la función pública"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 68,
+    "question": "La reducción de jornada por motivos de conciliación familiar da derecho, con carácter general, a:",
+    "answers": {
+      "A": "La pérdida total de la condición de funcionario",
+      "B": "Una disminución proporcional de las retribuciones, salvo las excepciones previstas legalmente",
+      "C": "El mantenimiento íntegro del salario en todo caso",
+      "D": "Un incremento de las retribuciones"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 69,
+    "question": "Los funcionarios de carrera que pasen a la situación de «suspensión firme» como consecuencia de una sanción disciplinaria:",
+    "answers": {
+      "A": "Quedan privados durante el tiempo de su duración del ejercicio de sus funciones y de los derechos y prerrogativas inherentes a la condición de funcionario",
+      "B": "Pasan automáticamente a la situación de jubilación",
+      "C": "Ascienden de categoría profesional",
+      "D": "Mantienen plenamente todos sus derechos y retribuciones"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 70,
+    "question": "El código de conducta de los empleados públicos recogido en el EBEP tiene como finalidad:",
+    "answers": {
+      "A": "Sustituir completamente al régimen disciplinario",
+      "B": "Servir de criterio de interpretación en la valoración de las conductas y orientar la actuación del personal al servicio de las Administraciones Públicas",
+      "C": "Regular exclusivamente el uso del uniforme",
+      "D": "Fijar el horario comercial de las oficinas públicas"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 71,
+    "question": "Entre los deberes de los empleados públicos relacionados con el desempeño de sus funciones, el EBEP exige:",
+    "answers": {
+      "A": "Priorizar su propio beneficio económico por encima del interés general",
+      "B": "Desempeñar las tareas con lealtad y afán de superación, actuando con eficacia",
+      "C": "Aceptar únicamente las tareas que resulten de su interés personal",
+      "D": "Delegar siempre sus funciones en terceros sin autorización"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 72,
+    "question": "Según el EBEP, el personal funcionario interino cesará, entre otras causas, cuando:",
+    "answers": {
+      "A": "Finalice la causa que dio lugar a su nombramiento",
+      "B": "Supere un curso de formación continua",
+      "C": "Cumpla un día de servicio en el puesto",
+      "D": "Solicite voluntariamente su ingreso en el cuerpo sin proceso selectivo"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 73,
+    "question": "La provisión de puestos de trabajo mediante el sistema de «libre designación» se caracteriza por:",
+    "answers": {
+      "A": "La apreciación discrecional por el órgano competente de la idoneidad de los candidatos en relación con los requisitos exigidos para el puesto, dentro de una convocatoria pública",
+      "B": "La imposibilidad de exigir ningún requisito al candidato",
+      "C": "Ser el único sistema de provisión admitido en la función pública",
+      "D": "La ausencia de toda convocatoria pública"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 74,
+    "question": "El «concurso» como forma de provisión de puestos de trabajo se basa fundamentalmente en:",
+    "answers": {
+      "A": "La exclusiva entrevista personal sin valorar méritos objetivos",
+      "B": "Un sorteo entre los candidatos presentados",
+      "C": "La valoración de los méritos exigidos en la convocatoria, entre los que se encuentra el grado personal, los cursos de formación o la antigüedad",
+      "D": "La libre apreciación subjetiva del superior jerárquico sin criterios objetivos"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 75,
+    "question": "Según la Ley 11/2022 de Empleo Público Vasco, la planificación de los recursos humanos tiene como objetivo, entre otros:",
+    "answers": {
+      "A": "Incrementar de forma indiscriminada la plantilla sin planificación",
+      "B": "Contribuir a la consecución de la eficacia en la prestación de servicios y la eficiencia en la utilización de los recursos económicos",
+      "C": "Suprimir cualquier evaluación del desempeño",
+      "D": "Eliminar la negociación colectiva en el ámbito de la función pública"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 76,
+    "question": "La Relación de Puestos de Trabajo (RPT) es el instrumento técnico que:",
+    "answers": {
+      "A": "Es un registro de sanciones disciplinarias",
+      "B": "Regula exclusivamente las vacaciones del personal",
+      "C": "Sustituye a la nómina mensual del personal",
+      "D": "Recoge, de forma ordenada, los puestos de trabajo existentes en una Administración, sus características esenciales y los requisitos para su desempeño"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 77,
+    "question": "El acceso a la función pública para la escala o cuerpos superiores exige, con carácter general, estar en posesión de:",
+    "answers": {
+      "A": "Exclusivamente formación profesional básica para todos los cuerpos",
+      "B": "Solo certificado de escolaridad",
+      "C": "Ninguna titulación específica",
+      "D": "Titulación universitaria conforme al grupo de clasificación profesional correspondiente"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 78,
+    "question": "La «promoción interna» permite a los funcionarios de carrera:",
+    "answers": {
+      "A": "Ser destituidos de su puesto en todo caso",
+      "B": "Ascender a cuerpos o escalas de un grupo de clasificación profesional superior, acreditando los requisitos exigidos",
+      "C": "Acceder sin ningún tipo de proceso selectivo o requisitos",
+      "D": "Perder su antigüedad reconocida"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 79,
+    "question": "Según el EBEP, la evaluación del desempeño de los empleados públicos, entre sus efectos, puede tener consecuencias en:",
+    "answers": {
+      "A": "La carrera profesional, la formación, la provisión de puestos de trabajo y la percepción de retribuciones complementarias ligadas a la productividad",
+      "B": "La pérdida automática de la nacionalidad",
+      "C": "Ningún efecto práctico en la relación de servicio",
+      "D": "Exclusivamente la concesión de medallas honoríficas"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 80,
+    "question": "El principio de «igualdad efectiva entre mujeres y hombres» en el empleo público se traduce, entre otras medidas, en:",
+    "answers": {
+      "A": "La reducción del salario de las mujeres funcionarias",
+      "B": "La eliminación de cualquier medida de conciliación laboral",
+      "C": "La elaboración de planes de igualdad en las Administraciones Públicas",
+      "D": "La prohibición de que las mujeres accedan a determinados cuerpos"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 81,
+    "question": "Respecto del régimen de incompatibilidades, el ejercicio de actividades públicas por los empleados públicos es, con carácter general:",
+    "answers": {
+      "A": "Plenamente compatible sin ninguna limitación",
+      "B": "Obligatorio para todos los empleados públicos",
+      "C": "Incompatible con el desempeño de un segundo puesto, cargo o actividad en el sector público, salvo las excepciones previstas legalmente",
+      "D": "Sancionado únicamente con una amonestación verbal"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 82,
+    "question": "El ejercicio de actividades privadas por los empleados públicos requiere, cuando pueda comprometer su imparcialidad o independencia:",
+    "answers": {
+      "A": "Ninguna autorización, pudiendo ejercerse libremente",
+      "B": "El reconocimiento previo de compatibilidad por parte del órgano competente",
+      "C": "La afiliación obligatoria a un colegio profesional extranjero",
+      "D": "La renuncia inmediata a su condición de funcionario"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 83,
+    "question": "Según el EBEP, el abuso de autoridad en el ejercicio del cargo se tipifica como:",
+    "answers": {
+      "A": "Causa de ascenso automático de categoría",
+      "B": "Falta leve sin trascendencia disciplinaria",
+      "C": "Falta muy grave",
+      "D": "Mérito evaluable positivamente en la carrera"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 84,
+    "question": "La falta de rendimiento que afecte al normal funcionamiento de los servicios y no constituya falta muy grave se tipifica, conforme al EBEP, como:",
+    "answers": {
+      "A": "Circunstancia atenuante sin relevancia disciplinaria",
+      "B": "Falta muy grave en todo caso",
+      "C": "Mera recomendación sin sanción",
+      "D": "Falta grave"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 85,
+    "question": "El incumplimiento injustificado de la jornada de trabajo que, acumulado, suponga faltar un número de días determinado al mes, se tipifica conforme al EBEP como:",
+    "answers": {
+      "A": "Infracción exclusivamente penal, nunca disciplinaria",
+      "B": "Mérito para la promoción interna",
+      "C": "Falta grave",
+      "D": "Falta leve en todo caso"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 86,
+    "question": "La prescripción de las faltas leves en el régimen disciplinario de la función pública se produce, con carácter general, en un plazo de:",
+    "answers": {
+      "A": "Veinticuatro horas",
+      "B": "Diez años",
+      "C": "Seis meses",
+      "D": "Nunca prescriben"
+    },
+    "correct": "C"
+  }
+]

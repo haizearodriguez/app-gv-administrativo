@@ -1,0 +1,288 @@
+[
+  {
+    "id": 235,
+    "question": "La CE de 1978 garantiza la protección de datos:",
+    "answers": {
+      "A": "En el art. 18.4.",
+      "B": "A lo largo del texto constitucional.",
+      "C": "Como principio rector de la política social y económica.",
+      "D": "Ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 236,
+    "question": "La normativa de protección de datos en el caso de Euskadi queda recogida en:",
+    "answers": {
+      "A": "La CE de 1978 y la legislación orgánica específica que la desarrolla.",
+      "B": "La CE de 1978, el reglamento europeo en la materia y la legislación orgánica específica que la desarrolla.",
+      "C": "La CE de 1978, el reglamento europeo en la materia, la legislación orgánica específica que la desarrolla y la normativa autonómica en la materia.",
+      "D": "Ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 237,
+    "question": "El derecho a la protección de datos en España es una creación:",
+    "answers": {
+      "A": "Constitucional.",
+      "B": "Jurisprudencial.",
+      "C": "Legal.",
+      "D": "Ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 238,
+    "question": "Un dato de carácter personal:",
+    "answers": {
+      "A": "Es toda información sobre persona física identificada o identificable.",
+      "B": "Es una realidad a proteger.",
+      "C": "Puede recogerse de diferentes maneras.",
+      "D": "Las tres respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 239,
+    "question": "¿Cuál de estas acciones no se encuadra dentro del tratamiento de datos de carácter personal?:",
+    "answers": {
+      "A": "Recoger.",
+      "B": "Registrar.",
+      "C": "Proteger.",
+      "D": "Estructurar."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 240,
+    "question": "¿A quién identifica el RGPD como responsable del tratamiento o responsable de la protección de datos?:",
+    "answers": {
+      "A": "Personas físicas y jurídicas.",
+      "B": "Autoridades públicas.",
+      "C": "Servicios u otros organismos.",
+      "D": "Las tres respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 241,
+    "question": "¿Quién puede ser encargado del tratamiento o encargado de la protección de datos de carácter personal?:",
+    "answers": {
+      "A": "Personas físicas y jurídicas.",
+      "B": "Autoridades públicas.",
+      "C": "Servicios u otros organismos.",
+      "D": "Las tres respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 242,
+    "question": "¿Cuál de las siguientes características no se corresponde con las características de los datos biométricos?:",
+    "answers": {
+      "A": "Universales.",
+      "B": "Temporales.",
+      "C": "Únicos.",
+      "D": "Permanentes."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 243,
+    "question": "Los datos relativos a la salud incluyen:",
+    "answers": {
+      "A": "Datos relativos a la salud física.",
+      "B": "Datos relativos a la salud mental.",
+      "C": "Datos que incluyen la prestación de servicios de atención sanitaria.",
+      "D": "Las tres respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 244,
+    "question": "Elija la respuesta incorrecta. El tratamiento en la protección de datos será licito cuando se cumpla alguna de estas condiciones:",
+    "answers": {
+      "A": "El interesado ha dado su consentimiento.",
+      "B": "El tratamiento es necesario para la ejecución de un contrato.",
+      "C": "Siempre que se haga de buena de fe.",
+      "D": "El tratamiento es necesario para el cumplimiento de una obligación."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 245,
+    "question": "El principio de lealtad es un principio:",
+    "answers": {
+      "A": "Ético.",
+      "B": "Jurídico.",
+      "C": "Ético y jurídico.",
+      "D": "Constitucional."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 246,
+    "question": "La transparencia hace referencia a:",
+    "answers": {
+      "A": "La información.",
+      "B": "Los datos.",
+      "C": "Los principios.",
+      "D": "Ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 247,
+    "question": "Atendiendo al principio de limitación de la finalidad, los datos personales serán recogidos con fines:",
+    "answers": {
+      "A": "Determinados.",
+      "B": "Explícitos.",
+      "C": "Legítimos.",
+      "D": "Las tres respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 248,
+    "question": "El principio de minimización de datos queda recogido en el artículo:",
+    "answers": {
+      "A": "5.1 c del RGPD.",
+      "B": "5.1 c de la LOPD.",
+      "C": "5.1 d de la LOPD.",
+      "D": "5.1 d de la RGPD."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 249,
+    "question": "El principio de exactitud queda recogido en el artículo:",
+    "answers": {
+      "A": "5.1 c del RGPD.",
+      "B": "5.1 d de la RGPD.",
+      "C": "5.1 c de la LOPD.",
+      "D": "5.1 d de la LOPD."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 250,
+    "question": "La limitación del plazo de conservación queda recogida en el artículo:",
+    "answers": {
+      "A": "5.1 c del RGPD.",
+      "B": "5.1 d del RGPD.",
+      "C": "5.1 e del RGPD.",
+      "D": "Ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 251,
+    "question": "Los datos personales no deben conservarse:",
+    "answers": {
+      "A": "Durante más tiempo del necesario para la conservación de la finalidad pretendida.",
+      "B": "Por tiempo indefinido.",
+      "C": "Por tiempo limitado.",
+      "D": "Ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 252,
+    "question": "¿Con qué fines se pueden conservar los datos por períodos más largos?:",
+    "answers": {
+      "A": "Fines de archivo en interés público.",
+      "B": "Fines estadísticos.",
+      "C": "Las respuestas a) y b) son correctas.",
+      "D": "Cuando los datos no contengan informaciones relevantes."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 253,
+    "question": "Elige la respuesta correcta. El principio de integridad y confidencialidad queda recogido en el artículo:",
+    "answers": {
+      "A": "5.1 c del RGPD.",
+      "B": "5.1 d del RGPD.",
+      "C": "5.1 e del RGPD.",
+      "D": "5.1 f del RGPD."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 254,
+    "question": "La seguridad adecuada de los datos atendiendo al principio de integridad y confidencialidad debe incluir:",
+    "answers": {
+      "A": "La protección contra el tratamiento no autorizado o ilícito.",
+      "B": "La protección contra su pérdida.",
+      "C": "La protección contra su destrucción o daño accidental.",
+      "D": "Las tres respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 255,
+    "question": "El proceso de seudonimización de datos personales implica que ciertos atributos se sustituyan por:",
+    "answers": {
+      "A": "Seudónimos.",
+      "B": "Códigos.",
+      "C": "Las respuestas a) y b) son correctas.",
+      "D": "Sobrenombres."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 256,
+    "question": "¿Cuáles de los siguientes datos se subsumen en las categorías especiales de datos?:",
+    "answers": {
+      "A": "Origen étnico y racial.",
+      "B": "Datos biométricos.",
+      "C": "Los datos relativos a la vida sexual.",
+      "D": "Las tres respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 257,
+    "question": "La información básica al afectado ha de contener:",
+    "answers": {
+      "A": "Identidad del responsable.",
+      "B": "Identidad del encargado.",
+      "C": "La finalidad del tratamiento.",
+      "D": "Las respuestas a) y c) son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 258,
+    "question": "¿Cuál de los siguientes derechos no queda regulado expresamente en el RGPD?:",
+    "answers": {
+      "A": "Derecho de acceso.",
+      "B": "Derecho de rectificación.",
+      "C": "Derecho a la cancelación.",
+      "D": "Derecho de supresión."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 259,
+    "question": "El derecho a la portabilidad de los datos es solo de aplicación cuando el tratamiento es:",
+    "answers": {
+      "A": "Automatizado y el fundamento jurídico del tratamiento es el consentimiento o un contrato.",
+      "B": "No automatizado y el fundamento jurídico del tratamiento es el consentimiento o un contrato.",
+      "C": "Consentido e informado.",
+      "D": "Ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 260,
+    "question": "¿Cuáles de los siguientes derechos pueden ser calificados como derechos digitales?:",
+    "answers": {
+      "A": "Derecho al honor en las redes sociales.",
+      "B": "Derecho a la desconexión digital en el ámbito laboral.",
+      "C": "Derecho a la intimidad.",
+      "D": "Las tres respuestas anteriores son correctas."
+    },
+    "correct": "B"
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "id": 253,
+    "question": "En relación con la generación de valor público, una de las siguientes afirmaciones es falsa:",
+    "answers": {
+      "A": "La generación de valor público consiste en generar el máximo valor posible para la po-blación a partir de los recursos financieros, humanos, físicos y tecnológicos existentes en la institución.",
+      "B": "La generación del valor público se basa en la imaginación gerencial, a fin de cumplir con los propósitos establecidos en los mandatos y con la máxima eficacia y eficien-cia.",
+      "C": "El valor público se genera cuando los gobiernos conocen las aspiraciones de los gobier-nos de otros Estados, poniendo en manos de esa red de Estados los recursos y pode-res que la sociedad les ha otorgado.",
+      "D": "El valor público se genera cuando los gobiernos conocen las aspiraciones de la ciudada-nía y se definen los beneficios que habrán de generarse para la sociedad sobre la base de los recursos y poderes que la sociedad les ha otorgado."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 254,
+    "question": "Los principios que informan el Gobierno abierto son:",
+    "answers": {
+      "A": "Dos: la transparencia, el acceso a la información pública y la rendición de cuentas; y la participación y la colaboración ciudadana.",
+      "B": "Tres: la transparencia, el acceso a la información pública y la rendición de cuentas; la participación y la colaboración ciudadana; y la integridad.",
+      "C": "Cuatro: la transparencia, el acceso a la información pública y la rendición de cuentas; la participación y la colaboración ciudadana; la integridad; y la calidad y la eficacia de la gestión pública.",
+      "D": "Cinco: la transparencia, el acceso a la información pública y la rendición de cuentas; la participación y la colaboración ciudadana; la integridad; la calidad y la eficacia de la ges-tión pública; y la incorporación del enfoque de género en la gestión. Tema 14 61"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 255,
+    "question": "La transparencia gubernamental consiste en que:",
+    "answers": {
+      "A": "La información sobre las actividades de los organismos públicos sea creada y esté a disposición de la ciudadanía, sin excepciones, de manera oportuna y en formatos de datos abiertos sin límites para la utilización.",
+      "B": "La información sobre las actividades de los organismos públicos sea creada y esté a disposición de la ciudadanía, con excepciones limitadas, de manera oportuna y en for-matos de datos abiertos sin límites para la utilización.",
+      "C": "La respuesta a las solicitudes de información realizada por la ciudadanía debe realizarse inmediatamente.",
+      "D": "El acceso a cualquier información por parte de la ciudadanía es totalmente libre."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 256,
+    "question": "En relación con la normativa sobre transparencia, una de las siguientes afirmaciones es falsa:",
+    "answers": {
+      "A": "La Comunidad Autónoma de Euskadi no dispone aún de normativa autonómica de transparencia, por lo que resulta de aplicación la normativa básica estatal.",
+      "B": "Las tres Diputaciones Forales de la Comunidad Autónoma de Euskadi cuentan con nor-mativa propia de transparencia.",
+      "C": "Los ayuntamientos vascos se rigen, además de por la normativa básica de transparen-cia, por la Ley 2/2016, de 7 de abril, de Instituciones Locales de Euskadi.",
+      "D": "La Comunidad Autónoma de Euskadi, las tres Diputaciones Forales y los ayuntamien-tos vascos disponen de normativa propia de transparencia."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 257,
+    "question": "Los Portales de Transparencia:",
+    "answers": {
+      "A": "Incluyen información de obligada publicidad activa o relevante, a instancias de organis-mos internacionales de transparencia.",
+      "B": "Incluyen información que la propia administración pública decide, sin que exista nin-guna información de obligada publicidad.",
+      "C": "No están previstos para dar servicio a la ciudadanía en el ejercicio de su derecho de ac-ceso a la información pública.",
+      "D": "No están previstos para fomentar la participación ciudadana."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 258,
+    "question": "Los portales de datos abiertos (Open Data) cumplen varias finalidades, entre las que NO se encuentra:",
+    "answers": {
+      "A": "La generación de valor y riqueza.",
+      "B": "La transparencia en la administración pública.",
+      "C": "La interoperabilidad entre administraciones.",
+      "D": "La obtención de un mayor rendimiento económico de las políticas públicas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 259,
+    "question": "El derecho de acceso a la información pública:",
+    "answers": {
+      "A": "Se ejerce sin más límite que la protección de datos personales.",
+      "B": "Incluye, entre otros aspectos, el acceso a la información pública elaborada por la admi-nistración, en la forma o formato elegido y de modo gratuito.",
+      "C": "Supone la posibilidad de utilización de la información obtenida, siempre con la previa autorización administrativa.",
+      "D": "Puede ser limitado por la administración inadmitiendo o denegando la solicitud de ac-ceso, sin que sea preciso que la denegación se motive."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 260,
+    "question": "Los límites del derecho de acceso a la información pública:",
+    "answers": {
+      "A": "Son, entre otros, la seguridad nacional, la defensa, las relaciones exteriores y la preven-ción, investigación y sanción de los ilícitos penales, administrativos o disciplinarios.",
+      "B": "Están vinculados solo a la protección de datos personales.",
+      "C": "Se deben interpretar de modo extensivo, no restrictivamente.",
+      "D": "Permiten que la administración pública deniegue a la ciudadanía el acceso a la informa-ción pública en los casos en los que así lo decida unilateralmente."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 261,
+    "question": "En materia de participación ciudadana:",
+    "answers": {
+      "A": "Se pueden distinguir dos dimensiones participativas que generan valor público: la parti-cipación política y la participación para el diseño de servicios públicos.",
+      "B": "Se pueden distinguir tres dimensiones participativas que generan valor público: la par-ticipación política, la participación para el diseño de servicios públicos y la participación colaborativa.",
+      "C": "La participación para el diseño de servicios públicos tiene como único objetivo el abara-tamiento de los costes de tales servicios.",
+      "D": "La participación colaborativa promueve la relación entre distintas administraciones, sin que intervenga la sociedad civil."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 262,
+    "question": "Las normativas sobre participación ciudadana no recogen el derecho a participar en:",
+    "answers": {
+      "A": "La evaluación de las políticas públicas y de la calidad de los servicios públicos.",
+      "B": "La elaboración de disposiciones normativas de carácter general.",
+      "C": "La elaboración de los presupuestos.",
+      "D": "La iniciativa de reforma constitucional."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 263,
+    "question": "Los sistemas de integridad:",
+    "answers": {
+      "A": "Son sistemas de ética pública y buen gobierno en los que las instituciones que lo pro-mueven se comprometen solo a la aplicación y desarrollo de códigos éticos y de con-ducta de sus cargos o personal empleado público.",
+      "B": "Son sistemas de ética pública y buen gobierno en los que las instituciones que lo pro-mueven se comprometen a la aplicación y desarrollo de códigos éticos y de conducta de sus cargos o personal empleado público; y a la implantación de acciones para contri-buir al fortalecimiento de la confianza pública en las instituciones y en el sistema demo-crático.",
+      "C": "Son medidas de fomento para incentivar la iniciativa de la ciudadanía en actividades vinculadas a la participación.",
+      "D": "Son medidas dirigidas a favorecer el acceso de la ciudadanía a la información pública."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 264,
+    "question": "La calidad en la administración pública es el grado en que un producto o servicio satis-face las necesidades de la ciudadanía:",
+    "answers": {
+      "A": "Para ello, la administración pública se basará en el enfoque a la ciudadanía, tratando de detectar las necesidades actuales y futuras.",
+      "B": "Para ello, la administración pública deberá actuar igual que en el caso de las empresas, sin que exista ninguna diferencia en la gestión de unas (administraciones públicas) y otras (empresas).",
+      "C": "Para ello, será necesario que la ciudadanía realice evaluaciones mensuales del servicio público.",
+      "D": "Los modelos de gestión de calidad existentes para las empresas (ISO 9000, EFQM, CAF etc.) sirven para su aplicación a las administraciones públicas sin necesidad de adaptaciones. Tema 14 63"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 265,
+    "question": "La participación ciudadana:",
+    "answers": {
+      "A": "Solo puede ejercerse de forma colectiva, nunca individual.",
+      "B": "Puede ejercerse tanto individual como colectivamente.",
+      "C": "Solo puede ejercerse de forma individual, nunca colectiva.",
+      "D": "Solo puede ejercerse a través de grupos representativos de intereses diversos o enti-dades ciudadanas."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 266,
+    "question": "En los procesos de participación ciudadana deberá velarse por el cumplimiento de deter-minados principios básicos, entre los que NO se encuentra:",
+    "answers": {
+      "A": "El reparto competencial.",
+      "B": "La veracidad.",
+      "C": "La buena fe.",
+      "D": "La universalidad."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 267,
+    "question": "Los sistemas de integridad comparten una serie de valores y normas de conducta que pueden subsumirse en tres principios éticos generales. Señala el principio que es falso:",
+    "answers": {
+      "A": "El interés general.",
+      "B": "La eficacia y los buenos resultados.",
+      "C": "El respeto y la apertura.",
+      "D": "La universalidad."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 268,
+    "question": "Uno de los siguientes organismos NO es un organismo internacional para el gobierno abierto:",
+    "answers": {
+      "A": "Alianza para el Gobierno Abierto.",
+      "B": "Transparencia Internacional.",
+      "C": "Consejo Foral de Transparencia.",
+      "D": "Coalición Proacceso. Tema 15"
+    },
+    "correct": "C"
+  }
+]

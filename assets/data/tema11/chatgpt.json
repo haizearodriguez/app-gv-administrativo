@@ -1,0 +1,750 @@
+[
+  {
+    "id": 1,
+    "question": "La Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, tiene por objeto:",
+    "answers": {
+      "A": "Establecer el régimen de Seguridad Social",
+      "B": "Regular exclusivamente las retribuciones del personal laboral",
+      "C": "Regular el procedimiento administrativo común",
+      "D": "Promover la seguridad y la salud de los trabajadores mediante la aplicación de medidas y el desarrollo de las actividades necesarias para la prevención de riesgos derivados del trabajo"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 2,
+    "question": "La Ley 31/1995 tiene la consideración de:",
+    "answers": {
+      "A": "Norma exclusivamente autonómica sin aplicación estatal",
+      "B": "Legislación laboral básica, dictada al amparo del artículo 149.1.7.ª de la Constitución",
+      "C": "Legislación civil ordinaria",
+      "D": "Norma exclusivamente reglamentaria sin rango de ley"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 3,
+    "question": "El ámbito de aplicación de la Ley de Prevención de Riesgos Laborales se extiende:",
+    "answers": {
+      "A": "Solo a los trabajadores autónomos",
+      "B": "Tanto a las relaciones laborales reguladas en el Estatuto de los Trabajadores como al personal civil al servicio de las Administraciones Públicas",
+      "C": "Únicamente al personal de la Administración General del Estado",
+      "D": "Exclusivamente a las empresas privadas con más de 50 trabajadores"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 4,
+    "question": "Según el artículo 4 de la Ley 31/1995, se entiende por «prevención»:",
+    "answers": {
+      "A": "La indemnización económica al trabajador accidentado",
+      "B": "Exclusivamente la reparación del daño una vez producido",
+      "C": "El conjunto de actividades o medidas adoptadas o previstas en todas las fases de actividad de la empresa con el fin de evitar o disminuir los riesgos derivados del trabajo",
+      "D": "El despido del trabajador que sufre el accidente"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 5,
+    "question": "Se entiende por «riesgo laboral», conforme a la Ley 31/1995, la posibilidad de que un trabajador sufra:",
+    "answers": {
+      "A": "Una sanción administrativa",
+      "B": "Una reducción salarial",
+      "C": "Un determinado daño derivado del trabajo",
+      "D": "Exclusivamente un despido disciplinario"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 6,
+    "question": "Se califica un riesgo laboral como «grave e inminente» cuando:",
+    "answers": {
+      "A": "Resulte probable racionalmente que se materialice en un futuro inmediato y pueda suponer un daño grave para la salud de los trabajadores",
+      "B": "Afecte exclusivamente a bienes materiales, nunca a personas",
+      "C": "Se trate de un riesgo meramente hipotético sin probabilidad alguna",
+      "D": "Haya transcurrido más de un año desde su detección"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 7,
+    "question": "Se entiende por «daños derivados del trabajo», conforme a la Ley 31/1995:",
+    "answers": {
+      "A": "Exclusivamente los daños materiales a la empresa",
+      "B": "Los daños causados fuera del horario laboral sin relación con el trabajo",
+      "C": "Las enfermedades, patologías o lesiones sufridas con motivo u ocasión del trabajo",
+      "D": "Únicamente las enfermedades comunes no relacionadas con el trabajo"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 8,
+    "question": "El concepto de «riesgo laboral» se vincula con el principio general de prevención consistente en:",
+    "answers": {
+      "A": "Trasladar el riesgo exclusivamente al trabajador",
+      "B": "Evitar los riesgos y evaluar los que no se puedan evitar",
+      "C": "Externalizar el riesgo a terceros sin ningún control",
+      "D": "Asumir siempre los riesgos sin ninguna acción preventiva"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 9,
+    "question": "Los derechos de información, consulta y participación, formación en materia preventiva, paralización de la actividad en caso de riesgo grave e inminente y vigilancia de su estado de salud son:",
+    "answers": {
+      "A": "Derechos limitados únicamente a los delegados de prevención",
+      "B": "Exclusivamente obligaciones del empresario sin derecho correlativo del trabajador",
+      "C": "Derechos de los trabajadores en materia de prevención de riesgos laborales",
+      "D": "Derechos exclusivos de los sindicatos"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 10,
+    "question": "El derecho de los trabajadores a una protección eficaz en materia de seguridad y salud en el trabajo implica, correlativamente, para el empresario:",
+    "answers": {
+      "A": "Solo una recomendación sin carácter vinculante",
+      "B": "Ninguna obligación específica",
+      "C": "Un deber de protección frente a los riesgos laborales",
+      "D": "Una obligación limitada exclusivamente a empresas de más de 500 trabajadores"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 11,
+    "question": "El empresario debe garantizar la seguridad y salud de los trabajadores a su servicio en todos los aspectos relacionados con el trabajo, lo que implica, entre otras obligaciones:",
+    "answers": {
+      "A": "Asumir que el coste de las medidas preventivas recae siempre sobre el trabajador",
+      "B": "Prescindir de cualquier evaluación de riesgos",
+      "C": "Delegar toda la responsabilidad exclusivamente en el propio trabajador",
+      "D": "Evitar los riesgos, evaluar los que no se puedan evitar y combatir los riesgos en su origen"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 12,
+    "question": "Según la Ley 31/1995, el coste de las medidas relativas a la seguridad y salud en el trabajo:",
+    "answers": {
+      "A": "No podrá recaer en modo alguno sobre los trabajadores",
+      "B": "Recae exclusivamente sobre el trabajador",
+      "C": "No está regulado por la ley",
+      "D": "Debe repartirse siempre al 50 % entre empresario y trabajador"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 13,
+    "question": "Los principios de la acción preventiva recogidos en el artículo 15 de la Ley 31/1995 incluyen, entre otros:",
+    "answers": {
+      "A": "Minimizar la formación del personal en materia preventiva",
+      "B": "Evitar los riesgos, evaluar los riesgos que no se puedan evitar y combatir los riesgos en su origen",
+      "C": "Ocultar los riesgos detectados a los trabajadores",
+      "D": "Sustituir siempre al trabajador afectado sin investigar las causas"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 14,
+    "question": "Entre los principios de la acción preventiva se encuentra también:",
+    "answers": {
+      "A": "Prohibir cualquier avance técnico en los procesos de producción",
+      "B": "Anteponer siempre la producción a la seguridad de los trabajadores",
+      "C": "Adaptar el trabajo a la persona, en particular en lo que respecta a la concepción de los puestos de trabajo",
+      "D": "Adaptar a la persona al puesto de trabajo sin ninguna consideración ergonómica"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 15,
+    "question": "El principio de «tener en cuenta la evolución de la técnica» como parte de la acción preventiva implica:",
+    "answers": {
+      "A": "Mantener invariables las medidas preventivas pese al avance tecnológico",
+      "B": "Adaptar las medidas preventivas a los avances tecnológicos que mejoren la seguridad y salud en el trabajo",
+      "C": "Prohibir la incorporación de nueva maquinaria en las empresas",
+      "D": "Excluir cualquier innovación técnica del ámbito preventivo"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 16,
+    "question": "El principio de «sustituir lo peligroso por lo que entrañe poco o ningún peligro» forma parte de:",
+    "answers": {
+      "A": "Una recomendación sin ningún carácter normativo",
+      "B": "Un principio exclusivo del derecho penal",
+      "C": "Los principios de la acción preventiva establecidos en la Ley 31/1995",
+      "D": "Las obligaciones exclusivas de los trabajadores"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 17,
+    "question": "La planificación de la prevención, como principio de la acción preventiva, busca integrar:",
+    "answers": {
+      "A": "Solamente la opinión del empresario sin participación de los trabajadores",
+      "B": "Exclusivamente los aspectos económicos de la empresa",
+      "C": "Únicamente el diseño arquitectónico del centro de trabajo",
+      "D": "La técnica, la organización del trabajo, las condiciones de trabajo, las relaciones sociales y la influencia de los factores ambientales en el trabajo"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 18,
+    "question": "La «evaluación de los riesgos» para la seguridad y salud de los trabajadores, conforme a la Ley 31/1995, debe realizarse:",
+    "answers": {
+      "A": "Sin tener en cuenta en ningún caso las características personales de los trabajadores",
+      "B": "Teniendo en cuenta la naturaleza de la actividad, las características de los puestos de trabajo existentes y de los trabajadores que deban desempeñarlos",
+      "C": "Solo una vez, en el momento de constitución de la empresa, sin posibilidad de revisión",
+      "D": "Únicamente cuando lo solicite expresamente el trabajador afectado"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 19,
+    "question": "La evaluación inicial de riesgos deberá ser objeto de actualización, entre otras circunstancias, cuando:",
+    "answers": {
+      "A": "Nunca debe actualizarse una vez realizada",
+      "B": "Solo cuando lo decida unilateralmente el trabajador, sin relación con cambios objetivos",
+      "C": "Transcurran exactamente diez años desde su realización, sin otra causa",
+      "D": "Cambien las condiciones de trabajo o se hayan producido daños para la salud de los trabajadores"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 20,
+    "question": "Si los resultados de la evaluación de riesgos lo hicieran necesario, el empresario deberá:",
+    "answers": {
+      "A": "Trasladar el riesgo a una empresa subcontratada sin más obligación",
+      "B": "Realizar controles periódicos de las condiciones de trabajo y de la actividad de los trabajadores",
+      "C": "Despedir al trabajador afectado por el riesgo detectado",
+      "D": "Abstenerse de adoptar cualquier medida adicional"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 21,
+    "question": "Cuando la evaluación ponga de manifiesto situaciones de riesgo, el empresario debe:",
+    "answers": {
+      "A": "Esperar a que se produzca un accidente antes de actuar",
+      "B": "Delegar toda la responsabilidad en el propio trabajador afectado",
+      "C": "Realizar las actividades de prevención necesarias para eliminar o reducir y controlar tales riesgos",
+      "D": "Limitarse a informar sin adoptar ninguna medida correctora"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 22,
+    "question": "La planificación de la actividad preventiva debe incluir, entre otros elementos:",
+    "answers": {
+      "A": "Los medios humanos y materiales necesarios, así como la asignación de los recursos económicos precisos para la consecución de los objetivos propuestos",
+      "B": "Únicamente un cronograma sin presupuesto asociado",
+      "C": "Exclusivamente medidas de carácter simbólico sin aplicación práctica",
+      "D": "La exclusión de cualquier recurso económico destinado a la prevención"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 23,
+    "question": "El empresario debe garantizar que cada trabajador reciba una formación teórica y práctica, suficiente y adecuada, en materia preventiva:",
+    "answers": {
+      "A": "Nunca, ya que la formación preventiva es responsabilidad exclusiva del trabajador",
+      "B": "Solo tras sufrir un accidente de trabajo",
+      "C": "Únicamente si el trabajador la solicita expresamente por escrito",
+      "D": "En el momento de su contratación y cuando se produzcan cambios en las funciones, en los equipos o en la introducción de nuevas tecnologías"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 24,
+    "question": "La formación en materia preventiva, según la Ley 31/1995, debe ser:",
+    "answers": {
+      "A": "Impartida, siempre que sea posible, dentro de la jornada de trabajo o, en su defecto, descontando el tiempo invertido de la misma",
+      "B": "Facturada íntegramente al trabajador",
+      "C": "Impartida exclusivamente fuera de la jornada laboral y sin compensación",
+      "D": "Opcional y sin ningún coste para la empresa ni el trabajador"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 25,
+    "question": "Ante un riesgo grave e inminente para la seguridad de los trabajadores, el empresario está obligado a:",
+    "answers": {
+      "A": "Informar lo antes posible a todos los trabajadores afectados acerca de la existencia de dicho riesgo y de las medidas adoptadas",
+      "B": "Guardar silencio para evitar alarmas innecesarias",
+      "C": "Trasladar la información únicamente a la autoridad laboral sin informar a los trabajadores",
+      "D": "Esperar a que finalice la jornada laboral para informar"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 26,
+    "question": "En una situación de riesgo grave e inminente, el trabajador tiene derecho a:",
+    "answers": {
+      "A": "Interrumpir su actividad y abandonar el lugar de trabajo cuando considere que dicha actividad entraña un riesgo grave e inminente para su vida o salud",
+      "B": "Ser sancionado disciplinariamente por abandonar el puesto en cualquier circunstancia",
+      "C": "Continuar trabajando obligatoriamente hasta recibir orden expresa de paralización",
+      "D": "Solicitar autorización judicial previa antes de abandonar el puesto"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 27,
+    "question": "Los trabajadores especialmente sensibles a determinados riesgos (por sus características personales o estado biológico conocido) deben ser protegidos por el empresario mediante:",
+    "answers": {
+      "A": "La reducción de su salario como compensación por el riesgo",
+      "B": "La ausencia de cualquier medida específica adicional",
+      "C": "La exclusión automática y el despido de dichos trabajadores",
+      "D": "La adopción de las medidas preventivas y de protección necesarias, teniendo en cuenta dichos aspectos en las evaluaciones de riesgos"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 28,
+    "question": "La protección de la maternidad en materia de prevención de riesgos laborales implica, entre otras medidas:",
+    "answers": {
+      "A": "El despido automático de la trabajadora embarazada",
+      "B": "La evaluación de los riesgos que puedan incidir en las trabajadoras embarazadas o en periodo de lactancia natural, y la adaptación de las condiciones o del tiempo de trabajo",
+      "C": "La reducción del salario durante el embarazo",
+      "D": "La ausencia de cualquier adaptación de puesto o condiciones de trabajo"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 29,
+    "question": "La protección de los menores frente a los riesgos laborales exige al empresario, antes de su incorporación al trabajo:",
+    "answers": {
+      "A": "Prohibir en todo caso la contratación de menores sin excepción alguna",
+      "B": "No adoptar ninguna medida específica distinta a la de los trabajadores adultos",
+      "C": "Efectuar una evaluación de los puestos de trabajo a desempeñar por los mismos, teniendo en cuenta su falta de experiencia y su desarrollo aún incompleto",
+      "D": "Asignarles directamente los puestos de mayor riesgo de la empresa"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 30,
+    "question": "En materia de equipos de trabajo y medios de protección, el empresario debe garantizar que estos sean:",
+    "answers": {
+      "A": "Sustituidos únicamente cuando lo decida el propio trabajador sin ningún control empresarial",
+      "B": "Opcionales, correspondiendo al trabajador decidir si los utiliza o no",
+      "C": "Adecuados para el trabajo que deba realizarse y convenientemente adaptados a tal efecto, de forma que garanticen la seguridad y salud de los trabajadores",
+      "D": "Adquiridos exclusivamente al menor coste posible sin considerar la seguridad"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 31,
+    "question": "Los equipos de protección individual (EPI) deben utilizarse:",
+    "answers": {
+      "A": "Nunca, ya que están prohibidos por la ley",
+      "B": "Como primera medida preventiva, antes de cualquier otra alternativa de protección colectiva",
+      "C": "Solo si el trabajador los adquiere con sus propios medios económicos",
+      "D": "Cuando los riesgos no se puedan evitar o no puedan limitarse suficientemente por medios técnicos de protección colectiva o mediante medidas de organización del trabajo"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 32,
+    "question": "La obligación de información a los trabajadores sobre los riesgos para su seguridad y salud recae:",
+    "answers": {
+      "A": "Sobre el empresario, debiendo adoptar las medidas adecuadas para que los trabajadores reciban dicha información",
+      "B": "Sobre ningún sujeto en particular, al no existir tal obligación",
+      "C": "Exclusivamente sobre el propio trabajador afectado",
+      "D": "Sobre la autoridad laboral en todo caso, nunca sobre el empresario"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 33,
+    "question": "La consulta y participación de los trabajadores en materia de prevención de riesgos laborales se canaliza principalmente a través de:",
+    "answers": {
+      "A": "Los Delegados de Prevención y los Comités de Seguridad y Salud",
+      "B": "Los tribunales laborales en todo caso",
+      "C": "El Ministerio Fiscal",
+      "D": "Exclusivamente la dirección de la empresa sin intervención de representantes"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 34,
+    "question": "Los Delegados de Prevención son:",
+    "answers": {
+      "A": "Funcionarios de la Inspección de Trabajo",
+      "B": "Los representantes de los trabajadores con funciones específicas en materia de prevención de riesgos en el trabajo",
+      "C": "Trabajadores sin ninguna función específica relacionada con la prevención",
+      "D": "Cargos designados libremente por el empresario sin ninguna representatividad"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 35,
+    "question": "El Comité de Seguridad y Salud es el órgano:",
+    "answers": {
+      "A": "Compuesto exclusivamente por representantes del empresario",
+      "B": "Que sustituye completamente a la Inspección de Trabajo",
+      "C": "Paritario y colegiado de participación destinado a la consulta regular y periódica de las actuaciones de la empresa en materia de prevención de riesgos",
+      "D": "De carácter exclusivamente consultivo sin ninguna función en empresas de cualquier tamaño"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 36,
+    "question": "Los Servicios de Prevención, regulados por la Ley 31/1995 y su normativa de desarrollo, tienen como función:",
+    "answers": {
+      "A": "Imponer sanciones penales a los trabajadores",
+      "B": "Sustituir completamente las obligaciones del empresario en materia preventiva sin ninguna responsabilidad de este",
+      "C": "Gestionar exclusivamente las nóminas de la empresa",
+      "D": "Proporcionar a la empresa el asesoramiento y apoyo necesario en función de los tipos de riesgo"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 37,
+    "question": "La vigilancia de la salud de los trabajadores en función de los riesgos inherentes al trabajo debe garantizarse por el empresario:",
+    "answers": {
+      "A": "Periódicamente, siendo voluntaria para el trabajador salvo excepciones establecidas legalmente",
+      "B": "De forma obligatoria y sin excepción alguna para todos los trabajadores",
+      "C": "Nunca, ya que corresponde exclusivamente a la Seguridad Social",
+      "D": "Solo si el trabajador ha sufrido ya un accidente de trabajo"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 38,
+    "question": "Los resultados de la vigilancia de la salud de los trabajadores deben ser comunicados:",
+    "answers": {
+      "A": "Públicamente a toda la plantilla sin ninguna restricción",
+      "B": "A los trabajadores afectados, respetando siempre el derecho a la intimidad y a la dignidad de la persona y la confidencialidad de la información",
+      "C": "A los medios de comunicación en todo caso",
+      "D": "Exclusivamente al empresario, sin informar al trabajador afectado"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 39,
+    "question": "El empresario debe elaborar y conservar a disposición de la autoridad laboral, entre otra documentación:",
+    "answers": {
+      "A": "Ningún documento, al no existir obligación documental alguna",
+      "B": "Únicamente las nóminas de los trabajadores",
+      "C": "La evaluación de los riesgos para la seguridad y salud en el trabajo y la planificación de la actividad preventiva",
+      "D": "Exclusivamente el convenio colectivo aplicable"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 40,
+    "question": "Según la Ley 31/1995, en caso de concurrencia de varias empresas en un mismo centro de trabajo, estas deberán:",
+    "answers": {
+      "A": "Actuar de forma completamente independiente sin ningún deber de coordinación",
+      "B": "Ignorar los riesgos derivados de la concurrencia de actividades",
+      "C": "Delegar toda la responsabilidad exclusivamente en la empresa principal sin cooperación",
+      "D": "Cooperar en la aplicación de la normativa de prevención de riesgos laborales"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 41,
+    "question": "El empresario que subcontrate obras o servicios correspondientes a su propia actividad y que se desarrollen en su centro de trabajo deberá:",
+    "answers": {
+      "A": "Vigilar el cumplimiento por dichos contratistas de la normativa de prevención de riesgos laborales",
+      "B": "Asumir directamente todas las sanciones que correspondan a la empresa subcontratada sin posibilidad de coordinación preventiva",
+      "C": "Prohibir legalmente cualquier tipo de subcontratación",
+      "D": "Desentenderse completamente de la actividad preventiva de la empresa subcontratada"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 42,
+    "question": "Las infracciones administrativas en materia de prevención de riesgos laborales se clasifican en:",
+    "answers": {
+      "A": "Exclusivamente infracciones leves",
+      "B": "Leves, graves y muy graves",
+      "C": "Solo infracciones penales",
+      "D": "Únicamente graves y muy graves"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 43,
+    "question": "No facilitar a los trabajadores designados o al Servicio de Prevención el acceso a la información necesaria se tipifica, conforme a la normativa sancionadora, como infracción:",
+    "answers": {
+      "A": "Leve en todo caso",
+      "B": "Grave",
+      "C": "No constituye infracción alguna",
+      "D": "Muy grave sin excepción"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 44,
+    "question": "No paralizar ni suspender de forma inmediata, a requerimiento de la Inspección de Trabajo, los trabajos que se realicen sin observar la normativa sobre prevención de riesgos laborales, cuando concurra riesgo grave e inminente, se tipifica como infracción:",
+    "answers": {
+      "A": "Únicamente constitutiva de responsabilidad civil, nunca administrativa",
+      "B": "Leve",
+      "C": "No sancionable administrativamente",
+      "D": "Muy grave"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 45,
+    "question": "Entre las obligaciones de los trabajadores en materia de prevención de riesgos laborales se encuentra:",
+    "answers": {
+      "A": "Only informar a la prensa de cualquier incidente",
+      "B": "Usar adecuadamente los equipos de trabajo y los medios y equipos de protección facilitados por el empresario",
+      "C": "No existe obligación alguna para los trabajadores en esta materia",
+      "D": "Modificar por su cuenta los dispositivos de seguridad para mayor comodidad"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 46,
+    "question": "Los trabajadores tienen la obligación de informar de inmediato a su superior jerárquico y a los trabajadores designados para actividades de prevención acerca de:",
+    "answers": {
+      "A": "Exclusivamente mediante un escrito notarial",
+      "B": "Solo si el riesgo afecta a la producción de la empresa",
+      "C": "Cualquier situación que, a su juicio, entrañe un riesgo para la seguridad y la salud de los trabajadores",
+      "D": "Únicamente los accidentes que les ocurran a ellos mismos"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 47,
+    "question": "El incumplimiento por los trabajadores de sus obligaciones en materia de prevención de riesgos laborales tendrá la consideración de:",
+    "answers": {
+      "A": "Un hecho irrelevante sin ninguna consecuencia",
+      "B": "Incumplimiento laboral a los efectos previstos en el artículo 58.1 del Estatuto de los Trabajadores o causa de falta disciplinaria conforme a la normativa funcionarial",
+      "C": "Un delito penal en todo caso",
+      "D": "Causa automática de despido sin posibilidad de otra sanción"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 48,
+    "question": "La Ley 31/1995 reconoce a los trabajadores el derecho a solicitar a la autoridad competente la adopción de medidas:",
+    "answers": {
+      "A": "Solo a través del sindicato, nunca de forma individual",
+      "B": "Para la inspección y control de las condiciones de trabajo cuando consideren que existe peligro grave para su seguridad y salud",
+      "C": "Exclusivamente una vez finalizada la relación laboral",
+      "D": "Únicamente ante los tribunales penales"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 49,
+    "question": "El artículo 6 de la Ley 31/1995 habilita al Gobierno para que, mediante normas reglamentarias, se regulen, entre otras cuestiones:",
+    "answers": {
+      "A": "El régimen fiscal de las empresas",
+      "B": "Exclusivamente la fijación del salario mínimo interprofesional",
+      "C": "Los requisitos mínimos que deben reunir las condiciones de trabajo para la protección de la seguridad y salud de los trabajadores",
+      "D": "El procedimiento electoral general"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 50,
+    "question": "El Instituto Nacional de Seguridad y Salud en el Trabajo (antiguo INSHT) es:",
+    "answers": {
+      "A": "Un órgano jurisdiccional de lo social",
+      "B": "Una empresa privada de seguros",
+      "C": "Un sindicato de trabajadores",
+      "D": "El órgano científico técnico especializado de la Administración General del Estado en materia de prevención de riesgos laborales"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 51,
+    "question": "Entre las funciones del Instituto Nacional de Seguridad y Salud en el Trabajo se encuentra:",
+    "answers": {
+      "A": "La gestión del sistema público de pensiones",
+      "B": "La fijación de las retribuciones de los funcionarios",
+      "C": "El análisis y estudio de las condiciones de seguridad y salud en el trabajo y la promoción y realización de actividades de formación en esta materia",
+      "D": "La resolución de recursos contencioso-administrativos"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 52,
+    "question": "La modalidad de organización preventiva en la que el propio empresario asume personalmente la actividad preventiva se denomina:",
+    "answers": {
+      "A": "Asunción personal por el empresario, posible en empresas de reducido tamaño y bajo riesgo",
+      "B": "Delegación total e irrevocable en un tercero sin control",
+      "C": "Servicio de prevención mancomunado exclusivamente",
+      "D": "Servicio de prevención ajeno obligatorio en todo caso"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 53,
+    "question": "Un «Servicio de Prevención Ajeno» es:",
+    "answers": {
+      "A": "Un órgano exclusivamente interno de cada empresa",
+      "B": "Un sindicato de trabajadores",
+      "C": "La entidad especializada que concierta con la empresa la realización de actividades preventivas, previa acreditación de la autoridad laboral",
+      "D": "La Inspección de Trabajo y Seguridad Social"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 54,
+    "question": "Las disciplinas preventivas básicas que suelen integrar un servicio de prevención son:",
+    "answers": {
+      "A": "Únicamente la ergonomía, excluyendo el resto de disciplinas",
+      "B": "Seguridad en el trabajo, higiene industrial, ergonomía y psicosociología aplicada, y vigilancia de la salud",
+      "C": "Exclusivamente la vigilancia de la salud, sin otras disciplinas",
+      "D": "Solo la seguridad en el trabajo, sin ninguna otra especialidad"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 55,
+    "question": "La «higiene industrial», como disciplina preventiva, se ocupa fundamentalmente de:",
+    "answers": {
+      "A": "La identificación, evaluación y control de los agentes físicos, químicos y biológicos presentes en el entorno laboral",
+      "B": "La gestión del régimen fiscal de la empresa",
+      "C": "La organización contable de la empresa",
+      "D": "El diseño de campañas publicitarias"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 56,
+    "question": "La «ergonomía», como disciplina preventiva, estudia fundamentalmente:",
+    "answers": {
+      "A": "Exclusivamente la contabilidad financiera",
+      "B": "El régimen electoral de los sindicatos",
+      "C": "La adaptación del trabajo y de las condiciones de trabajo a la persona",
+      "D": "El derecho penal aplicado a las empresas"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 57,
+    "question": "La «psicosociología aplicada», como disciplina preventiva, se centra en el estudio de:",
+    "answers": {
+      "A": "El diseño arquitectónico de los edificios",
+      "B": "La normativa de contratación pública",
+      "C": "Exclusivamente los aspectos técnicos de la maquinaria industrial",
+      "D": "Los factores de naturaleza psicológica y social que pueden afectar a la salud de los trabajadores, como el estrés o la carga mental"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 58,
+    "question": "Los «Delegados de Prevención» son designados:",
+    "answers": {
+      "A": "Directamente por el empresario sin ninguna intervención de los representantes de los trabajadores",
+      "B": "Por la autoridad laboral de forma unilateral",
+      "C": "Por y entre los representantes del personal, con arreglo a la escala establecida en la normativa de prevención de riesgos laborales",
+      "D": "Por sorteo entre todos los trabajadores de la empresa"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 59,
+    "question": "Entre las competencias de los Delegados de Prevención se encuentra:",
+    "answers": {
+      "A": "Imponer directamente sanciones económicas a la empresa",
+      "B": "Ejercer funciones jurisdiccionales en materia laboral",
+      "C": "Acompañar a los técnicos en las evaluaciones de carácter preventivo del medio ambiente de trabajo, así como a los Inspectores de Trabajo en las visitas de inspección",
+      "D": "Sustituir completamente al Comité de Seguridad y Salud"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 60,
+    "question": "El Comité de Seguridad y Salud debe reunirse, con carácter general:",
+    "answers": {
+      "A": "Una única vez al año sin posibilidad de convocatoria extraordinaria",
+      "B": "Trimestralmente y siempre que lo solicite alguna de las representaciones en el mismo",
+      "C": "Nunca, al ser un órgano meramente teórico sin funcionamiento real",
+      "D": "Solo quincenalmente en todo caso"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 61,
+    "question": "Los planes de autoprotección o planes de emergencia en los centros de trabajo tienen como finalidad:",
+    "answers": {
+      "A": "Sustituir la evaluación de riesgos laborales ordinaria",
+      "B": "Prever las medidas a adoptar y los medios humanos y materiales necesarios en caso de situaciones de emergencia",
+      "C": "Evitar cualquier obligación de formación de los trabajadores",
+      "D": "Regular exclusivamente el régimen retributivo del personal"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 62,
+    "question": "La Inspección de Trabajo y Seguridad Social tiene, entre sus funciones en materia preventiva:",
+    "answers": {
+      "A": "La resolución de conflictos civiles entre particulares",
+      "B": "Exclusivamente la recaudación de impuestos",
+      "C": "La gestión de las pensiones de jubilación",
+      "D": "La vigilancia y control de la normativa sobre prevención de riesgos laborales, así como de las normas jurídico-técnicas que incidan en las condiciones de trabajo"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 63,
+    "question": "Las «auditorías» del sistema de prevención de riesgos laborales de la empresa tienen como objetivo:",
+    "answers": {
+      "A": "Evaluar la eficacia del sistema de prevención, analizando si se ajusta a lo dispuesto en la normativa vigente",
+      "B": "Imponer sanciones penales a los administradores de la empresa",
+      "C": "Sustituir el papel del Comité de Seguridad y Salud en todo caso",
+      "D": "Eliminar la obligación de evaluación de riesgos"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 64,
+    "question": "Las auditorías del sistema de prevención son obligatorias, con carácter general, para las empresas que:",
+    "answers": {
+      "A": "Tengan menos de cinco trabajadores en cualquier caso",
+      "B": "Desarrollen las actividades preventivas con recursos propios parcial o totalmente, no concertando la totalidad de la actividad preventiva con un servicio de prevención ajeno",
+      "C": "Nunca están obligadas a auditar su sistema preventivo",
+      "D": "Concierten la totalidad de su actividad preventiva con un servicio de prevención ajeno en todos los casos"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 65,
+    "question": "La «cultura preventiva» en una organización hace referencia a:",
+    "answers": {
+      "A": "La ausencia de cualquier compromiso de la dirección con la seguridad",
+      "B": "El conjunto de valores, actitudes y prácticas compartidas orientadas a la prevención de los riesgos laborales",
+      "C": "Un concepto exclusivamente jurídico sin aplicación práctica",
+      "D": "Un sinónimo de productividad económica"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 66,
+    "question": "Entre los principales objetivos de un Plan de Prevención de Riesgos Laborales en la empresa se encuentra:",
+    "answers": {
+      "A": "Integrar la prevención en el sistema general de gestión de la empresa",
+      "B": "Limitar la prevención exclusivamente a la firma de documentos sin aplicación práctica",
+      "C": "Externalizar completamente cualquier responsabilidad preventiva sin ningún control",
+      "D": "Excluir a la dirección de la empresa de cualquier responsabilidad en materia preventiva"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 67,
+    "question": "Las responsabilidades derivadas del incumplimiento de las obligaciones en materia de prevención de riesgos laborales pueden ser, entre otras:",
+    "answers": {
+      "A": "Exclusivamente penales, excluyendo cualquier otra vía de responsabilidad",
+      "B": "Inexistentes, al tratarse de una materia sin régimen sancionador",
+      "C": "Administrativas, civiles, penales y de Seguridad Social (recargo de prestaciones)",
+      "D": "Únicamente de carácter moral, sin ninguna consecuencia jurídica"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 68,
+    "question": "El «recargo de prestaciones» de la Seguridad Social, en caso de accidente de trabajo derivado de la falta de medidas de seguridad, supone:",
+    "answers": {
+      "A": "Una sanción exclusivamente penal sin repercusión económica",
+      "B": "Una reducción de las prestaciones del trabajador accidentado",
+      "C": "Una simple recomendación sin efectos económicos",
+      "D": "Un incremento de las prestaciones económicas de la Seguridad Social que debe abonar directamente el empresario responsable"
+    },
+    "correct": "D"
+  }
+]

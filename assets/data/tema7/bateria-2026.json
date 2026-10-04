@@ -1,0 +1,288 @@
+[
+  {
+    "id": 157,
+    "question": "¿Cuál de estas características se identifica con la Administración electrónica desde el punto de vista de la Administración?:",
+    "answers": {
+      "A": "Reducción de costes.",
+      "B": "Mejora de la eficiencia y la productividad.",
+      "C": "Menor uso de papel.",
+      "D": "Las tres respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 158,
+    "question": "¿Cuál de estas características se identifica con la Administración electrónica desde el punto de vista de la ciudadanía?:",
+    "answers": {
+      "A": "Rapidez y comodidad.",
+      "B": "Menor uso de papel.",
+      "C": "Reducción de costes.",
+      "D": "Mejora de relaciones con la Administración."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 159,
+    "question": "La implantación de la administración electrónica afecta:",
+    "answers": {
+      "A": "A los procesos.",
+      "B": "A la tecnología.",
+      "C": "Las respuestas a) y b) son correctas.",
+      "D": "Las respuestas a) y b) no son correctas."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 160,
+    "question": "¿Cuál de las siguientes normas permanece vigente?:",
+    "answers": {
+      "A": "Ley de Acceso Electrónico de los Ciudadanos a los Servicios Públicos.",
+      "B": "Ley 59/2003, de Firma Electrónica.",
+      "C": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.",
+      "D": "Ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 161,
+    "question": "«Los actos administrativos se producirán por escrito a través de medios electrónicos», y, asimismo, «Las Administraciones Públicas emitirán los documentos administrativos por escrito, a través de medios electrónicos, …». ¿En qué norma se recogen tales afirmaciones?:",
+    "answers": {
+      "A": "En la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.",
+      "B": "En la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.",
+      "C": "En las Leyes 39 y 40/2015.",
+      "D": "En la Ley 11/2007, de Acceso Electrónico de los Ciudadanos a los Servicios Públicos."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 162,
+    "question": "¿En qué artículos de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas quedan recogidos los derechos?:",
+    "answers": {
+      "A": "Arts. 12, 13, 14 y 53.",
+      "B": "Arts. 9, 10 y 11.",
+      "C": "Arts. 5 y 6.",
+      "D": "Ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 163,
+    "question": "¿En qué artículos de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas quedan recogidos los registros?:",
+    "answers": {
+      "A": "Art. 14.",
+      "B": "Art. 15.",
+      "C": "Art. 16.",
+      "D": "Art. 17."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 164,
+    "question": "¿Cuál es el ámbito de aplicación de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas?:",
+    "answers": {
+      "A": "La Administración General del Estado.",
+      "B": "Las administraciones de las CCAA.",
+      "C": "El Sector público institucional.",
+      "D": "Las tres respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 165,
+    "question": "¿En qué artículo de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público quedan recogidos los principios que rigen el funcionamiento de los órganos colegiados?:",
+    "answers": {
+      "A": "Art. 1.",
+      "B": "Art. 2.",
+      "C": "Art. 3.",
+      "D": "Ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 166,
+    "question": "Las nuevas obligaciones introducidas por la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas y por la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público se pueden resumir en:",
+    "answers": {
+      "A": "Garantizar la seguridad en la tramitación electrónica.",
+      "B": "Tramitar electrónicamente los expedientes.",
+      "C": "Garantizar la agilidad en la tramitación.",
+      "D": "Ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 167,
+    "question": "¿Qué tipos de interoperabilidad se distinguen en el esquema nacional de interoperabilidad (ENI)?:",
+    "answers": {
+      "A": "Organizativa.",
+      "B": "Léxica.",
+      "C": "Técnica.",
+      "D": "Las respuestas a) y c) son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 168,
+    "question": "La protección de datos de carácter personal está regulada actualmente en:",
+    "answers": {
+      "A": "La Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales y el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos d atos.",
+      "B": "La Ley Orgánica de Regulación del Tratamiento Automatizado de Datos y el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos.",
+      "C": "La Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos y el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos.",
+      "D": "Las respuestas b) y c) son correctas."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 169,
+    "question": "¿Cuál de estos objetivos se enmarca entre los objetivos que persigue el Esquema Nacional de Seguridad (ENS)?:",
+    "answers": {
+      "A": "Promover la prevención detección y corrección, para una mejor resiliencia en el escenario de ciberamenazas y ciberataques.",
+      "B": "Promover un tratamiento homogéneo de la seguridad que facilite la cooperación en la prestación de servicios públicos digitales cuando participan diversas entidades.",
+      "C": "Servir de modelo de buenas prácticas.",
+      "D": "Todas las respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 170,
+    "question": "Una Administración sin papel basada en un funcionamiento íntegramente electrónico:",
+    "answers": {
+      "A": "Sirve mejor al principio de eficacia y eficiencia.",
+      "B": "Ahorra costes.",
+      "C": "Refuerza las garantías de los interesados.",
+      "D": "Todas las respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 171,
+    "question": "El derecho y obligación de relacionarse electrónicamente con la Administración, viene recogido en el:",
+    "answers": {
+      "A": "Art. 14 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y por la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.",
+      "B": "Art. 14 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.",
+      "C": "Art. 15 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y por la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.",
+      "D": "Ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 172,
+    "question": "Las personas físicas podrán elegir en todo momento si se comunican con las Administraciones Públicas para el ejercicio de sus derechos y obligaciones a través de:",
+    "answers": {
+      "A": "Medios electrónicos o convencionales.",
+      "B": "Medios convencionales.",
+      "C": "Medios electrónicos.",
+      "D": "Ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 173,
+    "question": "En todo caso, estarán obligados a relacionarse a través de los medios electrónicos con las Administraciones Públicas para la realización de cualquier trámite de un procedimiento administrativo:",
+    "answers": {
+      "A": "Las personas físicas y jurídicas.",
+      "B": "Las personas jurídicas.",
+      "C": "Las entidades sin personalidad jurídica.",
+      "D": "Las respuestas b) y c) son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 174,
+    "question": "¿Cuál de estos derechos no se les reconoce a las personas que vayan a relacionarse con la Administración Pública a tenor de lo recogido en el art. 13 de la Ley 39/2015?:",
+    "answers": {
+      "A": "A ser asistido en el uso de medios electrónicos en sus relaciones con las Administraciones Públicas.",
+      "B": "A utilizar cualquier lengua.",
+      "C": "A la obtención y utilización de los medios de identificación y firma electrónica contemplados en la ley.",
+      "D": "Cualesquiera otros que le reconozcan la Constitución y las leyes."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 175,
+    "question": "Los legisladores fueron conscientes de que existe un segmento de población que no dispone de los medios y la preparación necesaria para tramitar de forma telemática. El concepto de asistencia se recoge en el artículo:",
+    "answers": {
+      "A": "Diez de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.",
+      "B": "Doce de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.",
+      "C": "Trece de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.",
+      "D": "Doce de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 176,
+    "question": "La sede electrónica y el portal de internet están definidos en:",
+    "answers": {
+      "A": "La Ley 39/45, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.",
+      "B": "La Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.",
+      "C": "La Ley 19/2003, de 9 de diciembre, de Transparencia, Acceso a la Información Pública y Buen Gobierno.",
+      "D": "Ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 177,
+    "question": "¿Cuál de los siguientes contenidos recogidos en la ley no se contemplará como el contenido mínimo de una sede electrónica a disposición de la ciudadanía?:",
+    "answers": {
+      "A": "La relación de los servicios disponibles.",
+      "B": "La carta de servicios y de servicios electrónicos.",
+      "C": "La documentación propia de un expediente.",
+      "D": "La publicación de los diarios o boletines."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 178,
+    "question": "Los interesados podrán identificarse electrónicamente ante las Administraciones Públicas a través de:",
+    "answers": {
+      "A": "Sistemas basados en certificados electrónicos cualificados de firma electrónica.",
+      "B": "Sistemas basados en certificados electrónicos cualificados de sello electrónico.",
+      "C": "Sistemas de clave concertada.",
+      "D": "DNI, permiso de conducir o documento análogo."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 179,
+    "question": "Las Administraciones Públicas solo requerirán a los interesados el uso obligatorio de firma para:",
+    "answers": {
+      "A": "Formular solicitudes.",
+      "B": "Interponer recursos.",
+      "C": "Renunciar a derechos.",
+      "D": "Todas las respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 180,
+    "question": "Un documento electrónico se caracteriza por:",
+    "answers": {
+      "A": "Incorporar metadatos mínimos exigidos.",
+      "B": "Ser idéntico a un documento convencional.",
+      "C": "Ser atemporal.",
+      "D": "Ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 181,
+    "question": "La normativa que afecta al funcionamiento de los archivos electrónicos queda recogida en:",
+    "answers": {
+      "A": "La Ley 39/45, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.",
+      "B": "La Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.",
+      "C": "Las respuestas a) y b) son correctas.",
+      "D": "Numerosas leyes diseminadas por el ordenamiento jurídico español."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 182,
+    "question": "Elige la mejor definición de expediente administrativo:",
+    "answers": {
+      "A": "Conjunto ordenado de documentos y actuaciones administrativas.",
+      "B": "Una parte importante del procedimiento administrativo.",
+      "C": "El soporte documental del procedimiento administrativo.",
+      "D": "Ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "A"
+  }
+]

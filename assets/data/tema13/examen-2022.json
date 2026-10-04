@@ -1,0 +1,167 @@
+[
+  {
+    "id": 238,
+    "question": "A la hora de prestar primeros auxilios a una persona accidentada o enferma hay que ac-tuar siguiendo unas pautas básicas que responden a.",
+    "answers": {
+      "A": "La regla PAS: proteger a la persona accidentada o enferma llevándola a un lugar seco y que no esté en la intemperie; avisar a los servicios sanitarios y socorrerla.",
+      "B": "La regla PES: proteger a la persona accidentada o enferma llevándola a un lugar seco y que no esté a la intemperie; escuchar a la persona para saber qué le sucede y transmi-tirlo rápidamente a los servicios médicos y socorrerla siguiendo un orden de prioridades.",
+      "C": "La regla PAS: proteger el lugar de los hechos, avisar en cuanto sea posible a los servi-cios sanitarios y socorrer a la víctima siguiendo un orden de prioridades.",
+      "D": "La regla PAS: proteger a la persona accidentada o enferma llevándola a un lugar seco y que no esté a la intemperie, abrigar a esa persona para que mantenga el calor corporal y socorrerla siguiendo un orden de prioridades."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 239,
+    "question": "A la hora de socorrer a una persona accidentada o enferma hay que seguir un criterio:",
+    "answers": {
+      "A": "Reconocer los signos vitales en el siguiente orden: consciencia, respiración y pulso.",
+      "B": "Reconocer los signos vitales en el siguiente orden: respiración, pulso y estado de las pupilas.",
+      "C": "Reconocer los signos vitales en el siguiente orden: respiración, pulso y temperatura corporal.",
+      "D": "Reconocer los signos vitales en el siguiente orden: consciencia, respiración y tempera-tura corporal."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 240,
+    "question": "A la hora de valorar las lesiones que haya podido sufrir la persona accidentada o enferma existe:",
+    "answers": {
+      "A": "Una valoración primaria que supone buscar las lesiones que haya podido tener la per-sona, especialmente en la cabeza.",
+      "B": "Una valoración primaria para comprobar que la persona no está en peligro (respira y tiene pulso) y una valoración secundaria buscando las lesiones que pudiera tener.",
+      "C": "Una valoración primaria para comprobar que respira y tiene pulso, una valoración secun-daria buscando hemorragias y una valoración terciaria buscando dolor.",
+      "D": "Una valoración primaria para comprobar que no tiene hemorragias y una valoración se-cundaria para comprobar que la persona respira y tiene pulso."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 241,
+    "question": "La respiración artificial para ser efectiva debe ser:",
+    "answers": {
+      "A": "Enérgica, con pausas y prolongada hasta la total recuperación o la llegada del personal sanitario.",
+      "B": "Enérgica, sin interrupciones y no más de 30 minutos, si no ha llegado el personal sanitario.",
+      "C": "Inmediata, continuada (sin interrupciones) y prolongada hasta la total recuperación o la llegada del personal sanitario.",
+      "D": "Enérgica, con pausas y no más de 30 minutos, si no ha llegado el personal sanitario."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 242,
+    "question": "En la práctica de la respiración artificial, una vez que conseguimos que el aire entre en los pulmones:",
+    "answers": {
+      "A": "Comprobaremos que la víctima tiene pulso y seguiremos realizando insuflaciones a un ritmo de 12 a 16 por minuto.",
+      "B": "Comprobaremos que la víctima tiene pulso y seguiremos realizando insuflaciones a un ritmo de 20 a 25 por minuto.",
+      "C": "Comprobaremos que la víctima tiene pulso y seguiremos realizando insuflaciones a un ritmo de 5 a 8 por minuto.",
+      "D": "Comprobaremos que la víctima tiene pulso y seguiremos realizando insuflaciones a un ritmo de 25 a 30 por minuto."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 243,
+    "question": "El masaje cardíaco supone una compresión externa del corazón para que vuelva a latir y distribuya la sangre por todo el organismo.",
+    "answers": {
+      "A": "La compresión debe hacerse de tal manera que el tórax descienda 1 o 2 centímetros y a un ritmo alto de compresión de 60-80 veces por minuto.",
+      "B": "La compresión debe hacerse de tal manera que el tórax descienda 4 o 5 centímetros y a un ritmo alto de compresión de 80-100 veces por minuto.",
+      "C": "La compresión debe hacerse de tal manera que el tórax descienda 1 o 2 centímetros y a un ritmo alto de compresión de 80-100 veces por minuto.",
+      "D": "La compresión debe hacerse de tal manera que el tórax descienda 4 o 5 centímetros y a un ritmo alto de compresión de 60-80 veces por minuto."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 244,
+    "question": "El pronóstico de una quemadura es leve cuando:",
+    "answers": {
+      "A": "La superficie quemada es entre el 10 y el 30% de extensión y la profundidad es de 2.º o 3.er grado.",
+      "B": "La superficie quemada es entre el 20 y el 30% de extensión y su profundidad es de grado 1.",
+      "C": "La superficie quemada es inferior al 10% y su profundidad es de 1.er o 2.º grado.",
+      "D": "La superficie quemada es inferior al 10% y su profundidad es de 3.er grado."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 245,
+    "question": "¿Qué se debe hacer en la asistencia inmediata de una persona quemada?:",
+    "answers": {
+      "A": "Aplicar pomadas o ungüentos específicos.",
+      "B": "Aplicar agua enfriando lo más posible a la persona herida.",
+      "C": "Aplicar pomadas o ungüentos específicos mientras se enfría lo más posible la zona quemada.",
+      "D": "Aplicar agua sobre la zona quemada sin enfriar demasiado a la persona herida."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 246,
+    "question": "A la hora de actuar de urgencia ante una fractura se debe:",
+    "answers": {
+      "A": "Inmovilizar la fractura en la misma posición en que se encuentra, sin intentar reducir la fractura (llevar el hueso a su posición normal).",
+      "B": "Reduciremos la fractura en primer lugar y posteriormente la inmovilizaremos.",
+      "C": "Reduciremos la fractura y esperaremos a los servicios de emergencia.",
+      "D": "Esperaremos a los servicios de emergencia sin actuar sobre el lugar de la fractura. Tema 13 59"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 247,
+    "question": "Los accidentes por corriente eléctrica:",
+    "answers": {
+      "A": "Son muy frecuentes, pero siempre graves y a menudo mortales.",
+      "B": "Son poco frecuentes, pero nunca graves y en pocas ocasiones mortales.",
+      "C": "Son poco frecuentes, pero siempre graves y a menudo mortales.",
+      "D": "Son muy frecuentes y en pocas ocasiones graves."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 248,
+    "question": "¿Qué significa que se produce una tetanización de un accidentado?:",
+    "answers": {
+      "A": "Que se ha producido un accidente por atragantamiento y la victima esta cianótica (con coloración azul por la falta de oxígeno).",
+      "B": "Que se ha producido un accidente por contacto eléctrico y la persona accidentada queda enganchada a la corriente.",
+      "C": "Que se ha producido un accidente por contacto eléctrico y la persona accidentada está cianótica.",
+      "D": "Que se ha producido una hemorragia interna y la victima está cianótica."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 249,
+    "question": "¿Qué pasos se seguirán para hacer primeros auxilios a una persona que presenta una he-rida en el tórax?:",
+    "answers": {
+      "A": "Si hubiera un objeto enclavado lo primero sería extraerlo, taponar la herida con un apó-sito o vendaje y trasladar a la persona herida acostada del lado lesionado.",
+      "B": "Si hubiera un objeto enclavado no trataremos de sacarlo, taponar la herida con un apó-sito o vendaje y trasladar a la persona herida acostada del lado contrario al lesionado.",
+      "C": "Si hubiera un objeto enclavado lo primero sería extraerlo, taponar la herida con un apó-sito o vendaje y trasladar a la persona herida acostada del lado contrario al lesionado.",
+      "D": "Si hubiera un objeto enclavado no trataremos de sacarlo, taponar la herida con un apó-sito o vendaje y trasladar a la persona herida acostada del lado lesionado."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 250,
+    "question": "En la intoxicación por vía aérea:",
+    "answers": {
+      "A": "La víctima presenta problemas cutáneos severos.",
+      "B": "La víctima presenta una parada cardiorrespiratoria.",
+      "C": "La víctima está cianótica.",
+      "D": "La víctima tiene una hemorragia severa."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 251,
+    "question": "Las heridas son lesiones con rotura de piel y salida de sangre al exterior y pueden ser transfixiantes, lo que significa:",
+    "answers": {
+      "A": "Que son heridas producidas por objetos romos.",
+      "B": "Que presentan orificio de entrada y salida, por ejemplo, las producidas por armas de fuego.",
+      "C": "Que son heridas producidas por objeto puntiagudos.",
+      "D": "Que son heridas producidas por objeto cortantes."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 252,
+    "question": "Las heridas son lesiones con rotura de piel y salida de sangre al exterior y pueden ser:",
+    "answers": {
+      "A": "Incisas, esto es, producidas por objetos cortantes.",
+      "B": "Incisas, esto es, producidas por armas de fuego.",
+      "C": "Incisas, esto es, producidas por objetos romos.",
+      "D": "Incisas, esto es, producidas por objetos puntiagudos. Tema 14"
+    },
+    "correct": "A"
+  }
+]

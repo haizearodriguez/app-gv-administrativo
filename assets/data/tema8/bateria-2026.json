@@ -1,0 +1,288 @@
+[
+  {
+    "id": 183,
+    "question": "La Ley 10/1982, de 24 de noviembre, Básica de Normalización del Uso del Euskera:",
+    "answers": {
+      "A": "Se reconoce a la ciudadanía el derecho a usar tanto el euskera como el castellano en sus relaciones con la Administración Pública en el ámbito territorial de la Comunidad Autónoma.",
+      "B": "Se reconoce a la ciudadanía el derecho a ser atendidos en la lengua oficial que elijan.",
+      "C": "Se recoge que toda disposición normativa o resolución oficial que emane de los poderes públicos sitos en la Comunidad Autónoma del País Vasco debe estar redactada en forma bilingüe a efectos de publicidad oficial.",
+      "D": "Las respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 184,
+    "question": "En la Ley 11/2022, de 1 de diciembre, de Empleo Público Vasco, aparece el siguiente concepto o cuestión:",
+    "answers": {
+      "A": "Perfil lingüístico.",
+      "B": "La fecha de preceptividad del perfil.",
+      "C": "La valoración del euskera como mérito en los procesos selectivos.",
+      "D": "Las respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 185,
+    "question": "El perfil lingüístico:",
+    "answers": {
+      "A": "Solo a algunos de los puestos de trabajo existentes en las Administraciones Públicas se les asignará su correspondiente perfil lingüístico.",
+      "B": "Todos los puestos de trabajo existentes en las Administraciones Públicas cuentan con la denominada fecha de preceptividad del perfil lingüístico.",
+      "C": "El perfil lingüístico y la fecha de preceptividad son cuestiones que aparecen en las relaciones de puestos de trabajo.",
+      "D": "Las respuestas anteriores son incorrectas."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 186,
+    "question": "El perfil lingüístico:",
+    "answers": {
+      "A": "Determina el conjunto de los niveles de competencia lingüística en idiomas distintos del castellano que sean necesarios para la provisión y desempeño del puesto de trabajo.",
+      "B": "A partir de su fecha de preceptividad, el cumplimiento del perfil lingüístico se constituye como exigencia obligatoria para el acceso y desempeño del correspondiente puesto.",
+      "C": "En tanto el perfil lingüístico no sea preceptivo, debe servir únicamente para determinar la valoración que, como mérito, ha de otorgarse al conocimiento de los idiomas distintos del castellano, tanto en la provisión de puestos de trabajo como en la selección externa.",
+      "D": "Según la Ley de Empleo Público Vasco, es el Parlamento Vasco, a propuesta de la Viceconsejería de Política Lingüística, el encargado de determinar los perfiles lingüísticos, así como los criterios para su aplicación a los distintos puestos de trabajo."
+    },
+    "correct": null
+  },
+  {
+    "id": 187,
+    "question": "El Decreto 19/2024, de 22 de febrero, por el que se regula el proceso de normalización del uso del euskera en el sector público vasco:",
+    "answers": {
+      "A": "Es un decreto fundamental de cara a la normalización del euskera.",
+      "B": "Desarrolla lo dispuesto en la Ley 10/1982, Básica de Normalización del Uso del Euskera, y en la Ley 11/2022, de Empleo Público Vasco.",
+      "C": "En su articulado se regulan fundamentalmente cuestiones como la acreditación de los perfiles lingüísticos y su consideración en los procesos de selección y provisión de puestos o las convalidaciones y el régimen de exenciones.",
+      "D": "Las respuestas anteriores son correctas."
+    },
+    "correct": null
+  },
+  {
+    "id": 188,
+    "question": "En el sector público vasco existen varios perfiles lingüísticos:",
+    "answers": {
+      "A": "Sí, cinco.",
+      "B": "Sí, ocho.",
+      "C": "Sí, tres.",
+      "D": "Sí, cuatro."
+    },
+    "correct": null
+  },
+  {
+    "id": 189,
+    "question": "El perfil lingüístico B1B1 es más frecuente entre:",
+    "answers": {
+      "A": "El personal subalterno.",
+      "B": "Los traductores de euskara y los técnicos de normalización lingüística.",
+      "C": "Los alcaldes.",
+      "D": "Los estudiantes universitarios."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 190,
+    "question": "El llamado índice de obligado cumplimiento:",
+    "answers": {
+      "A": "Determina el porcentaje de puestos de trabajo que deben tener asignado un perfil lingüístico preceptivo respecto al total de puestos de una determinada administración.",
+      "B": "Se calcula teniendo en cuenta siempre la realidad sociolingüística del conjunto de la Comunidad Autónoma del País Vasco.",
+      "C": "Funciona de la siguiente manera: cuantos más vasco-hablantes haya, menor será el índice de obligado cumplimiento.",
+      "D": "Las respuestas anteriores son incorrectas."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 191,
+    "question": "¿Cómo se realiza la acreditación de perfil lingüístico en el caso del personal al servicio del sector público vasco?:",
+    "answers": {
+      "A": "Mediante las pruebas que al efecto se celebran en los procesos de selección de personal o en los convocados para la provisión interna de puestos de trabajo.",
+      "B": "A través de las convocatorias extraordinarias que, con esa finalidad, son realizadas bien por el Instituto Vasco de Administración Pública (IVAP) o por cualquiera de las Administraciones Públicas sitas en nuestra Comunidad; la periodicidad de estas pruebas es, al menos, de carácter bianual.",
+      "C": "Mediante pruebas ordinarias bianuales y pruebas específicas trianuales.",
+      "D": "Las respuestas anteriores son correctas."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 192,
+    "question": "¿Existen algunas situaciones en las que el titular de un puesto de trabajo puede quedar exento del cumplimiento del perfil lingüístico?:",
+    "answers": {
+      "A": "No, no existe tal posibilidad en ningún caso.",
+      "B": "Sí, por ejemplo, cuando el titular supera la edad de 55 años al comienzo de cada Periodo de Planificación, siempre que el titular se muestre conforme.",
+      "C": "Sí, por ejemplo, cuando el nivel de estudios alcanzados por el titular sea el de grado o licenciatura universitaria.",
+      "D": "Sí, por ejemplo, cuando se encuentre afectado por discapacidad física o psíquica que imposibiliten o dificulten el aprendizaje del euskera mediante los programas actualmente vigentes de formación y capacitación lingüística de adultos."
+    },
+    "correct": null
+  },
+  {
+    "id": 193,
+    "question": "En cuanto a la cuestión de las convalidaciones de títulos de idiomas:",
+    "answers": {
+      "A": "Los títulos expedidos por las diferentes administraciones no se pueden equiparar.",
+      "B": "Los títulos expedidos por las diferentes administraciones quedaron equiparados en 2002 por el Ministerio de Educación.",
+      "C": "Los títulos expedidos por las diferentes administraciones quedan equiparados a los niveles B1, B2, C1 y C2 del Marco Común Europeo de Referencia para las Lenguas y quedan convalidados entre sí.",
+      "D": "Las respuestas anteriores son incorrectas."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 194,
+    "question": "¿Qué es ELEBIDE?:",
+    "answers": {
+      "A": "El Servicio de traducción del Gobierno vasco.",
+      "B": "El Servicio para la Garantía de los Derechos Lingüísticos que la Viceconsejería de Política Lingüística puso en funcionamiento en 2008.",
+      "C": "El Servicio para la formación de los empleados públicos en materia de euskara que la Viceconsejería de Política Lingüística puso en funcionamiento en 2008.",
+      "D": "El Servicio encargado de tramitar las convalidaciones de los títulos expedidos por las diferentes administraciones."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 195,
+    "question": "La acreditación Bikain:",
+    "answers": {
+      "A": "La certificación Bikain tiene tres niveles: alto, medio y bajo.",
+      "B": "La certificación Bikain cuenta con dos ponderaciones diferentes a la hora de la evaluación: una para las administraciones (incluida Osakidetza) y otra para los empleados públicos.",
+      "C": "Ofrece al evaluado una visión externa en lo que se refiere a su gestión del euskera: el informe de evaluación.",
+      "D": "Las respuestas anteriores son incorrectas."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 196,
+    "question": "Respecto a los criterios de uso de las lenguas oficiales:",
+    "answers": {
+      "A": "La meta consiste en situar al mismo nivel real el euskera y el castellano en la Administración, que gozan formalmente de idéntico reconocimiento, por lo que la tarea que se plantea es la de avanzar hacia la verdadera equiparación del euskera.",
+      "B": "La meta consiste en situar al mismo nivel real el euskera y el castellano en la Administración, ya que, si bien no gozan en ningún caso de idéntico reconocimiento formal, por lo menos se debe intentar que el euskera no quede fuera de la Administración.",
+      "C": "La meta consiste en situar al mismo nivel formal y real el euskera y el castellano, al menos en las zonas del País Vasco que sean más bilingües.",
+      "D": "La meta consiste en superponer el castellano sobre el euskera en la Administración."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 197,
+    "question": "La denominada formación lingüística específica:",
+    "answers": {
+      "A": "No es importante; la importante es la formación lingüística genérica.",
+      "B": "Se dirige a facilitar el salto de la enseñanza genérica a la realidad del día a día en el trabajo.",
+      "C": "Se dirige a que el empleado público logre el perfil lingüístico correspondiente.",
+      "D": "Pretende mejorar el nivel en idiomas de los empleados públicos."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 198,
+    "question": "En la denominada formación lingüística específica hay varios procedimientos previstos:",
+    "answers": {
+      "A": "Sí, dos, los cursos y las sesiones de capacitación.",
+      "B": "Sí, dos, los cursos y los cursillos.",
+      "C": "Sí, tres, los másteres, los postgrados y los cursos.",
+      "D": "Sí, uno, los cursos."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 199,
+    "question": "En los cursos planteados dentro de la formación lingüística específica:",
+    "answers": {
+      "A": "Hay cursos presenciales y cursos online.",
+      "B": "Hay cursos presenciales, cursos online y cursos en academias y centros universitarios especializados.",
+      "C": "Se trata básicamente de desarrollar clases magistrales, sesiones de capacitación y jornadas.",
+      "D": "Las respuestas anteriores son incorrectas."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 200,
+    "question": "En los cursos del Gobierno Vasco planteados dentro de la formación lingüística específica se trabaja:",
+    "answers": {
+      "A": "La expresión oral.",
+      "B": "Los documentos.",
+      "C": "El lenguaje administrativo.",
+      "D": "Las respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 201,
+    "question": "El instrumento más poderoso para afianzar el proceso de normalización lingüística en el sector público vasco lo constituyen:",
+    "answers": {
+      "A": "El certificado Bikain.",
+      "B": "Los Planes de Normalización del Uso del Euskera y los Programas de Acción Generales de Utilización del Euskera.",
+      "C": "ELEBIDE.",
+      "D": "Los Planes de Normalización del Uso del Euskera de cada entidad."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 202,
+    "question": "Los Planes de Normalización del Uso del Euskera:",
+    "answers": {
+      "A": "Son anuales.",
+      "B": "Se establecen para cada legislatura, esto es, su duración es de cuatro años.",
+      "C": "Son quinquenales.",
+      "D": "No tienen un periodo preciso de duración; cuando se entiende que es necesario, se suprime el plan vigente y se establece uno nuevo."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 203,
+    "question": "Se puede decir que en estos últimos años se ha avanzado en la normalización de la lengua vasca en la Administración:",
+    "answers": {
+      "A": "Sí; por ejemplo, la capacitación lingüística en euskera de los trabajadores de la Administración General del País Vasco ha mejorado notablemente.",
+      "B": "Sí; pero el castellano sigue siendo la lengua de trabajo predominante.",
+      "C": "Las respuestas a) y b) son correctas.",
+      "D": "Las respuestas a) y b) son incorrectas."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 204,
+    "question": "El objetivo del Plan de Normalización del Uso del Euskera del Gobierno Vasco actualmente vigente:",
+    "answers": {
+      "A": "Consiste en una serie de medidas para que se sepa cómo se ha de redactar y comunicar en la Administración, cómo generar textos bilingües sin recurrir a las traducciones, la previsión de sesiones orientadas a la motivación, y el desarrollo y utilización de recursos y herramientas informáticas en euskera.",
+      "B": "Es lograr que, para el final del periodo de planificación, el Gobierno Vasco sea una administración totalmente bilingüe que, además de garantizar absolutamente los derechos lingüísticos de la ciudadanía, trabaje de manera cómoda en euskera.",
+      "C": "Es tratar de que la Administración adquiera el valor añadido que se establezca en la gestión de calidad en torno al euskera.",
+      "D": "Es crear los nuevos perfiles lingüísticos y establecer fechas de preceptividad generales para los mismos."
+    },
+    "correct": null
+  },
+  {
+    "id": 205,
+    "question": "Los datos que ofrece la valoración general del VI periodo de planificación son muy positivos, pero hay algunas áreas que son necesario mejorar:",
+    "answers": {
+      "A": "La Administración no es aún capaz de garantizar completamente los derechos lingüísticos de la ciudadanía, de manera oral ni escrita.",
+      "B": "El uso de las aplicaciones informáticas en euskera es muy escaso.",
+      "C": "En la formación del personal trabajador el castellano es el idioma predominante.",
+      "D": "Las respuestas anteriores son correctas."
+    },
+    "correct": null
+  },
+  {
+    "id": 206,
+    "question": "En el seno del Gobierno Vasco, existen estructuras organizativas ordinarias para llevar adelante los planes de uso de los departamentos:",
+    "answers": {
+      "A": "No, cada departamento actúa con sus medios autónomamente.",
+      "B": "Sí, por ejemplo, la Comisión Sectorial de Seguimiento de la Normalización.",
+      "C": "Sí, por ejemplo, Euskaltzaindia.",
+      "D": "Sí, ELEBIDE y Elkarkidea."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 207,
+    "question": "La Comisión Permanente de las Lenguas Oficiales del Gobierno Vasco:",
+    "answers": {
+      "A": "Es el órgano máximo de seguimiento a nivel de Gobierno, y responsable del proceso de normalización lingüística en su conjunto.",
+      "B": "No forma parte de esa comisión el IVAP.",
+      "C": "Se reúne, como mínimo, cada dos años.",
+      "D": "No existe tal comisión."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 208,
+    "question": "La Comisión Técnica de Normalización Lingüística:",
+    "answers": {
+      "A": "Debido a su naturaleza técnica, no puede presentar propuestas de futuro.",
+      "B": "Es una comisión técnica a nivel de Gobierno Vasco cuyo cometido es intercambiar experiencias particulares y poner en marcha proyectos conjuntos.",
+      "C": "No forma parte de esa comisión el IVAP.",
+      "D": "No existe tal comisión."
+    },
+    "correct": "B"
+  }
+]

@@ -1,0 +1,354 @@
+[
+  {
+    "id": 124,
+    "question": "La implantación de la administración electrónica en una organización requiere de una vi-sión multidisciplinar que afecta a los datos de la organización, su seguridad y:",
+    "answers": {
+      "A": "A la tecnología y a los administrados, pero no a los procesos.",
+      "B": "A la tecnología y a los procesos, pero no a los administrados/as.",
+      "C": "A los trabajadores/as, los administrados/as, los procesos y la tecnología.",
+      "D": "A los trabajadores/as, los administrados/as y los procesos, pero no a la tecnología."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 125,
+    "question": "Los legisladores recogieron los derechos a no presentar documentos que la Administra-ción tuviera en su poder o el acceso a la información pública, archivos y registros por pri-mera vez:",
+    "answers": {
+      "A": "En la Ley 39/2015, de Procedimiento Administrativo Común.",
+      "B": "En la Ley 59/2003, de 19 de diciembre, de firma electrónica.",
+      "C": "En la Ley 30/1992, de Procedimiento Administrativo Común.",
+      "D": "En la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servi-cios Públicos."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 126,
+    "question": "En la Ley 39/2015, de Procedimiento Administrativo Común de las Administraciones Pú-blicas, el procedimiento electrónico y en papel son:",
+    "answers": {
+      "A": "Diferentes con el mismo plazo.",
+      "B": "Es el mismo procedimiento.",
+      "C": "Es el mismo procedimiento con plazos diferentes.",
+      "D": "Diferentes con plazos diferentes."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 127,
+    "question": "¿Cuáles de los siguientes elementos NO es una característica de la administración electró-nica?:",
+    "answers": {
+      "A": "Reducción de costes y tiempos de tramitación de los expedientes.",
+      "B": "Menos uso de papel.",
+      "C": "Reducción en el número de empleados públicos al automatizar los expedientes.",
+      "D": "Impulso de la sociedad de la información. Tema 7 31"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 128,
+    "question": "En la Ley 40/2015, de Régimen Jurídico del Sector Público, tiene un impacto directo en la administración electrónica:",
+    "answers": {
+      "A": "La gestión compartida de los servicios comunes.",
+      "B": "La asistencia en el uso de los medios electrónicos.",
+      "C": "Los registros electrónicos de apoderamientos.",
+      "D": "La emisión de los documentos por las AAPP."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 129,
+    "question": "En la Ley 39/2015, de Procedimiento Administrativo Común de las Administraciones Pú-blicas, tiene un impacto directo en la administración electrónica:",
+    "answers": {
+      "A": "Transferencia de tecnología entre las AAPP.",
+      "B": "Sistemas de firma de los empleados públicos.",
+      "C": "Sistemas de identificación de las AAPP.",
+      "D": "Sistemas de identificación de los interesados."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 130,
+    "question": "¿Cuáles de los siguiente elementos NO es una obligación de la administración electró-nica?:",
+    "answers": {
+      "A": "Interoperar con otras AAPP.",
+      "B": "Archivar los expedientes electrónicamente.",
+      "C": "Obligar a todos los administrados a relacionarse electrónicamente.",
+      "D": "Garantizar el derecho a la información y transparencia."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 131,
+    "question": "Señala cuál de los siguientes NO es un objetivo del Esquema Nacional de Seguridad:",
+    "answers": {
+      "A": "Promover la prevención, detección y corrección de los ciberataques.",
+      "B": "Crear las condiciones necesarias de interoperabilidad.",
+      "C": "Promover la gestión continuada de la seguridad.",
+      "D": "Servir de modelo de buenas prácticas."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 132,
+    "question": "La identificación electrónica se refiere:",
+    "answers": {
+      "A": "Al proceso de utilizar los datos de identificación de un persona física o jurídica en for-mato electrónico.",
+      "B": "A los datos electrónicos que contiene el certificado digital de la persona física o jurídica.",
+      "C": "Al proceso de firma digital de documentos de una persona física o jurídica en formato electrónico.",
+      "D": "A los datos electrónicos que contiene la tarjeta de empleado público."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 133,
+    "question": "La voluntad y consentimiento del interesado se acredita con:",
+    "answers": {
+      "A": "La firma manuscrita digitalizada.",
+      "B": "El sello del órgano de la Administración Pública.",
+      "C": "La identificación electrónica.",
+      "D": "La firma electrónica."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 134,
+    "question": "¿Qué tipo de colectivo no tiene obligación de relacionarse con la Administración en for-mato electrónico?:",
+    "answers": {
+      "A": "Profesionales.",
+      "B": "Entidades sin personalidad jurídica.",
+      "C": "Personas jurídicas.",
+      "D": "Personas físicas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 135,
+    "question": "Para que los trabajadores públicos puedan asistir a los administrados en lo referente a identificación, firma y presentación de solicitudes, debe cumplirse:",
+    "answers": {
+      "A": "Que los trabajadores públicos estén dados de alta en un registro de representantes de la propia Administración Pública.",
+      "B": "Que los trabajadores públicos estén dados de alta en un registro de trabajadores públi-cos habilitados y que este sea interoperable con los de las restantes Administraciones Públicas.",
+      "C": "Que los trabajadores públicos dispongan de un certificado digital.",
+      "D": "Que los trabajadores públicos presten sus servicios en los servicios de atención y Re-gistro."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 136,
+    "question": "Indique qué tipo de contenido NO es exigible como mínimo en una sede electrónica:",
+    "answers": {
+      "A": "Tablón de anuncios y edictos.",
+      "B": "Formulario de sugerencias y quejas.",
+      "C": "Fecha y hora oficial.",
+      "D": "Perfil del contratante."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 137,
+    "question": "Las Administraciones Públicas requerirán el uso obligatorio de firma por parte de los inte-resados para:",
+    "answers": {
+      "A": "Presentar quejas y sugerencias anónimas.",
+      "B": "Presentar declaraciones responsables o comunicaciones.",
+      "C": "Consultar el estado de la tramitación de sus procedimientos.",
+      "D": "Pagar recibos."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 138,
+    "question": "Una de las características del documento electrónico es:",
+    "answers": {
+      "A": "Incorporar un sello de tiempo en el que han sido emitidos.",
+      "B": "Ser emitidos y validados por una empresa de certificación.",
+      "C": "Incorporar una firma digitalizada visible en el documento.",
+      "D": "Estar almacenados y accesibles en la carpeta ciudadana."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 139,
+    "question": "Los documentos electrónicos que contengan actos administrativos tienen que conser-varse:",
+    "answers": {
+      "A": "En el formato original en el que se archivaron y no se pueden transformar.",
+      "B": "En cualquier formato que asegure la identidad e integridad de la información.",
+      "C": "En cualquier formato estándar de mercado en ese momento.",
+      "D": "En los formatos definidos en las ordenanzas y reglamento de la Administración Pública que los almacena."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 140,
+    "question": "La interoperabilidad semántica es aquella dimensión de la interoperabilidad relativa a:",
+    "answers": {
+      "A": "Que la información intercambiada pueda ser interpretable y reutilizable.",
+      "B": "Que la información intercambiada pueda ser conservada y reutilizable.",
+      "C": "Que la información intercambiada pueda ser conservada en otros soportes electrónicos.",
+      "D": "Que la información intercambiada puede ser intercambiada por todas las Administracio-nes Públicas."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 141,
+    "question": "La Autoridad de Certificación:",
+    "answers": {
+      "A": "Emite certificados a un solicitante.",
+      "B": "Verifica la identidad del solicitante antes de expedir un certificado.",
+      "C": "Valida los certificados de firma.",
+      "D": "Valida los certificados de identidad. Tema 7 33"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 142,
+    "question": "En la Ley 40/2015, desde el ámbito de la colaboración entre Administraciones, ¿qué ar-tículo tiene un impacto directo en la administración electrónica?:",
+    "answers": {
+      "A": "Art. 38: La Sede Electrónica.",
+      "B": "Art. 95: Gestión compartida de los servicios comunes.",
+      "C": "Art. 155: Transmisiones de datos entre Administraciones Públicas.",
+      "D": "Art. 42: Sistemas de firma para la actuación administrativa automatizada."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 143,
+    "question": "En la Ley 30/2015, desde el ámbito de los derechos de los interesados, ¿qué articulo tiene un impacto directo en la administración electrónica?:",
+    "answers": {
+      "A": "Art. 5: Representación.",
+      "B": "Art. 12: Asistencia en el uso de medios electrónicos.",
+      "C": "Art. 21: Obligaciones de resolver.",
+      "D": "Art. 9: Sistemas de identificación de los interesados."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 144,
+    "question": "¿En qué normativa se recoge, en una disposición adicional, la obligación de las Adminis-traciones Públicas de incluir las medidas de seguridad que deben implantarse en la orga-nización para evitar la pérdida, alteración o acceso no autorizado a los datos personales?:",
+    "answers": {
+      "A": "Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.",
+      "B": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.",
+      "C": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Admi-nistraciones Públicas.",
+      "D": "Real Decreto 4/2010, de 8 de enero, por el que se regula el Esquema Nacional de Interope­ra­bi­lidad."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 145,
+    "question": "¿Cuál de estas respuestas NO es un objetivo del Esquema Nacional de Seguridad?:",
+    "answers": {
+      "A": "Promover la gestión continuada de la seguridad.",
+      "B": "Servir de modelo de buenas prácticas.",
+      "C": "Promover un tratamiento homogéneo de la seguridad que facilite la cooperación.",
+      "D": "Proporcionar un lenguaje común."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 146,
+    "question": "Si necesito asegurar que un documento no ha sido modificado, necesito utilizar:",
+    "answers": {
+      "A": "Firma electrónica avanzada.",
+      "B": "Certificado digital.",
+      "C": "Firma electrónica.",
+      "D": "Firma biométrica."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 147,
+    "question": "Si quiero que un documento electrónico impreso en papel pueda ser validado, necesito que:",
+    "answers": {
+      "A": "El documento en papel contenga el sello del órgano que emite el documento.",
+      "B": "El documento en papel contenga la descripción del firmante.",
+      "C": "El documento en papel contenga un CSV (Código Seguro de Verificación).",
+      "D": "El documento en papel contenga los datos de contacto de la Administración Pública que emite el documento."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 148,
+    "question": "Para que una copia auténtica generada mediante una actuación administrativa automati-zada sea válida:",
+    "answers": {
+      "A": "Las copias deben ser firmadas por el funcionario que ejecuta la actuación.",
+      "B": "Las copias deben ser firmadas con el sello del órgano.",
+      "C": "Las copias deben ser firmadas por el funcionario que ejecuta la actuación, el sello del órgano y el sello de la entidad.",
+      "D": "Las copias deben ser firmadas por el secretario general, el sello del órgano y el sello de la entidad."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 149,
+    "question": "¿Cuándo puede un interesado modificar el medio elegido para relacionarse con la Admi-nistración Pública?:",
+    "answers": {
+      "A": "Durante la fase de inicio del expediente.",
+      "B": "Cuando acaba la fase de instrucción.",
+      "C": "En cualquier momento.",
+      "D": "Nunca, si ha seleccionado este método durante la solicitud."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 150,
+    "question": "Si un empleado/a público quiere presentar un recurso a un nombramiento tiene que rela-cionarse de forma electrónica con su Administración Pública:",
+    "answers": {
+      "A": "Siempre.",
+      "B": "Solo en la presentación de la instancia.",
+      "C": "Siempre que disponga de un DNI electrónico.",
+      "D": "No tiene obligación."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 151,
+    "question": "Las sedes electrónicas de la Comunidad Autónoma de Euskadi se identificarán a los usua-rios/as:",
+    "answers": {
+      "A": "Colocando de manera visible en la Home los datos de contacto.",
+      "B": "Utilizando como dirección electrónica el nombre de la Administración Pública con el do-minio .eus.",
+      "C": "Utilizando certificados reconocidos o cualificados de autenticación de su sitio web.",
+      "D": "Utilizando certificados reconocidos de su sitio web."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 152,
+    "question": "Indíquese cuál de estos sistemas de identificación NO es válido para ser utilizado en los procedimientos administrativos:",
+    "answers": {
+      "A": "Sistemas basados en certificados electrónicos cualificados de firma electrónica expedi-dos por prestadores de servicios electrónicos.",
+      "B": "Sistemas basados en certificados electrónicos cualificados de sello electrónico expedi-dos por prestadores de servicios electrónicos.",
+      "C": "Sistemas de clave concertada y cualquier otro sistema siempre con un registro previo como usuario que permita garantizar su identidad.",
+      "D": "Sistemas de clave concertada y cualquier otro sistema siempre sin registro previo como usuario que permita garantizar su identidad."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 153,
+    "question": "En particular, los medios o soportes donde se almacenen los documentos de un expe-diente asegurarán:",
+    "answers": {
+      "A": "La identificación de los usuarios y el control de accesos.",
+      "B": "La identificación de los interesados.",
+      "C": "La firma de los interesados.",
+      "D": "La posibilidad de hacer copias en papel."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 154,
+    "question": "Un documento electrónico es el resultado de la unión de:",
+    "answers": {
+      "A": "Documentos, Sello de Tiempo y Firma.",
+      "B": "Documentos, Firma y Metadatos.",
+      "C": "Información, Sello de Tiempo y Firma.",
+      "D": "Información, Firma y Metadatos. Tema 7 35"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 155,
+    "question": "Cuando sea preciso remitir un expediente electrónico entre Administraciones Públicas, este se enviará:",
+    "answers": {
+      "A": "Completo, foliado, autentificado y acompañado de un índice de los documentos que contenga.",
+      "B": "Completo, autentificado y acompañado de una carátula con índice de los documentos que contenga.",
+      "C": "Completo, foliado, autentificado y acompañado de un índice, asimismo autentificado, de los documentos que contenga.",
+      "D": "Completo, autentificado y acompañado de un índice, asimismo autentificado, de los do-cumentos que contenga. Tema 8"
+    },
+    "correct": "C"
+  }
+]

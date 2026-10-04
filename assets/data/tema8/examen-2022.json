@@ -1,0 +1,189 @@
+[
+  {
+    "id": 156,
+    "question": "El Estatuto de Autonomía del País Vasco en su artículo 6 se refiere al euskera como:",
+    "answers": {
+      "A": "Lengua propia del Pueblo Vasco, sin más caracterizaciones.",
+      "B": "Lengua propia del Pueblo Vasco y se establece el derecho de usarla y la obligación de conocerla.",
+      "C": "Lengua propia del Pueblo Vasco y oficial junto con el castellano.",
+      "D": "Lengua propia del Pueblo Vasco y oficial junto con el castellano, y se reconoce el dere-cho a conocer y usar ambas lenguas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 157,
+    "question": "En la Comunidad Autónoma de Euskadi las comunicaciones administrativas a las perso-nas interesadas deben realizarse en las dos lenguas oficiales:",
+    "answers": {
+      "A": "Siempre.",
+      "B": "Siempre que la administración pública disponga de medios para ello; si no dispusiera de medios, la administración pública decidirá si hacerlo en una u otra lengua oficial.",
+      "C": "Salvo cuando las personas interesadas elijan expresamente la utilización de una de las lenguas.",
+      "D": "Salvo cuando se trate de la administración periférica del Estado."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 158,
+    "question": "El cumplimiento del perfil lingüístico se constituye como exigencia obligatoria para el ac-ceso y desempeño del correspondiente puesto:",
+    "answers": {
+      "A": "Desde el momento en el que se cree el puesto de trabajo.",
+      "B": "Desde el momento en el que la persona que haya accedido al puesto de trabajo pueda acreditar ese perfil lingüístico.",
+      "C": "Nunca, se valorará únicamente como mérito.",
+      "D": "A partir de su fecha de preceptividad. Tema 8 37"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 159,
+    "question": "Cada puesto de trabajo de la administración tiene adjudicado su correspondiente perfil lingüístico:",
+    "answers": {
+      "A": "Que será mayor o menor en función de las exigencias comunicativas, tanto orales como escritas, del puesto en cuestión.",
+      "B": "Que será mayor o menor en función de la categoría profesional o cuerpo administrativo del puesto en cuestión.",
+      "C": "Y será de obligado cumplimiento en todos los casos.",
+      "D": "Y se valorará como mérito en todos los casos."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 160,
+    "question": "Cuando el perfil lingüístico tiene carácter preceptivo es necesario que:",
+    "answers": {
+      "A": "Se cumpla a la fecha de preceptividad fijada.",
+      "B": "La correspondiente administración pública decida si la mención al carácter preceptivo del perfil lingüístico se incorpora o no en las relaciones de puestos de trabajo de esa administración pública.",
+      "C": "Se acredite antes de la fecha de preceptividad.",
+      "D": "El conocimiento del euskera sea además valorado como mérito."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 161,
+    "question": "Uno de los siguientes procedimientos NO sirve para la acreditación del perfil lingüís-tico:",
+    "answers": {
+      "A": "Mediante las pruebas que al efecto se celebran en los procesos de selección de perso-nal o en los convocados para la provisión interna de puestos de trabajo.",
+      "B": "A través de las convocatorias ordinarias y periódicas realizadas por el Instituto Vasco de Administración Pública (IVAP) o por cualquiera de las administraciones públicas sitas en la CAV.",
+      "C": "A través de pruebas realizadas en entidades privadas a elección de la persona que pre-tenda acreditar el perfil.",
+      "D": "Mediante pruebas específicas que puedan celebrarse en supuestos excepcionales y de urgencia, al margen de las convocatorias ordinarias."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 162,
+    "question": "En base a la Ley de la Función Pública Vasca, en una de las siguientes situaciones el titu-lar de un puesto de trabajo NO quedará exento del cumplimiento del perfil lingüístico y, por tanto, deberá acreditar su cumplimiento:",
+    "answers": {
+      "A": "Cuando supere la edad de 45 años al comienzo de cada Período de Planificación, siem-pre que el titular se muestre conforme.",
+      "B": "Cuando el nivel de estudios realizados por el titular no alcance el de Bachiller Elemental o el de Educación General Básica.",
+      "C": "Cuando el nivel de estudios realizados por el titular no alcance el de la Licenciatura o Grado universitario.",
+      "D": "Cuando el titular se encuentre afectado por minusvalías físicas o psíquicas que impo-sibiliten o dificulten el aprendizaje del euskera mediante los programas actualmente vi-gentes de formación y capacitación lingüística de adultos."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 163,
+    "question": "A quienes estén en posesión del Título de Bachiller o de Técnico Superior, obtenido con posterioridad al 16 de abril de 2008:",
+    "answers": {
+      "A": "En ningún caso se les reconocerá la exención de presentar los títulos y certificaciones lingüísticas en euskera considerados equivalentes al nivel B2 del Marco Común Euro-peo de Referencia para las Lenguas.",
+      "B": "Se les reconocerá la exención de presentar los títulos y certificaciones lingüísticas en euskera considerados equivalentes al nivel B2 del Marco Común Europeo de Refe-rencia para las Lenguas, si hubieran cursado en euskera más del 50% del total del cu-rrículo correspondiente a esas titulaciones.",
+      "C": "Se les reconocerá la exención de presentar los títulos y certificaciones lingüísticas en euskera considerados equivalentes al nivel B2 del Marco Común Europeo de Referen-cia para las Lenguas, solo si hubieran cursado en euskera el total del currículo corres-pondiente a esas titulaciones.",
+      "D": "Se les reconocerá en todo caso la exención de presentar los títulos y certificaciones lin-güísticas en euskera considerados equivalentes al nivel B2 del Marco Común Europeo de Referencia para las Lenguas."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 164,
+    "question": "En base a la Ley 10/1982 Básica de Normalización del Uso del Euskera, la ciudadanía goza de derechos lingüísticos y es deber de la administración pública garantizar el ejercicio de tales derechos:",
+    "answers": {
+      "A": "Ello no supone que el euskera deba ser lengua de servicio en las relaciones con la ciu-dadanía.",
+      "B": "Los citados derechos lingüísticos solo podrán garantizarse cuando la administración pú-blica correspondiente disponga de recursos para ello.",
+      "C": "En los supuestos de inexistencia de recursos por parte de la administración pública co-rrespondiente para garantizar los citados derechos lingüísticos, se eximirá a la adminis-tración del cumplimiento de la obligación.",
+      "D": "Para la defensa de los citados derechos lingüísticos la Viceconsejería de Política Lin-güística puso en funcionamiento en 2008 el Servicio para la Garantía de los Derechos Lingüísticos (ELEBIDE)."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 165,
+    "question": "El Servicio para la Garantía de los Derechos Lingüísticos (ELEBIDE) NO tiene entre sus funciones:",
+    "answers": {
+      "A": "Gestionar las reclamaciones, quejas, proposiciones y sugerencias realizadas por la ciu-dadanía.",
+      "B": "Ofrecer información y asesoramiento sobre los derechos lingüísticos.",
+      "C": "Asegurar la coordinación con otros organismos e instituciones.",
+      "D": "Acreditar los perfiles lingüísticos."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 166,
+    "question": "El Certificado BIKAIN:",
+    "answers": {
+      "A": "Dispone de tres niveles (básico, intermedio, superior) y dos ponderaciones diferentes a la hora de evaluar (una para empresas privadas y sociedades públicas, y otra para las administraciones públicas).",
+      "B": "Dispone de tres niveles (básico, intermedio, superior) y la evaluación se realiza si-guiendo las mismas ponderaciones ya sean administraciones públicas o empresas pri-vadas.",
+      "C": "No está previsto para la acreditación de las empresas privadas.",
+      "D": "Únicamente está previsto para la acreditación de las empresas privadas. Tema 8 39"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 167,
+    "question": "En relación con los Planes de Normalización lingüística, una de las siguientes afirmacio-nes es falsa:",
+    "answers": {
+      "A": "Estos planes son quinquenales, se articulan en torno a períodos de planificación con una duración de cinco años.",
+      "B": "Estos planes son cuatrienales, coincidiendo con los mandatos electorales.",
+      "C": "Los objetivos de estos planes se han ido modificando a lo largo del tiempo en función de la realidad sociolingüística.",
+      "D": "Las actuaciones de normalización se encuentran sometidas a un control y seguimiento por parte de la Vicenconsejería de Política Lingüística."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 168,
+    "question": "En relación con la participación en el Plan de Normalización del uso del Euskera del Go-bierno Vasco en el VI período de planificación (2018-2022), una de las siguientes afirma-ciones es falsa:",
+    "answers": {
+      "A": "Participan en el Plan quienes mantengan comunicación oral o escrita habitual con la ciu-dadanía (lengua de servicio).",
+      "B": "Participan en el Plan quienes mantengan comunicaciones con otras administraciones (lengua relacional).",
+      "C": "Participan en el Plan quienes en el seno del organismo proporcionen servicios claves y transversales (lengua de trabajo): asesoría legal, contratación, personal, informática, presupuestos….",
+      "D": "Participa en el Plan la ciudadanía representada a través de asociaciones para la defensa de los derechos lingüísticos."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 169,
+    "question": "Los departamentos y organismos autónomos del Gobierno Vasco podrán realizar cam-bios en los perfiles lingüísticos y en las fechas de preceptividad, así como asignar nuevas fechas de preceptividad, siempre de acuerdo con los objetivos del plan de normalización del euskera, cuando se encuentren en alguna de estas situaciones:",
+    "answers": {
+      "A": "Solo cuando se trate de un puesto de atención al público.",
+      "B": "Solo cuando se trate de un puesto con relaciones comunicativas de carácter estraté-gico.",
+      "C": "Solo cuando se trate de un puesto necesario para la creación o consolidación de unida-des administrativas.",
+      "D": "Las tres situaciones anteriores justifican la realización de cambios."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 170,
+    "question": "En el marco de la normalización lingüística, corresponde al Instituto Vasco de Administra-ción Pública (IVAP), entre otras, las siguientes tareas:",
+    "answers": {
+      "A": "Ampliar la oferta de formación generalista en euskera y continuar suministrando recur-sos para apoyar a las y los empleados en la normalización del euskera.",
+      "B": "Coordinar todos los planes y organizar el seguimiento de los mismos así como su eva-luación final.",
+      "C": "Intercambiar experiencias en materia de normalización lingüística y poner en marcha proyectos conjuntos.",
+      "D": "Acreditar la obtención del certificado BIKAIN."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 171,
+    "question": "El Decreto 86/1997, de 15 de abril, por el que se regula el proceso de normalización del uso del euskera en las administraciones públicas de la Comunidad Autónoma de Euskadi:",
+    "answers": {
+      "A": "Regula exclusivamente los perfiles lingüísticos de los puestos de trabajo, sin entrar a regular las cuestiones referidas a la acreditación y convalidación de tales perfiles.",
+      "B": "Regula los perfiles lingüísticos de los puestos de trabajo; la acreditación de los mismos y su consideración en los procesos de selección y provisión de puestos, sin entrar a re-gular las cuestiones referidas a las convalidaciones y el régimen de exenciones.",
+      "C": "Regula los perfiles lingüísticos de los puestos de trabajo; la acreditación de los mismos y su consideración en los procesos de selección y provisión de puestos; las convalida-ciones y el régimen de exenciones así como la determinación de las preceptividades de los perfiles lingüísticos.",
+      "D": "Regula exclusivamente la determinación de las preceptividades de los perfiles lingüísti-cos."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 172,
+    "question": "La fijación del número de puestos de trabajo que deben tener perfil preceptivo en una ad-ministración pública se realiza:",
+    "answers": {
+      "A": "En la Ley 10/1982 Básica de Normalización del Uso del Euskera.",
+      "B": "En el Decreto 86/1997, de 15 de abril, por el que se regula el proceso de normalización del uso del euskera en las administraciones públicas de la Comunidad Autónoma de Euskadi.",
+      "C": "En la Ley 6/1989, de Función Pública Vasca.",
+      "D": "A través del índice de obligado cumplimiento. Tema 9 41 Tema 9"
+    },
+    "correct": "D"
+  }
+]

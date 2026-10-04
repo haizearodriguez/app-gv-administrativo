@@ -1,0 +1,288 @@
+[
+  {
+    "id": 339,
+    "question": "Elija la respuesta incorrecta que completa la frase. Siguiendo las palabras del profesor Moore, la creación del valor público consiste en generar el máximo valor posible para la población a partir de:",
+    "answers": {
+      "A": "Recursos financieros existentes en la institución.",
+      "B": "Recursos humanos existentes en la institución.",
+      "C": "Recursos privados existentes en la institución.",
+      "D": "Recursos tecnológicos existentes en la institución."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 340,
+    "question": "¿Cuándo y dónde surge el concepto de gobierno abierto?:",
+    "answers": {
+      "A": "En Inglaterra a finales de 1970.",
+      "B": "En Estados Unidos a finales de 1970.",
+      "C": "En Estados Unidos a principios de 1980.",
+      "D": "En Inglaterra a principios de 1980."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 341,
+    "question": "Los compromisos a los que aspira la Alianza Internacional para el Gobierno abierto (OGP) desde su creación en el año 2011 se concretan en:",
+    "answers": {
+      "A": "Luchar contra la corrupción institucional.",
+      "B": "Apoyar la participación ciudadana.",
+      "C": "Aumentar la disponibilidad de información sobre las actividades gubernamentales.",
+      "D": "Las respuestas b) y c) son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 342,
+    "question": "En muchas normas, el concepto de buen gobierno se circunscribe únicamente al comportamiento de los cargos públicos en base a unos principios generales y de actuación relacionados con conductas de transparencia, imparcialidad, diligencia… Este aspecto de ética y comportamiento de los cargos y del personal empleado público también se denomina:",
+    "answers": {
+      "A": "Transparencia.",
+      "B": "Integridad.",
+      "C": "Ética.",
+      "D": "Ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 343,
+    "question": "¿Cuál de estos conceptos no es sinónimo de administración electrónica?:",
+    "answers": {
+      "A": "Administración informática.",
+      "B": "Administración digital.",
+      "C": "Administración 2.0.",
+      "D": "E-administración."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 344,
+    "question": "Elija la respuesta más adecuada. ¿Cuáles de los siguientes son principios informadores del buen gobierno?:",
+    "answers": {
+      "A": "La transparencia, el acceso a la información pública y la rendición de cuentas.",
+      "B": "La participación y la colaboración ciudadana.",
+      "C": "La integridad.",
+      "D": "Todas las respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 345,
+    "question": "La regulación de la transparencia y el acceso a la información pública queda recogida en:",
+    "answers": {
+      "A": "La CE de 1978.",
+      "B": "El RGPD.",
+      "C": "La Ley 19/2013, de 9 de diciembre.",
+      "D": "Ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 346,
+    "question": "Elija la respuesta incorrecta. En relación con sus actividades sujetas a Derecho administrativo, la Ley 19/2013, de 9 de diciembre, se aplica:",
+    "answers": {
+      "A": "A la Familia Real.",
+      "B": "Al Congreso y al Senado.",
+      "C": "Al Banco de España.",
+      "D": "Al Tribunal de Cuentas."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 347,
+    "question": "En relación con sus actividades sujetas a Derecho administrativo, la Ley 19/2013, de 9 de diciembre, se aplica:",
+    "answers": {
+      "A": "A partidos políticos y organizaciones sindicales.",
+      "B": "A organizaciones empresariales.",
+      "C": "A personas físicas y jurídicas que presten servicios públicos.",
+      "D": "Todas las respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 348,
+    "question": "Los ayuntamientos vascos, en materia de transparencia y acceso a la información pública, se rigen por:",
+    "answers": {
+      "A": "La legislación básica del Estado en la materia.",
+      "B": "La Ley 2/2016, de 7 de abril, de instituciones Locales de Euskadi.",
+      "C": "Las respuestas a) y b) son correctas.",
+      "D": "El Estatuto de Autonomía de Gernika."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 349,
+    "question": "Identifique la respuesta incorrecta. La información publicada en general debe atender a los principios de:",
+    "answers": {
+      "A": "Precisión.",
+      "B": "Actualidad.",
+      "C": "Veracidad.",
+      "D": "Relevancia."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 350,
+    "question": "El concepto de rendición de cuentas proviene del término inglés:",
+    "answers": {
+      "A": "Equity.",
+      "B": "Accountability.",
+      "C": "Legality.",
+      "D": "Ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 351,
+    "question": "La información de obligada publicidad suele presentarse y estructurarse en:",
+    "answers": {
+      "A": "Las páginas web de las respectivas instituciones.",
+      "B": "En los portales de transparencia.",
+      "C": "Las respuestas a) y b) son correctas.",
+      "D": "En cualquier medio de difusión público."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 352,
+    "question": "La filosofía y práctica que persigue que determinados tipos de datos estén disponibles de forma libre para todo el mundo se denomina:",
+    "answers": {
+      "A": "Open data.",
+      "B": "Open source.",
+      "C": "Datos abiertos.",
+      "D": "Las respuestas a) y c) son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 353,
+    "question": "Open Data Euskadi federa datos abiertos de:",
+    "answers": {
+      "A": "Administraciones locales de Euskadi.",
+      "B": "Administraciones forales de Euskadi.",
+      "C": "Gobierno de España.",
+      "D": "Las tres respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 354,
+    "question": "Elija la respuesta incorrecta. Las ciudadanas y los ciudadanos, cuando hablamos del acceso a la información pública, tienen derecho a:",
+    "answers": {
+      "A": "Utilizar de cualquier forma la información obtenida.",
+      "B": "Acceder a la información pública.",
+      "C": "Obtener la información solicitada en el formato elegido.",
+      "D": "La gratuidad en el acceso a la información."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 355,
+    "question": "Elija la respuesta incorrecta. Las personas que accedan a la información pública están obligadas a:",
+    "answers": {
+      "A": "Comunicar a la autoridad competente el destino del uso de la información.",
+      "B": "Ejercer su derecho de acceso con respeto a los principios de buena fe e interdicción del abuso de derecho, concretando sus solicitudes de la forma más precisa posible.",
+      "C": "Realizar el acceso a la información sin que se vea afectado el normal funcionamiento de los servicios públicos, cumpliendo las condiciones y requisitos materiales para el acceso que se establezcan en la resolución correspondiente, cuando haya de realizarse de forma presencial en un concreto archivo o dependencia pública.",
+      "D": "Respetar las obligaciones establecidas en la normativa básica y en la ley autonómica para la reutilización de la información obtenida."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 356,
+    "question": "Los límites del derecho de acceso a la información pública tienen que ver con:",
+    "answers": {
+      "A": "Seguridad nacional.",
+      "B": "La política económica y monetaria.",
+      "C": "La protección del medio ambiente.",
+      "D": "Las tres respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 357,
+    "question": "¿Qué normas son las que obligan a responsables y encargados del tratamiento de datos a crear, mantener y publicar el Registro de actividades de tratamiento?:",
+    "answers": {
+      "A": "El RGPD.",
+      "B": "La Ley 19/2013, de 9 de diciembre.",
+      "C": "Las respuestas a) y b) son correctas.",
+      "D": "Ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 358,
+    "question": "El órgano propio de la garantía de la transparencia en Bizkaia se denomina:",
+    "answers": {
+      "A": "Consejo Foral.",
+      "B": "Comisión de reclamaciones.",
+      "C": "Comisión de reclamaciones en materia de transparencia.",
+      "D": "Ninguna de las respuestas anteriores es correcta."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 359,
+    "question": "Elija la respuesta incorrecta. Las tres dimensiones participativas que generan valor público son:",
+    "answers": {
+      "A": "La participación política.",
+      "B": "La participación para el diseño de servicios públicos.",
+      "C": "La participación solidaria.",
+      "D": "La participación colaborativa."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 360,
+    "question": "Las distintas normativas autonómicas o locales de participación ciudadana regulan, por ejemplo, el derecho a participar en:",
+    "answers": {
+      "A": "La elaboración de los presupuestos.",
+      "B": "Los planes de gobierno.",
+      "C": "La elaboración de disposiciones normativas de carácter general.",
+      "D": "Las respuestas a) y c) son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 361,
+    "question": "Elija la respuesta incorrecta. Las plataformas de interacción con la ciudadanía suelen contemplar diversas funcionalidades para que la ciudadanía pueda:",
+    "answers": {
+      "A": "Realizar propuestas.",
+      "B": "Apoyar propuestas.",
+      "C": "Expresar públicamente su opinión.",
+      "D": "Plantear proyectos para integrarlos en los presupuestos participativos."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 362,
+    "question": "¿Cuál de estos órganos no es un órgano consultivo y de participación?:",
+    "answers": {
+      "A": "La mesa de diálogo civil.",
+      "B": "Los consejos sociales municipales.",
+      "C": "Las mancomunidades.",
+      "D": "El Consejo vasco del voluntariado."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 363,
+    "question": "Elija la respuesta incorrecta. Pueden clasificarse en grupos representativos de intereses diversos:",
+    "answers": {
+      "A": "Las entidades colectivas.",
+      "B": "Los grupos de opinión y deliberación.",
+      "C": "Los grupos de interés.",
+      "D": "Los grupos de reflexión."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 364,
+    "question": "La legislación, los códigos y prácticas que se incluyen en los sistemas de integridad comparten una serie de valores y normas de conducta que pueden subsumirse en estos principios éticos generales:",
+    "answers": {
+      "A": "El interés general.",
+      "B": "Respeto y apertura.",
+      "C": "Eficacia y buenos resultados.",
+      "D": "Las tres respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  }
+]

@@ -1,0 +1,288 @@
+[
+  {
+    "id": 261,
+    "question": "¿Cuál de las siguientes Leyes se considera un pilar básico sobre el que se asienta la protección de la seguridad y salud de los y las trabajadoras?:",
+    "answers": {
+      "A": "La Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales.",
+      "B": "La Constitución española.",
+      "C": "El Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores.",
+      "D": "La Directiva 89/391/CEE, de 12 de junio de 1989, relativa a la aplicación de medidas para promover la mejora de la seguridad y de la salud de los trabajadores en el trabajo."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 262,
+    "question": "Los derechos contenidos en la Ley 31/1995 y sus normas reglamentarias:",
+    "answers": {
+      "A": "Bajo ningún concepto pueden ser modificados por convenio colectivo.",
+      "B": "En todo caso pueden modificarse por convenio colectivo.",
+      "C": "Pueden ser mejorados y desarrollados por convenio colectivo.",
+      "D": "Tan solo cabe modificarlos tras negociarlo cada persona trabajadora con su empresario."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 263,
+    "question": "La Ley 31/1995 no se aplicará a:",
+    "answers": {
+      "A": "Las personas socias trabajadoras de las cooperativas.",
+      "B": "A las personas trabajadoras autónomas.",
+      "C": "A los y las empleadas públicas.",
+      "D": "A los miembros de las Fuerzas Armadas y la Guardia Civil."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 264,
+    "question": "A efectos de la Ley 31/1995 se consideran categoría específica de persona empleada:",
+    "answers": {
+      "A": "Las personas que trabajen a distancia.",
+      "B": "El personal sujeto a relaciones laborales de carácter especial.",
+      "C": "Las personas trabajadoras de la minería.",
+      "D": "Las personas mayores de 55 años."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 265,
+    "question": "En el supuesto de contratas y subcontratas cuyas personas trabajadoras desarrollen actividades pertenecientes a la propia actividad de la empresa principal en las instalaciones de esta última:",
+    "answers": {
+      "A": "La empresa principal deberá vigilar el cumplimiento por dichas contratas y subcontratas de la normativa de prevención.",
+      "B": "Solamente serán las empresas contratistas y subcontratistas las que deban velar por el cumplimiento de la normativa de prevención respecto a sus propias personas trabajadoras.",
+      "C": "La vigilancia de la normativa de prevención corresponderá a la Inspección de Trabajo y de la Seguridad Social.",
+      "D": "Los delegados de prevención de la empresa principal serán los únicos encargados de velar por el cumplimiento de la normativa de prevención."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 266,
+    "question": "El deber de protección eficaz del empresario se materializa, entre otros, en la obligación de:",
+    "answers": {
+      "A": "Realizar el plan de prevención de la empresa.",
+      "B": "Realizar el plan de prevención de la empresa y las evaluaciones de riesgos de puestos de trabajo.",
+      "C": "Contratar a una empresa especializada que se encargue de velar por la seguridad y salud de las personas trabajadoras.",
+      "D": "Ofrecer cursos de primeros auxilios a las personas trabajadoras."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 267,
+    "question": "¿Qué significa que la protección en materia de prevención de riesgos laborales debe ser dinámica?:",
+    "answers": {
+      "A": "Que debe adaptarse a los cambios de la actividad laboral.",
+      "B": "Que debe adaptarse a los cambios de la actividad laboral, así como al cambio de las condiciones personales de quien desempeñe las correspondientes actividades laborales.",
+      "C": "Que debe adaptarse rápidamente a los cambios normativos.",
+      "D": "Que debe quedar en manos de la negociación colectiva su concreción y forma de aplicación."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 268,
+    "question": "El empresario debe realizar una evaluación inicial de los riesgos no evitables:",
+    "answers": {
+      "A": "Siempre.",
+      "B": "Cuando lo tenga por conveniente.",
+      "C": "Cuando se lo requiera la Autoridad Laboral.",
+      "D": "Nunca."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 269,
+    "question": "La influencia de los factores ambientales en el trabajo:",
+    "answers": {
+      "A": "Debe considerarse siempre al planificar la prevención.",
+      "B": "Es una cuestión que queda al margen de la actividad preventiva.",
+      "C": "Tan solo debe considerarse en aquellas industrias consideradas como peligrosas.",
+      "D": "Todas las respuestas anteriores son incorrectas."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 270,
+    "question": "Cuando un equipo de trabajo pueda presentar un riesgo específico para la seguridad y la salud de quien lo utilice:",
+    "answers": {
+      "A": "Se prohibirá su utilización en la empresa.",
+      "B": "Se sustituirá por otro equipo que entrañe menos riesgos o ninguno.",
+      "C": "Se llevará a cabo un estudio sobre el mismo para valorar su posible adecuación.",
+      "D": "La empresa adoptará las medidas necesarias con el fin de que la utilización de dicho equipo quede reservada a los encargados de dicha utilización, y les dará la formación específica necesaria para utilizarlo."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 271,
+    "question": "Indíquese cuál de las siguientes respuestas es correcta:",
+    "answers": {
+      "A": "Los equipos de protección individual siempre deben prevalecer sobre los medios técnicos de protección colectiva.",
+      "B": "Los medios técnicos de protección colectiva se antepondrán a los individuales.",
+      "C": "Ambos deben aplicarse al mismo tiempo.",
+      "D": "Solo cuando el empresario lo considere oportuno se antepondrán los equipos de protección individual a los medios técnicos de protección colectiva."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 272,
+    "question": "El principio de información se basa en que:",
+    "answers": {
+      "A": "Las personas trabajadoras deben ser consultadas sobre la adopción de medidas preventivas.",
+      "B": "Debe nombrarse un instructor en cada proceso de trabajo.",
+      "C": "La actuación preventiva debe dirigirse directamente sobre la persona trabajadora.",
+      "D": "Las personas trabajadoras deben conocer los riesgos a que están sometidos."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 273,
+    "question": "El principio de formación supone que:",
+    "answers": {
+      "A": "El empresario debe ofrecer formación teórica y práctica, suficiente y adecuada en materia preventiva a todas sus personas empleadas, tanto en el momento de su contratación como cuando se produzcan cambios en las funciones que estas desempeñen, o se introduzcan nuevas tecnologías o cambios en los equipos de trabajo.",
+      "B": "El empresario debe ofrecer formación teórica y práctica suficiente y adecuada en materia preventiva solamente a los empleados contratados temporalmente, tanto en el momento de su contratación como cuando se produzcan cambios en las funciones que estas desempeñen, o se introduzcan nuevas tecnologías o cambios en los equipos de trabajo.",
+      "C": "El empresario debe ofrecer formación teórica, suficiente y adecuada en materia preventiva a todas sus personas empleadas, tanto en el momento de su contratación como cuando se produzcan cambios en las funciones que estas desempeñen, o se introduzcan nuevas tecnologías o cambios en los equipos de trabajo.",
+      "D": "El empresario debe ofrecer la formación que considere oportuna en materia preventiva a sus personas empleadas cuando lo considere pertinente."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 274,
+    "question": "La formación debe impartirse:",
+    "answers": {
+      "A": "Siempre dentro de la jornada.",
+      "B": "Siempre fuera de la jornada.",
+      "C": "Siempre que sea posible dentro de la jornada.",
+      "D": "Cuando el empresario lo considere oportuno."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 275,
+    "question": "En materia de emergencia:",
+    "answers": {
+      "A": "El empresario debe contratar un servicio de prevención ajeno para que se encargue de poner en práctica las medidas necesarias en materia de primeros auxilios, lucha contra incendios y evacuación de personal.",
+      "B": "El empresario cumple con su deber en materia de emergencia poniendo a disposición de los empleados y de las empleadas información sobre las medidas necesarias en materia de primeros auxilios, lucha contra incendios y evacuación de personal.",
+      "C": "El empresario debe designar a los empleados o empleadas encargadas de poner en práctica las medidas necesarias en materia de primeros auxilios, lucha contra incendios y evacuación de personal.",
+      "D": "La Autoridad Laboral competente debe designar a los empleados o empleadas encargadas de poner en práctica las medidas necesarias en materia de primeros auxilios, lucha contra incendios y evacuación de personal."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 276,
+    "question": "Ante la existencia de un riesgo grave e inminente:",
+    "answers": {
+      "A": "El empresario es quien debe adoptar o permitir la adopción de las medidas necesarias para garantizar la seguridad y la salud de los y las empleadas.",
+      "B": "El comité de empresa es quien, por unanimidad, debe adoptar la decisión de paralizar la actividad del personal afectado por dicho riesgo.",
+      "C": "El comité de empresa es quien, por mayoría de sus miembros, debe adoptar la decisión de paralizar la actividad del personal afectado por dicho riesgo.",
+      "D": "En cualquier caso, si el personal no pudiera ponerse en contacto con su superior jerárquico para informarle de la existencia de ese riesgo para su seguridad, la de otros y otras trabajadoras o de terceras personas, podrá abandonar su lugar de trabajo."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 277,
+    "question": "Los equipos de protección individualizada precisos para evitar o minimizar la exposición al riesgo laboral correspondiente:",
+    "answers": {
+      "A": "Corren a cargo del empresario.",
+      "B": "Corren a cargo de las personas trabajadoras.",
+      "C": "Corren a cargo del empresario y de las personas trabajadoras.",
+      "D": "Corren a cargo de la Administración."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 278,
+    "question": "La vigilancia de la salud de las personas trabajadoras:",
+    "answers": {
+      "A": "Es voluntaria para las mismas.",
+      "B": "Es obligatoria para las mismas.",
+      "C": "Es obligatoria tan solo cuando el reconocimiento médico sea imprescindible para evaluar los efectos de las condiciones de trabajo sobre la salud del personal.",
+      "D": "Es obligatoria en el momento de la contratación y voluntaria a partir de la contratación."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 279,
+    "question": "Podrán acceder a la información médica de carácter personal de las personas trabajadoras:",
+    "answers": {
+      "A": "El empresario.",
+      "B": "El servicio médico y las autoridades sanitarias.",
+      "C": "Las autoridades sanitarias.",
+      "D": "El empresario, el servicio médico y las autoridades sanitarias."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 280,
+    "question": "Entre la documentación que debe elaborar y conservar el empresario para ponerla a disposición de la autoridad laboral no se encuentran:",
+    "answers": {
+      "A": "El plan de prevención de riesgos laborales.",
+      "B": "Los incumplimientos por parte de las personas trabajadoras en materia de prevención.",
+      "C": "La relación de accidentes de trabajo y enfermedades profesionales que hayan causado a la persona trabajadora una incapacidad laboral superior a un día de trabajo.",
+      "D": "Las evaluaciones de los riesgos realizadas."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 281,
+    "question": "Cuando en un mismo centro de trabajo desarrollen actividades personal de dos o más empresas:",
+    "answers": {
+      "A": "Dichas empresas deberán cooperar en la aplicación de la normativa sobre prevención de riesgos laborales.",
+      "B": "La responsabilidad de velar por el cumplimiento de la normativa de prevención de riesgos laborales recaerá en la empresa de mayor número de personas empleadas.",
+      "C": "La responsabilidad recaerá en cada una de las empresas para con sus personas trabajadoras.",
+      "D": "La responsabilidad recaerá en la empresa titular del centro de trabajo en el que se desarrollen dichas actividades."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 282,
+    "question": "¿Cuál de los siguientes colectivos no se considera persona empleada especialmente sensible a determinados riesgos?:",
+    "answers": {
+      "A": "Personas con discapacidad.",
+      "B": "Mujeres embarazadas.",
+      "C": "Menores de edad.",
+      "D": "Personas que trabajan a distancia."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 283,
+    "question": "Si la revisión sobre la evaluación de riesgos de una mujer embarazada revela que existe un riesgo para su seguridad y salud o una posible repercusión sobre el embarazo o la lactancia o en los descendientes:",
+    "answers": {
+      "A": "Deberá suspenderse su contrato de trabajo por riesgo durante el embarazo.",
+      "B": "El empresario deberá adoptar las medidas necesarias para evitar la exposición a tal riesgo.",
+      "C": "El empresario deberá modificar el puesto de trabajo o funciones del mismo, de forma y manera que estos sean compatibles con el estado de la mujer.",
+      "D": "El contrato de trabajo tan solo podrá suspenderse por riesgo durante el embarazo cuando no quepan adaptaciones del puesto de trabajo, ni modificaciones en el puesto de trabajo o en las funciones del mismo."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 284,
+    "question": "Las personas trabajadoras con relaciones de trabajo temporales y las contratadas por empresas de trabajo temporal:",
+    "answers": {
+      "A": "No están protegidas por la normativa de protección social.",
+      "B": "Disponen de una mayor protección que el resto de las personas trabajadoras.",
+      "C": "Deben disfrutar del mismo nivel de protección que el resto de las personas trabajadoras.",
+      "D": "Solamente están protegidas en determinados sectores."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 285,
+    "question": "Las personas trabajadoras:",
+    "answers": {
+      "A": "No tienen ninguna obligación en materia de prevención de riesgos porque se trata de una cuestión que solo atañe al empresario.",
+      "B": "Deben velar por su propia seguridad y salud en el trabajo, en cumplimiento de las medidas de prevención que se hayan adoptado en la empresa.",
+      "C": "Deben velar por su propia seguridad y salud en el trabajo, así como por la de aquellas otras personas a las que pueda afectar su actividad profesional, en cumplimiento de las medidas de prevención que se hayan adoptado en la empresa.",
+      "D": "Deben velar por la seguridad y salud en el trabajo del resto de compañeros, así como por la de aquellas otras personas a las que pueda afectar su actividad profesional, en cumplimiento de las medidas de prevención que se hayan adoptado en la empresa."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 286,
+    "question": "Como modalidad preventiva a asumir por la empresa:",
+    "answers": {
+      "A": "Cabe la creación de un servicio de prevención propio o el concierto con un servicio de prevención ajeno.",
+      "B": "Solamente cabe la creación de un servicio propio de prevención.",
+      "C": "Solamente cabe el concierto con un servicio de prevención ajeno.",
+      "D": "Solamente cabe la designación de personas trabajadoras bien formadas en materia de prevención de riesgos laborales."
+    },
+    "correct": "A"
+  }
+]

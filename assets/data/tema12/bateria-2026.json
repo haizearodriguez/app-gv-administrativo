@@ -1,0 +1,288 @@
+[
+  {
+    "id": 287,
+    "question": "La prevención de riesgos laborales de las personas trabajadoras expuestas a pantallas de visualización se regula en:",
+    "answers": {
+      "A": "El Real Decreto 488/1997.",
+      "B": "La Ley 31/1995.",
+      "C": "El Real Decreto-legislativo 2/2015.",
+      "D": "El Real Decreto 39/1997."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 288,
+    "question": "¿Cuál de los siguientes riesgos no se asocia a la utilización de equipos con pantallas de visualización?:",
+    "answers": {
+      "A": "Trastornos músculo-esqueléticos.",
+      "B": "Descargas eléctricas.",
+      "C": "Problemas visuales.",
+      "D": "Fatiga mental."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 289,
+    "question": "Quedan excluidas como personas trabajadoras usuarias de equipos con pantallas de visualización:",
+    "answers": {
+      "A": "Todas aquellas personas cuyo trabajo efectivo con pantallas de visualización sea inferior a 2 horas diarias o 10 horas semanales.",
+      "B": "Todas aquellas personas cuyo trabajo efectivo con pantallas de visualización sea inferior a 3 horas diarias o 12 horas semanales.",
+      "C": "Todas aquellas personas cuyo trabajo efectivo con pantallas de visualización sea inferior a 4 horas diarias o 15 horas semanales.",
+      "D": "Todas aquellas personas cuyo trabajo efectivo con pantallas de visualización sea inferior a 1 hora diaria o 8 horas semanales."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 290,
+    "question": "La responsabilidad de evaluar los riegos que pueden padecer las personas trabajadoras usuarias de equipos con pantallas de visualización recae:",
+    "answers": {
+      "A": "Exclusivamente en el trabajador.",
+      "B": "Tanto en el empresario como en el trabajador.",
+      "C": "Exclusivamente en el empresario.",
+      "D": "En el servicio de prevención de la empresa."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 291,
+    "question": "La evaluación de riesgos cuando se trabaja con pantallas de visualización debe tener en cuenta como factores de riesgo:",
+    "answers": {
+      "A": "Los derivados de la exigencia de la tarea.",
+      "B": "Los derivados de las características propias del puesto de trabajo.",
+      "C": "Los relativos a las propias características visuales de la persona usuaria.",
+      "D": "Todos los anteriores."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 292,
+    "question": "Entre las posibilidades para evaluar los riesgos de los trabajos que requieren pantallas de visualización se busca una detección precoz:",
+    "answers": {
+      "A": "Al verificar el diseño ergonómico de los distintos elementos que integran el puesto.",
+      "B": "Al estimar las cargas mental, visual y muscular, a través de la evaluación de las exigencias de la tarea, las características personales del trabajador o trabajadora, el tiempo de trabajo, los síntomas de fatiga, etc.",
+      "C": "Al detectar las situaciones de riesgo mediante una vigilancia periódica de la salud.",
+      "D": "En todos los casos anteriores."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 293,
+    "question": "En la evaluación de riesgos de los trabajos que requieren pantallas de visualización:",
+    "answers": {
+      "A": "Debe estarse solamente al test de evaluación elaborado por el empresario.",
+      "B": "Debe estarse a lo que establece la Guía del INSHT.",
+      "C": "Debe estarse a lo que recomienden los delegados de prevención.",
+      "D": "La información proporcionada por las propias personas trabajadoras usuarias constituye una parte esencial de la evaluación."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 294,
+    "question": "En el supuesto de que se hayan introducido cambios significativos en un puesto de trabajo que requiere la utilización de pantallas de visualización:",
+    "answers": {
+      "A": "Deben mantenerse las medidas adoptadas como consecuencia de la evaluación de riesgos inicial.",
+      "B": "La evaluación de riesgos inicialmente realizada debe revisarse.",
+      "C": "El empresario decidirá si se debe realizar una nueva evaluación de riesgos o no.",
+      "D": "Se realizará una nueva evaluación de riesgos si así lo solicita la persona trabajadora afectada."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 295,
+    "question": "En los trabajos que requieren el uso de pantallas de visualización se recomienda establecer pausas de:",
+    "answers": {
+      "A": "Al menos 10 minutos por cada hora de actividad laboral en tareas que requieran una gran atención.",
+      "B": "Entre 5 y 10 minutos cada 90 minutos.",
+      "C": "Al menos 12 minutos por cada hora de actividad laboral en tareas que requieran una gran atención.",
+      "D": "Al menos 15 minutos por cada hora de actividad laboral en tareas que requieran una gran atención."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 296,
+    "question": "Los exámenes médicos en los trabajos que requieren el uso de pantallas de visualización se deben llevar a cabo:",
+    "answers": {
+      "A": "Previamente al inicio del trabajo con pantallas de visualización.",
+      "B": "Periódicamente.",
+      "C": "A demanda de la persona trabajadora.",
+      "D": "En los tres casos anteriores."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 297,
+    "question": "El reconocimiento oftalmológico de las personas trabajadoras que trabajen con pantallas de visualización lo debe realizar:",
+    "answers": {
+      "A": "Necesariamente un oftalmólogo de Osakidetza.",
+      "B": "Necesariamente un oftalmólogo de la mutua correspondiente.",
+      "C": "Lo puede realizar el médico de empresa.",
+      "D": "Necesariamente el oftalmólogo que elija la persona trabajadora."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 298,
+    "question": "En los trabajos con pantallas de visualización, respecto a las personas mayores de 40 años:",
+    "answers": {
+      "A": "Es obligatorio remitirlos al oftalmólogo.",
+      "B": "Es obligatorio remitirlos al oftalmólogo cuando lo soliciten las personas trabajadoras afectadas.",
+      "C": "Solamente es obligatorio remitirlos al oftalmólogo cuando el trabajo realizado requiere gran concentración.",
+      "D": "Es aconsejable remitirlos al oftalmólogo."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 299,
+    "question": "La patología del aparato locomotor en los trabajos que requieren pantallas de visualización:",
+    "answers": {
+      "A": "No requiere atención.",
+      "B": "Requiere atención dependiendo de las condiciones físicas de la persona trabajadora.",
+      "C": "Es el segundo grupo de enfermedades a las que se debe prestar especial atención.",
+      "D": "Requiere atención a demanda de la persona trabajadora."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 300,
+    "question": "El examen osteomuscular en los trabajos que requieren pantallas de visualización:",
+    "answers": {
+      "A": "Se llevará a cabo con una periodicidad ajustada al nivel de riesgo a juicio del personal médico responsable del examen.",
+      "B": "Se llevará a cabo con carácter previo al inicio de la prestación de servicios por parte de la persona trabajadora.",
+      "C": "Se llevará a cabo una vez al año.",
+      "D": "Se llevará a cabo a demanda de la persona trabajadora."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 301,
+    "question": "La valoración de la fatiga mental en los trabajos que requieren pantallas de visualización se llevará a cabo a través:",
+    "answers": {
+      "A": "De un test psicotécnico.",
+      "B": "De una encuesta.",
+      "C": "De una entrevista.",
+      "D": "De una encuesta y una entrevista."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 302,
+    "question": "Se estima que el personal que trabaja con pantallas de visualización sufre alteraciones de manera cotidiana entre:",
+    "answers": {
+      "A": "Un 10% y un 40%.",
+      "B": "Un 10% y un 45%.",
+      "C": "Un 10% y un 30%.",
+      "D": "Un 10% y un 60%."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 303,
+    "question": "Las alteraciones físicas o musculares:",
+    "answers": {
+      "A": "Se manifiestan más frecuentemente en hombres.",
+      "B": "Se manifiestan más frecuentemente en mujeres.",
+      "C": "Se manifiestan indistintamente en hombres y mujeres.",
+      "D": "Se manifiestan indistintamente en hombres y mujeres mayores de 45 años."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 304,
+    "question": "En los trabajos que requieren la utilización de pantallas de visualización:",
+    "answers": {
+      "A": "Se han descrito casos de alteraciones cutáneas relacionadas con el propio trabajo.",
+      "B": "No se han descrito casos de alteraciones cutáneas.",
+      "C": "Se han descrito casos de alteraciones cutáneas pero que nada tienen que ver con el trabajo.",
+      "D": "Solamente se han descrito casos de alteraciones cutáneas en situaciones de estrés laboral."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 305,
+    "question": "Los trastornos en la memoria y la dificultad de concentración mental cuanto se trabaja con pantallas de visualización pueden deberse a:",
+    "answers": {
+      "A": "La dificultad del trabajo.",
+      "B": "La concentración requerida en el trabajo.",
+      "C": "La fatiga producida por el trabajo.",
+      "D": "La monotonía y simplicidad del trabajo."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 306,
+    "question": "Puede actuar como factor que interviene en la aparición de alteraciones visuales cuando se trabaja con pantallas de visualización:",
+    "answers": {
+      "A": "La disposición del puesto de trabajo.",
+      "B": "La disposición del puesto de trabajo y la necesidad de adoptar dos distancias no iguales: ojo-pantalla y ojo-texto.",
+      "C": "La disposición del puesto de trabajo y la necesidad de adoptar tres distancias iguales: ojo-pantalla, ojo-teclado y ojo-texto.",
+      "D": "La disposición del puesto de trabajo y la necesidad de adoptar tres distancias no iguales: ojo-pantalla, ojo-teclado y ojo-texto."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 307,
+    "question": "Indíquese cuál de los siguientes factores no interviene en la fatiga física o muscular cuando se trabaja con pantallas de visualización:",
+    "answers": {
+      "A": "Posturas incorrectas ante la pantalla.",
+      "B": "Factores dependientes de las condiciones ergonómicas del puesto de trabajo.",
+      "C": "El estrés.",
+      "D": "Factores dependientes de una incorrecta organización del trabajo."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 308,
+    "question": "Cuando se trabaja con pantallas de visualización, en las tareas habituales se mantendrá respecto a las mismas una distancia no inferior a:",
+    "answers": {
+      "A": "500 mm.",
+      "B": "550 mm.",
+      "C": "400 mm.",
+      "D": "450 mm."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 309,
+    "question": "Cuando se trabaja con pantallas de visualización, la mesa de trabajo tendrá una superficie de:",
+    "answers": {
+      "A": "90 cm por 120 cm.",
+      "B": "80 cm por 120 cm.",
+      "C": "90 cm por 140 cm.",
+      "D": "80 cm por 130 cm."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 310,
+    "question": "Cuando se trabaja con pantallas de visualización la temperatura nunca excederá de:",
+    "answers": {
+      "A": "24º.",
+      "B": "26º.",
+      "C": "20º.",
+      "D": "25º."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 311,
+    "question": "Cuando se trabaja con pantallas de visualización, la velocidad del aire será menor a los:",
+    "answers": {
+      "A": "0,12 m/sg.",
+      "B": "0,15 m/sg.",
+      "C": "0,25 m/sg.",
+      "D": "0,20 m/sg."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 312,
+    "question": "Cuando se trabaja con pantallas de visualización, la causa de disconfort está ligada a:",
+    "answers": {
+      "A": "La falta de descansos suficientes.",
+      "B": "Los elementos del puesto.",
+      "C": "La posición sedentaria mantenida.",
+      "D": "La posición sedentaria mantenida y los elementos del puesto."
+    },
+    "correct": "D"
+  }
+]
