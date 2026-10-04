@@ -3,87 +3,87 @@
     "id": 1,
     "question": "Según el artículo 137 de la CE, ¿en qué entidades se organiza territorialmente el Estado?",
     "answers": {
-      "A": "En municipios, provincias y las Comunidades Autónomas que se constituyan.",
-      "B": "Solo en municipios y provincias.",
+      "A": "Solo en municipios y provincias.",
+      "B": "En regiones y comarcas.",
       "C": "Solo en Comunidades Autónomas.",
-      "D": "En regiones y comarcas."
+      "D": "En municipios, provincias y las Comunidades Autónomas que se constituyan."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 2,
     "question": "¿Qué reconoce el artículo 137 CE a las entidades territoriales?",
     "answers": {
-      "A": "Que todas ellas gozan de autonomía para la gestión de sus propios intereses.",
-      "B": "Que tienen soberanía plena.",
-      "C": "Que dependen jerárquicamente del Gobierno central.",
-      "D": "Ninguna de las anteriores."
+      "A": "Ninguna de las anteriores.",
+      "B": "Que todas ellas gozan de autonomía para la gestión de sus propios intereses.",
+      "C": "Que tienen soberanía plena.",
+      "D": "Que dependen jerárquicamente del Gobierno central."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 3,
     "question": "La distribución territorial del poder prevista por la CE de 1978 permite distinguir entre:",
     "answers": {
-      "A": "La Administración local y la Administración autonómica.",
+      "A": "Ninguna de las anteriores.",
       "B": "Solo la Administración central.",
-      "C": "La Administración militar y civil.",
-      "D": "Ninguna de las anteriores."
+      "C": "La Administración local y la Administración autonómica.",
+      "D": "La Administración militar y civil."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 4,
     "question": "¿Qué artículos de la Constitución dedica el Título VIII a la regulación de la Administración Local?",
     "answers": {
-      "A": "Los artículos 140 a 142.",
-      "B": "Los artículos 148 a 149.",
-      "C": "Los artículos 150 a 155.",
+      "A": "Los artículos 150 a 155.",
+      "B": "Los artículos 140 a 142.",
+      "C": "Los artículos 148 a 149.",
       "D": "Los artículos 1 a 9."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 5,
     "question": "La clasificación de las entidades locales se encuentra en:",
     "answers": {
-      "A": "La Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local (LBRL).",
+      "A": "Ninguna de las anteriores.",
       "B": "La Ley Orgánica 2/1979.",
       "C": "El Estatuto de los Trabajadores.",
-      "D": "Ninguna de las anteriores."
+      "D": "La Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local (LBRL)."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 6,
     "question": "¿Cuáles son las Entidades Locales Territoriales según la LBRL?",
     "answers": {
-      "A": "El Municipio, la Provincia y la Isla.",
-      "B": "Solo el Municipio.",
-      "C": "El Municipio y la Comarca.",
-      "D": "La Comunidad Autónoma y el Municipio."
+      "A": "Solo el Municipio.",
+      "B": "La Comunidad Autónoma y el Municipio.",
+      "C": "El Municipio, la Provincia y la Isla.",
+      "D": "El Municipio y la Comarca."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 7,
     "question": "¿Quién gobierna, administra y representa a la Isla en los archipiélagos balear y canario?",
     "answers": {
-      "A": "Los Cabildos y Consejos Insulares.",
+      "A": "Ninguna de las anteriores.",
       "B": "Las Diputaciones Forales.",
-      "C": "Los Ayuntamientos.",
-      "D": "Ninguna de las anteriores."
+      "C": "Los Cabildos y Consejos Insulares.",
+      "D": "Los Ayuntamientos."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 8,
     "question": "¿Cuáles se consideran otras Entidades Locales según el art. 141.3 CE y la LBRL?",
     "answers": {
       "A": "Entidades de ámbito inferior al municipio, comarcas, áreas metropolitanas y mancomunidades.",
-      "B": "Solo las provincias.",
+      "B": "Ninguna de las anteriores.",
       "C": "Solo las Comunidades Autónomas.",
-      "D": "Ninguna de las anteriores."
+      "D": "Solo las provincias."
     },
     "correct": "A"
   },
@@ -91,109 +91,109 @@
     "id": 9,
     "question": "¿Cómo se denominan las entidades de ámbito territorial inferior al municipio para la administración descentralizada de núcleos de población separados?",
     "answers": {
-      "A": "Caseríos, parroquias, aldeas, barrios, anteiglesias, concejos, pedanías, etc.",
-      "B": "Diputaciones Forales.",
+      "A": "Diputaciones Forales.",
+      "B": "Caseríos, parroquias, aldeas, barrios, anteiglesias, concejos, pedanías, etc.",
       "C": "Comunidades Autónomas.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 10,
     "question": "Las Comarcas u otras entidades que agrupen varios municipios se crean para:",
     "answers": {
-      "A": "Gestionar intereses comunes o prestar servicios en un ámbito compartido.",
-      "B": "Sustituir a las Comunidades Autónomas.",
-      "C": "Crear un nuevo nivel de Estado.",
-      "D": "Ninguna de las anteriores."
+      "A": "Sustituir a las Comunidades Autónomas.",
+      "B": "Crear un nuevo nivel de Estado.",
+      "C": "Ninguna de las anteriores.",
+      "D": "Gestionar intereses comunes o prestar servicios en un ámbito compartido."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 11,
     "question": "Las Áreas metropolitanas son entidades locales integradas por:",
     "answers": {
-      "A": "Municipios de grandes aglomeraciones urbanas vinculados económica y socialmente.",
-      "B": "Islas exclusivamente.",
-      "C": "Comunidades Autónomas limítrofes.",
-      "D": "Ninguna de las anteriores."
+      "A": "Comunidades Autónomas limítrofes.",
+      "B": "Ninguna de las anteriores.",
+      "C": "Islas exclusivamente.",
+      "D": "Municipios de grandes aglomeraciones urbanas vinculados económica y socialmente."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 12,
     "question": "Las Mancomunidades de municipios se crean para:",
     "answers": {
-      "A": "La ejecución en común de obras y servicios de su competencia.",
-      "B": "Sustituir a las Diputaciones Forales.",
-      "C": "Ejercer competencias exclusivas del Estado.",
+      "A": "Sustituir a las Diputaciones Forales.",
+      "B": "Ejercer competencias exclusivas del Estado.",
+      "C": "La ejecución en común de obras y servicios de su competencia.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 13,
     "question": "¿Qué órganos conforman la organización institucional de los Territorios Históricos Vascos?",
     "answers": {
-      "A": "Las Juntas Generales y la Diputación Foral.",
-      "B": "El Parlamento y el Gobierno Vasco.",
-      "C": "Los Ayuntamientos y las Diputaciones provinciales.",
-      "D": "Ninguna de las anteriores."
+      "A": "Ninguna de las anteriores.",
+      "B": "Las Juntas Generales y la Diputación Foral.",
+      "C": "El Parlamento y el Gobierno Vasco.",
+      "D": "Los Ayuntamientos y las Diputaciones provinciales."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 14,
     "question": "El Principio imperativo del Régimen local significa que:",
     "answers": {
-      "A": "No existirá ninguna parte del territorio español que no pertenezca a un municipio o a una provincia.",
-      "B": "Los municipios pueden desaparecer libremente.",
-      "C": "El territorio puede quedar sin adscripción administrativa.",
-      "D": "Ninguna de las anteriores."
+      "A": "Los municipios pueden desaparecer libremente.",
+      "B": "Ninguna de las anteriores.",
+      "C": "No existirá ninguna parte del territorio español que no pertenezca a un municipio o a una provincia.",
+      "D": "El territorio puede quedar sin adscripción administrativa."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 15,
     "question": "El Principio de autonomía de los entes públicos territoriales otorga a municipios y provincias:",
     "answers": {
-      "A": "Autonomía administrativa para la gestión de sus respectivos intereses.",
-      "B": "Autonomía política plena equiparable a las Comunidades Autónomas.",
-      "C": "Soberanía.",
-      "D": "Ninguna de las anteriores."
+      "A": "Ninguna de las anteriores.",
+      "B": "Soberanía.",
+      "C": "Autonomía política plena equiparable a las Comunidades Autónomas.",
+      "D": "Autonomía administrativa para la gestión de sus respectivos intereses."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 16,
     "question": "El Principio de suficiencia de las haciendas locales está previsto en el artículo:",
     "answers": {
-      "A": "142 de la Constitución.",
-      "B": "137 de la Constitución.",
-      "C": "148 de la Constitución.",
-      "D": "155 de la Constitución."
+      "A": "155 de la Constitución.",
+      "B": "148 de la Constitución.",
+      "C": "142 de la Constitución.",
+      "D": "137 de la Constitución."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 17,
     "question": "Según el artículo 142 CE, las Haciendas locales se nutrirán fundamentalmente de:",
     "answers": {
-      "A": "Tributos propios y de participación en los del Estado y de las Comunidades Autónomas.",
-      "B": "Únicamente de subvenciones estatales.",
-      "C": "Solo de tributos propios.",
-      "D": "Ninguna de las anteriores."
+      "A": "Solo de tributos propios.",
+      "B": "Tributos propios y de participación en los del Estado y de las Comunidades Autónomas.",
+      "C": "Ninguna de las anteriores.",
+      "D": "Únicamente de subvenciones estatales."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 18,
     "question": "El Principio de subsidiariedad en el régimen local significa que:",
     "answers": {
       "A": "El ejercicio de las competencias públicas corresponde a las autoridades más cercanas a la ciudadanía.",
-      "B": "Las competencias corresponden siempre al Estado.",
+      "B": "Ninguna de las anteriores.",
       "C": "Las competencias corresponden siempre a la UE.",
-      "D": "Ninguna de las anteriores."
+      "D": "Las competencias corresponden siempre al Estado."
     },
     "correct": "A"
   },
@@ -201,75 +201,75 @@
     "id": 19,
     "question": "El concepto de autonomía local que se sigue en el temario procede de:",
     "answers": {
-      "A": "El artículo 3 de la Carta Europea de Autonomía Local (Estrasburgo, 1985).",
-      "B": "La LBRL exclusivamente.",
+      "A": "La LBRL exclusivamente.",
+      "B": "El artículo 3 de la Carta Europea de Autonomía Local (Estrasburgo, 1985).",
       "C": "El Tratado de Lisboa.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 20,
     "question": "La Carta Europea de Autonomía Local fue ratificada por España en:",
     "answers": {
-      "A": "1988.",
-      "B": "1978.",
-      "C": "1999.",
-      "D": "2007."
+      "A": "1978.",
+      "B": "2007.",
+      "C": "1988.",
+      "D": "1999."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 21,
     "question": "Según la Carta Europea de Autonomía Local, el derecho de autonomía local se ejerce por:",
     "answers": {
-      "A": "Asambleas y Consejos elegidos por sufragio libre, secreto, igual, directo y universal.",
+      "A": "El Rey.",
       "B": "Órganos designados por el Gobierno central.",
-      "C": "El Rey.",
+      "C": "Asambleas y Consejos elegidos por sufragio libre, secreto, igual, directo y universal.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 22,
     "question": "¿Qué potestades corresponden a Municipios, Provincias e Islas según el artículo 4 de la LBRL?",
     "answers": {
-      "A": "La potestad reglamentaria, tributaria, de planificación, expropiatoria, sancionadora y de revisión de oficio, entre otras.",
-      "B": "Solo la potestad tributaria.",
-      "C": "Ninguna potestad propia.",
-      "D": "Solo la potestad reglamentaria."
+      "A": "Ninguna potestad propia.",
+      "B": "Solo la potestad reglamentaria.",
+      "C": "La potestad reglamentaria, tributaria, de planificación, expropiatoria, sancionadora y de revisión de oficio, entre otras.",
+      "D": "Solo la potestad tributaria."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 23,
     "question": "¿Cuándo surge la provincia como división territorial moderna del Estado?",
     "answers": {
-      "A": "Con la Constitución de Cádiz de 1812, consagrándose con el Real Decreto de 30 de noviembre de 1833.",
-      "B": "Con la Constitución de 1978.",
-      "C": "Con la Ley de Bases del Régimen Local de 1985.",
-      "D": "Ninguna de las anteriores."
+      "A": "Ninguna de las anteriores.",
+      "B": "Con la Constitución de Cádiz de 1812, consagrándose con el Real Decreto de 30 de noviembre de 1833.",
+      "C": "Con la Constitución de 1978.",
+      "D": "Con la Ley de Bases del Régimen Local de 1985."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 24,
     "question": "¿Cuántas provincias tiene el territorio español?",
     "answers": {
-      "A": "50 provincias.",
-      "B": "17 provincias.",
-      "C": "52 provincias.",
-      "D": "39 provincias."
+      "A": "39 provincias.",
+      "B": "52 provincias.",
+      "C": "50 provincias.",
+      "D": "17 provincias."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 25,
     "question": "La naturaleza «bifronte» del régimen local provincial hace referencia a que la provincia es:",
     "answers": {
       "A": "Entidad local de agrupación de municipios y, a la vez, división territorial para las actividades del Estado.",
-      "B": "Solo una entidad estatal.",
-      "C": "Solo una entidad local.",
+      "B": "Solo una entidad local.",
+      "C": "Solo una entidad estatal.",
       "D": "Ninguna de las anteriores."
     },
     "correct": "A"
@@ -278,12 +278,12 @@
     "id": 26,
     "question": "¿Qué órgano asume la dirección de la Diputación Provincial?",
     "answers": {
-      "A": "El Presidente.",
-      "B": "El Pleno exclusivamente.",
-      "C": "El Alcalde.",
-      "D": "El Rey."
+      "A": "El Rey.",
+      "B": "El Alcalde.",
+      "C": "El Pleno exclusivamente.",
+      "D": "El Presidente."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 27,
@@ -300,21 +300,21 @@
     "id": 28,
     "question": "¿Cuál es la duración del mandato del Presidente de la Diputación?",
     "answers": {
-      "A": "4 años.",
+      "A": "6 años.",
       "B": "2 años.",
-      "C": "6 años.",
-      "D": "5 años."
+      "C": "5 años.",
+      "D": "4 años."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 29,
     "question": "El Presidente de la Diputación puede ser destituido mediante:",
     "answers": {
       "A": "Una moción de censura adoptada por mayoría absoluta de los diputados.",
-      "B": "Un referéndum provincial.",
+      "B": "Ninguna de las anteriores.",
       "C": "Decisión unilateral del Gobierno central.",
-      "D": "Ninguna de las anteriores."
+      "D": "Un referéndum provincial."
     },
     "correct": "A"
   },
@@ -322,12 +322,12 @@
     "id": 30,
     "question": "¿Quién nombra a los Vicepresidentes de la Diputación?",
     "answers": {
-      "A": "El Presidente, libremente, entre los miembros de la Junta de Gobierno.",
+      "A": "El Gobierno central.",
       "B": "El Pleno por mayoría cualificada.",
-      "C": "El Gobierno central.",
-      "D": "Ninguna de las anteriores."
+      "C": "Ninguna de las anteriores.",
+      "D": "El Presidente, libremente, entre los miembros de la Junta de Gobierno."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 31,
@@ -335,8 +335,8 @@
     "answers": {
       "A": "Asistir y asesorar al Presidente y ejercer las competencias delegadas.",
       "B": "Sustituir al Pleno en todas sus funciones legislativas.",
-      "C": "Elegir al Rey.",
-      "D": "Ninguna de las anteriores."
+      "C": "Ninguna de las anteriores.",
+      "D": "Elegir al Rey."
     },
     "correct": "A"
   },
@@ -344,56 +344,56 @@
     "id": 32,
     "question": "El Pleno de la Diputación se integra por:",
     "answers": {
-      "A": "El Presidente y los diputados elegidos indirectamente entre y por los concejales de los municipios de la provincia.",
-      "B": "Los alcaldes de todos los municipios directamente.",
+      "A": "Los alcaldes de todos los municipios directamente.",
+      "B": "El Presidente y los diputados elegidos indirectamente entre y por los concejales de los municipios de la provincia.",
       "C": "Solo el Presidente.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 33,
     "question": "Entre las competencias propias de la Diputación provincial (art. 36.1 LBRL) se encuentra:",
     "answers": {
-      "A": "La coordinación de los servicios municipales y la asistencia a los municipios de menor capacidad económica.",
-      "B": "La legislación estatal exclusiva.",
+      "A": "La legislación estatal exclusiva.",
+      "B": "La coordinación de los servicios municipales y la asistencia a los municipios de menor capacidad económica.",
       "C": "El nombramiento del Presidente del Gobierno.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 34,
     "question": "¿Qué prevé el artículo 37 de la LBRL respecto a las Diputaciones?",
     "answers": {
-      "A": "Que las Comunidades Autónomas puedan delegar competencias en las Diputaciones.",
+      "A": "Ninguna de las anteriores.",
       "B": "Que las Diputaciones no puedan recibir ninguna competencia adicional.",
-      "C": "Que las Diputaciones desaparezcan.",
-      "D": "Ninguna de las anteriores."
+      "C": "Que las Comunidades Autónomas puedan delegar competencias en las Diputaciones.",
+      "D": "Que las Diputaciones desaparezcan."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 35,
     "question": "El municipio es definido en el temario como:",
     "answers": {
-      "A": "La entidad local básica de la organización territorial del Estado y cauce inmediato de participación ciudadana.",
-      "B": "Una entidad exclusivamente estatal.",
+      "A": "Una entidad exclusivamente estatal.",
+      "B": "Ninguna de las anteriores.",
       "C": "Una figura sin personalidad jurídica.",
-      "D": "Ninguna de las anteriores."
+      "D": "La entidad local básica de la organización territorial del Estado y cauce inmediato de participación ciudadana."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 36,
     "question": "El gobierno y administración municipal, salvo en el sistema de concejo abierto, corresponde a:",
     "answers": {
-      "A": "El ayuntamiento, integrado por el alcalde y los concejales.",
-      "B": "Solo el alcalde.",
-      "C": "El Pleno provincial.",
-      "D": "Ninguna de las anteriores."
+      "A": "Ninguna de las anteriores.",
+      "B": "El ayuntamiento, integrado por el alcalde y los concejales.",
+      "C": "Solo el alcalde.",
+      "D": "El Pleno provincial."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 37,
@@ -401,8 +401,8 @@
     "answers": {
       "A": "Por los vecinos del municipio mediante sufragio universal, igual, libre, directo y secreto.",
       "B": "Por el alcalde.",
-      "C": "Por la Diputación.",
-      "D": "Ninguna de las anteriores."
+      "C": "Ninguna de las anteriores.",
+      "D": "Por la Diputación."
     },
     "correct": "A"
   },
@@ -410,12 +410,12 @@
     "id": 38,
     "question": "Para elegir alcalde, si ningún candidato logra mayoría absoluta en la sesión constitutiva:",
     "answers": {
-      "A": "Es elegido alcalde quien encabece la lista más votada, resolviéndose el empate por sorteo.",
+      "A": "Ninguna de las anteriores.",
       "B": "Se repite indefinidamente la votación.",
       "C": "El Rey designa al alcalde.",
-      "D": "Ninguna de las anteriores."
+      "D": "Es elegido alcalde quien encabece la lista más votada, resolviéndose el empate por sorteo."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 39,
@@ -423,8 +423,8 @@
     "answers": {
       "A": "Alcalde, tenientes de alcalde, Pleno y Comisión Especial de Cuentas.",
       "B": "Solo el alcalde.",
-      "C": "Solo el Pleno.",
-      "D": "Ninguna de las anteriores."
+      "C": "Ninguna de las anteriores.",
+      "D": "Solo el Pleno."
     },
     "correct": "A"
   },
@@ -433,9 +433,9 @@
     "question": "El artículo 25 LBRL, respecto a las competencias municipales, opta por:",
     "answers": {
       "A": "Una fórmula abierta que permite promover actividades y prestar servicios que satisfagan las necesidades vecinales.",
-      "B": "Un listado cerrado y exhaustivo sin posibilidad de ampliación.",
-      "C": "Excluir cualquier competencia municipal.",
-      "D": "Ninguna de las anteriores."
+      "B": "Ninguna de las anteriores.",
+      "C": "Un listado cerrado y exhaustivo sin posibilidad de ampliación.",
+      "D": "Excluir cualquier competencia municipal."
     },
     "correct": "A"
   },
@@ -443,45 +443,45 @@
     "id": 41,
     "question": "Entre las competencias propias que en todo caso ejercerá el municipio (art. 25.2 LBRL) se encuentra:",
     "answers": {
-      "A": "Seguridad en lugares públicos y ordenación del tráfico en vías urbanas.",
-      "B": "La política exterior.",
-      "C": "La defensa nacional.",
-      "D": "Ninguna de las anteriores."
+      "A": "La defensa nacional.",
+      "B": "Ninguna de las anteriores.",
+      "C": "Seguridad en lugares públicos y ordenación del tráfico en vías urbanas.",
+      "D": "La política exterior."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 42,
     "question": "El artículo 2 de la CE reconoce:",
     "answers": {
-      "A": "La indisoluble unidad de la Nación española y el derecho a la autonomía de las nacionalidades y regiones.",
-      "B": "El derecho de autodeterminación de los territorios.",
+      "A": "El derecho de autodeterminación de los territorios.",
+      "B": "La indisoluble unidad de la Nación española y el derecho a la autonomía de las nacionalidades y regiones.",
       "C": "La soberanía compartida entre Estado y regiones.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 43,
     "question": "El modelo de organización territorial de Estado unitario o centralizado se caracteriza por:",
     "answers": {
-      "A": "Un solo ordenamiento jurídico y un único conjunto de instituciones competentes en todo el territorio.",
-      "B": "La existencia de varios ordenamientos jurídicos paralelos.",
-      "C": "La ausencia de gobierno central.",
-      "D": "Ninguna de las anteriores."
+      "A": "Ninguna de las anteriores.",
+      "B": "Un solo ordenamiento jurídico y un único conjunto de instituciones competentes en todo el territorio.",
+      "C": "La existencia de varios ordenamientos jurídicos paralelos.",
+      "D": "La ausencia de gobierno central."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 44,
     "question": "¿En qué se origina el modelo unitario de organización territorial?",
     "answers": {
-      "A": "En la concentración de poder de la Monarquía Absoluta entre los siglos XVI y XVIII.",
-      "B": "En la Revolución Industrial.",
-      "C": "En el Tratado de Lisboa.",
-      "D": "Ninguna de las anteriores."
+      "A": "Ninguna de las anteriores.",
+      "B": "En la concentración de poder de la Monarquía Absoluta entre los siglos XVI y XVIII.",
+      "C": "En la Revolución Industrial.",
+      "D": "En el Tratado de Lisboa."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 45,
@@ -499,8 +499,8 @@
     "question": "¿Dónde se sitúan los orígenes del Estado regional?",
     "answers": {
       "A": "En la Constitución Española de 1931.",
-      "B": "En la Constitución de Estados Unidos.",
-      "C": "En el Tratado de Maastricht.",
+      "B": "En el Tratado de Maastricht.",
+      "C": "En la Constitución de Estados Unidos.",
       "D": "Ninguna de las anteriores."
     },
     "correct": "A"
@@ -510,9 +510,9 @@
     "question": "El modelo de Estado autonómico español:",
     "answers": {
       "A": "Tiene características propias del Estado federal, pero carece de otras importantes del mismo.",
-      "B": "Es idéntico al modelo federal alemán.",
+      "B": "Ninguna de las anteriores.",
       "C": "Es un Estado unitario puro.",
-      "D": "Ninguna de las anteriores."
+      "D": "Es idéntico al modelo federal alemán."
     },
     "correct": "A"
   },
@@ -520,12 +520,12 @@
     "id": 48,
     "question": "El fundamento del Estado autonómico es:",
     "answers": {
-      "A": "La preexistencia de la Nación soberana española y su unidad.",
-      "B": "La soberanía de cada región.",
+      "A": "Ninguna de las anteriores.",
+      "B": "La preexistencia de la Nación soberana española y su unidad.",
       "C": "El derecho internacional.",
-      "D": "Ninguna de las anteriores."
+      "D": "La soberanía de cada región."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 49,
@@ -533,8 +533,8 @@
     "answers": {
       "A": "La unidad y la autonomía.",
       "B": "La soberanía y la independencia.",
-      "C": "La centralización y la jerarquía.",
-      "D": "Ninguna de las anteriores."
+      "C": "Ninguna de las anteriores.",
+      "D": "La centralización y la jerarquía."
     },
     "correct": "A"
   },
@@ -542,64 +542,64 @@
     "id": 50,
     "question": "Además de unidad y autonomía, ¿qué otros principios conforman la organización territorial?",
     "answers": {
-      "A": "La primacía del poder central y su Derecho, el principio dispositivo y el principio de solidaridad.",
+      "A": "El principio de proporcionalidad electoral.",
       "B": "El principio de subsidiariedad exclusivamente.",
-      "C": "El principio de proporcionalidad electoral.",
-      "D": "Ninguna de las anteriores."
+      "C": "Ninguna de las anteriores.",
+      "D": "La primacía del poder central y su Derecho, el principio dispositivo y el principio de solidaridad."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 51,
     "question": "El principio de unidad se refiere, entre otros aspectos, a que:",
     "answers": {
-      "A": "El territorio español es un ámbito jurídico-político y económico único y unitario.",
-      "B": "Cada Comunidad Autónoma tiene su propio Poder Judicial.",
-      "C": "Existen varias soberanías.",
-      "D": "Ninguna de las anteriores."
+      "A": "Ninguna de las anteriores.",
+      "B": "Existen varias soberanías.",
+      "C": "El territorio español es un ámbito jurídico-político y económico único y unitario.",
+      "D": "Cada Comunidad Autónoma tiene su propio Poder Judicial."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 52,
     "question": "En cuanto a los poderes, el principio de unidad implica que el territorio español dispone de:",
     "answers": {
-      "A": "Un único Poder Judicial y un único Tribunal Constitucional.",
-      "B": "Poderes Judiciales autonómicos independientes.",
-      "C": "Tribunales Constitucionales regionales.",
-      "D": "Ninguna de las anteriores."
+      "A": "Poderes Judiciales autonómicos independientes.",
+      "B": "Tribunales Constitucionales regionales.",
+      "C": "Ninguna de las anteriores.",
+      "D": "Un único Poder Judicial y un único Tribunal Constitucional."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 53,
     "question": "El principio de autonomía presenta una doble vertiente: autonomía como derecho y autonomía como:",
     "answers": {
-      "A": "Principio de organización del Estado.",
-      "B": "Sinónimo exacto de soberanía.",
+      "A": "Sinónimo exacto de soberanía.",
+      "B": "Principio de organización del Estado.",
       "C": "Mecanismo exclusivamente económico.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 54,
     "question": "¿Cuáles son los tres niveles de poder que configura la Constitución desde el punto de vista territorial?",
     "answers": {
-      "A": "El Estado, las Comunidades Autónomas y los municipios y provincias.",
-      "B": "Solo el Estado y las Comunidades Autónomas.",
-      "C": "Solo los municipios.",
+      "A": "Solo los municipios.",
+      "B": "El Estado, las Comunidades Autónomas y los municipios y provincias.",
+      "C": "Solo el Estado y las Comunidades Autónomas.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 55,
     "question": "La autonomía de las Comunidades Autónomas se caracteriza, entre otros rasgos, por ser:",
     "answers": {
       "A": "Un poder limitado, derivado de la Constitución y no originario.",
-      "B": "Un poder originario equivalente a la soberanía estatal.",
-      "C": "Un poder ilimitado.",
+      "B": "Un poder ilimitado.",
+      "C": "Un poder originario equivalente a la soberanía estatal.",
       "D": "Ninguna de las anteriores."
     },
     "correct": "A"
@@ -608,32 +608,32 @@
     "id": 56,
     "question": "La supremacía del Poder central sobre la autonomía se manifiesta en que:",
     "answers": {
-      "A": "El artículo 149.3 CE establece la supremacía del Derecho estatal en materias no exclusivas de las Comunidades Autónomas.",
-      "B": "Las Comunidades Autónomas pueden derogar la Constitución.",
-      "C": "Los Estatutos de Autonomía priman sobre la Constitución.",
-      "D": "Ninguna de las anteriores."
+      "A": "Ninguna de las anteriores.",
+      "B": "Los Estatutos de Autonomía priman sobre la Constitución.",
+      "C": "El artículo 149.3 CE establece la supremacía del Derecho estatal en materias no exclusivas de las Comunidades Autónomas.",
+      "D": "Las Comunidades Autónomas pueden derogar la Constitución."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 57,
     "question": "El principio dispositivo en el acceso a la autonomía significa que:",
     "answers": {
-      "A": "La creación de una Comunidad Autónoma no es una imposición, sino un derecho renunciable.",
-      "B": "Todas las regiones están obligadas a constituirse en Comunidad Autónoma.",
-      "C": "El Estado decide unilateralmente qué territorios se autonomizan.",
-      "D": "Ninguna de las anteriores."
+      "A": "El Estado decide unilateralmente qué territorios se autonomizan.",
+      "B": "Ninguna de las anteriores.",
+      "C": "Todas las regiones están obligadas a constituirse en Comunidad Autónoma.",
+      "D": "La creación de una Comunidad Autónoma no es una imposición, sino un derecho renunciable."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 58,
     "question": "El principio de solidaridad en la organización territorial pretende:",
     "answers": {
       "A": "Asegurar la unidad real del Estado, sintetizando la tensión entre unidad y autonomía.",
-      "B": "Eliminar toda relación entre el Estado y las Comunidades Autónomas.",
+      "B": "Ninguna de las anteriores.",
       "C": "Sustituir el principio de unidad.",
-      "D": "Ninguna de las anteriores."
+      "D": "Eliminar toda relación entre el Estado y las Comunidades Autónomas."
     },
     "correct": "A"
   },
@@ -641,23 +641,23 @@
     "id": 59,
     "question": "¿Cuántos procedimientos de acceso a la autonomía prevé la CE?",
     "answers": {
-      "A": "Cinco: dos ordinarios y tres especiales.",
-      "B": "Solo uno.",
+      "A": "Solo uno.",
+      "B": "Ninguna de las anteriores.",
       "C": "Tres ordinarios y dos especiales.",
-      "D": "Ninguna de las anteriores."
+      "D": "Cinco: dos ordinarios y tres especiales."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 60,
     "question": "El artículo 143 CE establece el procedimiento ordinario:",
     "answers": {
-      "A": "Más simple, iniciado por acuerdo de corporaciones provinciales y municipales, con competencias del art. 148.",
-      "B": "El procedimiento agravado con nivel autonómico pleno desde el inicio.",
-      "C": "Solo para Cataluña, País Vasco y Galicia.",
-      "D": "Ninguna de las anteriores."
+      "A": "Solo para Cataluña, País Vasco y Galicia.",
+      "B": "Ninguna de las anteriores.",
+      "C": "El procedimiento agravado con nivel autonómico pleno desde el inicio.",
+      "D": "Más simple, iniciado por acuerdo de corporaciones provinciales y municipales, con competencias del art. 148."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 61,
@@ -685,23 +685,23 @@
     "id": 63,
     "question": "La Disposición Adicional Primera de la CE prevé la vía especial de acceso a la autonomía para:",
     "answers": {
-      "A": "Navarra.",
+      "A": "Canarias.",
       "B": "Ceuta y Melilla.",
-      "C": "Canarias.",
+      "C": "Navarra.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 64,
     "question": "La Disposición Transitoria Quinta de la CE contempla el procedimiento especial de acceso a la autonomía para:",
     "answers": {
-      "A": "Ceuta y Melilla.",
-      "B": "Navarra.",
-      "C": "País Vasco.",
+      "A": "País Vasco.",
+      "B": "Ceuta y Melilla.",
+      "C": "Navarra.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 65,
@@ -709,8 +709,8 @@
     "answers": {
       "A": "Entre 1979 y 1983.",
       "B": "Entre 1975 y 1978.",
-      "C": "Entre 1990 y 1995.",
-      "D": "Entre 2004 y 2011."
+      "C": "Entre 2004 y 2011.",
+      "D": "Entre 1990 y 1995."
     },
     "correct": "A"
   },
@@ -719,9 +719,9 @@
     "question": "¿Qué determinaciones necesarias establecen los artículos 147 y 152 CE respecto a la organización institucional de las Comunidades Autónomas de autonomía plena?",
     "answers": {
       "A": "Una Asamblea Legislativa, un Consejo de Gobierno y un Presidente.",
-      "B": "Solo un Presidente.",
-      "C": "Un Senado autonómico.",
-      "D": "Ninguna de las anteriores."
+      "B": "Un Senado autonómico.",
+      "C": "Ninguna de las anteriores.",
+      "D": "Solo un Presidente."
     },
     "correct": "A"
   },
@@ -729,21 +729,21 @@
     "id": 67,
     "question": "El Presidente de la Comunidad Autónoma es elegido por la Asamblea Legislativa y nombrado por:",
     "answers": {
-      "A": "El Rey.",
+      "A": "Ninguna de las anteriores.",
       "B": "El Gobierno central.",
       "C": "El Congreso de los Diputados.",
-      "D": "Ninguna de las anteriores."
+      "D": "El Rey."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 68,
     "question": "¿Ante quién son políticamente responsables el Presidente y los miembros del Consejo de Gobierno autonómico?",
     "answers": {
       "A": "Ante la Asamblea Legislativa.",
-      "B": "Ante el Gobierno central.",
-      "C": "Ante el Tribunal Constitucional.",
-      "D": "Ninguna de las anteriores."
+      "B": "Ante el Tribunal Constitucional.",
+      "C": "Ninguna de las anteriores.",
+      "D": "Ante el Gobierno central."
     },
     "correct": "A"
   },
@@ -751,53 +751,53 @@
     "id": 69,
     "question": "El Tribunal Superior de Justicia, según el art. 152 CE:",
     "answers": {
-      "A": "Culmina la organización judicial en el ámbito territorial de la Comunidad Autónoma, sin perjuicio de la jurisdicción del Tribunal Supremo.",
-      "B": "Es un órgano de las Comunidades Autónomas independiente del Poder Judicial estatal.",
-      "C": "Sustituye al Tribunal Constitucional.",
-      "D": "Ninguna de las anteriores."
+      "A": "Es un órgano de las Comunidades Autónomas independiente del Poder Judicial estatal.",
+      "B": "Culmina la organización judicial en el ámbito territorial de la Comunidad Autónoma, sin perjuicio de la jurisdicción del Tribunal Supremo.",
+      "C": "Ninguna de las anteriores.",
+      "D": "Sustituye al Tribunal Constitucional."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 70,
     "question": "¿El Poder Judicial en España está descentralizado territorialmente en cada Comunidad Autónoma?",
     "answers": {
-      "A": "No, es único y conforma un poder del Estado.",
-      "B": "Sí, cada Comunidad tiene su propio Poder Judicial.",
-      "C": "Solo en el País Vasco.",
-      "D": "Ninguna de las anteriores."
+      "A": "Ninguna de las anteriores.",
+      "B": "Solo en el País Vasco.",
+      "C": "No, es único y conforma un poder del Estado.",
+      "D": "Sí, cada Comunidad tiene su propio Poder Judicial."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 71,
     "question": "La Asamblea legislativa autonómica es elegida por sufragio universal con arreglo a un sistema de:",
     "answers": {
-      "A": "Representación proporcional.",
-      "B": "Mayoría simple exclusiva.",
+      "A": "Mayoría simple exclusiva.",
+      "B": "Representación proporcional.",
       "C": "Designación directa por el Gobierno.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 72,
     "question": "El Consejo de Gobierno autonómico tiene atribuidas, entre otras, funciones:",
     "answers": {
-      "A": "Ejecutivas y administrativas.",
-      "B": "Exclusivamente judiciales.",
-      "C": "De control constitucional.",
-      "D": "Ninguna de las anteriores."
+      "A": "De control constitucional.",
+      "B": "Ninguna de las anteriores.",
+      "C": "Ejecutivas y administrativas.",
+      "D": "Exclusivamente judiciales."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 73,
     "question": "El artículo 149.1 CE recoge:",
     "answers": {
       "A": "La lista de materias sobre las que el Estado tiene competencias exclusivas.",
-      "B": "Solo materias exclusivas de las Comunidades Autónomas.",
-      "C": "Materias compartidas exclusivamente.",
+      "B": "Materias compartidas exclusivamente.",
+      "C": "Solo materias exclusivas de las Comunidades Autónomas.",
       "D": "Ninguna de las anteriores."
     },
     "correct": "A"
@@ -806,43 +806,43 @@
     "id": 74,
     "question": "El artículo 148.1 CE recoge:",
     "answers": {
-      "A": "La lista de materias sobre las que las Comunidades Autónomas podrán asumir competencias.",
-      "B": "Materias exclusivas del Estado.",
-      "C": "Materias exclusivas de la UE.",
+      "A": "Materias exclusivas del Estado.",
+      "B": "Materias exclusivas de la UE.",
+      "C": "La lista de materias sobre las que las Comunidades Autónomas podrán asumir competencias.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 75,
     "question": "La cláusula de cierre del sistema competencial se contiene en el artículo:",
     "answers": {
-      "A": "149.3 CE.",
-      "B": "148.1 CE.",
-      "C": "137 CE.",
+      "A": "137 CE.",
+      "B": "149.3 CE.",
+      "C": "148.1 CE.",
       "D": "155 CE."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 76,
     "question": "El artículo 149.3 CE establece que la competencia sobre las materias no asumidas por los Estatutos de Autonomía corresponderá:",
     "answers": {
-      "A": "Al Estado.",
-      "B": "A las Comunidades Autónomas por defecto.",
-      "C": "A la Unión Europea.",
+      "A": "A la Unión Europea.",
+      "B": "Al Estado.",
+      "C": "A las Comunidades Autónomas por defecto.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 77,
     "question": "¿Qué tipos de competencias pueden asumir las Comunidades Autónomas, según el sistema de doble lista?",
     "answers": {
       "A": "Competencias exclusivas y competencias compartidas.",
-      "B": "Solo competencias exclusivas.",
-      "C": "Solo competencias delegadas.",
-      "D": "Ninguna de las anteriores."
+      "B": "Ninguna de las anteriores.",
+      "C": "Solo competencias exclusivas.",
+      "D": "Solo competencias delegadas."
     },
     "correct": "A"
   },
@@ -850,42 +850,42 @@
     "id": 78,
     "question": "Las competencias exclusivas de las Comunidades Autónomas suponen que estas asumen respecto a una materia:",
     "answers": {
-      "A": "Facultades legislativas plenas, de desarrollo reglamentario y de gestión o ejecución.",
-      "B": "Solo facultades de ejecución.",
+      "A": "Solo facultades de ejecución.",
+      "B": "Facultades legislativas plenas, de desarrollo reglamentario y de gestión o ejecución.",
       "C": "Ninguna facultad normativa.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 79,
     "question": "Las competencias compartidas suponen que las Comunidades Autónomas asumen:",
     "answers": {
-      "A": "Facultades de desarrollo y ejecución, o solo de ejecución, según los casos.",
+      "A": "Facultades exclusivamente constituyentes.",
       "B": "Todas las facultades legislativas.",
-      "C": "Facultades exclusivamente constituyentes.",
+      "C": "Facultades de desarrollo y ejecución, o solo de ejecución, según los casos.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 80,
     "question": "El artículo 150 CE contempla la posibilidad de:",
     "answers": {
-      "A": "Atribuir competencias estatales a las Comunidades Autónomas mediante transferencia o delegación.",
-      "B": "Que el Estado renuncie a toda competencia.",
-      "C": "Que las Comunidades Autónomas cedan competencias al Estado obligatoriamente.",
+      "A": "Que las Comunidades Autónomas cedan competencias al Estado obligatoriamente.",
+      "B": "Atribuir competencias estatales a las Comunidades Autónomas mediante transferencia o delegación.",
+      "C": "Que el Estado renuncie a toda competencia.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 81,
     "question": "Los Estatutos de Autonomía, conforme al art. 147 CE, constituyen:",
     "answers": {
       "A": "La norma institucional básica de la Comunidad Autónoma.",
-      "B": "Un simple reglamento administrativo.",
-      "C": "Un tratado internacional.",
+      "B": "Un tratado internacional.",
+      "C": "Un simple reglamento administrativo.",
       "D": "Ninguna de las anteriores."
     },
     "correct": "A"
@@ -894,76 +894,76 @@
     "id": 82,
     "question": "El Estatuto de Autonomía es formalmente una:",
     "answers": {
-      "A": "Ley Orgánica especial.",
-      "B": "Ley ordinaria.",
-      "C": "Reglamento del Gobierno.",
-      "D": "Decreto-ley."
+      "A": "Reglamento del Gobierno.",
+      "B": "Ley Orgánica especial.",
+      "C": "Decreto-ley.",
+      "D": "Ley ordinaria."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 83,
     "question": "¿Por qué se considera al Estatuto de Autonomía «más que una simple Ley Orgánica»?",
     "answers": {
-      "A": "Porque su iniciativa, procedimiento de elaboración/reforma y su carácter indisponible para el Estado difieren de una ley orgánica ordinaria.",
-      "B": "Porque solo el Estatuto de Autonomía puede reformar la Constitución.",
-      "C": "Porque no requiere aprobación de las Cortes Generales.",
-      "D": "Ninguna de las anteriores."
+      "A": "Porque no requiere aprobación de las Cortes Generales.",
+      "B": "Ninguna de las anteriores.",
+      "C": "Porque solo el Estatuto de Autonomía puede reformar la Constitución.",
+      "D": "Porque su iniciativa, procedimiento de elaboración/reforma y su carácter indisponible para el Estado difieren de una ley orgánica ordinaria."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 84,
     "question": "El contenido mínimo de los Estatutos de Autonomía (art. 147.2 CE) incluye:",
     "answers": {
-      "A": "La denominación de la Comunidad, delimitación del territorio, denominación y organización de sus instituciones, y las competencias asumidas.",
+      "A": "Ninguna de las anteriores.",
       "B": "Solo la denominación de la Comunidad.",
       "C": "Solo las competencias.",
-      "D": "Ninguna de las anteriores."
+      "D": "La denominación de la Comunidad, delimitación del territorio, denominación y organización de sus instituciones, y las competencias asumidas."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 85,
     "question": "¿Qué otros contenidos, además del mínimo, pueden incluir los Estatutos de Autonomía según las reformas iniciadas en 2006?",
     "answers": {
-      "A": "Simbología autonómica, derechos y libertades fundamentales, y relaciones exteriores con la UE.",
-      "B": "Ningún otro contenido está permitido.",
-      "C": "Solo cuestiones tributarias.",
-      "D": "Ninguna de las anteriores."
+      "A": "Solo cuestiones tributarias.",
+      "B": "Simbología autonómica, derechos y libertades fundamentales, y relaciones exteriores con la UE.",
+      "C": "Ninguna de las anteriores.",
+      "D": "Ningún otro contenido está permitido."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 86,
     "question": "¿Qué recoge el artículo 141 de la Constitución respecto a la provincia?",
     "answers": {
-      "A": "Que es la entidad local determinada por la agrupación de municipios, con personalidad jurídica propia.",
-      "B": "Que desaparece como entidad local desde 1978.",
-      "C": "Que solo existe en las Comunidades Autónomas pluriprovinciales.",
-      "D": "Ninguna de las anteriores."
+      "A": "Ninguna de las anteriores.",
+      "B": "Que solo existe en las Comunidades Autónomas pluriprovinciales.",
+      "C": "Que desaparece como entidad local desde 1978.",
+      "D": "Que es la entidad local determinada por la agrupación de municipios, con personalidad jurídica propia."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 87,
     "question": "Los Territorios Históricos vascos, según su naturaleza jurídica, son considerados por parte de la doctrina como:",
     "answers": {
-      "A": "Entes de régimen dual: instituciones locales y, a la vez, entidades públicas autónomas de carácter político.",
+      "A": "Ninguna de las anteriores.",
       "B": "Provincias de régimen común sin ninguna peculiaridad.",
-      "C": "Comunidades Autónomas uniprovinciales exactamente iguales a las demás.",
-      "D": "Ninguna de las anteriores."
+      "C": "Entes de régimen dual: instituciones locales y, a la vez, entidades públicas autónomas de carácter político.",
+      "D": "Comunidades Autónomas uniprovinciales exactamente iguales a las demás."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 88,
     "question": "¿Qué principio del Régimen Local implica que las entidades locales no pueden estar sometidas a autoridades superiores en la gestión de sus asuntos?",
     "answers": {
       "A": "Se deduce del principio de autonomía, al gestionar sus asuntos «bajo su propia responsabilidad».",
-      "B": "El principio imperativo.",
-      "C": "El principio de jerarquía.",
-      "D": "Ninguna de las anteriores."
+      "B": "Ninguna de las anteriores.",
+      "C": "El principio imperativo.",
+      "D": "El principio de jerarquía."
     },
     "correct": "A"
   },
@@ -972,9 +972,9 @@
     "question": "¿Qué elemento de la definición de autonomía local hace referencia a la dotación de medios materiales y humanos necesarios?",
     "answers": {
       "A": "La «capacidad efectiva».",
-      "B": "La reserva de ley.",
-      "C": "El principio de jerarquía normativa.",
-      "D": "Ninguna de las anteriores."
+      "B": "Ninguna de las anteriores.",
+      "C": "La reserva de ley.",
+      "D": "El principio de jerarquía normativa."
     },
     "correct": "A"
   },
@@ -982,78 +982,78 @@
     "id": 90,
     "question": "La expresión «una parte importante de los asuntos públicos» en la definición de autonomía local alude a:",
     "answers": {
-      "A": "La necesaria existencia de un ámbito competencial propio para las entidades locales.",
-      "B": "La ausencia de cualquier competencia local.",
-      "C": "La subordinación total a la Comunidad Autónoma.",
-      "D": "Ninguna de las anteriores."
+      "A": "La subordinación total a la Comunidad Autónoma.",
+      "B": "Ninguna de las anteriores.",
+      "C": "La ausencia de cualquier competencia local.",
+      "D": "La necesaria existencia de un ámbito competencial propio para las entidades locales."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 91,
     "question": "¿Qué funciones corresponden al Presidente de la Diputación según el artículo 34 LBRL?",
     "answers": {
-      "A": "Dirigir el Gobierno y la Administración de la provincia, representar a la Diputación y convocar y presidir el Pleno.",
-      "B": "Legislar sobre materias estatales.",
-      "C": "Nombrar al Rey.",
-      "D": "Ninguna de las anteriores."
+      "A": "Nombrar al Rey.",
+      "B": "Ninguna de las anteriores.",
+      "C": "Legislar sobre materias estatales.",
+      "D": "Dirigir el Gobierno y la Administración de la provincia, representar a la Diputación y convocar y presidir el Pleno."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 92,
     "question": "Entre las funciones del Pleno de la Diputación se encuentra:",
     "answers": {
-      "A": "La aprobación de ordenanzas y de los presupuestos y planes de carácter provincial.",
-      "B": "Elegir al Presidente del Gobierno de España.",
+      "A": "Elegir al Presidente del Gobierno de España.",
+      "B": "Ninguna de las anteriores.",
       "C": "Aprobar la Constitución.",
-      "D": "Ninguna de las anteriores."
+      "D": "La aprobación de ordenanzas y de los presupuestos y planes de carácter provincial."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 93,
     "question": "¿Qué tipo de agrupaciones de municipios distintas de la provincia permite crear el art. 141.3 CE?",
     "answers": {
-      "A": "Comarcas, áreas metropolitanas y mancomunidades, entre otras.",
-      "B": "Solo Comunidades Autónomas.",
-      "C": "Ninguna agrupación distinta de la provincia.",
-      "D": "Ninguna de las anteriores."
+      "A": "Solo Comunidades Autónomas.",
+      "B": "Ninguna agrupación distinta de la provincia.",
+      "C": "Ninguna de las anteriores.",
+      "D": "Comarcas, áreas metropolitanas y mancomunidades, entre otras."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 94,
     "question": "¿Cuál es el órgano al que corresponde la elección del alcalde en primera instancia?",
     "answers": {
-      "A": "Los concejales, exigiéndose mayoría absoluta en la sesión constitutiva.",
-      "B": "Los vecinos directamente en todos los casos.",
+      "A": "Los vecinos directamente en todos los casos.",
+      "B": "Ninguna de las anteriores.",
       "C": "El Gobierno central.",
-      "D": "Ninguna de las anteriores."
+      "D": "Los concejales, exigiéndose mayoría absoluta en la sesión constitutiva."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 95,
     "question": "¿Quién nombra a los tenientes de alcalde?",
     "answers": {
-      "A": "El alcalde.",
-      "B": "El Pleno.",
-      "C": "El Gobierno central.",
-      "D": "Ninguna de las anteriores."
+      "A": "El Gobierno central.",
+      "B": "Ninguna de las anteriores.",
+      "C": "El alcalde.",
+      "D": "El Pleno."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 96,
     "question": "¿Cuál es la naturaleza jurídica de las Diputaciones en relación a sus competencias, según el temario?",
     "answers": {
-      "A": "Tienen muy escasas competencias, aunque las Comunidades Autónomas podrían completarlas.",
-      "B": "Tienen competencias exclusivas y plenas equivalentes al Estado.",
+      "A": "Tienen competencias exclusivas y plenas equivalentes al Estado.",
+      "B": "Ninguna de las anteriores.",
       "C": "No tienen ninguna competencia.",
-      "D": "Ninguna de las anteriores."
+      "D": "Tienen muy escasas competencias, aunque las Comunidades Autónomas podrían completarlas."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 97,
@@ -1070,77 +1070,77 @@
     "id": 98,
     "question": "¿Qué normalmente se emplea para diferenciar las dos modalidades del Estado compuesto?",
     "answers": {
-      "A": "Los términos «Estado federal» y «Estado regional».",
-      "B": "Los términos «monarquía» y «república».",
-      "C": "Los términos «unitario» y «confederal» exclusivamente.",
-      "D": "Ninguna de las anteriores."
+      "A": "Los términos «monarquía» y «república».",
+      "B": "Ninguna de las anteriores.",
+      "C": "Los términos «Estado federal» y «Estado regional».",
+      "D": "Los términos «unitario» y «confederal» exclusivamente."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 99,
     "question": "La diferencia entre el modelo federal y el regional es, según el temario:",
     "answers": {
-      "A": "En gran parte una diferencia nominal, ya que el Estado federal no implica necesariamente mayor descentralización.",
-      "B": "Absoluta y sustancial en todos los casos.",
-      "C": "Inexistente en la práctica jurídica.",
-      "D": "Ninguna de las anteriores."
+      "A": "Inexistente en la práctica jurídica.",
+      "B": "En gran parte una diferencia nominal, ya que el Estado federal no implica necesariamente mayor descentralización.",
+      "C": "Ninguna de las anteriores.",
+      "D": "Absoluta y sustancial en todos los casos."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 100,
     "question": "¿Qué reivindicaban las manifestaciones políticas contra el franquismo en Cataluña y País Vasco en los años sesenta y setenta?",
     "answers": {
-      "A": "La democracia y el autogobierno, reclamando sus Estatutos de Autonomía republicanos.",
-      "B": "La abolición de toda autonomía.",
-      "C": "La centralización absoluta del Estado.",
-      "D": "Ninguna de las anteriores."
+      "A": "Ninguna de las anteriores.",
+      "B": "La centralización absoluta del Estado.",
+      "C": "La abolición de toda autonomía.",
+      "D": "La democracia y el autogobierno, reclamando sus Estatutos de Autonomía republicanos."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 101,
     "question": "¿Qué Comunidades restablecieron su autonomía tras las primeras elecciones democráticas de junio de 1977?",
     "answers": {
-      "A": "Cataluña y País Vasco.",
-      "B": "Solo Andalucía.",
+      "A": "Solo Andalucía.",
+      "B": "Cataluña y País Vasco.",
       "C": "Solo Canarias.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 102,
     "question": "El artículo 138 de la CE, en relación con el régimen de Concierto y la organización territorial, hace referencia a:",
     "answers": {
-      "A": "El principio de solidaridad interterritorial.",
-      "B": "La reforma constitucional.",
+      "A": "La reforma constitucional.",
+      "B": "Ninguna de las anteriores.",
       "C": "El régimen electoral general.",
-      "D": "Ninguna de las anteriores."
+      "D": "El principio de solidaridad interterritorial."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 103,
     "question": "¿Qué principio permite que las Comunidades Autónomas de autonomía limitada accedan, tras el transcurso de determinado plazo, a la autonomía plena?",
     "answers": {
-      "A": "El principio progresivo o gradual de la autonomía, tras 5 años desde la aprobación de sus Estatutos.",
+      "A": "Ninguna de las anteriores.",
       "B": "El principio de jerarquía normativa.",
       "C": "El principio de subsidiariedad exclusivamente.",
-      "D": "Ninguna de las anteriores."
+      "D": "El principio progresivo o gradual de la autonomía, tras 5 años desde la aprobación de sus Estatutos."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 104,
     "question": "Entre 2004 y 2011, ¿qué Comunidades Autónomas iniciaron procesos de reforma relevante de sus Estatutos?",
     "answers": {
-      "A": "Cataluña, Andalucía, Baleares, Comunidad Valenciana, Aragón, Castilla y León, Navarra y Extremadura.",
-      "B": "Solo el País Vasco.",
+      "A": "Solo el País Vasco.",
+      "B": "Ninguna de las anteriores.",
       "C": "Solo Madrid.",
-      "D": "Ninguna de las anteriores."
+      "D": "Cataluña, Andalucía, Baleares, Comunidad Valenciana, Aragón, Castilla y León, Navarra y Extremadura."
     },
-    "correct": "A"
+    "correct": "D"
   }
 ]

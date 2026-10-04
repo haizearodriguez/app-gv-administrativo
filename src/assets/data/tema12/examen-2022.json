@@ -1,0 +1,167 @@
+[
+  {
+    "id": 223,
+    "question": "¿Cuáles son los principales riesgos que puede sufrir el personal que usa pantallas de vi-sualización de datos (PVD)?:",
+    "answers": {
+      "A": "Exclusivamente fatiga mental, los actuales equipos evitan los riesgos musculoesquelé-ticos.",
+      "B": "Exclusivamente trastornos musculoesqueléticos, los actuales equipos evitan proble-mas de visión.",
+      "C": "Los riesgos musculoesqueléticos, problemas visuales y fatiga mental.",
+      "D": "Riesgos musculoesqueléticos, problemas visuales, carga mental y síndrome de burn out."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 224,
+    "question": "La prevención de riesgos laborales del personal expuesto a pantallas de visualización de datos se materializa en:",
+    "answers": {
+      "A": "En el Real Decreto 488/1997, de 14 de abril, de disposiciones mínimas de seguridad y salud relativas al trabajo con equipos que incluyen pantallas de visualización.",
+      "B": "En el Real Decreto 486/1997, de 14 de abril, por el que se establecen las disposiciones mínimas de seguridad y salud en los lugares de trabajo.",
+      "C": "En la Ley 31/1995, de 8 de noviembre, de prevención de actividades peligrosas con pantallas.",
+      "D": "En el Real Decreto 489/1997, de 14 de abril, de prevención de riesgos laborales."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 225,
+    "question": "¿Quién debe considerarse persona trabajadora usuaria de una pantalla de visualización de datos con carácter general?:",
+    "answers": {
+      "A": "Todas aquellas personas que superen las 5 horas diarias o 20 horas semanales de tra-bajo efectivo con dichos equipos.",
+      "B": "Todas aquellas personas que superen las 5 horas diarias o 35 horas semanales de tra-bajo efectivo con dichos equipos.",
+      "C": "Todas aquellas personas que superen las 4 horas diarias o 20 horas semanales de tra-bajo efectivo con dichos equipos.",
+      "D": "Todas aquellas personas que superen las 7 horas diarias o 35 horas semanales de tra-bajo efectivo con dichos equipos."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 226,
+    "question": "Las pantallas de visualización de datos se colocarán:",
+    "answers": {
+      "A": "Alejadas de las ventanas, de manera que la línea de visión esté en paralelo al frente de la ventana.",
+      "B": "Alejadas de las ventanas, de manera que la línea de visión esté al frente de la ventana.",
+      "C": "Cerca de las ventanas, de manera que la línea de visión esté en paralelo al frente de la ventana.",
+      "D": "Cerca de las ventanas, de manera que la línea de visión esté tras la ventana."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 227,
+    "question": "En el momento de realizar la evaluación de riesgos del puesto con pantalla de visualiza-ción de datos la información facilitada por el usuario o usuaria de la pantalla ha de ser considerada esencial para realizar la evaluación:",
+    "answers": {
+      "A": "En ningún caso, la evaluación la tiene que realizar personal técnico valorando tan solo las condiciones ergonómicas del puesto de trabajo, evaluadas con carácter objetivo.",
+      "B": "En ocasiones puede ser valiosa, si la persona presenta problemas osteomusculares o tiene alguna capacidad limitada.",
+      "C": "En todo caso, pues permite obtener datos sustanciales para la evaluación.",
+      "D": "Solo se tiene en cuenta esa información facilitada por la persona si ha sufrido un acci-dente de trabajo."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 228,
+    "question": "En una tarea con pantallas de visualización de datos (PVD) que no requiera una gran aten-ción se han de establecer pausas planificadas:",
+    "answers": {
+      "A": "En ningún caso, las pausas deben tomarse cuando la persona empleada las necesite, no han de estar planificadas.",
+      "B": "Se han de establecer pausas planificadas a razón de 10 minutos de pausa cada 120 mi-nutos de trabajo.",
+      "C": "A título orientativo se han de establecer pausas planificadas de 10-15 minutos cada 90 minutos de trabajo con pantalla.",
+      "D": "No se pueden establecer pausas planificadas porque depende de cómo se establezca la organización del trabajo."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 229,
+    "question": "En una tarea con pantallas de visualización de datos (PVD) que requiera una gran aten-ción se han de establecer pausas planificadas:",
+    "answers": {
+      "A": "En ningún caso, las pausas deben tomarse cuando la persona empleada las necesite, no han de estar planificadas.",
+      "B": "Se han de establecer pausas planificadas a razón de 10 minutos de pausa cada 60 mi-nutos de trabajo.",
+      "C": "Se han de establecer pausas planificadas de 10-15 minutos cada 90 minutos de trabajo con pantalla.",
+      "D": "No se pueden establecer pausas planificadas porque una tarea que requiere gran aten-ción no puede ser interrumpida, requiere una óptima organización del trabajo."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 230,
+    "question": "La vigilancia de la salud realizada a una persona empleada que desarrolla su actividad con una pantalla de visualización de datos debe incluir conforme al protocolo de vigilan-cia de la salud correspondiente:",
+    "answers": {
+      "A": "Exclusivamente un reconocimiento oftalmológico realizado por personal médico espe-cializado de la mutua de accidentes de trabajo y enfermedades profesionales.",
+      "B": "Un reconocimiento oftalmológico obligatorio, un examen osteomuscular y es optativa para la empresa o administración correspondiente valorar la carga mental.",
+      "C": "Un reconocimiento oftalmológico, un examen osteomuscular, la valoración de la carga mental, así como una exploración clínica, control biológico y estudios complementarios, si son necesarios.",
+      "D": "Un reconocimiento oftalmológico, un examen osteomuscular, la valoración de la carga mental y se debe pasar forzosamente el cuestionario de detección del síndrome del quemado (burn out). Tema 12 55"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 231,
+    "question": "Los exámenes médicos que se deben realizar a la persona que trabaja con pantallas de vi-sualización de datos (PVD), de acuerdo con el artículo 22 de la Ley de Prevención de Ries-gos Laborales, pueden ser:",
+    "answers": {
+      "A": "Solo uno previo al inicio del trabajo con PVD y uno específico periódico.",
+      "B": "Previo al inicio del trabajo con PVD y al finalizar la relación laboral.",
+      "C": "Un reconocimiento médico específico periódico.",
+      "D": "Previo al inicio del trabajo con PVD, uno específico periódico y a demanda del trabaja-dor o trabajadora."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 232,
+    "question": "La ergonomía en el puesto de trabajo con pantalla de visualización de datos recomienda:",
+    "answers": {
+      "A": "Un nivel de luminancia de 300 a 1.000 luxes en función del puesto, una temperatura en verano de 20 a 24 grados y una humedad relativa del 45% al 65%.",
+      "B": "Un nivel de luminancia de 300 a 1.000 luxes en función del puesto, una temperatura en invierno de 23 a 26 grados y una humedad relativa del 30% al 60%.",
+      "C": "Un nivel de luminancia de 300 a 500 luxes en función del puesto, una temperatura en verano de 20 a 24 grados y una humedad relativa del 45% al 65%.",
+      "D": "Un nivel de luminancia de 300 a 1.000 luxes en función del puesto, una temperatura que en cualquier caso nunca excederá de 26º y una humedad relativa del 45% al 65%."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 233,
+    "question": "¿Qué factores intervienen en la aparición de las alteraciones visuales cuando se usa una pantalla de visualización de datos?:",
+    "answers": {
+      "A": "La disposición del puesto de trabajo y exclusivamente la medida de la distancia ojo-pan-talla.",
+      "B": "La disposición del puesto de trabajo y exclusivamente la medida de la distancia ojo-te-clado.",
+      "C": "Exclusivamente la disposición del puesto de trabajo, las medidas o distancias son inde-finidas en función de la persona.",
+      "D": "La disposición del puesto de trabajo y la medida de la distancia ojo-pantalla, distancia ojo-teclado y distancia ojo-texto."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 234,
+    "question": "Indique los factores dependientes de una incorrecta organización del trabajo:",
+    "answers": {
+      "A": "El exceso de tarea y la ausencia de pausas recomendadas (planificadas).",
+      "B": "La ausencia de pausas recomendadas, independientemente del volumen de trabajo o exceso de trabajo.",
+      "C": "El tipo de tarea que se desarrolla.",
+      "D": "El exceso de tarea, la ausencia de pausas recomendadas y el tipo de tarea."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 235,
+    "question": "La mesa de trabajo debe permitir disponer correctamente todo el equipo de trabajo y debe tener:",
+    "answers": {
+      "A": "Una superficie de entre 90 cm y 120 cm., soportar adecuadamente el peso del equipo y para el trabajo sentado permitir un espacio para los miembros inferiores de 60 cm de ancho por 65/70 cm de profundidad.",
+      "B": "Una superficie de entre 80 cm y 100 cm., soportar adecuadamente el peso del equipo y para el trabajo sentado permitir un espacio para los miembros inferiores de 55 cm de ancho por 35/70 cm de profundidad.",
+      "C": "Una superficie de entre 90 cm y 120 cm., soportar adecuadamente el peso del equipo y para el trabajo sentado permitir un espacio para los miembros inferiores de 55 cm de ancho por 30/60 cm de profundidad.",
+      "D": "Una superficie de entre 80 cm y 100 cm., soportar adecuadamente el peso del equipo y para el trabajo sentado permitir un espacio para los miembros inferiores de 60 cm de ancho por 35/70 cm de profundidad."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 236,
+    "question": "Los problemas de salud asociados al trabajo con pantallas de visualización de datos pue-den evitarse mediante:",
+    "answers": {
+      "A": "Basta con un buen diseño del puesto de trabajo si la persona empleada no presenta trastornos musculoesqueléticos.",
+      "B": "Es suficiente con valorar la bondad del diseño del puesto de trabajo y la adecuada orga-nización del trabajo.",
+      "C": "Es necesario valorar el buen diseño del puesto de trabajo, la correcta organización del trabajo y una información y formación adecuada a la persona empleada.",
+      "D": "Es necesario valorar el buen diseño del puesto de trabajo, la correcta organización del trabajo y la información y formación es optativa para las personas que no presenten una discapacidad."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 237,
+    "question": "El asiento de un puesto de trabajo con pantalla de visualización de datos tendrá, entre otras cosas, las siguientes características:",
+    "answers": {
+      "A": "Será una silla con cinco pies y ruedas que faciliten su desplazamiento y estará situada a 45-55 cm del suelo, el respaldo será ligeramente convexo para un buen apoyo de la zona lumbar.",
+      "B": "Será una silla con cuatro pies y ruedas que faciliten su desplazamiento y estará situada a 25-35 cm del suelo, el respaldo será ligeramente convexo para un buen apoyo de la zona lumbar.",
+      "C": "Será una silla con cuatro pies y ruedas que faciliten su desplazamiento y estará situada a 45-55 cm del suelo, el respaldo será ligeramente cóncavo para un buen apoyo de la zona lumbar.",
+      "D": "Será una silla con cinco pies y ruedas que faciliten su desplazamiento y estará situada a 25-35 cm del suelo, el respaldo será ligeramente convexo para un buen apoyo de la zona lumbar. Tema 13 57 Tema 13"
+    },
+    "correct": "A"
+  }
+]

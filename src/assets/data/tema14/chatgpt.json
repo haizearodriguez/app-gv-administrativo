@@ -1,0 +1,629 @@
+[
+  {
+    "id": 1,
+    "question": "El concepto de «generación de valor público» fue desarrollado, entre otros, por:",
+    "answers": {
+      "A": "Mark Moore, profesor de la Universidad de Harvard",
+      "B": "Montesquieu, en su teoría de la separación de poderes",
+      "C": "Adam Smith, en su obra sobre economía clásica",
+      "D": "Max Weber, exclusivamente en el ámbito de la burocracia clásica"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 2,
+    "question": "Según Mark Moore, la creación de valor público consiste en:",
+    "answers": {
+      "A": "Reducir a cero cualquier gasto público sin atender a resultados",
+      "B": "Generar el máximo valor posible para la población a partir de los recursos existentes en la institución, con la máxima eficacia y eficiencia",
+      "C": "Eliminar la rendición de cuentas ante la ciudadanía",
+      "D": "Maximizar exclusivamente el beneficio económico de la Administración"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 3,
+    "question": "El concepto de «gobierno abierto» surgió, según los antecedentes históricos recogidos en el tema, a finales de:",
+    "answers": {
+      "A": "La década de 1970 en Inglaterra",
+      "B": "La Edad Media en la Península Ibérica",
+      "C": "El siglo XIX en Francia",
+      "D": "El siglo XXI en Australia"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 4,
+    "question": "El término «open government» pasó a entenderse, dos décadas después de su origen, como:",
+    "answers": {
+      "A": "Un sistema exclusivamente militar de comunicaciones",
+      "B": "El acceso libre a la información, la protección de datos y el conocimiento de las actividades previstas del Gobierno",
+      "C": "Un modelo de privatización total de los servicios públicos",
+      "D": "Una doctrina exclusivamente económica sin relación con la transparencia"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 5,
+    "question": "El 21 de enero de 2009, el Memorando sobre Transparencia y Gobierno Abierto fue promulgado por:",
+    "answers": {
+      "A": "El Parlamento Europeo",
+      "B": "Barack Obama, como Presidente de los Estados Unidos",
+      "C": "Las Naciones Unidas",
+      "D": "El Gobierno Vasco"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 6,
+    "question": "La Alianza para el Gobierno Abierto (Open Government Partnership, OGP) se creó en el año:",
+    "answers": {
+      "A": "2011",
+      "B": "1945",
+      "C": "1979",
+      "D": "2020"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 7,
+    "question": "La OGP fue creada inicialmente por un número de países fundadores de:",
+    "answers": {
+      "A": "Un único país fundador",
+      "B": "8 países, agrupando actualmente a más de 70",
+      "C": "200 países desde su origen",
+      "D": "Exclusivamente países de la Unión Europea"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 8,
+    "question": "La OCDE, en su Recomendación del Consejo sobre Gobierno Abierto de 2017, lo define como:",
+    "answers": {
+      "A": "Una estrategia exclusivamente comercial sin relación con la democracia",
+      "B": "Una cultura de gobernanza que promueve los principios de transparencia, integridad, rendición de cuentas y participación de las partes interesadas en apoyo de la democracia y el crecimiento inclusivo",
+      "C": "Un sistema exclusivamente de control policial",
+      "D": "Un mecanismo de censura de la información pública"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 9,
+    "question": "El derecho a una buena administración se recoge, en el ámbito de la Unión Europea, en:",
+    "answers": {
+      "A": "Ningún texto de la Unión Europea recoge este derecho",
+      "B": "El Convenio Europeo de Derechos Humanos exclusivamente",
+      "C": "El Tratado de Roma de 1957 exclusivamente",
+      "D": "El artículo 41 de la Carta de los Derechos Fundamentales de la Unión Europea"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 10,
+    "question": "El derecho a una buena administración, conforme a la Carta de Derechos Fundamentales de la UE, incluye entre otros contenidos:",
+    "answers": {
+      "A": "El derecho exclusivo a la propiedad privada",
+      "B": "El derecho exclusivo a recibir una indemnización económica en todo procedimiento",
+      "C": "El derecho a no ser nunca informado de las decisiones adoptadas",
+      "D": "El derecho a que los asuntos se traten imparcial y equitativamente y dentro de un plazo razonable"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 11,
+    "question": "El concepto de «buen gobierno», según la Ley 19/2013, se circunscribe fundamentalmente a:",
+    "answers": {
+      "A": "El funcionamiento exclusivo de los tribunales de justicia",
+      "B": "La organización territorial del Estado",
+      "C": "El comportamiento de los cargos públicos conforme a unos principios de transparencia, imparcialidad, diligencia y responsabilidad",
+      "D": "La gestión económica de las entidades financieras privadas"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 12,
+    "question": "El concepto de administración electrónica, digital o «2.0» se relaciona con el gobierno abierto en la medida en que:",
+    "answers": {
+      "A": "Excluye cualquier posibilidad de transparencia",
+      "B": "Solo afecta a la gestión interna sin relación con la ciudadanía",
+      "C": "Comprende el conjunto de soluciones que permiten a la ciudadanía y a las empresas relacionarse con las Administraciones a través de medios electrónicos",
+      "D": "Se trata de conceptos completamente opuestos e incompatibles"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 13,
+    "question": "Entre los principios informadores comunes a los modelos de gobierno abierto, buen gobierno y administración electrónica se encuentra:",
+    "answers": {
+      "A": "La opacidad institucional como valor fundamental",
+      "B": "La transparencia, el acceso a la información pública y la rendición de cuentas",
+      "C": "La centralización absoluta sin ningún control",
+      "D": "La ausencia de cualquier participación ciudadana"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 14,
+    "question": "La transparencia gubernamental implica, entre otros aspectos, que la información sobre las actividades de los organismos públicos:",
+    "answers": {
+      "A": "Solo pueda conocerse mediante el pago de una tasa elevada",
+      "B": "Esté a disposición de la ciudadanía de manera oportuna y en formatos de datos abiertos sin límites para la reutilización",
+      "C": "Se mantenga en secreto salvo orden judicial expresa",
+      "D": "Se publique exclusivamente en un idioma distinto al oficial"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 15,
+    "question": "La «publicidad activa» se diferencia del derecho de acceso a la información en que:",
+    "answers": {
+      "A": "La publicidad activa se realiza a iniciativa propia de las entidades públicas, mientras que el acceso responde a solicitudes de la ciudadanía",
+      "B": "La publicidad activa solo puede ejercerla el Defensor del Pueblo",
+      "C": "El derecho de acceso nunca requiere solicitud alguna",
+      "D": "Son conceptos idénticos sin ninguna diferencia"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 16,
+    "question": "La Ley 19/2013, de 9 de diciembre, regula con carácter básico:",
+    "answers": {
+      "A": "Exclusivamente el régimen de incompatibilidades de los jueces",
+      "B": "La organización de las fuerzas armadas",
+      "C": "El régimen tributario autonómico",
+      "D": "La transparencia, el acceso a la información pública y el buen gobierno"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 17,
+    "question": "La Ley 19/2013 resulta de aplicación, entre otros sujetos, a:",
+    "answers": {
+      "A": "Exclusivamente a las empresas multinacionales privadas sin ninguna vinculación pública",
+      "B": "Todas las Administraciones Públicas, organismos autónomos y entidades de Derecho Público vinculadas a ellas, incluidas las universidades públicas",
+      "C": "Únicamente a organismos internacionales ajenos al Estado español",
+      "D": "Solo a los partidos políticos, excluyendo a cualquier Administración"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 18,
+    "question": "La Comunidad Autónoma de Euskadi, en relación con la normativa de transparencia:",
+    "answers": {
+      "A": "Carece de cualquier obligación de transparencia",
+      "B": "Ha derogado completamente la Ley 19/2013 en su ámbito territorial",
+      "C": "No cuenta aún con una normativa autonómica propia de transparencia, aplicándosele únicamente la normativa básica estatal",
+      "D": "Cuenta con la normativa de transparencia más antigua de España"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 19,
+    "question": "Los ayuntamientos vascos se rigen, además de por la normativa básica, en materia de transparencia por:",
+    "answers": {
+      "A": "Un reglamento municipal idéntico en todos los municipios de España",
+      "B": "La Ley 2/2016, de 7 de abril, de Instituciones Locales de Euskadi",
+      "C": "Exclusivamente el Derecho Romano",
+      "D": "Ninguna norma adicional distinta de la estatal"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 20,
+    "question": "Entre los principios a los que debe atender la información publicada en los portales de transparencia se encuentra:",
+    "answers": {
+      "A": "La precisión, la plenitud, la actualidad y la contextualización",
+      "B": "La exclusividad para un único destinatario privado",
+      "C": "La ocultación sistemática de los datos relevantes",
+      "D": "La ambigüedad deliberada y la desactualización permanente"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 21,
+    "question": "El concepto de «rendición de cuentas» (accountability) refleja:",
+    "answers": {
+      "A": "La obligación exclusiva de pagar impuestos",
+      "B": "Un concepto exclusivamente contable sin relación con la transparencia política",
+      "C": "La filosofía de reconocer y asumir la responsabilidad y ser transparente acerca de las decisiones políticas de una organización",
+      "D": "La ausencia de cualquier responsabilidad de los cargos públicos"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 22,
+    "question": "Los «Portales de Transparencia» suelen contener, entre otros elementos:",
+    "answers": {
+      "A": "Un portal de datos abiertos y servicios para ejercer el derecho de acceso a la información pública",
+      "B": "Exclusivamente contenido de ocio sin relación institucional",
+      "C": "Únicamente anuncios publicitarios de empresas privadas",
+      "D": "Información exclusivamente confidencial no accesible a la ciudadanía"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 23,
+    "question": "El concepto de «datos abiertos» (open data) se refiere a una filosofía y práctica que persigue que determinados datos:",
+    "answers": {
+      "A": "Permanezcan siempre bajo secreto profesional sin ninguna difusión",
+      "B": "Solo puedan utilizarse con fines comerciales privados exclusivamente",
+      "C": "Sean propiedad exclusiva de una única empresa tecnológica",
+      "D": "Estén disponibles de forma libre para todo el mundo, sin restricciones de derechos de autor, patentes u otros mecanismos de control"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 24,
+    "question": "Entre las finalidades de la publicación de datos públicos abiertos se encuentra:",
+    "answers": {
+      "A": "El incremento exclusivo de la recaudación fiscal",
+      "B": "La generación de valor y riqueza mediante productos derivados de los datos por empresas y ciudadanía",
+      "C": "La prohibición de cualquier reutilización de la información pública",
+      "D": "La eliminación de la interoperabilidad entre administraciones"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 25,
+    "question": "«Open Data Euskadi» es la plataforma que:",
+    "answers": {
+      "A": "Gestiona únicamente los datos de salud de la ciudadanía vasca",
+      "B": "Es un organismo exclusivamente privado sin relación con el Gobierno Vasco",
+      "C": "No permite ningún tipo de reutilización de la información",
+      "D": "Alberga los datos abiertos del Gobierno Vasco y federa datos de otras administraciones estatales, europeas, forales y locales"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 26,
+    "question": "El derecho de acceso a la información pública está regulado en España con carácter básico en:",
+    "answers": {
+      "A": "El Capítulo III de la Ley 19/2013",
+      "B": "Un reglamento municipal sin rango de ley",
+      "C": "La Ley Orgánica del Poder Judicial exclusivamente",
+      "D": "El Código Civil exclusivamente"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 27,
+    "question": "El artículo 105.b) de la Constitución Española determina que la ley regulará el acceso de la ciudadanía a:",
+    "answers": {
+      "A": "Exclusivamente los archivos de titularidad privada",
+      "B": "Solo los registros mercantiles",
+      "C": "Los archivos y registros administrativos, salvo lo que afecte a la seguridad y defensa del Estado, la investigación de delitos y la intimidad de las personas",
+      "D": "Ningún archivo o registro en ningún caso"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 28,
+    "question": "Entre los derechos reconocidos a la ciudadanía en relación con el acceso a la información pública se encuentra:",
+    "answers": {
+      "A": "La obligación de justificar siempre un interés legítimo para poder solicitar información",
+      "B": "El pago obligatorio de una tasa elevada por cada solicitud, con independencia de su coste real",
+      "C": "La imposibilidad de utilizar la información obtenida para cualquier fin",
+      "D": "Obtener la información solicitada en la forma o formato elegidos y acceder sin necesidad de motivar la solicitud"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 29,
+    "question": "Entre las obligaciones de quienes acceden a la información pública se encuentra:",
+    "answers": {
+      "A": "Solicitar previamente autorización judicial para cada petición",
+      "B": "Pagar siempre una tasa desproporcionada por la solicitud",
+      "C": "Renunciar a cualquier uso posterior de la información obtenida",
+      "D": "Ejercer su derecho de acceso con respeto a los principios de buena fe e interdicción del abuso de derecho"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 30,
+    "question": "Entre los límites al derecho de acceso a la información pública se encuentra la protección de:",
+    "answers": {
+      "A": "La seguridad nacional, la defensa y las relaciones exteriores",
+      "B": "El interés personal de cualquier funcionario sin justificación objetiva",
+      "C": "El color político del gobierno de turno",
+      "D": "La comodidad administrativa sin más criterio"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 31,
+    "question": "Los límites del derecho de acceso a la información pública se aplican, conforme a la normativa:",
+    "answers": {
+      "A": "De forma automática y generalizada a cualquier solicitud sin análisis individual",
+      "B": "Nunca, al no existir ningún límite legal al derecho de acceso",
+      "C": "De modo restrictivo y caso a caso, denegándose la información solo cuando su acceso produzca un perjuicio real sobre alguno de los bienes protegidos",
+      "D": "Exclusivamente quien decida el funcionario de turno sin ningún criterio normativo"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 32,
+    "question": "Si la información solicitada contuviera datos personales que revelen ideología, afiliación sindical, religión o creencias, el acceso únicamente se autorizará en caso de:",
+    "answers": {
+      "A": "Decisión exclusiva del responsable de la unidad administrativa sin control adicional",
+      "B": "Solicitud verbal de cualquier tercero sin ningún otro requisito",
+      "C": "Publicación automática sin ningún tipo de restricción",
+      "D": "Consentimiento expreso y por escrito del afectado, salvo que hubiera hecho manifiestamente públicos los datos con anterioridad"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 33,
+    "question": "El artículo 30 del RGPD establece la obligación de los responsables y encargados del tratamiento de crear y mantener:",
+    "answers": {
+      "A": "Un Registro de las Actividades de Tratamiento efectuadas bajo su responsabilidad",
+      "B": "Un archivo exclusivamente en soporte papel sin posibilidad de digitalización",
+      "C": "Ningún tipo de registro, al no existir tal obligación",
+      "D": "Un registro exclusivo de sanciones penales"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 34,
+    "question": "El régimen de impugnaciones ante la denegación de acceso a la información pública incluye, entre otras vías:",
+    "answers": {
+      "A": "Únicamente una denuncia penal",
+      "B": "Ninguna vía de impugnación, siendo la decisión definitiva e inatacable",
+      "C": "Exclusivamente el recurso de amparo ante el Tribunal Constitucional",
+      "D": "El recurso contencioso-administrativo o la reclamación ante el Consejo de Transparencia y Buen Gobierno o el órgano autonómico competente"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 35,
+    "question": "El plazo máximo para resolver y notificar una reclamación por denegación de acceso a la información pública es de:",
+    "answers": {
+      "A": "No existe plazo máximo alguno",
+      "B": "10 años",
+      "C": "24 horas improrrogables",
+      "D": "3 meses, transcurridos los cuales se entenderá desestimada"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 36,
+    "question": "En el País Vasco, al no contar con legislación autonómica de transparencia, los órganos de garantía de la transparencia creados por las Diputaciones Forales y el Gobierno Vasco incluyen:",
+    "answers": {
+      "A": "Un único órgano estatal centralizado sin representación territorial",
+      "B": "El Consejo Foral de Transparencia de Álava, las Comisiones de Reclamaciones de Bizkaia y Gipuzkoa, y la Comisión Vasca de Acceso a la Información Pública",
+      "C": "Ningún órgano de garantía, al no ser necesario en el ámbito vasco",
+      "D": "Exclusivamente los tribunales penales"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 37,
+    "question": "La participación ciudadana se entiende como:",
+    "answers": {
+      "A": "Un concepto exclusivamente teórico sin aplicación práctica",
+      "B": "Una competencia exclusiva de los partidos políticos",
+      "C": "La capacidad de las personas de tomar parte activa en los asuntos públicos",
+      "D": "La obligación de votar en toda elección, sin otra forma de participación"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 38,
+    "question": "Entre las dimensiones participativas que generan valor público se encuentra:",
+    "answers": {
+      "A": "La participación limitada únicamente a los funcionarios públicos",
+      "B": "Exclusivamente la participación electoral cada cuatro años",
+      "C": "Ninguna dimensión reconocida formalmente",
+      "D": "La participación política, la participación para el diseño de servicios públicos y la participación colaborativa"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 39,
+    "question": "La «participación para el diseño de servicios públicos» se centra fundamentalmente en:",
+    "answers": {
+      "A": "Eliminar cualquier evaluación de las políticas públicas",
+      "B": "Sustituir completamente a los órganos de gobierno electos",
+      "C": "Incorporar la visión y experiencia de la ciudadanía, desde una perspectiva de usuaria, en el diseño y mejora de la prestación de servicios",
+      "D": "Decidir exclusivamente el presupuesto militar del Estado"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 40,
+    "question": "Entre las fases que deben contemplar los procesos participativos eficaces se encuentra:",
+    "answers": {
+      "A": "La exclusión de cualquier fase de deliberación",
+      "B": "La ocultación de los resultados obtenidos",
+      "C": "La difusión pública del proceso y la devolución pública de las conclusiones y decisiones adoptadas",
+      "D": "Exclusivamente una votación final sin ningún debate previo"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 41,
+    "question": "Entre los principios básicos que deben cumplirse en cualquier proceso de participación ciudadana se encuentra:",
+    "answers": {
+      "A": "La ausencia de cualquier rendición de cuentas",
+      "B": "La universalidad, la transparencia y la veracidad de la información",
+      "C": "La imposición de criterios sin ningún debate",
+      "D": "La exclusividad para un único colectivo social"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 42,
+    "question": "Los «grupos de interés» o «lobbies», conforme a la definición recogida en el tema, son:",
+    "answers": {
+      "A": "Exclusivamente organizaciones sin ánimo de lucro dedicadas a la beneficencia",
+      "B": "Partidos políticos sin ninguna otra entidad",
+      "C": "Organizaciones y personas que se dedican profesionalmente a influir directa o indirectamente en los procesos de elaboración de políticas o normas",
+      "D": "Instituciones académicas dedicadas solo a la investigación"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 43,
+    "question": "Los Registros de grupos de interés tienen como finalidad, entre otras:",
+    "answers": {
+      "A": "Impedir cualquier relación entre la ciudadanía y los grupos de interés",
+      "B": "Sustituir completamente al Registro Mercantil",
+      "C": "Prohibir la existencia legal de estos grupos",
+      "D": "Reforzar la transparencia, permitiendo a la ciudadanía hacer el seguimiento de la actividad de estos grupos ante la Administración"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 44,
+    "question": "Los sistemas de integridad, como pilar del gobierno abierto, se basan en tres principios éticos generales, que son:",
+    "answers": {
+      "A": "La opacidad, el secretismo y la arbitrariedad",
+      "B": "El interés general, el respeto y la eficacia y buenos resultados",
+      "C": "La exclusividad económica, la discrecionalidad y la impunidad",
+      "D": "La indiferencia, la pasividad y la desconfianza institucional"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 45,
+    "question": "El principio de «interés general» en los sistemas de integridad se refiere a:",
+    "answers": {
+      "A": "El bien común como objetivo esencial de la actividad de las administraciones, evitando su daño, perjuicio o deterioro",
+      "B": "La subordinación del interés público al interés privado",
+      "C": "La maximización del beneficio particular de los cargos públicos",
+      "D": "La exclusión de cualquier mecanismo de participación ciudadana"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 46,
+    "question": "El principio de «respeto», dentro de los sistemas de integridad, implica tratar a todas las personas relacionadas con la Administración:",
+    "answers": {
+      "A": "De forma diferenciada según su nivel de ingresos",
+      "B": "Exclusivamente conforme a criterios de eficiencia económica",
+      "C": "Sin ninguna consideración a su opinión o criterio",
+      "D": "Con dignidad, como sujetos con conciencia, libertad y derechos"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 47,
+    "question": "La «calidad y eficacia de la gestión pública», como principio del gobierno abierto, se vincula en la actualidad plenamente con:",
+    "answers": {
+      "A": "El uso de los medios electrónicos para la relación entre administraciones y con la ciudadanía",
+      "B": "La reducción de cualquier evaluación de resultados",
+      "C": "La eliminación de los sistemas de gestión de calidad",
+      "D": "La ausencia total de digitalización administrativa"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 48,
+    "question": "Entre los modelos de gestión de la calidad adaptados a las Administraciones Públicas se encuentran:",
+    "answers": {
+      "A": "Ningún modelo específico, al no existir adaptación posible",
+      "B": "Exclusivamente el modelo de gestión de empresas de telecomunicaciones",
+      "C": "Modelos exclusivos del sector sanitario privado",
+      "D": "ISO 9000, EFQM y CAF"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 49,
+    "question": "Entre las herramientas utilizadas en los sistemas de calidad de la Administración Pública se encuentran:",
+    "answers": {
+      "A": "Ningún tipo de herramienta, al no aplicarse la calidad al sector público",
+      "B": "Las cartas de servicio, los grupos de mejora y los sistemas de sugerencias y quejas ciudadanas",
+      "C": "Sanciones penales automáticas al personal",
+      "D": "Exclusivamente la publicidad comercial televisiva"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 50,
+    "question": "La digitalización de la Administración ha permitido, entre otras mejoras en la calidad:",
+    "answers": {
+      "A": "La simplificación de procedimientos y la reducción de tiempos en la respuesta a la ciudadanía",
+      "B": "La eliminación completa de cualquier control de gestión",
+      "C": "El incremento de la burocracia y los plazos de tramitación",
+      "D": "La reducción de la transparencia y el acceso a la información"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 51,
+    "question": "La Alianza para el Gobierno Abierto (OGP) tiene su Comité Directivo conformado por:",
+    "answers": {
+      "A": "Un único representante por cada país miembro sin ninguna paridad",
+      "B": "22 miembros, 11 de gobiernos y 11 de organizaciones de la sociedad civil",
+      "C": "Exclusivamente representantes gubernamentales, sin sociedad civil",
+      "D": "Un comité compuesto únicamente por jueces internacionales"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 52,
+    "question": "Euskadi, en relación con la OGP, forma parte de:",
+    "answers": {
+      "A": "Las regiones participantes en el programa de Gobiernos Locales de la Alianza para el Gobierno Abierto",
+      "B": "Un programa exclusivo de la ONU sin relación con la OGP",
+      "C": "Un programa exclusivamente bilateral con un único país",
+      "D": "Ningún programa internacional de gobierno abierto"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 53,
+    "question": "Transparencia Internacional es una organización no gubernamental fundada en:",
+    "answers": {
+      "A": "1993, que promueve medidas contra crímenes corporativos y corrupción política",
+      "B": "El siglo XIX, como organización exclusivamente religiosa",
+      "C": "2015, dedicada exclusivamente al comercio internacional",
+      "D": "1945, como órgano dependiente de las Naciones Unidas"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 54,
+    "question": "Transparencia Internacional publica anualmente:",
+    "answers": {
+      "A": "El censo electoral de cada país",
+      "B": "El Índice de Precios al Consumo",
+      "C": "El Producto Interior Bruto mundial",
+      "D": "El Índice de Percepción de Corrupción"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 55,
+    "question": "Transparencia Internacional España ha desarrollado, entre otros, índices sobre el nivel de transparencia de:",
+    "answers": {
+      "A": "Ningún índice específico de transparencia institucional",
+      "B": "Los ayuntamientos (ITA) y las comunidades autónomas (INCAU)",
+      "C": "Solo las empresas multinacionales extranjeras",
+      "D": "Exclusivamente las selecciones deportivas nacionales"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 56,
+    "question": "La Coalición Proacceso es una plataforma que agrupa a:",
+    "answers": {
+      "A": "Organismos exclusivamente militares",
+      "B": "Exclusivamente instituciones bancarias internacionales",
+      "C": "Organizaciones de la sociedad civil y personas que promueven el derecho de acceso a la información",
+      "D": "Un único partido político de ámbito estatal"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 57,
+    "question": "Entre los diez principios promovidos por la Coalición Proacceso se encuentra:",
+    "answers": {
+      "A": "Que solo las empresas privadas tienen derecho de acceso a la información pública",
+      "B": "Que la denegación de información nunca debe estar motivada",
+      "C": "Que el derecho de acceso a la información es un derecho fundamental de toda persona",
+      "D": "Que las solicitudes de información deben ser complejas y costosas"
+    },
+    "correct": "C"
+  }
+]

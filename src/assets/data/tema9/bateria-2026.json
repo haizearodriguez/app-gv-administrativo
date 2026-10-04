@@ -1,0 +1,288 @@
+[
+  {
+    "id": 209,
+    "question": "En el Estatuto Básico del Empleado Público (EBEP), los empleados públicos se clasifican en varias categorías, una de las cuales es la siguiente:",
+    "answers": {
+      "A": "Personal laboral eventual.",
+      "B": "Personal interino.",
+      "C": "Funcionarios eventuales.",
+      "D": "Las respuestas anteriores son incorrectas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 210,
+    "question": "Son características de los funcionarios de carrera:",
+    "answers": {
+      "A": "Se vincula con la Administración con carácter permanente.",
+      "B": "Se vincula con la Administración en virtud de un acto administrativo (que se denomina nombramiento).",
+      "C": "Se encuentra sometido al derecho administrativo.",
+      "D": "Las respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 211,
+    "question": "La existencia de un funcionario interino debe estar justificada por alguna de estas circunstancias:",
+    "answers": {
+      "A": "La existencia de plazas vacantes cuando no sea posible su cobertura por funcionarios de carrera.",
+      "B": "La sustitución permanente de los titulares de plazas.",
+      "C": "La ejecución de programas de carácter temporal, que no podrán tener una duración superior a 3 meses.",
+      "D": "El exceso o acumulación de tareas, por un plazo máximo de 3 años, dentro de un periodo de 36 meses."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 212,
+    "question": "El personal laboral se vincula con la Administración:",
+    "answers": {
+      "A": "A través de un acto administrativo de carácter unilateral.",
+      "B": "Con una actuación de carácter bilateral como es el contrato de trabajo suscrito por ambas partes.",
+      "C": "Con una actuación de carácter unilateral, como es la firma del contrato de trabajo por el personal laboral.",
+      "D": "Con una actuación de carácter unilateral como es la toma de posesión."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 213,
+    "question": "El personal eventual se caracteriza por:",
+    "answers": {
+      "A": "Su carácter permanente.",
+      "B": "La realización de funciones expresamente calificadas como de confianza o asesoramiento especial.",
+      "C": "La realización de funciones temporales, por razones justificadas de urgencia y necesidad.",
+      "D": "Su vinculación con la Administración a través de la firma de un contrato laboral."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 214,
+    "question": "¿Existen puestos de trabajo reservados a funcionarios?:",
+    "answers": {
+      "A": "No, eso sería ir contra el principio de igualdad.",
+      "B": "No, tal principio pertenece al pasado y ha quedado superado.",
+      "C": "Sí, así lo reconoce el Estatuto Básico del Empleado Público (art. 11).",
+      "D": "Sí, de hecho, deben ocupar forzosamente todos los puestos de trabajo de la Administración."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 215,
+    "question": "Son derechos individuales reconocidos por el Estatuto Básico del Empleado Público (art. 14) los siguientes:",
+    "answers": {
+      "A": "Derecho a la inamovilidad en la condición de funcionario de carrera.",
+      "B": "Derecho a la progresión en la carrera profesional y promoción interna según principios constitucionales de igualdad, mérito y capacidad.",
+      "C": "Derecho a percibir las retribuciones y las indemnizaciones por razón del servicio.",
+      "D": "Las respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 216,
+    "question": "La promoción interna vertical, prevista en el Estatuto Básico del Empleado Público, consiste en:",
+    "answers": {
+      "A": "La progresión de grado, categoría, escalón u otros conceptos análogos, sin necesidad de cambiar de puesto de trabajo.",
+      "B": "El ascenso en la estructura de puestos de trabajo por los procedimientos de provisión.",
+      "C": "El ascenso desde un cuerpo o escala de un Subgrupo, o Grupo de clasificación profesional en el supuesto de que este no tenga Subgrupo, a otro superior.",
+      "D": "Consiste en el acceso a cuerpos o escalas del mismo Subgrupo profesional."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 217,
+    "question": "La evaluación del desempeño:",
+    "answers": {
+      "A": "No es solo un derecho de los empleados públicos; es, al mismo tiempo, un deber de las Administraciones Públicas.",
+      "B": "No trata de valorar el desempeño y de establecer mecanismos de control del rendi miento o de los resultados de las actuaciones de cada empleado público.",
+      "C": "Consistiría en el procedimiento mediante el cual se establecen los objetivos y metas a alcanzar por el empleado público.",
+      "D": "Ha sido suprimida por el Estatuto Básico del Empleado Público."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 218,
+    "question": "La negociación colectiva de los empleados públicos:",
+    "answers": {
+      "A": "Se define como el deber de negociar la determinación de las condiciones de trabajo y demás condiciones legales de los funcionarios de carrera de la Administración Pública.",
+      "B": "El Estatuto Básico del Empleado Público (art. 33) concreta los principios que rigen la negociación colectiva de las condiciones de trabajo de los funcionarios públicos.",
+      "C": "Se llevará a cabo y culminará aun incumpliendo los principios de cobertura presupuestaria, publicidad y transparencia, ya que en caso contrario podría quedar sin efecto el propio derecho a la negociación colectiva.",
+      "D": "La Constitución española prohíbe la negociación colectiva en el caso de los funcionarios públicos."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 219,
+    "question": "La Mesa de negociación:",
+    "answers": {
+      "A": "Solo existe un tipo de mesa de negociación.",
+      "B": "Está conformada únicamente por representantes de las organizaciones sindicales y de los trabajadores.",
+      "C": "Es el órgano encargado de la negociación colectiva de las condiciones de trabajo de los funcionarios públicos.",
+      "D": "Las respuestas anteriores son incorrectas."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 220,
+    "question": "Diferencias o similitudes entre Acuerdos y Pactos, según su eficacia:",
+    "answers": {
+      "A": "Los Acuerdos son directamente aplicables sin necesidad de ratificación posterior.",
+      "B": "Los Pactos son directamente aplicables sin necesidad de ratificación posterior.",
+      "C": "Los Acuerdos y los Pactos son directamente aplicables sin necesidad de ratificación posterior.",
+      "D": "Los Pactos y los Acuerdos deberán ser ratificados por el órgano competente de la Administración."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 221,
+    "question": "Los órganos específicos de representación de los funcionarios públicos son:",
+    "answers": {
+      "A": "Los Delegados de Personal y las Juntas de Personal.",
+      "B": "Los Delegados de Personal y los Comités de Empresa.",
+      "C": "Los funcionarios liberados y los Comités de Empresa.",
+      "D": "Los funcionarios públicos no cuentan con órganos específicos de representación."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 222,
+    "question": "El derecho de reunión:",
+    "answers": {
+      "A": "Tiene su fundamento en el artículo 21 de la Constitución española.",
+      "B": "Es el instrumento legalmente previsto para la expresión directa de la voluntad de los empleados públicos.",
+      "C": "Se configura como un derecho individual de ejercicio colectivo de todos los empleados públicos, tanto funcionarios como laborales.",
+      "D": "Las respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 223,
+    "question": "El teletrabajo:",
+    "answers": {
+      "A": "Esta figura se ha introducido en el Estatuto Básico del Empleado Público en 2008 con motivo de la crisis financiera.",
+      "B": "Es una modalidad de la jornada de trabajo.",
+      "C": "Requiere el uso de tecnologías de la información y comunicación.",
+      "D": "Corresponde al empleado público la obligación de proveerse y mantener los equipos necesarios para la prestación del servicio a distancia."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 224,
+    "question": "El Estatuto Básico del Empleado Público (art. 48) establece un permiso por el traslado de domicilio sin cambio de residencia:",
+    "answers": {
+      "A": "Sí, y es de un día.",
+      "B": "Sí, y es de dos días.",
+      "C": "Sí, y es de tres días.",
+      "D": "No, solo prevé un permiso para el traslado de domicilio con cambio de residencia."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 225,
+    "question": "El Estatuto Básico del Empleado Público (art. 48) establece un permiso para concurrir a exámenes finales y demás pruebas de aptitud:",
+    "answers": {
+      "A": "Sí, y es para el día del examen y para la víspera, esto es, abarca dos días por examen o prueba.",
+      "B": "Sí, y se extiende a los días de su celebración.",
+      "C": "Sí, pero ese permiso abarca también exámenes parciales y prácticas que se deban desarrollar como alumno en centros oficiales y academias.",
+      "D": "No, solo prevé un permiso para recoger el título oficial obtenido por cursar estudios oficiales."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 226,
+    "question": "El Estatuto Básico del Empleado Público (art. 48) establece un permiso por matrimonio:",
+    "answers": {
+      "A": "Sí, y es de una semana.",
+      "B": "Sí, y es de dos semanas.",
+      "C": "Sí, y es de quince días.",
+      "D": "Sí, y señala que en caso de divorcio se tiene derecho a un permiso análogo."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 227,
+    "question": "El Estatuto Básico del Empleado Público (art. 49) establece varios permisos por motivos de conciliación de la vida personal, familiar y laboral, así como por razón de violencia de género y para las víctimas de terrorismo:",
+    "answers": {
+      "A": "Sí, entre ellos el permiso por cuidado de hijo menor afectado por cáncer u otra enfermedad grave.",
+      "B": "Sí, entre ellos el permiso por asuntos particulares, que abarca seis días al año.",
+      "C": "Las respuestas a y b son correctas.",
+      "D": "Las respuestas a y b son incorrectas."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 228,
+    "question": "El Estatuto Básico del Empleado Público (art. 50) establece sobre las vacaciones correspondientes a cada año natural lo siguiente:",
+    "answers": {
+      "A": "22 días hábiles de vacaciones retribuidas.",
+      "B": "30 días hábiles de vacaciones retribuidas.",
+      "C": "30 días de vacaciones retribuidas.",
+      "D": "Un mes de vacaciones retribuidas."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 229,
+    "question": "El Estatuto Básico del Empleado Público establece sobre las vacaciones lo siguiente:",
+    "answers": {
+      "A": "El periodo de vacaciones anual retribuido puede ser sustituido por una cuantía económica.",
+      "B": "En los casos de conclusión de la relación de servicios de los funcionarios públicos, estos tendrán derecho a solicitar más vacaciones, en particular, en los casos de jubilación o incapacidad.",
+      "C": "Cuando situaciones como el permiso de maternidad, la incapacidad temporal, etc. impidan disfrutar de las vacaciones dentro del año natural, estas se podrán disfrutar con posterioridad en los siguientes cinco años naturales.",
+      "D": "Las respuestas anteriores son incorrectas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 230,
+    "question": "Según el Estatuto Básico del Empleado Público (art. 53), son principios éticos:",
+    "answers": {
+      "A": "Los empleados públicos respetarán la Constitución y el resto de las normas que integran el ordenamiento jurídico.",
+      "B": "Se abstendrán en aquellos asuntos en los que tengan un interés personal.",
+      "C": "No aceptarán ningún trato de favor o situación que implique privilegio o ventaja injustificada por parte de personas físicas o entidades privadas.",
+      "D": "Las respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 231,
+    "question": "Según el Estatuto Básico del Empleado Público (art. 54), son principios de conducta:",
+    "answers": {
+      "A": "Tratarán con atención y respeto a los ciudadanos, a sus superiores y a los restantes empleados públicos.",
+      "B": "Mantendrán actualizada su formación y cualificación.",
+      "C": "Observarán las normas sobre seguridad y salud laboral.",
+      "D": "Las respuestas anteriores son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 232,
+    "question": "Según el Estatuto Básico del Empleado Público, las retribuciones de los funcionarios:",
+    "answers": {
+      "A": "Se articulan en torno a dos conceptos: retribuciones ordinarias y retribuciones extraordinarias.",
+      "B": "El sueldo, asignado a cada Grupo de clasificación profesional, es una de las retribuciones que integra las retribuciones básicas.",
+      "C": "Los trienios han desaparecido para todos los funcionarios.",
+      "D": "La paga extra es una retribución básica, consolidable en su importe cada tres años."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 233,
+    "question": "Los principios a los que debe someterse el régimen disciplinario, según el art. 94 del Estatuto Básico del Empleado Público, son los siguientes:",
+    "answers": {
+      "A": "Principio de presunción de culpabilidad.",
+      "B": "Principio de inocencia.",
+      "C": "Principio de proporcionalidad, aplicable tanto a la clasificación de las infracciones y sanciones como a su aplicación.",
+      "D": "Principio de irretroactividad de las faltas y de retroactividad de las sanciones."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 234,
+    "question": "Según el régimen disciplinario establecido por el Estatuto Básico del Empleado Público:",
+    "answers": {
+      "A": "Es una conducta calificada como falta muy grave el acoso laboral.",
+      "B": "Es una conducta calificada como falta muy leve el incumplimiento de la obligación de atender los servicios esenciales en caso de huelga.",
+      "C": "La comisión de faltas muy graves no puede conllevar nunca la separación de servicio de los funcionarios.",
+      "D": "El apercibimiento no es una sanción prevista por ese texto legal."
+    },
+    "correct": "A"
+  }
+]

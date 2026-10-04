@@ -1,0 +1,706 @@
+[
+  {
+    "id": 1,
+    "question": "El Reglamento General de Protección de Datos (RGPD) es el Reglamento (UE):",
+    "answers": {
+      "A": "45/2001",
+      "B": "2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016",
+      "C": "2018/1725",
+      "D": "1049/2001"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 2,
+    "question": "La norma española que desarrolla y complementa el RGPD es:",
+    "answers": {
+      "A": "La Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales (LOPDGDD)",
+      "B": "La Ley 39/2015",
+      "C": "La Ley 19/2013, de transparencia",
+      "D": "El Código Penal"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 3,
+    "question": "Según el RGPD, un «dato personal» es:",
+    "answers": {
+      "A": "Exclusivamente los datos bancarios",
+      "B": "Únicamente la información contenida en el DNI",
+      "C": "Solo los datos relativos a la salud",
+      "D": "Toda información sobre una persona física identificada o identificable"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 4,
+    "question": "Se considera «persona identificable», a efectos del RGPD, a toda persona cuya identidad:",
+    "answers": {
+      "A": "Nunca pueda determinarse por ningún medio",
+      "B": "Pueda determinarse directa o indirectamente, en particular mediante un identificador como el nombre, un número de identificación, datos de localización o un identificador en línea",
+      "C": "Únicamente pueda determinarse mediante su firma manuscrita",
+      "D": "Solo pueda determinarse mediante prueba de ADN"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 5,
+    "question": "El «tratamiento» de datos personales se define en el RGPD como:",
+    "answers": {
+      "A": "Únicamente la destrucción de los datos",
+      "B": "Exclusivamente la transmisión internacional de datos",
+      "C": "Solo la recogida inicial de datos, sin incluir su uso posterior",
+      "D": "Cualquier operación o conjunto de operaciones realizadas sobre datos personales, ya sea por procedimientos automatizados o no"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 6,
+    "question": "El «responsable del tratamiento» es:",
+    "answers": {
+      "A": "El propio interesado titular de los datos",
+      "B": "La persona física o jurídica, autoridad pública, servicio u otro organismo que determina los fines y medios del tratamiento",
+      "C": "Un órgano exclusivamente judicial",
+      "D": "Quien únicamente ejecuta instrucciones del encargado del tratamiento"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 7,
+    "question": "El «encargado del tratamiento» es:",
+    "answers": {
+      "A": "El titular de los datos personales",
+      "B": "La persona física o jurídica, autoridad pública, servicio u otro organismo que trate datos personales por cuenta del responsable del tratamiento",
+      "C": "La autoridad de control en materia de protección de datos",
+      "D": "El delegado de protección de datos exclusivamente"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 8,
+    "question": "El «interesado», en el ámbito del RGPD, es:",
+    "answers": {
+      "A": "La persona física a la que se refieren los datos personales objeto de tratamiento",
+      "B": "La autoridad de control competente",
+      "C": "El responsable del tratamiento de los datos",
+      "D": "El encargado del tratamiento de los datos"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 9,
+    "question": "El «consentimiento del interesado» se define en el RGPD como:",
+    "answers": {
+      "A": "Un silencio administrativo sin manifestación expresa",
+      "B": "Toda manifestación de voluntad libre, específica, informada e inequívoca por la que el interesado acepta el tratamiento de datos personales que le conciernen",
+      "C": "Una presunción legal sin necesidad de acto alguno del interesado",
+      "D": "Una autorización genérica sin posibilidad de retirada"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 10,
+    "question": "Entre los principios relativos al tratamiento de datos personales recogidos en el RGPD se encuentra el de:",
+    "answers": {
+      "A": "Licitud, lealtad y transparencia",
+      "B": "Opacidad absoluta frente al interesado",
+      "C": "Conservación indefinida sin limitación temporal",
+      "D": "Recogida indiscriminada sin finalidad determinada"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 11,
+    "question": "El principio de «limitación de la finalidad» implica que los datos personales deben ser:",
+    "answers": {
+      "A": "Recogidos sin ninguna finalidad concreta",
+      "B": "Recogidos con fines determinados, explícitos y legítimos, y no tratados ulteriormente de manera incompatible con dichos fines",
+      "C": "Cedidos libremente a terceros sin restricción",
+      "D": "Utilizados para cualquier fin que decida posteriormente el responsable"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 12,
+    "question": "El principio de «minimización de datos» exige que los datos sean:",
+    "answers": {
+      "A": "Adecuados, pertinentes y limitados a lo necesario en relación con los fines del tratamiento",
+      "B": "Conservados de forma permanente",
+      "C": "Tratados sin ningún tipo de restricción de acceso",
+      "D": "Recogidos en la mayor cantidad posible, sin límite alguno"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 13,
+    "question": "El principio de «exactitud» de los datos personales implica que estos deben ser:",
+    "answers": {
+      "A": "Mantenidos siempre, aunque sean erróneos",
+      "B": "Modificables únicamente por el interesado y nunca por el responsable",
+      "C": "Exactos y, si fuera necesario, actualizados, adoptando las medidas razonables para que se supriman o rectifiquen sin dilación los datos inexactos",
+      "D": "Conservados sin posibilidad de rectificación"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 14,
+    "question": "El principio de «limitación del plazo de conservación» implica que los datos se mantendrán:",
+    "answers": {
+      "A": "De forma indefinida en todo caso",
+      "B": "Solo durante veinticuatro horas",
+      "C": "Durante no más tiempo del necesario para los fines del tratamiento",
+      "D": "Únicamente mientras dure la vida del responsable del tratamiento"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 15,
+    "question": "El principio de «integridad y confidencialidad» exige que los datos sean tratados de forma que se garantice:",
+    "answers": {
+      "A": "Una seguridad adecuada, incluida la protección contra el tratamiento no autorizado o ilícito y contra su pérdida, destrucción o daño accidental",
+      "B": "La ausencia de cualquier medida técnica de seguridad",
+      "C": "La máxima difusión pública posible",
+      "D": "Su publicación obligatoria en el Boletín Oficial"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 16,
+    "question": "El principio de «responsabilidad proactiva» (accountability) implica que el responsable del tratamiento:",
+    "answers": {
+      "A": "Solo responde ante el interesado si este reclama judicialmente",
+      "B": "Queda exento de cualquier responsabilidad si delega en un encargado",
+      "C": "Debe ser capaz de demostrar el cumplimiento de los principios relativos al tratamiento de datos personales",
+      "D": "No tiene ninguna obligación de documentar sus tratamientos"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 17,
+    "question": "Entre las bases jurídicas que legitiman el tratamiento de datos personales conforme al RGPD se encuentra:",
+    "answers": {
+      "A": "La ausencia de cualquier base jurídica, bastando la voluntad del encargado",
+      "B": "La presunción de legalidad sin ningún requisito adicional",
+      "C": "El consentimiento del interesado para uno o varios fines específicos",
+      "D": "La mera curiosidad del responsable del tratamiento"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 18,
+    "question": "El tratamiento de datos personales por una Administración Pública en el ejercicio de sus competencias se legitima, con carácter general, por:",
+    "answers": {
+      "A": "La necesidad de obtener beneficio económico",
+      "B": "La ausencia de cualquier base legitimadora",
+      "C": "Ser necesario para el cumplimiento de una misión realizada en interés público o en el ejercicio de poderes públicos conferidos al responsable del tratamiento",
+      "D": "El consentimiento expreso de cada ciudadano en todo caso"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 19,
+    "question": "Se consideran «categorías especiales de datos», conforme al RGPD, entre otros:",
+    "answers": {
+      "A": "Exclusivamente la dirección postal",
+      "B": "Solo el número de teléfono",
+      "C": "Los datos que revelen el origen étnico o racial, las opiniones políticas, las convicciones religiosas o filosóficas, o la afiliación sindical, así como los datos genéticos, biométricos y relativos a la salud o a la vida sexual",
+      "D": "Únicamente el nombre y apellidos de una persona"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 20,
+    "question": "El tratamiento de categorías especiales de datos está, con carácter general:",
+    "answers": {
+      "A": "Permitido sin ninguna restricción adicional",
+      "B": "Permitido únicamente a empresas privadas, nunca a Administraciones Públicas",
+      "C": "Prohibido, salvo que concurra alguna de las excepciones tasadas previstas en el RGPD",
+      "D": "Permitido solo si el interesado es menor de edad"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 21,
+    "question": "Los datos relativos a condenas e infracciones penales, conforme al RGPD, solo podrán tratarse:",
+    "answers": {
+      "A": "Bajo la supervisión de una autoridad pública o cuando una norma de Derecho de la Unión o de los Estados miembros lo autorice",
+      "B": "Libremente por cualquier persona física o jurídica",
+      "C": "Exclusivamente por el propio interesado",
+      "D": "Sin ninguna limitación ni garantía adicional"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 22,
+    "question": "Entre los derechos de los interesados reconocidos por el RGPD se encuentra el derecho de:",
+    "answers": {
+      "A": "Acceso, rectificación, supresión, limitación del tratamiento, portabilidad de los datos y oposición",
+      "B": "Exclusivamente el derecho de propiedad intelectual",
+      "C": "Únicamente el derecho a la tutela judicial efectiva",
+      "D": "Solo el derecho a la libertad de expresión"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 23,
+    "question": "El «derecho de acceso» del interesado le permite:",
+    "answers": {
+      "A": "Obtener una indemnización automática sin necesidad de reclamación",
+      "B": "Modificar directamente los sistemas informáticos del responsable",
+      "C": "Eliminar de forma inmediata todos los datos sin posibilidad de respuesta del responsable",
+      "D": "Obtener del responsable del tratamiento confirmación de si se están tratando datos personales que le conciernen y, en tal caso, acceder a dichos datos"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 24,
+    "question": "El «derecho de rectificación» permite al interesado:",
+    "answers": {
+      "A": "Exigir la eliminación completa de todos sus datos sin excepción",
+      "B": "Obtener sin dilación indebida la rectificación de los datos personales inexactos que le conciernan",
+      "C": "Impedir cualquier tratamiento futuro de sus datos",
+      "D": "Solicitar la portabilidad de sus datos a otro responsable"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 25,
+    "question": "El «derecho de supresión» (derecho al olvido) permite al interesado:",
+    "answers": {
+      "A": "Impedir el ejercicio del derecho de acceso por parte de otros interesados",
+      "B": "Obtener del responsable del tratamiento la supresión de los datos personales que le conciernan, cuando concurra alguno de los motivos previstos en el RGPD",
+      "C": "Suprimir datos de terceras personas sin su consentimiento",
+      "D": "Obligar al responsable a conservar sus datos de forma indefinida"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 26,
+    "question": "El «derecho a la limitación del tratamiento» supone que los datos del interesado:",
+    "answers": {
+      "A": "Se ceden obligatoriamente a terceros",
+      "B": "Se eliminan de forma inmediata y definitiva",
+      "C": "Pasan a ser de dominio público automáticamente",
+      "D": "Se marcan con el objetivo de limitar su tratamiento futuro, conservándose pero sin ser tratados salvo excepciones tasadas"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 27,
+    "question": "El «derecho a la portabilidad de los datos» permite al interesado:",
+    "answers": {
+      "A": "Obtener una compensación económica automática",
+      "B": "Impedir el acceso de las autoridades de control a sus datos",
+      "C": "Recibir los datos personales que haya facilitado a un responsable, en un formato estructurado y de uso común, y transmitirlos a otro responsable",
+      "D": "Exigir que sus datos nunca puedan ser tratados por ningún responsable"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 28,
+    "question": "El «derecho de oposición» permite al interesado:",
+    "answers": {
+      "A": "Exigir la contratación de un empleo público concreto",
+      "B": "Impedir la existencia de cualquier autoridad de control",
+      "C": "Obligar a que todos los tratamientos sean gratuitos",
+      "D": "Oponerse en cualquier momento, por motivos relacionados con su situación particular, a que datos personales que le conciernan sean objeto de tratamiento"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 29,
+    "question": "El plazo general para atender las solicitudes de ejercicio de derechos por parte del responsable del tratamiento es, conforme al RGPD:",
+    "answers": {
+      "A": "No existe plazo alguno establecido",
+      "B": "Un mes desde la recepción de la solicitud, prorrogable otros dos meses en casos complejos",
+      "C": "Un año natural sin posibilidad de reclamación",
+      "D": "Veinticuatro horas improrrogables"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 30,
+    "question": "El «Delegado de Protección de Datos» (DPD) es la figura encargada de:",
+    "answers": {
+      "A": "Autorizar unilateralmente cualquier tratamiento de datos sin control",
+      "B": "Sustituir completamente al responsable del tratamiento en sus decisiones",
+      "C": "Representar judicialmente al interesado de forma automática",
+      "D": "Supervisar el cumplimiento de la normativa de protección de datos dentro de la organización y asesorar al responsable o encargado del tratamiento"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 31,
+    "question": "La designación de un Delegado de Protección de Datos es obligatoria, conforme al RGPD, entre otros supuestos, cuando:",
+    "answers": {
+      "A": "El responsable sea una persona física que trata datos de un único cliente",
+      "B": "Nunca es obligatoria en ningún caso",
+      "C": "El tratamiento sea ocasional y de bajo riesgo en el ámbito privado",
+      "D": "El tratamiento lo lleve a cabo una autoridad u organismo público, con determinadas excepciones"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 32,
+    "question": "El «Registro de Actividades de Tratamiento», previsto en el artículo 30 del RGPD, debe ser llevado por:",
+    "answers": {
+      "A": "Únicamente el interesado titular de los datos",
+      "B": "Cada responsable y, en su caso, cada encargado del tratamiento",
+      "C": "Solo las empresas privadas, nunca las Administraciones Públicas",
+      "D": "Exclusivamente la Agencia Española de Protección de Datos"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 33,
+    "question": "La «Evaluación de Impacto relativa a la Protección de Datos» (EIPD) es exigible, conforme al RGPD, cuando:",
+    "answers": {
+      "A": "En todos los tratamientos, sin excepción alguna",
+      "B": "Nunca es exigible a las Administraciones Públicas",
+      "C": "Solo quiere realizarla voluntariamente el interesado",
+      "D": "Un tipo de tratamiento, en particular si utiliza nuevas tecnologías, entrañe un alto riesgo para los derechos y libertades de las personas físicas"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 34,
+    "question": "La «violación de la seguridad de los datos personales» (brecha de seguridad) debe notificarse a la autoridad de control, conforme al RGPD, en un plazo de:",
+    "answers": {
+      "A": "Un año natural",
+      "B": "No existe obligación de notificación en ningún supuesto",
+      "C": "Un mes, en todo caso sin excepciones",
+      "D": "Setenta y dos horas desde que se tenga constancia de ella, salvo que sea improbable que constituya un riesgo para los derechos y libertades de las personas"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 35,
+    "question": "Cuando la violación de seguridad entrañe un alto riesgo para los derechos y libertades de las personas físicas, el responsable del tratamiento debe, además de notificarlo a la autoridad de control:",
+    "answers": {
+      "A": "Ocultar el incidente para evitar alarma social",
+      "B": "Despedir automáticamente al personal implicado sin investigación previa",
+      "C": "Comunicar la violación de seguridad al interesado sin dilación indebida",
+      "D": "Eliminar toda prueba de la brecha de seguridad"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 36,
+    "question": "La Agencia Española de Protección de Datos (AEPD) es:",
+    "answers": {
+      "A": "Un organismo exclusivamente consultivo sin potestad sancionadora",
+      "B": "Una entidad privada sin competencias públicas",
+      "C": "Un órgano dependiente jerárquicamente del Ministerio del Interior",
+      "D": "La autoridad administrativa independiente de ámbito estatal encargada de velar por el cumplimiento de la normativa de protección de datos"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 37,
+    "question": "En el ámbito de la Comunidad Autónoma del País Vasco, la autoridad de control en materia de protección de datos para el sector público vasco es:",
+    "answers": {
+      "A": "El Tribunal Superior de Justicia del País Vasco",
+      "B": "El Ararteko en todo caso y de forma exclusiva",
+      "C": "El Parlamento Vasco directamente",
+      "D": "La Agencia Vasca de Protección de Datos"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 38,
+    "question": "Entre las potestades de las autoridades de control en materia de protección de datos se encuentra:",
+    "answers": {
+      "A": "Exclusivamente la potestad de conceder subvenciones",
+      "B": "La potestad de nombrar jueces y magistrados",
+      "C": "Únicamente la potestad legislativa",
+      "D": "La potestad de investigación, correctora y sancionadora"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 39,
+    "question": "Las sanciones administrativas previstas en el RGPD por infracciones de determinadas disposiciones pueden alcanzar, para las empresas, hasta:",
+    "answers": {
+      "A": "20.000.000 de euros o, en el caso de una empresa, el 4 % como máximo del volumen de negocio total anual del ejercicio financiero anterior, si esta cifra es mayor",
+      "B": "Ninguna sanción económica, solo apercibimiento",
+      "C": "Un máximo de 100 euros en cualquier caso",
+      "D": "Una multa fija de 1.000 euros sin posibilidad de incremento"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 40,
+    "question": "El consentimiento de los menores de edad para los servicios de la sociedad de la información, conforme a la LOPDGDD, se considera válido a partir de:",
+    "answers": {
+      "A": "Los catorce años, salvo en los casos en que la ley exija la asistencia de los titulares de la patria potestad o tutela",
+      "B": "Los dieciocho años en todo caso, sin excepciones",
+      "C": "No se contempla ninguna edad mínima en la legislación española",
+      "D": "Los seis años de edad"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 41,
+    "question": "El principio de «privacidad desde el diseño y por defecto» (privacy by design) exige al responsable del tratamiento:",
+    "answers": {
+      "A": "Aplicar medidas de seguridad únicamente tras sufrir una brecha de seguridad",
+      "B": "Aplicar medidas técnicas y organizativas apropiadas para integrar las garantías de protección de datos desde el momento de la determinación de los medios de tratamiento",
+      "C": "Prescindir de cualquier medida organizativa en favor de medidas exclusivamente técnicas",
+      "D": "Diseñar el tratamiento sin ninguna consideración sobre la protección de datos"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 42,
+    "question": "Las transferencias internacionales de datos personales a terceros países u organizaciones internacionales están sujetas, conforme al RGPD, a:",
+    "answers": {
+      "A": "Garantías adicionales, como decisiones de adecuación de la Comisión Europea o garantías apropiadas, salvo excepciones tasadas",
+      "B": "La exigencia de traducción jurada de los datos únicamente",
+      "C": "La prohibición absoluta sin excepción alguna",
+      "D": "Ninguna restricción ni control, pudiendo realizarse libremente"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 43,
+    "question": "El «derecho a no ser objeto de decisiones individuales automatizadas», incluida la elaboración de perfiles, reconocido en el RGPD, implica que el interesado:",
+    "answers": {
+      "A": "Debe aceptar siempre cualquier decisión automatizada sin posibilidad de intervención humana",
+      "B": "Tiene derecho a no ser objeto de una decisión basada únicamente en el tratamiento automatizado que produzca efectos jurídicos sobre él o le afecte significativamente de modo similar, salvo excepciones",
+      "C": "No tiene ningún derecho relacionado con las decisiones automatizadas",
+      "D": "Solo puede ejercerse este derecho ante tribunales penales"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 44,
+    "question": "El principio de transparencia en el tratamiento de datos personales implica, entre otros aspectos, que la información facilitada al interesado debe ser:",
+    "answers": {
+      "A": "Omitida siempre que el responsable sea una Administración Pública",
+      "B": "Concisa, transparente, inteligible y de fácil acceso, con un lenguaje claro y sencillo",
+      "C": "Facilitada únicamente si el interesado paga una tasa",
+      "D": "Redactada exclusivamente en lenguaje técnico-jurídico complejo"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 45,
+    "question": "El ámbito de aplicación territorial del RGPD se extiende, entre otros supuestos, al tratamiento de datos de interesados que residan en la Unión cuando el responsable:",
+    "answers": {
+      "A": "Esté establecido exclusivamente fuera de la Unión Europea y no ofrezca servicios a residentes de la UE",
+      "B": "Trate datos únicamente de personas jurídicas",
+      "C": "No esté establecido en la Unión pero ofrezca bienes o servicios a dichos interesados o controle su comportamiento",
+      "D": "Trate datos exclusivamente anónimos sin ninguna posibilidad de identificación"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 46,
+    "question": "La LOPDGDD reconoce, además de los derechos del RGPD, un «derecho digital» específico como es:",
+    "answers": {
+      "A": "El derecho a la propiedad privada",
+      "B": "El derecho a la libre circulación de mercancías",
+      "C": "El derecho de picaporte",
+      "D": "El derecho al testamento digital"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 47,
+    "question": "Según la LOPDGDD, el tratamiento de los datos de las personas fallecidas:",
+    "answers": {
+      "A": "Solo puede ser solicitado por el Estado",
+      "B": "Se rige exclusivamente por el Código Civil sin referencia a la LOPDGDD",
+      "C": "Está excluido absolutamente de cualquier normativa",
+      "D": "Podrá ser objeto de solicitud de acceso, rectificación o supresión por las personas vinculadas al fallecido en los términos previstos legalmente, salvo voluntad en contrario del fallecido"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 48,
+    "question": "El «derecho a la actualización de informaciones en medios de comunicación digitales», reconocido en la LOPDGDD, permite:",
+    "answers": {
+      "A": "Exigir una indemnización automática al medio de comunicación",
+      "B": "Eliminar cualquier noticia desfavorable sin justificación",
+      "C": "Solicitar la actualización de noticias quedando reflejado dicho carácter, cuando la información publicada no refleje la situación actual",
+      "D": "Prohibir la publicación de cualquier noticia relacionada con el interesado"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 49,
+    "question": "El «derecho de rectificación en internet» o «al olvido en búsquedas de internet» permite al interesado:",
+    "answers": {
+      "A": "Prohibir cualquier mención de su nombre en la red",
+      "B": "Solicitar la supresión de enlaces a páginas web que contengan información relativa a su persona cuando la publicación no cumpla con los principios de licitud",
+      "C": "Obligar al cierre de la página web en todo caso",
+      "D": "Eliminar el motor de búsqueda completo"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 50,
+    "question": "Según el RGPD, la base de licitud del «cumplimiento de una obligación legal» para tratar datos exige que:",
+    "answers": {
+      "A": "El tratamiento sea necesario para el cumplimiento de una obligación legal aplicable al responsable del tratamiento",
+      "B": "Exista únicamente el consentimiento verbal del interesado",
+      "C": "Se trate siempre de datos de categorías especiales",
+      "D": "El responsable decida libremente tratar los datos sin ninguna norma que lo ampare"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 51,
+    "question": "La base de licitud del «interés legítimo» para el tratamiento de datos personales:",
+    "answers": {
+      "A": "Excluye cualquier ponderación de derechos del interesado",
+      "B": "No podrá ser invocada por las Administraciones Públicas en el ejercicio de sus funciones públicas",
+      "C": "Solo puede invocarse si el interesado es menor de edad",
+      "D": "Es la única base jurídica admitida para cualquier responsable"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 52,
+    "question": "El «consentimiento tácito» para el tratamiento de datos personales, conforme al RGPD:",
+    "answers": {
+      "A": "Es la forma habitual y válida de prestar el consentimiento",
+      "B": "Se presume siempre que el interesado no se oponga expresamente",
+      "C": "No es válido, ya que se exige una manifestación de voluntad inequívoca mediante una declaración o una clara acción afirmativa",
+      "D": "Sustituye en todo caso al consentimiento expreso"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 53,
+    "question": "La retirada del consentimiento por parte del interesado, conforme al RGPD, debe ser:",
+    "answers": {
+      "A": "Imposible una vez prestado el consentimiento inicial",
+      "B": "Solo posible mediante un procedimiento judicial",
+      "C": "Objeto de una tasa administrativa",
+      "D": "Tan fácil como lo fue darlo"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 54,
+    "question": "Conforme al principio de «calidad de los datos», estos deben mantenerse:",
+    "answers": {
+      "A": "Solo actualizados si lo solicita un juez",
+      "B": "Actualizados de forma que respondan con veracidad a la situación actual del interesado",
+      "C": "Desactualizados deliberadamente para proteger al interesado",
+      "D": "Sin posibilidad de actualización una vez recabados"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 55,
+    "question": "Según la LOPDGDD, los tratamientos de datos relacionados con la elaboración de perfiles ideológicos con fines de propaganda electoral:",
+    "answers": {
+      "A": "Pueden realizarse sin ningún tipo de control ni información al interesado",
+      "B": "Están completamente prohibidos sin excepción alguna en la legislación española",
+      "C": "Solo pueden realizarlos los partidos políticos sin ninguna limitación",
+      "D": "Están sujetos a garantías específicas, informándose debidamente de los derechos del interesado"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 56,
+    "question": "El principio de «confidencialidad» obliga al responsable y encargado del tratamiento a:",
+    "answers": {
+      "A": "Publicar los datos tratados en el portal de transparencia",
+      "B": "Garantizar que las personas autorizadas para tratar los datos se comprometan a respetar la confidencialidad o estén sujetas a una obligación de confidencialidad de naturaleza legal",
+      "C": "Ceder los datos libremente a terceros sin autorización",
+      "D": "Permitir el acceso indiscriminado a cualquier empleado sin control alguno"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 57,
+    "question": "Según el RGPD, un dato se considera «seudonimizado» cuando:",
+    "answers": {
+      "A": "Se ha hecho totalmente público sin ninguna restricción",
+      "B": "Ya no puede atribuirse a un interesado sin utilizar información adicional, conservada por separado y sujeta a medidas técnicas y organizativas",
+      "C": "No tiene ninguna relación con la protección de datos",
+      "D": "Ha sido eliminado por completo y de forma irreversible"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 58,
+    "question": "La «anonimización» de datos personales, a diferencia de la seudonimización, implica que:",
+    "answers": {
+      "A": "Los datos dejan de ser identificables de ningún modo, quedando fuera del ámbito de aplicación del RGPD",
+      "B": "Es un sinónimo exacto de seudonimización sin diferencia alguna",
+      "C": "Está prohibida en cualquier circunstancia",
+      "D": "Sigue siendo posible identificar directamente al interesado con facilidad"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 59,
+    "question": "Cuando varios responsables determinan conjuntamente los fines y medios del tratamiento, se consideran, conforme al RGPD:",
+    "answers": {
+      "A": "Encargados del tratamiento exclusivamente",
+      "B": "Corresponsables del tratamiento, debiendo determinar de modo transparente sus responsabilidades respectivas",
+      "C": "Interesados a todos los efectos",
+      "D": "Autoridades de control conjuntas"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 60,
+    "question": "El contrato o acto jurídico que debe vincular al responsable con el encargado del tratamiento, conforme al artículo 28 del RGPD, debe constar:",
+    "answers": {
+      "A": "Solo mediante un acuerdo tácito sin constancia documental",
+      "B": "No es necesario ningún tipo de vínculo contractual",
+      "C": "Por escrito, incluido en formato electrónico",
+      "D": "Únicamente de forma verbal"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 61,
+    "question": "El ejercicio del derecho de acceso por el interesado es, conforme al RGPD, con carácter general:",
+    "answers": {
+      "A": "Gratuito, sin perjuicio de que el responsable pueda cobrar un canon cuando las solicitudes sean manifiestamente infundadas o excesivas",
+      "B": "Limitado a una única vez en la vida del interesado",
+      "C": "Imposible de ejercer si el responsable es una Administración Pública",
+      "D": "Siempre sujeto al pago de una tasa elevada"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 62,
+    "question": "Según el RGPD, el tratamiento de datos de salud por parte de profesionales sujetos a secreto profesional se ampara, entre otras bases, en:",
+    "answers": {
+      "A": "Ser necesario para fines de medicina preventiva o laboral, evaluación de la capacidad laboral, diagnóstico médico o gestión de sistemas de asistencia sanitaria",
+      "B": "La publicación previa de los datos en redes sociales",
+      "C": "El consentimiento tácito del empleador",
+      "D": "La ausencia de cualquier base jurídica, bastando la voluntad del profesional"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 63,
+    "question": "El «Comité Europeo de Protección de Datos» (CEPD) es el órgano que:",
+    "answers": {
+      "A": "Vela por la aplicación coherente del RGPD en toda la Unión Europea, estando compuesto por representantes de las autoridades de control nacionales",
+      "B": "Sustituye a todas las autoridades nacionales de protección de datos",
+      "C": "No tiene ninguna función relacionada con el RGPD",
+      "D": "Es un órgano exclusivamente consultivo del Gobierno español"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 64,
+    "question": "La «Memoria de Impacto Normativo en materia de protección de datos» o la evaluación de impacto resultan especialmente exigibles cuando se produce:",
+    "answers": {
+      "A": "La firma de un contrato laboral ordinario",
+      "B": "La publicación de un simple listado telefónico interno",
+      "C": "Un tratamiento puntual y aislado de datos de contacto profesional",
+      "D": "Un tratamiento a gran escala de categorías especiales de datos o la observación sistemática a gran escala de una zona de acceso público"
+    },
+    "correct": "D"
+  }
+]

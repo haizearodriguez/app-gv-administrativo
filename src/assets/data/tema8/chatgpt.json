@@ -1,0 +1,695 @@
+[
+  {
+    "id": 1,
+    "question": "El euskera, según el Estatuto de Autonomía del País Vasco, tiene la consideración de:",
+    "answers": {
+      "A": "Lengua reconocida únicamente para uso privado",
+      "B": "Lengua extranjera a efectos administrativos",
+      "C": "Lengua cooficial junto con el castellano en la Comunidad Autónoma del País Vasco",
+      "D": "Lengua sin reconocimiento oficial alguno"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 2,
+    "question": "La norma básica que regula el uso del euskera en la Administración Pública Vasca es:",
+    "answers": {
+      "A": "La Ley Orgánica 3/1979",
+      "B": "La Ley 10/1982, de 24 de noviembre, básica de normalización del uso del Euskera",
+      "C": "El Real Decreto 364/1995",
+      "D": "La Ley 39/2015"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 3,
+    "question": "Según la Ley de normalización del euskera, el euskera es:",
+    "answers": {
+      "A": "Una lengua sin presencia en la enseñanza",
+      "B": "Una lengua exclusivamente litúrgica",
+      "C": "Una lengua extranjera a todos los efectos",
+      "D": "Lengua propia del Pueblo Vasco"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 4,
+    "question": "El «perfil lingüístico» de un puesto de trabajo en la Administración vasca se define como:",
+    "answers": {
+      "A": "La descripción exclusiva de las funciones técnicas del puesto",
+      "B": "Un informe psicotécnico del aspirante",
+      "C": "El conjunto de niveles de conocimiento de euskera, en sus distintas modalidades, requeridos para su desempeño",
+      "D": "El historial académico del funcionario que ocupa el puesto"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 5,
+    "question": "Los perfiles lingüísticos en la Administración General de la CAE se clasifican, con carácter general, en:",
+    "answers": {
+      "A": "Dos perfiles: euskaldun y erdaldun",
+      "B": "Cuatro perfiles lingüísticos (PL1, PL2, PL3 y PL4)",
+      "C": "Diez niveles progresivos sin numeración oficial",
+      "D": "Un único perfil obligatorio para todos los puestos"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 6,
+    "question": "La «preceptividad» del perfil lingüístico implica que:",
+    "answers": {
+      "A": "El conocimiento del euskera en el nivel exigido se convierte en requisito de necesario cumplimiento para acceder o desempeñar el puesto",
+      "B": "Nunca puede exigirse como requisito, solo como mérito",
+      "C": "El conocimiento del euskera es meramente un mérito puntuable",
+      "D": "Solo afecta a los puestos de libre designación"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 7,
+    "question": "Cuando un perfil lingüístico no tiene carácter preceptivo, su acreditación se valora en los procesos selectivos como:",
+    "answers": {
+      "A": "Causa de nulidad del proceso selectivo",
+      "B": "Requisito excluyente en todo caso",
+      "C": "Mérito",
+      "D": "Elemento irrelevante que no se valora en absoluto"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 8,
+    "question": "La fecha de preceptividad de un perfil lingüístico es:",
+    "answers": {
+      "A": "La fecha de jubilación obligatoria",
+      "B": "La fecha de creación del cuerpo o escala",
+      "C": "El momento a partir del cual el cumplimiento del perfil lingüístico asignado al puesto pasa a ser un requisito exigible",
+      "D": "La fecha de nacimiento del funcionario"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 9,
+    "question": "Los planes de normalización del uso del euskera en las Administraciones Públicas vascas tienen como finalidad principal:",
+    "answers": {
+      "A": "Prohibir el uso del castellano en cualquier ámbito administrativo",
+      "B": "Reducir exclusivamente el número de empleados públicos",
+      "C": "Avanzar en la normalización del uso del euskera en el funcionamiento interno y en las relaciones con la ciudadanía",
+      "D": "Eliminar el perfil lingüístico de los puestos de trabajo"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 10,
+    "question": "El Decreto 19/2024, relativo a la normalización lingüística, regula entre otros aspectos:",
+    "answers": {
+      "A": "El régimen de contratación pública",
+      "B": "El establecimiento y la acreditación de los perfiles lingüísticos del personal al servicio de las Administraciones Públicas de la CAE",
+      "C": "La protección de datos personales",
+      "D": "Exclusivamente la organización territorial de los municipios"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 11,
+    "question": "Los índices de preceptividad en un Plan de Normalización establecen:",
+    "answers": {
+      "A": "La proporción de documentos redactados exclusivamente en castellano",
+      "B": "El presupuesto destinado a la enseñanza del euskera",
+      "C": "El porcentaje de puestos de un departamento u organismo en los que el perfil lingüístico asignado resulta preceptivo",
+      "D": "El número total de funcionarios euskaldunes contratados cada año"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 12,
+    "question": "Para la acreditación de los perfiles lingüísticos del personal al servicio de las Administraciones Públicas vascas se tiene en cuenta, entre otros medios:",
+    "answers": {
+      "A": "La superación de las pruebas de acreditación organizadas por el Instituto Vasco de Administración Pública (IVAP)",
+      "B": "La antigüedad en el puesto sin más requisitos",
+      "C": "Exclusivamente el lugar de nacimiento del aspirante",
+      "D": "Únicamente una declaración jurada sin prueba alguna"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 13,
+    "question": "El órgano competente para la homologación y acreditación de los perfiles lingüísticos en el ámbito de la Administración General de la CAE es:",
+    "answers": {
+      "A": "El Ararteko",
+      "B": "El Consejo de Europa",
+      "C": "El Tribunal Constitucional",
+      "D": "El Instituto Vasco de Administración Pública (IVAP)"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 14,
+    "question": "Los «ciclos de capacitación» en materia de euskera para el personal de la Administración se dirigen fundamentalmente a:",
+    "answers": {
+      "A": "Formar únicamente a personal directivo",
+      "B": "Facilitar que el personal alcance el perfil lingüístico asignado a su puesto de trabajo",
+      "C": "Sustituir las pruebas selectivas de acceso",
+      "D": "Formar exclusivamente a personal jubilado"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 15,
+    "question": "El principio de normalización lingüística se orienta, entre otros objetivos, a:",
+    "answers": {
+      "A": "Prohibir el uso del euskera en la enseñanza reglada",
+      "B": "Suprimir el castellano de toda comunicación administrativa",
+      "C": "Garantizar el uso normal y oficial del euskera y del castellano, respetando la libre opción lingüística de la ciudadanía",
+      "D": "Hacer desaparecer el euskera de los documentos oficiales"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 16,
+    "question": "El derecho de opción lingüística de la ciudadanía en sus relaciones con la Administración vasca implica que:",
+    "answers": {
+      "A": "Solo se admite el uso del castellano en los registros oficiales",
+      "B": "La Administración puede imponer unilateralmente la lengua de relación",
+      "C": "Solo las personas euskaldunes pueden ejercer este derecho",
+      "D": "Toda persona tiene derecho a usar, oralmente y por escrito, el euskera o el castellano en sus relaciones con la Administración"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 17,
+    "question": "Los documentos públicos administrativos emanados de la Administración de la CAE, según la normativa de normalización, se redactarán:",
+    "answers": {
+      "A": "Únicamente en castellano en todo caso",
+      "B": "De forma bilingüe, salvo que se solicite exclusivamente en una de las dos lenguas oficiales por la persona interesada",
+      "C": "Únicamente en euskera en todo caso",
+      "D": "En el idioma que decida el funcionario tramitador"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 18,
+    "question": "La «zonificación sociolingüística» en los Planes de Normalización tiene por objeto:",
+    "answers": {
+      "A": "Centralizar toda la gestión lingüística en un único municipio",
+      "B": "Eliminar la obligación de bilingüismo en toda la CAE sin distinción",
+      "C": "Adaptar los índices de preceptividad a la realidad sociolingüística de cada territorio o ámbito funcional",
+      "D": "Prohibir el euskera en determinadas comarcas"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 19,
+    "question": "El Instituto Vasco de Administración Pública (IVAP) tiene, entre sus funciones, la de:",
+    "answers": {
+      "A": "Impulsar la formación y capacitación lingüística del personal al servicio de las Administraciones Públicas vascas",
+      "B": "Ejercer la potestad legislativa en materia tributaria",
+      "C": "Gestionar exclusivamente las pensiones del personal jubilado",
+      "D": "Dirigir la política exterior del Gobierno Vasco"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 20,
+    "question": "Respecto a la provisión de puestos de trabajo, el conocimiento del euskera puede exigirse:",
+    "answers": {
+      "A": "Como requisito cuando el perfil lingüístico asignado al puesto tenga carácter preceptivo",
+      "B": "Solo en los puestos de naturaleza eventual",
+      "C": "Únicamente en los puestos de la Administración de Justicia",
+      "D": "Nunca, bajo ninguna circunstancia, conforme a la legislación vigente"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 21,
+    "question": "Los «índices de obligado cumplimiento» establecidos en los Planes de Normalización del Uso del Euskera sirven para:",
+    "answers": {
+      "A": "Fijar el número de días de vacaciones del personal",
+      "B": "Regular el horario de atención al público",
+      "C": "Determinar exclusivamente el salario del personal euskaldun",
+      "D": "Fijar el porcentaje mínimo de puestos con perfil lingüístico preceptivo que debe alcanzarse en cada período"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 22,
+    "question": "La Viceconsejería de Política Lingüística (o el órgano competente en la materia) tiene entre sus funciones:",
+    "answers": {
+      "A": "Coordinar e impulsar la planificación de la normalización del uso del euskera en las Administraciones Públicas vascas",
+      "B": "Gestionar la Seguridad Social de los empleados públicos",
+      "C": "Aprobar los Presupuestos Generales del Estado",
+      "D": "Resolver los recursos contencioso-administrativos"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 23,
+    "question": "La acreditación de un perfil lingüístico, una vez obtenida por una persona, tiene carácter:",
+    "answers": {
+      "A": "Permanente y con validez en todo el ámbito de las Administraciones Públicas vascas",
+      "B": "Solo válida para el puesto concreto para el que se obtuvo, sin posibilidad de reconocimiento posterior",
+      "C": "Inexistente, ya que no se expiden acreditaciones",
+      "D": "Temporal, debiendo renovarse cada año sin excepción"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 24,
+    "question": "Los Perfiles Lingüísticos se gradúan en función de, entre otros criterios:",
+    "answers": {
+      "A": "La complejidad de las funciones del puesto y el grado de relación del mismo con la ciudadanía",
+      "B": "Exclusivamente la antigüedad del titular del puesto",
+      "C": "El número de hijos del funcionario",
+      "D": "El lugar de residencia del funcionario"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 25,
+    "question": "La «fecha de preceptividad» de los perfiles lingüísticos asignados a los puestos de nueva creación se establece, con carácter general:",
+    "answers": {
+      "A": "Treinta años después de su creación en todo caso",
+      "B": "En el propio acto de creación del puesto, conforme a los criterios del Plan de Normalización vigente",
+      "C": "Nunca, los puestos de nueva creación están exentos de perfil lingüístico",
+      "D": "De forma retroactiva a la fecha de fundación del organismo"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 26,
+    "question": "El Decreto 19/2024 u otras normas de desarrollo prevén, en relación con el personal que no acredita el perfil lingüístico preceptivo en el plazo establecido:",
+    "answers": {
+      "A": "La pérdida inmediata de la nacionalidad española",
+      "B": "Consecuencias en el marco de la normativa de función pública, pudiendo verse afectado el desempeño del puesto",
+      "C": "Ninguna consecuencia en ningún caso",
+      "D": "El cese automático en la condición de funcionario de carrera"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 27,
+    "question": "Entre los principios informadores de la política lingüística de las Administraciones vascas se encuentra:",
+    "answers": {
+      "A": "El principio de exclusión del castellano en cualquier documento",
+      "B": "El principio de gradualidad en la implantación de la normalización del euskera",
+      "C": "El principio de imposición inmediata y simultánea en todos los puestos",
+      "D": "El principio de uniformidad absoluta sin tener en cuenta la realidad territorial"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 28,
+    "question": "La Ley 10/1982 declara el euskera como:",
+    "answers": {
+      "A": "Una lengua exclusivamente ritual sin uso administrativo",
+      "B": "Una lengua minoritaria sin reconocimiento institucional",
+      "C": "Un idioma en desuso sin relevancia jurídica",
+      "D": "Patrimonio histórico, cultural y un valor social que debe ser protegido"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 29,
+    "question": "Según los principios de la normalización lingüística, los poderes públicos de la CAE tienen, entre otras, la obligación de:",
+    "answers": {
+      "A": "Garantizar el uso normal y oficial del euskera y adoptar medidas para su fomento",
+      "B": "Prohibir su enseñanza en los centros educativos públicos",
+      "C": "Restringirlo exclusivamente al ámbito privado y familiar",
+      "D": "Eliminarlo progresivamente de la Administración"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 30,
+    "question": "El conocimiento del euskera para el acceso a la función pública vasca se puede exigir mediante:",
+    "answers": {
+      "A": "Un simple certificado de empadronamiento",
+      "B": "La entrega de una fotografía reciente",
+      "C": "Exclusivamente un examen médico",
+      "D": "La superación de pruebas específicas de conocimiento del euskera dentro del propio proceso selectivo o la acreditación de titulaciones homologadas"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 31,
+    "question": "Las titulaciones y certificaciones homologadas a los perfiles lingüísticos, como el HABE o el EGA, sirven para:",
+    "answers": {
+      "A": "Sustituir el título universitario exigido para el puesto",
+      "B": "Acreditar conocimientos de idiomas extranjeros distintos del euskera",
+      "C": "Acreditar el nivel de conocimiento de euskera sin necesidad de superar las pruebas específicas del IVAP",
+      "D": "Eximir del cumplimiento de cualquier otro requisito del proceso selectivo"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 32,
+    "question": "El objetivo de los planes de normalización lingüística de segunda generación, en relación con los de primera, fue:",
+    "answers": {
+      "A": "Suprimir por completo la planificación lingüística",
+      "B": "Profundizar en el uso efectivo del euskera, no solo en su conocimiento formal, dentro del funcionamiento interno de la Administración",
+      "C": "Centrarse únicamente en la contratación de personal laboral temporal",
+      "D": "Eliminar los perfiles lingüísticos existentes"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 33,
+    "question": "La disposición que regula de forma vigente los perfiles lingüísticos y su preceptividad en el ámbito de la Administración General de la Comunidad Autónoma de Euskadi es, en términos generales:",
+    "answers": {
+      "A": "La Ley General Tributaria",
+      "B": "Un decreto del Gobierno Vasco que desarrolla la Ley 10/1982, actualizado periódicamente (como el Decreto 19/2024)",
+      "C": "La Ley de Contratos del Sector Público",
+      "D": "El Código Civil"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 34,
+    "question": "El uso del euskera en la rotulación, señalización y comunicaciones de las Administraciones Públicas vascas debe ajustarse, con carácter general, al principio de:",
+    "answers": {
+      "A": "Uso exclusivo del euskera, suprimiendo el castellano",
+      "B": "Bilingüismo, utilizando tanto el euskera como el castellano",
+      "C": "Uso exclusivo del castellano en todos los casos",
+      "D": "Libre elección del funcionario de turno sin criterio normativo"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 35,
+    "question": "El perfil lingüístico 1 (PL1) se asigna, con carácter general, a:",
+    "answers": {
+      "A": "Los puestos directivos de mayor responsabilidad y relación institucional",
+      "B": "Exclusivamente a traductores oficiales de euskera",
+      "C": "Puestos de trabajo con escasa o nula relación con el público y bajo nivel de exigencia lingüística",
+      "D": "Puestos de atención telefónica permanente en euskera"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 36,
+    "question": "El perfil lingüístico más alto, asignado a puestos con mayor exigencia de conocimiento y uso del euskera, suele corresponder a:",
+    "answers": {
+      "A": "El perfil lingüístico 4 (PL4)",
+      "B": "No existe gradación entre perfiles",
+      "C": "El perfil lingüístico 1 (PL1)",
+      "D": "Un perfil exclusivo para personal de limpieza"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 37,
+    "question": "Las pruebas de acreditación de los perfiles lingüísticos convocadas por el IVAP evalúan, entre otras, las destrezas de:",
+    "answers": {
+      "A": "Conocimientos de legislación tributaria",
+      "B": "Exclusivamente cálculo matemático",
+      "C": "Conocimientos de informática ofimática",
+      "D": "Comprensión y expresión oral y escrita en euskera"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 38,
+    "question": "La «capacitación lingüística» del personal, a diferencia de la «acreditación», consiste en:",
+    "answers": {
+      "A": "Un trámite exclusivamente administrativo sin contenido formativo",
+      "B": "El procedimiento de examen final que certifica oficialmente el nivel alcanzado",
+      "C": "El proceso formativo dirigido a que el personal adquiera el nivel de euskera correspondiente a su perfil",
+      "D": "Una sanción disciplinaria por desconocimiento del euskera"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 39,
+    "question": "El incumplimiento del plazo de preceptividad de un perfil lingüístico por parte del titular del puesto puede dar lugar, conforme a la normativa de función pública, a:",
+    "answers": {
+      "A": "La pérdida automática e inmediata de la condición de funcionario",
+      "B": "Ninguna consecuencia jurídica en ningún caso",
+      "C": "Una sanción penal",
+      "D": "La necesidad de analizar la situación del puesto, pudiendo afectar a la continuidad en su desempeño conforme a lo previsto reglamentariamente"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 40,
+    "question": "Los Planes de Normalización del uso del euskera se aprueban, con carácter general, para:",
+    "answers": {
+      "A": "Un periodo indefinido sin posibilidad de revisión",
+      "B": "Cada legislatura municipal exclusivamente",
+      "C": "Un período plurianual determinado, revisándose sucesivamente",
+      "D": "Un único día al año"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 41,
+    "question": "La «oferta pública de empleo» en la Administración vasca debe tener en cuenta, respecto al euskera:",
+    "answers": {
+      "A": "Los índices de preceptividad y los perfiles lingüísticos asignados a las plazas convocadas",
+      "B": "Ningún criterio lingüístico en ningún caso",
+      "C": "Solo criterios de antigüedad en el sector privado",
+      "D": "Exclusivamente criterios de edad de los aspirantes"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 42,
+    "question": "El derecho de la ciudadanía a ser atendida en euskera por la Administración vasca se enmarca dentro de:",
+    "answers": {
+      "A": "Un mero acto de cortesía sin respaldo normativo",
+      "B": "Una excepción solo aplicable a los tribunales de justicia",
+      "C": "El derecho de opción lingüística reconocido en la Ley de normalización del uso del euskera",
+      "D": "Un derecho exclusivo de los empleados públicos, no de la ciudadanía"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 43,
+    "question": "Los programas de «euskaldunización» del personal al servicio de las Administraciones Públicas vascas tienen como objetivo:",
+    "answers": {
+      "A": "Facilitar que las personas empleadas públicas adquieran o mejoren su competencia en euskera",
+      "B": "Evaluar exclusivamente competencias informáticas",
+      "C": "Sustituir las oposiciones de acceso a la función pública",
+      "D": "Eliminar la necesidad de formación continua"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 44,
+    "question": "La normalización del uso del euskera en el ámbito de la Administración de Justicia en el País Vasco:",
+    "answers": {
+      "A": "Se promueve igualmente, garantizando el derecho de la ciudadanía a utilizar el euskera en las actuaciones judiciales",
+      "B": "Solo afecta a los procedimientos civiles, nunca a los penales",
+      "C": "Está expresamente excluida de cualquier normativa de normalización lingüística",
+      "D": "No tiene ninguna regulación específica"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 45,
+    "question": "El seguimiento y evaluación de los Planes de Normalización del uso del euskera corresponde, entre otros órganos, a:",
+    "answers": {
+      "A": "El órgano competente en política lingüística del Gobierno Vasco",
+      "B": "El Tribunal de Cuentas en exclusiva",
+      "C": "Exclusivamente a cada ciudadano de forma individual",
+      "D": "El Banco Central Europeo"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 46,
+    "question": "Según la normativa vigente, la preceptividad de los perfiles lingüísticos se aplica de forma:",
+    "answers": {
+      "A": "Gradual, conforme a los índices de obligado cumplimiento fijados en cada Plan de Normalización",
+      "B": "Simultánea e inmediata en el cien por cien de los puestos desde la entrada en vigor de la ley",
+      "C": "Exclusivamente en los puestos de nueva creación posteriores a 2024",
+      "D": "Nunca, puesto que los perfiles no pueden ser preceptivos"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 47,
+    "question": "Un puesto de trabajo con perfil lingüístico 2 (PL2) no preceptivo implica que:",
+    "answers": {
+      "A": "Es obligatorio superar la prueba de acreditación antes de tomar posesión",
+      "B": "El conocimiento del euskera en ese nivel se valorará como mérito en los procesos de provisión del puesto, sin ser requisito excluyente",
+      "C": "El euskera queda prohibido en el desempeño de ese puesto",
+      "D": "El puesto queda vacante hasta que se modifique su perfil"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 48,
+    "question": "La Ley de normalización del uso del euskera habilita al Gobierno Vasco para:",
+    "answers": {
+      "A": "Eliminar el Estatuto de Autonomía",
+      "B": "Modificar la Constitución Española",
+      "C": "Establecer reglamentariamente los perfiles lingüísticos y las fechas de preceptividad de los puestos de trabajo",
+      "D": "Suprimir el castellano como lengua oficial del Estado"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 49,
+    "question": "Entre los fines de la política de normalización lingüística se incluye:",
+    "answers": {
+      "A": "Superar progresivamente la situación de desequilibrio entre el euskera y el castellano",
+      "B": "Eliminar toda enseñanza bilingüe en los centros públicos",
+      "C": "Perpetuar indefinidamente la desigualdad entre ambas lenguas",
+      "D": "Prohibir el aprendizaje del euskera a los adultos"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 50,
+    "question": "El HABE (Helduen Alfabetatze eta Berreuskalduntzerako Erakundea) es el organismo encargado de:",
+    "answers": {
+      "A": "La regulación del tráfico rodado en Euskadi",
+      "B": "La gestión del sistema sanitario vasco",
+      "C": "La alfabetización y euskaldunización de personas adultas",
+      "D": "La planificación urbanística municipal"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 51,
+    "question": "El certificado EGA (Euskararen Gaitasun Agiria) acredita:",
+    "answers": {
+      "A": "Exclusivamente conocimientos de informática",
+      "B": "La superación de la oposición completa a funcionario",
+      "C": "Un nivel de conocimiento del euskera equiparable, a efectos de homologación, a determinados perfiles lingüísticos superiores",
+      "D": "Una titulación en Derecho Administrativo"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 52,
+    "question": "La revisión de los índices de preceptividad en los sucesivos Planes de Normalización responde, entre otros motivos, a:",
+    "answers": {
+      "A": "Decisiones exclusivamente judiciales",
+      "B": "La variación del precio del petróleo",
+      "C": "La evolución de la realidad sociolingüística y del grado de cumplimiento alcanzado en el periodo anterior",
+      "D": "Un sorteo aleatorio entre los departamentos"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 53,
+    "question": "En relación con la provisión de puestos mediante concurso, la acreditación del perfil lingüístico preceptivo asignado al puesto:",
+    "answers": {
+      "A": "Constituye un requisito que debe cumplirse para poder optar a dicho puesto",
+      "B": "Es irrelevante y nunca se tiene en cuenta",
+      "C": "Solo aplica a los concursos de traslado fuera de la CAE",
+      "D": "Sustituye a todos los demás requisitos del puesto"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 54,
+    "question": "El euskera, según el Estatuto de Gernika, es declarado lengua propia del Pueblo Vasco junto con el castellano, lo que implica que:",
+    "answers": {
+      "A": "Ambas lenguas son oficiales en la CAE y todos tienen derecho a conocerlas y usarlas",
+      "B": "El euskera carece de reconocimiento en el propio Estatuto de Autonomía",
+      "C": "Solo tiene efectos en el ámbito educativo, no en el administrativo",
+      "D": "Solo el castellano es lengua oficial a todos los efectos"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 55,
+    "question": "La Viceconsejería o Dirección competente en política lingüística suele depender, en la estructura del Gobierno Vasco, de:",
+    "answers": {
+      "A": "El departamento de Seguridad",
+      "B": "El departamento competente en materia de cultura y política lingüística",
+      "C": "Ningún departamento, por ser un ente independiente",
+      "D": "El departamento de Hacienda exclusivamente"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 56,
+    "question": "Respecto al personal interino o temporal de las Administraciones Públicas vascas, la exigencia del perfil lingüístico preceptivo:",
+    "answers": {
+      "A": "Solo se les exige si llevan más de veinte años en el puesto",
+      "B": "Se sustituye siempre por una evaluación psicotécnica",
+      "C": "Se aplica también a este personal cuando el puesto que ocupan tiene asignado un perfil preceptivo",
+      "D": "Nunca se les exige ningún perfil lingüístico"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 57,
+    "question": "El proceso de normalización lingüística en la Administración vasca se enmarca dentro de un objetivo más amplio de:",
+    "answers": {
+      "A": "Política lingüística orientada a la recuperación y normalización del uso social del euskera",
+      "B": "Política de relaciones internacionales",
+      "C": "Política de seguridad ciudadana",
+      "D": "Política exclusivamente económica sin relación con la lengua"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 58,
+    "question": "Las pruebas de acreditación de perfiles lingüísticos organizadas por el IVAP se estructuran generalmente en:",
+    "answers": {
+      "A": "Una entrevista exclusivamente sobre la vida personal del aspirante",
+      "B": "Un único examen tipo test sobre legislación",
+      "C": "Una prueba física de resistencia",
+      "D": "Distintas pruebas o módulos correspondientes a las destrezas lingüísticas evaluadas (comprensión oral, escrita, expresión oral y escrita)"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 59,
+    "question": "El concepto de «comunidad lingüística» del euskera reconocido en la normativa de normalización hace referencia a:",
+    "answers": {
+      "A": "Un partido político concreto",
+      "B": "Un sindicato específico del sector público",
+      "C": "El conjunto de hablantes y ámbitos territoriales donde el euskera es lengua propia e histórica",
+      "D": "Una organización no gubernamental de carácter privado"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 60,
+    "question": "Según los objetivos de los Planes de Normalización, el uso del euskera en las relaciones internas de la Administración (comunicaciones entre unidades, actas, etc.) debe:",
+    "answers": {
+      "A": "Incrementarse progresivamente conforme a los índices y medidas previstas en cada plan",
+      "B": "Permanecer inalterado sin ningún tipo de planificación",
+      "C": "Limitarse exclusivamente a la correspondencia con otros países",
+      "D": "Quedar excluido de cualquier objetivo de normalización"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 61,
+    "question": "Los «índices de preceptividad» se fijan teniendo en cuenta, entre otros factores:",
+    "answers": {
+      "A": "El resultado de las últimas elecciones municipales",
+      "B": "El nivel de conocimiento de euskera existente en la zona y la relación del puesto con la ciudadanía",
+      "C": "Únicamente la edad media de la plantilla",
+      "D": "El número de hijos de los empleados públicos"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 62,
+    "question": "En el marco de la Administración General de la CAE, la responsabilidad última de impulsar y coordinar la política de normalización lingüística recae en:",
+    "answers": {
+      "A": "El Gobierno Vasco, a través del departamento competente en la materia",
+      "B": "Organismos internacionales ajenos al País Vasco",
+      "C": "Cada ciudadano individualmente considerado",
+      "D": "El Parlamento Europeo exclusivamente"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 63,
+    "question": "La correcta asignación del perfil lingüístico a un puesto de trabajo debe realizarse teniendo en cuenta, entre otros criterios:",
+    "answers": {
+      "A": "El color del uniforme del empleado",
+      "B": "El horario de verano o invierno",
+      "C": "Exclusivamente la ubicación geográfica de la oficina",
+      "D": "Las funciones concretas del puesto y su grado de relación con la ciudadanía"
+    },
+    "correct": "D"
+  }
+]

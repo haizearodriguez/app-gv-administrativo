@@ -1,0 +1,288 @@
+[
+  {
+    "id": 313,
+    "question": "A la hora de socorrer a una persona, el reconocimiento de los signos vitales incluye los siguientes:",
+    "answers": {
+      "A": "Consciencia, respiración y pulso, por este orden.",
+      "B": "Respiración, consciencia, y pulso, por este orden.",
+      "C": "Pulso, consciencia y respiración, por este orden.",
+      "D": "Ninguna respuesta es correcta."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 314,
+    "question": "En una parada cardiorrespiratoria:",
+    "answers": {
+      "A": "Un intervalo de 5 a 10 minutos sin recibir oxígeno daña de forma irreversible las células.",
+      "B": "Un intervalo de 3 a 5 minutos sin recibir oxígeno daña de forma irreversible las células.",
+      "C": "Un intervalo de 5 a 8 minutos sin recibir oxígeno daña de forma irreversible las células.",
+      "D": "Un intervalo de 1 a 5 minutos sin recibir oxígeno daña de forma irreversible las células."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 315,
+    "question": "La regla P.A.S hace referencia a:",
+    "answers": {
+      "A": "Proteger, asesorar y sostener a la persona accidentada.",
+      "B": "Proteger, asesorar y socorrer a la persona accidentada.",
+      "C": "Proteger, avisar y sostener a la persona accidentada.",
+      "D": "Proteger, avisar y socorrer a la persona accidentada."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 316,
+    "question": "La respiración artificial para ser efectiva debe ser:",
+    "answers": {
+      "A": "Inmediata.",
+      "B": "Continuada, sin interrupciones.",
+      "C": "Prolongada, hasta la total recuperación.",
+      "D": "Todas son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 317,
+    "question": "El método boca-boca tiene las siguientes ventajas:",
+    "answers": {
+      "A": "Puede ser aplicado en la mayoría de las ocasiones.",
+      "B": "Permite comprobar si está siendo efectivo viendo que sube el pecho de la víctima al entrar el aire.",
+      "C": "a) y b) son correctas.",
+      "D": "a) y b) son incorrectas."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 318,
+    "question": "Respecto a la práctica de la respiración artificial, ¿cuál de las siguientes afirmaciones es correcta?:",
+    "answers": {
+      "A": "Se deberá realizar siempre una maniobra boca-nariz para insuflar el aire.",
+      "B": "En la aplicación de la respiración artificial se pueden considerar tres fases.",
+      "C": "El boca-boca puede aplicarse con el masaje cardiaco en caso de ser necesario.",
+      "D": "Una vez que conseguimos que el aire penetre en los pulmones y comprobado que la víctima tiene pulso seguiremos realizando insuflaciones a un ritmo de 8 a 12 por minuto."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 319,
+    "question": "Simultaneando la respiración artificial con el masaje cardiaco en caso de estar solos o solas, la estrategia de intervención será:",
+    "answers": {
+      "A": "Realizar 30 compresiones cardiacas y a continuación 2 insuflaciones de aire «boca-boca», repetir el ciclo hasta la recuperación del pulso y respiración de la víctima.",
+      "B": "Realizar 15 compresiones cardiacas y a continuación 2 insuflaciones de aire «boca-boca», repetir el ciclo hasta la recuperación del pulso y respiración de la víctima.",
+      "C": "Realizar 15 compresiones cardiacas y a continuación 4 insuflaciones de aire «boca-boca», repetir el ciclo hasta la recuperación del pulso y respiración de la víctima.",
+      "D": "Realizar 30 compresiones cardiacas y a continuación 4 insuflaciones de aire «boca-boca», repetir el ciclo hasta la recuperación del pulso y respiración de la víctima."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 320,
+    "question": "Los principios generales del tratamiento de las heridas son:",
+    "answers": {
+      "A": "Detener la hemorragia.",
+      "B": "Evitar las complicaciones y en especial las infecciones.",
+      "C": "Favorecer la curación.",
+      "D": "Todas las respuestas son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 321,
+    "question": "Ante una compresión de una arteria sangrante, ¿qué debemos hacer?:",
+    "answers": {
+      "A": "La compresión no puede realizarse directamente sobre la parte que sangra.",
+      "B": "Utilizaremos solamente gasas estériles.",
+      "C": "Mantendremos la presión sobre la herida durante unos minutos (10 aproximadamente) hasta que nos percatemos de que la hemorragia ha cedido.",
+      "D": "Una vez que nos hayamos percatado de que la hemorragia ha cedido nunca vendaremos la herida antes de trasladar a la persona accidentada."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 322,
+    "question": "¿Cuál de las siguientes medidas es correcta en la utilización de un torniquete?:",
+    "answers": {
+      "A": "Se colocará una etiqueta en el lugar más próximo al corazón.",
+      "B": "En caso de períodos de tiempo prolongados con el torniquete, no es conveniente aflojarlo.",
+      "C": "Una vez colocado el torniquete, corresponderá al personal sanitario especializado retirarlo y nunca al/a la socorrista, para evitar el riesgo de shock.",
+      "D": "Todas las medidas son correctas."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 323,
+    "question": "¿Qué hacer ante un riesgo de shock?:",
+    "answers": {
+      "A": "Colocaremos a la persona en el suelo para favorecer el riego sanguíneo al cerebro.",
+      "B": "Elevaremos las piernas, siempre que no se queje de dolor, en cuyo caso dejaremos las extremidades en horizontal.",
+      "C": "a) y b) son incorrectas.",
+      "D": "a) y b) son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 324,
+    "question": "¿Cuál de las siguientes afirmaciones es correcta?:",
+    "answers": {
+      "A": "El cuerpo humano tolera temperaturas de hasta unos 40ºC.",
+      "B": "La piel no es un órgano de nuestro cuerpo.",
+      "C": "La epidermis y el endotelio son las dos capas de la piel.",
+      "D": "La quemadura es el resultado del contacto de los tejidos del organismo con el frío."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 325,
+    "question": "En la «regla del 9», Wallace divide la superficie corporal del adulto en 11 áreas, siendo cada parte el 9% o un múltiplo de 9; señale la respuesta correcta:",
+    "answers": {
+      "A": "Cabeza y cuello equivalen a 18%.",
+      "B": "Cada extremidad superior: 9%.",
+      "C": "Cada extremidad inferior: 9%.",
+      "D": "Cara anterior de tórax y abdomen: 9%."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 326,
+    "question": "¿Qué se debe hacer ante una quemadura?:",
+    "answers": {
+      "A": "Aplicar agua.",
+      "B": "Dar comida o líquidos por vía oral.",
+      "C": "Dejar sola a la víctima.",
+      "D": "Despegar la ropa que esté pegada a la piel."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 327,
+    "question": "Las fracturas cursan con:",
+    "answers": {
+      "A": "Hematoma.",
+      "B": "Crepitación.",
+      "C": "Incapacidad funcional.",
+      "D": "Todas son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 328,
+    "question": "¿Cuál de las siguientes afirmaciones es incorrecta?:",
+    "answers": {
+      "A": "Caídas desde altura sobre los pies o de espaldas pueden cursar con fractura de co lumna vertebral.",
+      "B": "El dolor en la nuca es un síntoma que acompaña a una fractura de columna.",
+      "C": "Resulta sencillo saber si realmente existe fractura de columna vertebral.",
+      "D": "Ante la mínima sospecha de fractura de columna vertebral actuaremos considerando a la persona lesionada como si realmente estuviera fracturada."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 329,
+    "question": "¿Cuál de las siguientes afirmaciones es correcta?:",
+    "answers": {
+      "A": "El síncope es un trastorno frecuente que afecta hasta un 3% de la población.",
+      "B": "Las causas del síncope las podemos agrupar en tres grandes grupos.",
+      "C": "Las hipoglucemias son de causa cardiaca.",
+      "D": "Cuando la causa de un síncope es banal, el cuadro reviste gravedad."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 330,
+    "question": "Los primeros auxilios ante una convulsión de probable origen epiléptico consistirán en:",
+    "answers": {
+      "A": "Tratar de sujetar a la víctima durante los espasmos musculares.",
+      "B": "Despejar el entorno de cualquier objeto que pueda herir a la víctima.",
+      "C": "Apretar la ropa.",
+      "D": "Colocar un objeto rígido a modo de almohadilla debajo de la cabeza."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 331,
+    "question": "Respecto a la obstrucción de las vías aéreas:",
+    "answers": {
+      "A": "El atragantamiento solo se da cuando existe una obstrucción completa de las vías aéreas.",
+      "B": "Toser complica la obstrucción.",
+      "C": "Deberemos dar palmadas suaves en la espalda.",
+      "D": "Con excesiva frecuencia conocemos el fallecimiento de una persona a consecuencia de un atragantamiento."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 332,
+    "question": "¿Cuál de las siguientes afirmaciones es correcta?:",
+    "answers": {
+      "A": "La maniobra de Heimlich la utilizaremos ante una obstrucción completa de las vías aéreas.",
+      "B": "Hablar mientras comemos previene el atragantamiento.",
+      "C": "La causa más frecuente de atragantamiento en niños y niñas es la comida.",
+      "D": "Nuestra tos no es eficaz para desalojar los cuerpos extraños que se alojan en el árbol respiratorio."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 333,
+    "question": "El tratamiento general ante una intoxicación aguda comprende:",
+    "answers": {
+      "A": "Tratamiento asintomático.",
+      "B": "Evitar que el tóxico continúe absorbiéndose y facilitar su eliminación.",
+      "C": "Administración de agua.",
+      "D": "Traslado de la persona intoxicada a su domicilio."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 334,
+    "question": "¿Cuál de las siguientes afirmaciones es correcta?:",
+    "answers": {
+      "A": "El método más eficaz para tratar una apnea o insuficiencia respiratoria es la ventilación mecánica.",
+      "B": "Ante una alteración ocular se lavará abundantemente con agua tibia o solución fisiológica, con los párpados bien abiertos y durante al menos 30 minutos.",
+      "C": "a) y b) son correctas.",
+      "D": "a) y b) son incorrectas."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 335,
+    "question": "¿Qué hacer ante una herida leve?:",
+    "answers": {
+      "A": "Antes de actuar nos lavaremos profusamente las manos.",
+      "B": "Limpiaremos la herida con agua y jabón; del centro de la herida hacia los bordes.",
+      "C": "Utilizaremos como antiséptico la povidona yodada (betadine).",
+      "D": "Todas son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 336,
+    "question": "¿Qué hacer ante una herida grave?:",
+    "answers": {
+      "A": "Gritar.",
+      "B": "Frenar la hemorragia, si la hubiera.",
+      "C": "Utilizar pomada.",
+      "D": "Tumbar a la persona decúbito supino."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 337,
+    "question": "La actuación ante una herida en el tórax será:",
+    "answers": {
+      "A": "Extraer el objeto enclavado si lo hubiera.",
+      "B": "Trasladar a la persona herida acostada del lado lesionado.",
+      "C": "Taparle los ojos.",
+      "D": "Todas son correctas."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 338,
+    "question": "La actuación ante una herida en el abdomen será:",
+    "answers": {
+      "A": "Introducir las vísceras, en caso de que estén fuera.",
+      "B": "Sacar cualquier cuerpo extraño que pudiera haber.",
+      "C": "Tapar la herida y trasladar a la víctima, semisentada o en posición lateral de seguridad y las piernas flexionadas.",
+      "D": "Darle al herido agua de beber."
+    },
+    "correct": "C"
+  }
+]

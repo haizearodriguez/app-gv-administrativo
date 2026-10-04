@@ -1,0 +1,167 @@
+[
+  {
+    "id": 208,
+    "question": "La Ley 31/1995, de 8 de noviembre, de prevención de riesgos laborales, da cumpli-miento a:",
+    "answers": {
+      "A": "Al mandato constitucional contenido en el artículo 41 de la Constitución, dentro de los principios rectores de la política social y económica.",
+      "B": "Al mandato constitucional contenido en el artículo 42 de la Constitución, dentro de los derechos fundamentales.",
+      "C": "Al mandato constitucional contenido en el artículo 40 de la Constitución, dentro de los principios rectores de la política social y económica.",
+      "D": "Al mandato constitucional contenido en el artículo 40 de la Constitución, dentro de los derechos fundamentales."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 209,
+    "question": "La Ley 31/1995, de 8 de noviembre, de prevención de riesgos laborales, es la norma bá-sica sobre la que se asienta en nuestro ordenamiento jurídico la protección de la seguri-dad y salud de los y las trabajadoras, y:",
+    "answers": {
+      "A": "Su regulación tiene vocación continuista con la legislación anterior a su entrada en vi-gor.",
+      "B": "Tiene una vocación de innovación pues actualiza regulaciones desfasadas y situaciones nuevas no contempladas con anterioridad.",
+      "C": "Es una norma que supone el nivel máximo de protección, no pudiendo ser desarrollada, ni mejorada en los convenios colectivos.",
+      "D": "Establece una regulación tan limitada que hace necesario mantener la dispersión nor-mativa existente antes de 1995."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 210,
+    "question": "El Capítulo III de la Ley 31/1995, de 8 de noviembre, de prevención de riesgos laborales, recoge el derecho de consulta y participación de las personas empleadas en el ámbito de la protección de su seguridad y salud:",
+    "answers": {
+      "A": "No, el Capítulo III recoge los derechos y obligaciones de las empresas/administraciones y su personal en el ámbito de la prevención de riesgos laborales.",
+      "B": "El derecho de consulta y participación se recoge en el Capítulo II de la Ley 31/1995.",
+      "C": "El Capítulo III determina la regulación básica de los servicios de prevención.",
+      "D": "La Ley 31/1995 solo se compone de dos capítulos, relativos a la política preventiva y a las responsabilidades de fabricantes, importadores y suministradores."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 211,
+    "question": "El contenido de la Ley 31/1995, de 8 de noviembre, de prevención de riesgos laborales, no es aplicable a:",
+    "answers": {
+      "A": "Las relaciones laborales reguladas en el Estatuto de los Trabajadores.",
+      "B": "Las relaciones laborales de carácter administrativo o estatutario del personal al servicio de las Administraciones Públicas.",
+      "C": "A la relación laboral de carácter especial del servicio del hogar familiar.",
+      "D": "A las sociedades cooperativas en las que existan socios cuya actividad consista en la prestación de un trabajo personal."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 212,
+    "question": "La Ley de Prevención de Riesgos Laborales tiene el carácter de legislación laboral y ade-más es una norma básica del régimen estatutario de los funcionarios públicos.",
+    "answers": {
+      "A": "No tiene carácter estatutario porque se aplica exclusivamente a las actividades de las fuerzas armadas y a las actividades militares de la guardia civil.",
+      "B": "Solo se aplica a las relaciones laborales reguladas por el Estatuto de los Trabajadores.",
+      "C": "Se aplica exclusivamente al personal funcionario de las administraciones públicas, sea cual sea su actividad.",
+      "D": "Se aplica a las relaciones laborales reguladas en el Estatuto de los Trabajadores y a los funcionarios públicos."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 213,
+    "question": "Las medidas preventivas implantadas por una empresa o administración deben prever las distracciones o imprudencias no temerarias que pudiera cometer la persona empleada.",
+    "answers": {
+      "A": "En ningún caso incluye las distracciones o imprudencias sean de la clase que sean.",
+      "B": "Incluye también las distracciones o imprudencias temerarias.",
+      "C": "La afirmación es correcta.",
+      "D": "En la prevención nunca se tienen en cuenta las distracciones, aunque sí las impruden-cias."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 214,
+    "question": "La prevención debe integrarse en el sistema de gestión de la empresa, para ello es funda-mental:",
+    "answers": {
+      "A": "Establecer protocolos de vigilancia de la salud.",
+      "B": "Disponer de un servicio médico de empresa a jornada completa.",
+      "C": "Disponer de un comité de empresa.",
+      "D": "Implantar un adecuado plan de prevención en la organización."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 215,
+    "question": "¿Cuáles son los instrumentos esenciales para la gestión y aplicación de un plan de pre-vención de riesgos laborales en una empresa o administración?:",
+    "answers": {
+      "A": "La elección de un servicio de prevención propio o ajeno en función del número de per-sonas empleadas.",
+      "B": "La evaluación de los riesgos laborales derivados de la actividad y una adecuada planifi-cación preventiva.",
+      "C": "La elección de un servicio médico propio o ajeno en función del número de las perso-nas empleadas.",
+      "D": "La valoración del personal especialmente sensible."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 216,
+    "question": "¿Qué debe contener una adecuada planificación preventiva?:",
+    "answers": {
+      "A": "La estructura de la empresa y el organigrama de la misma.",
+      "B": "El listado de puestos de trabajo por áreas de actividad y sus riesgos.",
+      "C": "La descripción detallada del proceso productivo o de la actividad de la empresa/admi-nistración.",
+      "D": "Plazo de ejecución, designación de recursos humanos y materiales necesarios, así como las personas responsables de llevarla a cabo. Tema 11 51"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 217,
+    "question": "Los equipos de protección individual deben utilizarse:",
+    "answers": {
+      "A": "Con preferencia a las medidas de protección colectiva porque los medios de protección individual permiten una mayor protección del personal.",
+      "B": "Solo se aplicarán medidas de protección individuales, nunca colectivas porque estas úl-timas no son eficaces.",
+      "C": "Las medidas de protección colectiva solo se pueden utilizar después de accidente labo-ral.",
+      "D": "Se aplican medidas de protección colectiva con carácter preferente, y si no son efica-ces para la protección de la persona empleada se usan las medidas de protección indi-vidual."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 218,
+    "question": "Puede prolongarse la vigilancia periódica de la salud del personal de una empresa o ad-ministración más allá del fin de la relación laboral.",
+    "answers": {
+      "A": "En ningún caso, cuando finaliza la relación laboral finaliza la vigilancia de la salud porque no existe vínculo laboral entre la persona empleada y el empleador.",
+      "B": "Puede prolongarse más allá de la relación laboral cuando la persona empleada haya su-frido un accidente de trabajo incapacitante.",
+      "C": "En aquellos supuestos en que la naturaleza de los riesgos inherentes al trabajo lo haga necesario.",
+      "D": "En el caso de que la persona empleada se jubile más allá de los 65 años."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 219,
+    "question": "¿Existe alguna excepción al carácter voluntario de la vigilancia de la salud?:",
+    "answers": {
+      "A": "No, no existe ninguna excepción, la persona empleada pueda negarse a someterse a un reconocimiento médico en cualquier caso.",
+      "B": "Sí, cuando la persona empleada puede ser un peligro para ella o para las demás perso-nas presentes en el centro de trabajo.",
+      "C": "Si, cuando lo establezca una disposición legal en relación con la protección de riesgos específicos y actividades de especial peligrosidad.",
+      "D": "Las opciones b) y c) son correctas."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 220,
+    "question": "La empresa o administración correspondiente debe elaborar, conservar y poner a disposi-ción de la autoridad laboral una serie de documentos, entre ellos:",
+    "answers": {
+      "A": "Los partes de mantenimiento de todas las instalaciones del centro de trabajo de los cinco últimos años.",
+      "B": "El libro de inspecciones periódicas de los sistemas de climatización, en especial en pre-vención de la legionella.",
+      "C": "La práctica de los controles del estado de salud del personal, conforme a lo previsto en el artículo 22 de la Ley de Prevención de Riesgos Laborales.",
+      "D": "El listado de gastos derivados de la vigilancia de la salud del personal."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 221,
+    "question": "Si hay más de una empresa o administración presentes en un mismo centro de trabajo quien tiene la obligación de informar sobre las medidas de emergencia y extinción de in-cendios del lugar de trabajo es:",
+    "answers": {
+      "A": "La autoridad sanitaria del territorio en que radique el centro de trabajo principal de la empresa o administración correspondiente.",
+      "B": "El titular del centro de trabajo.",
+      "C": "La autoridad laboral de la provincia en que radique el centro de trabajo principal de la empresa o administración correspondiente.",
+      "D": "Los servicios de extinción de incendios y primeros auxilios del municipio en que se en-cuentre el centro de trabajo."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 222,
+    "question": "¿Tiene el personal de una empresa o administración alguna obligación de cumplir en el ámbito de la prevención de riesgos laborales para la protección de su seguridad y salud?:",
+    "answers": {
+      "A": "No, las obligaciones corresponden exclusivamente a la empresa/administración titular de la actividad.",
+      "B": "Si, cuando ha cometido alguna imprudencia que ha generado un accidente de trabajo.",
+      "C": "No, las obligaciones solo corresponden a la empresa/administración titular del centro de trabajo y a los y las delegadas de prevención.",
+      "D": "Si, las personas empleadas tienen que aplicar las medidas previstas por el empleador y colaborar en su control y mejora, pues de lo contrario habría un incumplimiento laboral. Tema 12 53 Tema 12"
+    },
+    "correct": "D"
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "id": 192,
+    "question": "Para que el tratamiento de datos personales sea lícito se deberá cumplir alguna de las si-guientes condiciones (indíquese la respuesta INCORRECTA):",
+    "answers": {
+      "A": "Que el interesado dé su consentimiento para uno o varios fines específicos.",
+      "B": "Que el tratamiento sea necesario para la ejecución de un contrato en el que el intere-sado es parte.",
+      "C": "Que la Administración pública responsable del tratamiento invoque un interés legítimo propio.",
+      "D": "Que el tratamiento sea necesario para proteger intereses vitales del interesado o de otra persona física."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 193,
+    "question": "El encargado del tratamiento de datos personales:",
+    "answers": {
+      "A": "Trata los datos por cuenta del responsable del tratamiento.",
+      "B": "Decide sobre los medios y fines del tratamiento.",
+      "C": "Puede acceder a los datos pero no puede tratarlos ni usarlos.",
+      "D": "Actúa en su propio nombre."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 194,
+    "question": "Se entiende por consentimiento de la persona afectada por el tratamiento de sus datos personales:",
+    "answers": {
+      "A": "Toda manifestación de voluntad libre, específica, informada e inequívoca por la que el afectado acepta, ya sea mediante una acción afirmativa o de manera tácita, el trata-miento de sus datos.",
+      "B": "Toda manifestación de voluntad libre, expresa y por escrito, por la que el afectado acepta, ya sea mediante una declaración o una clara acción afirmativa, el tratamiento de sus datos.",
+      "C": "Toda manifestación de voluntad libre, expresa y por escrito, por la que el afectado acepta mediante una clara acción afirmativa el tratamiento de sus datos.",
+      "D": "Toda manifestación de voluntad libre, específica, informada e inequívoca por la que el afectado acepta, ya sea mediante una declaración o una clara acción afirmativa, el trata-miento de sus datos."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 195,
+    "question": "El tratamiento de datos relativos a la salud de una persona:",
+    "answers": {
+      "A": "Está prohibido en todo caso.",
+      "B": "Se permite siempre que se acredite su no utilización con fines discriminatorios.",
+      "C": "Se permite cuando concurren razones de interés público en el ámbito de la salud pú-blica.",
+      "D": "Únicamente se permite si se cuenta con el consentimiento expreso del interesado."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 196,
+    "question": "Cuál de estas afirmaciones es INCORRECTA en relación con el tratamiento de los datos personales:",
+    "answers": {
+      "A": "Los datos serán recogidos con fines determinados, explícitos y legítimos.",
+      "B": "Los datos deben ser adecuados, pertinentes y limitados a lo necesario en relación con los fines para los que son tratados.",
+      "C": "Los datos deben ser, en todo caso, exactos y actualizados.",
+      "D": "Los datos personales serán tratados de manera lícita, leal y transparente en relación con el interesado."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 197,
+    "question": "El responsable del tratamiento de datos personales debe informar al interesado acerca del tratamiento en el momento en que se recojan sus datos:",
+    "answers": {
+      "A": "Siempre que así lo solicite la persona interesada.",
+      "B": "En todo caso, aunque no haya una petición por parte del interesado.",
+      "C": "Por escrito o de forma electrónica, nunca de manera verbal.",
+      "D": "De manera concisa, transparente, inteligible y de fácil acceso, siempre por escrito."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 198,
+    "question": "La protección que otorga la Ley Orgánica 3/2018 de Protección de datos personales y el Reglamento (UE) 2016/679 se refiere:",
+    "answers": {
+      "A": "A los datos de las personas físicas y jurídicas.",
+      "B": "Protege únicamente el tratamiento automatizado de los datos de las personas físicas.",
+      "C": "Se aplica también a los tratamientos de datos realizados en el curso de una actividad exclusivamente personal o doméstica.",
+      "D": "Se aplica a las personas físicas en relación al tratamiento, sea automatizado o no, de sus datos personales."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 199,
+    "question": "El interesado tiene derecho a obtener del responsable del tratamiento de sus datos perso-nales la supresión de aquellos que le conciernan (indíquese la respuesta INCORRECTA):",
+    "answers": {
+      "A": "Siempre que se oponga al tratamiento de sus datos.",
+      "B": "Cuando los datos ya no son necesarios en relación con los fines que motivaron su reco-gida.",
+      "C": "Cuando los datos deben suprimirse para cumplimiento de una obligación legal.",
+      "D": "Cuando los datos hayan sido tratados ilícitamente."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 200,
+    "question": "De acuerdo con el principio de limitación de la finalidad en el tratamiento de datos perso-nales:",
+    "answers": {
+      "A": "Únicamente podrán utilizarse los datos para los fines que motivaron su recogida, sin poderse utilizar para una finalidad distinta aunque medie consentimiento del titular o así lo autorice una ley.",
+      "B": "La finalidad del tratamiento de los datos podrá estar formulada de manera genérica o específica.",
+      "C": "No se permitirá el tratamiento ulterior con fines de archivo en interés público, fines de investigación científica e histórica o fines estadísticos por considerarse incompatibles con los fines iniciales.",
+      "D": "Los datos serán recogidos con fines determinados, explícitos y legítimos. Tema 10 47"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 201,
+    "question": "Con relación al tratamiento de datos personales y su libre circulación, el derecho a la por-tabilidad de dichos datos significa que:",
+    "answers": {
+      "A": "El interesado tiene derecho a obtener los datos anteriormente aportados por él y pasar-los a otro proveedor siempre que no se oponga el proveedor actual.",
+      "B": "El interesado puede pasar sus datos a otro proveedor pero no puede solicitar al pro-veedor actual que lo haga él directamente.",
+      "C": "El interesado tiene derecho a recibir los datos que le incumban en un formato estructu-rado, de uso común y lectura mecánica.",
+      "D": "Este derecho se aplica a tratamientos de datos que se efectúen por medios automati-zados y no automatizados."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 202,
+    "question": "De acuerdo con el Reglamento (UE) 2016/679, relativo a la protección de las personas físi-cas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos, la prohibición general de tratamiento de los datos genéticos y biométricos de una persona puede levantarse:",
+    "answers": {
+      "A": "Si se trata de datos que el interesado ha hecho manifiestamente públicos.",
+      "B": "No puede levantarse la prohibición en ningún caso pues estos datos merecen una pro-tección especial.",
+      "C": "Cuando el tratamiento es necesario por razones de un interés público esencial, siempre que medie consentimiento del interesado.",
+      "D": "Siempre que se acredite que no se pone en riesgo el derecho a la intimidad de las per-sonas."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 203,
+    "question": "De acuerdo con el Reglamento (UE) 2016/679, relativo a la protección de las personas físi-cas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos, dentro de las categorías especiales de datos personales se encuentran (indíquese la respuesta INCORRECTA):",
+    "answers": {
+      "A": "Los datos biométricos.",
+      "B": "Los datos relativos a la salud.",
+      "C": "Los datos relativos a condenas e infracciones penales.",
+      "D": "Los datos genéticos."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 204,
+    "question": "En relación con el consentimiento en materia de tratamiento de datos personales, puede afirmarse que:",
+    "answers": {
+      "A": "El responsable del tratamiento de datos debe ser capaz de acreditar que el interesado consintió, sea de forma activa o pasiva, el tratamiento de sus datos.",
+      "B": "El interesado no tiene derecho a retirar en cualquier momento el consentimiento pres-tado.",
+      "C": "Los menores de edad no pueden dar su consentimiento válidamente en ningún caso.",
+      "D": "El consentimiento debe consistir en una manifestación de voluntad inequívoca por la que interesado acepta, ya sea mediante una declaración o una clara acción afirmativa, el tratamiento de datos personales que le conciernen."
+    },
+    "correct": "D"
+  },
+  {
+    "id": 205,
+    "question": "El principio de minimización de datos de carácter personal implica que:",
+    "answers": {
+      "A": "No deben recogerse ni utilizarse más datos que los estrictamente necesarios para el cumplimiento de la función que el responsable del tratamiento tiene asignada.",
+      "B": "Deben suprimirse o rectificarse sin dilación los datos que sea inexactos, aunque sean mínimos.",
+      "C": "Los datos no deben conservarse más tiempo del estrictamente necesario.",
+      "D": "Los datos deben ser tratados de manera que se garantice un mínimo de seguridad ade-cuada de los mismos."
+    },
+    "correct": "A"
+  },
+  {
+    "id": 206,
+    "question": "El Reglamento (UE) 2016/679, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos, regula el tratamiento de categorías especiales de datos personales. Con arreglo a esta regula-ción se puede decir que:",
+    "answers": {
+      "A": "Existe una prohibición general y absoluta, sin excepciones, de tratar datos personales que revelen el origen étnico o racial, las opiniones políticas, las convicciones religiosas o filosóficas, o la afiliación sindical, y el tratamiento de datos genéticos, datos biomé-tricos dirigidos a identificar de manera unívoca a una persona física, datos relativos a la salud o datos relativos a la vida sexual o a las orientaciones sexuales de una persona fí-sica.",
+      "B": "Existe una prohibición general de tratar las categorías especiales de datos, pero existen supuestos en los que está permitido el tratamiento de los mismos siempre que exista consentimiento del interesado.",
+      "C": "Existe una prohibición general de tratar las categorías especiales de datos, pero exis-ten supuestos en los que está permitido el tratamiento de los mismos; por ejemplo, cuando concurran razones de interés público en el ámbito de la salud pública.",
+      "D": "Existe una prohibición general de tratar las categorías especiales de datos, pero los da-tos genéticos y biométricos no están incluidos entre esas categorías."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 207,
+    "question": "El contenido esencial del derecho a la protección de datos se manifiesta en una serie de derechos del interesado, entre los que NO se encuentra:",
+    "answers": {
+      "A": "El derecho a ser informado por el responsable acerca del tratamiento de datos en el momento en que se recojan sus datos personales.",
+      "B": "El derecho a solicitar y obtener gratuitamente del responsable la confirmación de si se están tratando datos relativos a su persona o no.",
+      "C": "El derecho a la supresión, en todo momento, de cualquier dato personal que le con-cierne, si considera que el tratamiento le afecta negativamente.",
+      "D": "El derecho a que se rectifiquen los datos que resulten ser inexactos o incompletos. Tema 11 49 Tema 11"
+    },
+    "correct": "C"
+  }
+]

@@ -1,0 +1,794 @@
+[
+  {
+    "id": 1,
+    "question": "Los primeros auxilios se definen como:",
+    "answers": {
+      "A": "Un procedimiento judicial de investigación de accidentes",
+      "B": "Exclusivamente la administración de medicamentos",
+      "C": "El conjunto de medidas asistenciales que se adoptan inicialmente con una persona accidentada o enferma en el lugar de los hechos, hasta la llegada de los servicios sanitarios",
+      "D": "Un tratamiento médico definitivo que sustituye la atención hospitalaria"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 2,
+    "question": "El objetivo principal de los primeros auxilios es:",
+    "answers": {
+      "A": "Sustituir completamente la intervención de los servicios sanitarios",
+      "B": "Trasladar al accidentado sin ninguna valoración previa",
+      "C": "Mantener a la persona accidentada con vida y evitar agravar las lesiones que presenta",
+      "D": "Determinar las causas legales del accidente"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 3,
+    "question": "La regla básica de actuación ante un accidente, conocida por sus siglas, es la regla:",
+    "answers": {
+      "A": "S.O.S. sin ningún otro contenido",
+      "B": "R.C.P. exclusivamente",
+      "C": "A.B.C. de la legislación civil",
+      "D": "P.A.S. (Proteger, Avisar, Socorrer)"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 4,
+    "question": "La «P» de la regla P.A.S. significa:",
+    "answers": {
+      "A": "Paralizar inmediatamente cualquier intento de ayuda",
+      "B": "Prohibir el acceso de los servicios sanitarios",
+      "C": "Proteger el lugar de los hechos, asegurándose de que tanto el accidentado como el socorrista estén fuera de peligro",
+      "D": "Publicar el accidente en redes sociales"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 5,
+    "question": "La «A» de la regla P.A.S. significa:",
+    "answers": {
+      "A": "Anotar los datos personales del accidentado antes de actuar",
+      "B": "Abandonar el lugar de los hechos inmediatamente",
+      "C": "Aplicar medicamentos sin valoración médica",
+      "D": "Avisar en cuanto sea posible a los servicios sanitarios y activar el Sistema de Emergencia"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 6,
+    "question": "La «S» de la regla P.A.S. significa:",
+    "answers": {
+      "A": "Sancionar al responsable del accidente",
+      "B": "Suspender cualquier intento de reanimación",
+      "C": "Socorrer siguiendo un orden de prioridades y reconociendo los signos vitales: consciencia, respiración y pulso",
+      "D": "Sustituir al personal sanitario de forma definitiva"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 7,
+    "question": "El orden correcto para reconocer los signos vitales de una persona accidentada, según la regla P.A.S., es:",
+    "answers": {
+      "A": "Solo se valora la respiración, obviando el resto",
+      "B": "Consciencia, respiración y pulso, siempre por este orden",
+      "C": "Pulso, respiración y consciencia, en cualquier orden",
+      "D": "Exclusivamente la temperatura corporal"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 8,
+    "question": "Ante la presencia de «mirones» en el lugar de un accidente, una actuación recomendada es:",
+    "answers": {
+      "A": "Apartarlos del lugar pidiendo su implicación, por ejemplo para avisar a la ambulancia o formar un cordón de seguridad",
+      "B": "Permitir que manipulen directamente al accidentado sin ninguna formación",
+      "C": "Ignorarlos completamente sin solicitar su colaboración",
+      "D": "Pedirles que impidan la actuación de los servicios sanitarios"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 9,
+    "question": "La valoración primaria de las lesiones de un accidentado consiste en:",
+    "answers": {
+      "A": "Determinar el grupo sanguíneo del accidentado",
+      "B": "Realizar un historial clínico completo del paciente",
+      "C": "Identificar las situaciones que puedan suponer una amenaza inmediata para la vida, observando consciencia, respiración, circulación y hemorragias graves",
+      "D": "Esperar la llegada de un forense antes de actuar"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 10,
+    "question": "La valoración secundaria de un accidentado se realiza:",
+    "answers": {
+      "A": "Antes de comprobar si el accidentado respira",
+      "B": "Sin ningún orden de exploración concreto",
+      "C": "Una vez comprobado que la vida de la víctima no está en peligro, explorándola ordenadamente de la cabeza a los pies",
+      "D": "Exclusivamente por personal judicial"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 11,
+    "question": "Durante la valoración secundaria, la presencia de hemorragia en nariz u oídos tras un traumatismo craneal puede ser signo de:",
+    "answers": {
+      "A": "Una simple alergia estacional",
+      "B": "Fractura de cráneo",
+      "C": "Una reacción cutánea sin importancia",
+      "D": "Deshidratación leve"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 12,
+    "question": "Un intervalo de cuánto tiempo sin recibir oxígeno daña de forma irreversible las células, según se indica en materia de reanimación cardio-pulmonar:",
+    "answers": {
+      "A": "24 horas",
+      "B": "Una semana",
+      "C": "De 3 a 5 minutos",
+      "D": "Un segundo exclusivamente"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 13,
+    "question": "Para comprobar la respiración de una persona accidentada inconsciente, se recomienda:",
+    "answers": {
+      "A": "Sacudirla con fuerza repetidamente",
+      "B": "Dejar a la víctima boca abajo sin manipular la cabeza",
+      "C": "Esperar sin tocar a la víctima hasta la llegada de la ambulancia",
+      "D": "Hiperextender la cabeza, empujando la frente hacia abajo y separando la barbilla hacia abajo y adelante, y acercar la cara a la boca y nariz de la víctima"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 14,
+    "question": "La respiración artificial, para ser efectiva, debe ser:",
+    "answers": {
+      "A": "Inmediata, continuada sin interrupciones y prolongada hasta la total recuperación",
+      "B": "Exclusivamente supervisada por un médico presente en el lugar",
+      "C": "Aplicada solo una vez, independientemente del resultado",
+      "D": "Interrumpida cada cinco minutos para descansar"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 15,
+    "question": "El método de respiración artificial más habitual es el denominado:",
+    "answers": {
+      "A": "Boca-boca",
+      "B": "Mano-boca",
+      "C": "Boca-oído",
+      "D": "Nariz-nariz"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 16,
+    "question": "Tras conseguir que el aire penetre en los pulmones y comprobado que la víctima tiene pulso, se deben realizar insuflaciones a un ritmo de:",
+    "answers": {
+      "A": "1 cada hora",
+      "B": "12 a 16 por minuto",
+      "C": "Ninguna insuflación adicional es necesaria",
+      "D": "100 por minuto"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 17,
+    "question": "La maniobra boca-nariz para la respiración artificial se emplea excepcionalmente cuando:",
+    "answers": {
+      "A": "El socorrista prefiere este método por comodidad personal",
+      "B": "Siempre, siendo el método estándar recomendado",
+      "C": "Nunca está indicada esta maniobra en ningún caso",
+      "D": "La persona accidentada tiene un golpe en la boca o la causa ha sido un envenenamiento"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 18,
+    "question": "Para comprobar la circulación de la persona accidentada se toma el pulso en:",
+    "answers": {
+      "A": "La arteria aorta abdominal, directamente",
+      "B": "El dedo meñique de la mano",
+      "C": "La arteria carótida, en el cuello",
+      "D": "El lóbulo de la oreja"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 19,
+    "question": "El masaje cardiaco se realiza colocando al paciente:",
+    "answers": {
+      "A": "De pie, apoyado contra una pared",
+      "B": "Boca abajo sobre una superficie blanda",
+      "C": "Boca arriba (decúbito supino) sobre una superficie plana y dura",
+      "D": "Sentado en una silla"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 20,
+    "question": "Durante el masaje cardiaco, la compresión debe conseguir que el tórax descienda:",
+    "answers": {
+      "A": "No debe producirse ningún descenso del tórax",
+      "B": "20 centímetros, a un ritmo de 10 veces por minuto",
+      "C": "4 o 5 centímetros, a un ritmo de 80 a 100 veces por minuto",
+      "D": "1 milímetro, sin ningún ritmo determinado"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 21,
+    "question": "Si el reanimador está solo, la secuencia de reanimación cardio-pulmonar recomendada es:",
+    "answers": {
+      "A": "Únicamente insuflaciones, sin compresiones torácicas",
+      "B": "5 compresiones seguidas de 30 insuflaciones",
+      "C": "Únicamente compresiones, sin insuflaciones en ningún caso",
+      "D": "30 compresiones cardiacas seguidas de 2 insuflaciones de aire boca-boca"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 22,
+    "question": "Si son dos los socorristas entrenados los que realizan la reanimación cardio-pulmonar, la secuencia recomendada es:",
+    "answers": {
+      "A": "50 compresiones por ninguna insuflación",
+      "B": "1 compresión por 50 insuflaciones",
+      "C": "15 compresiones por 2 insuflaciones",
+      "D": "No se recomienda la actuación conjunta de dos socorristas"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 23,
+    "question": "Las maniobras de reanimación cardio-pulmonar deben interrumpirse, entre otras circunstancias, cuando:",
+    "answers": {
+      "A": "El socorrista se canse ligeramente",
+      "B": "Lo solicite cualquier persona presente en el lugar sin cualificación sanitaria",
+      "C": "La víctima se haya recuperado o se haya hecho cargo de ella un equipo o persona cualificada",
+      "D": "Transcurra exactamente un minuto desde su inicio, independientemente del estado de la víctima"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 24,
+    "question": "Una vez recuperada la persona accidentada tras la reanimación, se recomienda colocarla en:",
+    "answers": {
+      "A": "De pie inmediatamente",
+      "B": "Posición boca abajo completamente estirada",
+      "C": "Sentada con las piernas cruzadas",
+      "D": "La posición lateral de seguridad (P.L.S.)"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 25,
+    "question": "Se sospechará la existencia de una hemorragia interna, entre otros síntomas, cuando la víctima presente:",
+    "answers": {
+      "A": "Coloración rosada intensa y pulso lento y fuerte",
+      "B": "Ausencia total de cualquier síntoma visible",
+      "C": "Palidez, sudoración fría, extrema debilidad y pulso rápido y débil",
+      "D": "Exclusivamente fiebre alta sin otros signos"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 26,
+    "question": "Cuando el vaso lesionado en una hemorragia es una arteria, la sangre sale:",
+    "answers": {
+      "A": "De forma tan escasa que resulta imperceptible",
+      "B": "De forma continua y lenta, sin relación con el pulso",
+      "C": "A gran velocidad, de forma intermitente, a borbotones que coinciden con los latidos del corazón",
+      "D": "Únicamente de color amarillento"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 27,
+    "question": "Ante una hemorragia externa, la primera medida de compresión recomendada es:",
+    "answers": {
+      "A": "Ignorar la hemorragia hasta la llegada de la ambulancia",
+      "B": "La aplicación inmediata de un torniquete, en todos los casos",
+      "C": "La amputación preventiva del miembro afectado",
+      "D": "La compresión directa sobre la parte que sangra, utilizando preferentemente gasas estériles"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 28,
+    "question": "Si tras la primera compresión sobre una herida sangrante la hemorragia no cede, se recomienda:",
+    "answers": {
+      "A": "Aplicar hielo directamente sobre la herida abierta",
+      "B": "Aumentar el ritmo cardiaco de la víctima mediante ejercicio físico",
+      "C": "Retirar inmediatamente todos los apósitos para limpiar la herida a fondo",
+      "D": "Poner nuevos apósitos sin retirar los anteriores, sujetándolos con una venda que aumente la presión"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 29,
+    "question": "El torniquete, como método de contención de una hemorragia, se considera:",
+    "answers": {
+      "A": "Un procedimiento sin ningún riesgo asociado",
+      "B": "Un método que debe mantenerse de forma indefinida sin ningún control",
+      "C": "El método de primera elección ante cualquier hemorragia, por leve que sea",
+      "D": "Un método excepcional y extremo, solo justificado cuando los métodos anteriores han sido ineficaces y el traslado se va a demorar"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 30,
+    "question": "Una vez colocado un torniquete, su retirada corresponde:",
+    "answers": {
+      "A": "Al personal sanitario especializado, nunca al socorrista, para evitar el riesgo de shock",
+      "B": "Nunca debe retirarse, debiendo mantenerse de por vida",
+      "C": "Al propio accidentado, en cuanto se sienta mejor",
+      "D": "A cualquier persona presente, sin ninguna cualificación especial"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 31,
+    "question": "Ante una persona en riesgo de entrar en estado de shock, se recomienda:",
+    "answers": {
+      "A": "Aplicarle agua fría directamente sobre la cabeza",
+      "B": "Darle abundante agua y comida inmediatamente",
+      "C": "Mantenerla de pie en todo momento",
+      "D": "Colocarla en el suelo, elevar las piernas si no le duele, evitar que pierda calor y no darle nada de comer ni beber"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 32,
+    "question": "Las quemaduras de primer grado afectan:",
+    "answers": {
+      "A": "Exclusivamente al tejido óseo",
+      "B": "Nunca producen ningún síntoma visible",
+      "C": "Solamente la capa superficial de la piel, la epidermis, produciendo un enrojecimiento denominado eritema",
+      "D": "A todas las capas de la piel, produciendo una escara"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 33,
+    "question": "Las quemaduras de segundo grado se caracterizan por:",
+    "answers": {
+      "A": "Ser siempre de carácter leve y sin ninguna repercusión",
+      "B": "Destruir la epidermis y un espesor variable de la dermis, formando ampollas llamadas flictenas, siendo dolorosas",
+      "C": "No producir ningún tipo de ampolla ni dolor",
+      "D": "Afectar únicamente al cabello"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 34,
+    "question": "Las quemaduras de tercer grado se caracterizan, entre otros aspectos, por:",
+    "answers": {
+      "A": "Afectar exclusivamente a la ropa, nunca a la piel",
+      "B": "Tener un aspecto seco, chamuscado y blanquecino (escara), sin dolor debido a la destrucción de las terminaciones nerviosas",
+      "C": "Ser siempre las menos graves de todas las quemaduras",
+      "D": "Producir un dolor extremadamente intenso y constante"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 35,
+    "question": "La «Regla del 9» de Wallace se utiliza para:",
+    "answers": {
+      "A": "Calcular la extensión de la superficie corporal quemada",
+      "B": "Medir la temperatura corporal del paciente",
+      "C": "Calcular la cantidad de medicación necesaria",
+      "D": "Determinar la edad del paciente quemado"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 36,
+    "question": "Según la Regla del 9, cada extremidad superior equivale, aproximadamente, a:",
+    "answers": {
+      "A": "El 1 % de la superficie corporal",
+      "B": "El 9 % de la superficie corporal",
+      "C": "El 90 % de la superficie corporal",
+      "D": "El 50 % de la superficie corporal"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 37,
+    "question": "Una quemadura se considera leve cuando la superficie quemada es inferior al 10 % y su profundidad no rebasa:",
+    "answers": {
+      "A": "El segundo grado",
+      "B": "El cuarto grado",
+      "C": "Ningún grado en particular",
+      "D": "El primer grado en todo caso, siendo siempre grave a partir de él"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 38,
+    "question": "Se consideran graves, independientemente de su extensión o profundidad, las quemaduras que afectan a:",
+    "answers": {
+      "A": "Manos, pies, cara, ojos y genitales",
+      "B": "Ninguna localización concreta tiene mayor gravedad",
+      "C": "Exclusivamente la espalda",
+      "D": "Solo el cuero cabelludo"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 39,
+    "question": "Ante una quemadura, entre las líneas básicas de actuación se encuentra:",
+    "answers": {
+      "A": "Evacuar a la persona del foco térmico y refrescar la zona quemada aplicando agua en abundancia",
+      "B": "Romper inmediatamente las ampollas formadas",
+      "C": "Dar de comer y beber a la víctima de forma inmediata",
+      "D": "Aplicar pomadas y pasta dentífrica directamente sobre la quemadura"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 40,
+    "question": "Ante una quemadura, entre las actuaciones que NO se deben realizar se encuentra:",
+    "answers": {
+      "A": "Refrescar la zona con agua",
+      "B": "Vigilar periódicamente los signos vitales",
+      "C": "Evacuar a la persona del foco térmico",
+      "D": "Despegar la ropa que esté pegada a la piel"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 41,
+    "question": "Si una persona está ardiendo en llamas, la actuación correcta es:",
+    "answers": {
+      "A": "Aplicarle alcohol sobre la piel",
+      "B": "Revolcarla por el suelo o sofocar el fuego con una manta, sin apagarlo con agua mientras siguen las llamas",
+      "C": "Dejarla correr para que las llamas se apaguen solas",
+      "D": "Arrojarle agua directamente sobre las llamas de forma inmediata"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 42,
+    "question": "Ante una quemadura química, se recomienda:",
+    "answers": {
+      "A": "Aplicar directamente el producto neutralizante sin diluir",
+      "B": "Cubrir la quemadura sin lavarla previamente",
+      "C": "Frotar enérgicamente la zona afectada",
+      "D": "Lavar generosamente la piel con agua en abundancia, duchando durante 20-30 minutos"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 43,
+    "question": "Ante una quemadura ocular de origen químico, se recomienda irrigar los ojos durante, al menos:",
+    "answers": {
+      "A": "No se recomienda ningún tipo de irrigación ocular",
+      "B": "20 minutos",
+      "C": "2 segundos",
+      "D": "Una semana completa sin interrupción"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 44,
+    "question": "Ante una quemadura eléctrica, la prioridad de actuación es:",
+    "answers": {
+      "A": "Ignorar la quemadura y atender solo otras lesiones",
+      "B": "Tocar inmediatamente a la víctima sin cortar la corriente",
+      "C": "Cortar la corriente eléctrica en condiciones seguras antes de tocar a la víctima",
+      "D": "Aplicar agua directamente sobre la fuente eléctrica"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 45,
+    "question": "Una fractura cerrada se caracteriza por:",
+    "answers": {
+      "A": "Que el hueso sobresale a través de la piel",
+      "B": "No producir ningún síntoma",
+      "C": "Que la piel y músculos que recubren el hueso fracturado están intactos",
+      "D": "Ser siempre más grave que una fractura abierta"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 46,
+    "question": "Entre los síntomas característicos de una fractura se encuentran:",
+    "answers": {
+      "A": "Fiebre alta exclusivamente",
+      "B": "Ausencia total de dolor en todos los casos",
+      "C": "Dolor intenso, impotencia funcional, hinchazón y deformidad de la zona, y crepitación",
+      "D": "Pérdida completa de visión"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 47,
+    "question": "La regla esencial ante una fractura es:",
+    "answers": {
+      "A": "Aplicar calor directo sobre la zona fracturada",
+      "B": "Intentar recolocar el hueso en su posición normal inmediatamente",
+      "C": "Inmovilizar la fractura en la misma posición en que se encuentra, sin intentar reducirla",
+      "D": "Mover la extremidad afectada repetidamente para comprobar el dolor"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 48,
+    "question": "Al inmovilizar una fractura de una extremidad, además de la zona fracturada se deben fijar:",
+    "answers": {
+      "A": "Exclusivamente la columna vertebral, independientemente de la localización",
+      "B": "Las articulaciones que están por encima y por debajo de la fractura",
+      "C": "Únicamente la articulación más alejada de la fractura",
+      "D": "Ninguna articulación adicional"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 49,
+    "question": "Entre los signos que pueden hacer sospechar una fractura de cráneo se encuentra:",
+    "answers": {
+      "A": "Sudoración excesiva en las manos",
+      "B": "Hemorragia nasal o por los oídos, o la emisión de líquido cefalorraquídeo",
+      "C": "Un simple enrojecimiento en la mejilla",
+      "D": "Aumento del apetito"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 50,
+    "question": "Ante la sospecha de una fractura de columna vertebral, una de las actuaciones fundamentales es:",
+    "answers": {
+      "A": "Sentar inmediatamente a la víctima para facilitar su respiración",
+      "B": "Nunca llevar a cabo actuaciones que supongan flexión de la espalda, evitando sentar a la víctima",
+      "C": "Pedirle que camine para comprobar si puede moverse",
+      "D": "Trasladarla cargándola sobre un único hombro"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 51,
+    "question": "El traslado de una persona con sospecha de lesión de columna vertebral debe realizarse:",
+    "answers": {
+      "A": "Exclusivamente en posición sentada",
+      "B": "Arrastrándola por el suelo sujeta por un único brazo",
+      "C": "De cualquier manera, sin ninguna precaución especial",
+      "D": "Manteniendo el eje cabeza-tronco-extremidades en línea recta, siendo necesarias normalmente tres personas"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 52,
+    "question": "El síncope se define como:",
+    "answers": {
+      "A": "Una pérdida de consciencia permanente e irreversible",
+      "B": "Un estado de euforia incontrolada",
+      "C": "La pérdida brusca y transitoria de la consciencia que se sigue de una recuperación espontánea en un breve espacio de tiempo",
+      "D": "Una enfermedad exclusivamente respiratoria"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 53,
+    "question": "Entre las causas de síncope de origen no cardíaco se encuentra:",
+    "answers": {
+      "A": "Las arritmias cardiacas exclusivamente",
+      "B": "Las valvulopatías exclusivamente",
+      "C": "El síncope vaso-vagal, que se produce, por ejemplo, al ver sangre",
+      "D": "La cardiopatía isquémica exclusivamente"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 54,
+    "question": "Ante una persona que ha perdido el conocimiento por un síncope, se recomienda:",
+    "answers": {
+      "A": "Darle inmediatamente de beber agua con azúcar por vía oral si está inconsciente",
+      "B": "Comprobar las funciones vitales y colocarla tumbada con las piernas algo elevadas",
+      "C": "Mantenerla de pie sujetándola entre varias personas",
+      "D": "Golpearla con fuerza para que recupere la consciencia"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 55,
+    "question": "Entre las medidas para prevenir el desmayo o lipotimia se recomienda:",
+    "answers": {
+      "A": "Permanecer siempre en ayuno prolongado",
+      "B": "Mantenerse en lugares cerrados sin ventilación",
+      "C": "Airear bien los lugares cerrados y no permanecer de pie mucho tiempo, especialmente con calor",
+      "D": "Levantarse bruscamente tras permanecer tumbado mucho tiempo"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 56,
+    "question": "Una convulsión, en el contexto de la epilepsia, se define como:",
+    "answers": {
+      "A": "Un estado permanente sin ninguna fase de recuperación",
+      "B": "Un evento súbito y de corta duración caracterizado por una excesiva y anormal actividad de las neuronas cerebrales",
+      "C": "Exclusivamente una reacción alérgica cutánea",
+      "D": "Un trastorno exclusivamente del aparato digestivo"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 57,
+    "question": "Ante una persona que sufre una convulsión de probable origen epiléptico, la actuación del socorrista debe orientarse a:",
+    "answers": {
+      "A": "Introducir un objeto en la boca para evitar que se muerda la lengua",
+      "B": "Procurar que la persona no se dañe durante el ataque, despejando el entorno de objetos peligrosos",
+      "C": "Abandonar el lugar hasta que termine el ataque",
+      "D": "Sujetar con fuerza a la víctima para impedir cualquier movimiento"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 58,
+    "question": "Tras una crisis epiléptica, si es la primera vez que la persona sufre un episodio de este tipo, se recomienda:",
+    "answers": {
+      "A": "Administrarle medicación sin supervisión médica",
+      "B": "No informar a nadie de lo ocurrido",
+      "C": "Prohibirle definitivamente cualquier actividad laboral",
+      "D": "Trasladarla a un centro médico tras tranquilizarla y explicarle lo sucedido"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 59,
+    "question": "En caso de obstrucción incompleta de las vías aéreas, el socorrista debe:",
+    "answers": {
+      "A": "Realizar inmediatamente la maniobra de Heimlich sin valorar la situación",
+      "B": "Provocarle el vómito de forma inmediata",
+      "C": "Animar a la persona a toser con fuerza, evitando dar palmadas en la espalda",
+      "D": "Introducir los dedos en la garganta para extraer el objeto a ciegas"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 60,
+    "question": "Ante una obstrucción completa de las vías aéreas en una persona consciente, la maniobra recomendada es:",
+    "answers": {
+      "A": "Ninguna maniobra, esperando a que se resuelva por sí sola",
+      "B": "La respiración boca-boca exclusivamente",
+      "C": "El masaje cardiaco exclusivamente, sin atender a la obstrucción",
+      "D": "La maniobra de Heimlich"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 61,
+    "question": "Si la persona con obstrucción completa de las vías aéreas pierde el conocimiento, el socorrista debe:",
+    "answers": {
+      "A": "Realizar exclusivamente compresiones torácicas sin atender a la vía aérea",
+      "B": "Dejarla en la posición en que se encuentre sin modificarla",
+      "C": "Levantarla en volandas y sacudirla con fuerza",
+      "D": "Colocarla en el suelo boca arriba y presionar con el talón de la mano sobre el abdomen, entre el ombligo y el esternón, hasta 5 veces"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 62,
+    "question": "Entre las medidas de prevención del atragantamiento se recomienda:",
+    "answers": {
+      "A": "Evitar provocar el eructo en los lactantes tras cada toma",
+      "B": "Trocear la comida en fragmentos pequeños y procurar no hablar mientras se come",
+      "C": "Comer rápidamente sin masticar adecuadamente",
+      "D": "Dejar al alcance de los niños pequeños objetos desmontables"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 63,
+    "question": "Los accidentes eléctricos por descargas de más de 10.000 voltios se consideran accidentes de:",
+    "answers": {
+      "A": "Tensión irrelevante sin riesgo",
+      "B": "Corriente continua exclusivamente doméstica",
+      "C": "Alta tensión",
+      "D": "Baja tensión en todo caso"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 64,
+    "question": "Ante un accidente eléctrico de baja tensión, la primera actuación recomendada es:",
+    "answers": {
+      "A": "Cortar la corriente en los interruptores de la sección o los generales",
+      "B": "Ignorar el accidente si la víctima parece consciente",
+      "C": "Aplicar agua sobre la zona de contacto eléctrico",
+      "D": "Tocar directamente a la víctima sin ninguna precaución"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 65,
+    "question": "El tratamiento general de una intoxicación aguda comprende, entre otros aspectos:",
+    "answers": {
+      "A": "Exclusivamente la administración de un antídoto sin valoración médica",
+      "B": "Tratamiento sintomático, evitar que el tóxico continúe absorbiéndose y traslado a un centro hospitalario",
+      "C": "La inducción sistemática del vómito en cualquier caso",
+      "D": "Ignorar la situación hasta que los síntomas desaparezcan por sí solos"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 66,
+    "question": "Ante alteraciones oculares por intoxicación química, se recomienda lavar los ojos con agua tibia o solución fisiológica durante al menos:",
+    "answers": {
+      "A": "No se recomienda ningún lavado ocular",
+      "B": "Una semana",
+      "C": "30 minutos",
+      "D": "2 segundos"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 67,
+    "question": "Ante una intoxicación por inhalación de gases en un espacio cerrado, la primera medida es:",
+    "answers": {
+      "A": "Aplicar compresas frías sin retirarla del lugar",
+      "B": "Separar a la víctima del ambiente tóxico, sacándola al aire libre o aireando el lugar",
+      "C": "Esperar a que los síntomas empeoren antes de actuar",
+      "D": "Permanecer junto a ella en el ambiente tóxico sin ventilar el espacio"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 68,
+    "question": "Las heridas punzantes, producidas por objetos como agujas o clavos, se caracterizan por:",
+    "answers": {
+      "A": "Presentar un orificio de entrada y ser de mayor profundidad que extensión, siendo propensas a infectarse",
+      "B": "No sangrar nunca",
+      "C": "Tener siempre bordes regulares y limpios",
+      "D": "Ser las menos propensas a infectarse de todos los tipos de heridas"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 69,
+    "question": "Ante una herida clasificada como leve, se recomienda:",
+    "answers": {
+      "A": "Dejarla al aire sin ninguna actuación",
+      "B": "Aplicar directamente alcohol puro sin lavar previamente la herida",
+      "C": "Lavarse las manos, limpiar la herida con agua y jabón del centro hacia los bordes, y aplicar un antiséptico como la povidona yodada",
+      "D": "Cubrir la herida sin limpiarla en ningún caso"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 70,
+    "question": "Ante una herida grave, se recomienda, entre otras medidas:",
+    "answers": {
+      "A": "Tranquilizar a la víctima, frenar la hemorragia si la hubiera y vigilar el riesgo de shock",
+      "B": "Intentar extraer siempre cualquier cuerpo extraño alojado en la herida",
+      "C": "Administrar alimentos sólidos de forma inmediata",
+      "D": "Aplicar pomadas y otras sustancias directamente sobre la herida"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 71,
+    "question": "Ante una herida en el abdomen con salida de vísceras al exterior, se recomienda:",
+    "answers": {
+      "A": "Dejar la herida completamente al descubierto sin cubrirla",
+      "B": "Introducir inmediatamente las vísceras de nuevo en el abdomen",
+      "C": "No intentar introducir las vísceras, cubrir la herida y trasladar a la víctima semisentada o en posición lateral de seguridad",
+      "D": "Dar de beber abundante líquido a la víctima"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 72,
+    "question": "Ante una herida ocular, entre las recomendaciones de actuación se encuentra:",
+    "answers": {
+      "A": "Lavar el ojo afectado con agua a presión directamente sobre la herida",
+      "B": "Frotar la zona afectada para aliviar el dolor",
+      "C": "No tocar ni manipular los ojos, tapando ambos para evitar los movimientos conjugados",
+      "D": "Intentar extraer cualquier cuerpo extraño alojado en el ojo"
+    },
+    "correct": "C"
+  }
+]

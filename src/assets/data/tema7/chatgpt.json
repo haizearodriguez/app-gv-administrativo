@@ -1,0 +1,904 @@
+[
+  {
+    "id": 1,
+    "question": "La Ley que regula con carácter general el acceso electrónico de la ciudadanía a los servicios públicos y el funcionamiento electrónico del sector público es:",
+    "answers": {
+      "A": "La Ley 19/2013",
+      "B": "La Ley 39/2015 y la Ley 40/2015",
+      "C": "La Ley 11/2007, de acceso electrónico de los ciudadanos a los servicios públicos",
+      "D": "La Ley Orgánica 3/2018"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 2,
+    "question": "La sede electrónica es:",
+    "answers": {
+      "A": "Un archivo electrónico único",
+      "B": "Un registro electrónico de apoderamientos",
+      "C": "Una dirección electrónica disponible para los ciudadanos a través de redes de telecomunicaciones cuya titularidad corresponde a una Administración Pública",
+      "D": "Un portal de datos abiertos"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 3,
+    "question": "¿Qué principio rige la sede electrónica en cuanto a su contenido y servicios?",
+    "answers": {
+      "A": "El principio de reserva de ley",
+      "B": "El principio de responsabilidad exclusiva del proveedor tecnológico",
+      "C": "El principio de publicidad oficial, de manera que la información y servicios que contiene se corresponden a los de la entidad titular",
+      "D": "El principio de confidencialidad absoluta"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 4,
+    "question": "El portal de internet se diferencia de la sede electrónica en que:",
+    "answers": {
+      "A": "El portal de internet requiere firma electrónica para acceder",
+      "B": "El portal de internet no tiene responsabilidad sobre la integridad de su contenido en el mismo grado que la sede electrónica",
+      "C": "El portal de internet solo puede alojar datos abiertos",
+      "D": "Son exactamente lo mismo"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 5,
+    "question": "Entre los sistemas de identificación de la ciudadanía ante las Administraciones Públicas se encuentran:",
+    "answers": {
+      "A": "Solo la identificación biométrica",
+      "B": "Sistemas basados en certificados electrónicos cualificados, sistemas de clave concertada y otros sistemas que las Administraciones consideren válidos",
+      "C": "Solo el DNI electrónico",
+      "D": "Únicamente la firma manuscrita escaneada"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 6,
+    "question": "La firma electrónica se define como:",
+    "answers": {
+      "A": "Un código de barras asociado a un expediente",
+      "B": "Un número de registro de entrada",
+      "C": "El conjunto de datos en forma electrónica consignados junto a otros o asociados con ellos que pueden ser utilizados como medio de identificación del firmante",
+      "D": "Un documento en papel digitalizado"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 7,
+    "question": "Según la normativa de firma electrónica, existen los siguientes tipos de firma electrónica:",
+    "answers": {
+      "A": "Solo la firma electrónica avanzada",
+      "B": "Solo la firma electrónica cualificada",
+      "C": "Firma electrónica pública y firma electrónica privada",
+      "D": "Firma electrónica simple, firma electrónica avanzada y firma electrónica cualificada"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 8,
+    "question": "La firma electrónica cualificada se caracteriza, entre otros aspectos, porque:",
+    "answers": {
+      "A": "Solo puede utilizarse en el ámbito privado",
+      "B": "No requiere certificado alguno",
+      "C": "Es equivalente a una firma escaneada",
+      "D": "Se basa en un certificado cualificado y se crea mediante un dispositivo cualificado de creación de firma"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 9,
+    "question": "El archivo electrónico de documentos tiene como finalidad principal:",
+    "answers": {
+      "A": "Conservar documentos electrónicos a lo largo de su ciclo de vida garantizando su autenticidad, integridad, confidencialidad, calidad, protección y conservación",
+      "B": "Servir exclusivamente como repositorio de datos abiertos",
+      "C": "Eliminar progresivamente el papel sin necesidad de garantías adicionales",
+      "D": "Sustituir al registro electrónico"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 10,
+    "question": "El expediente administrativo electrónico es:",
+    "answers": {
+      "A": "Un registro de entrada sin más contenido",
+      "B": "Un documento firmado únicamente por el interesado",
+      "C": "El conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución administrativa, así como las diligencias encaminadas a ejecutarla",
+      "D": "Un simple archivo PDF"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 11,
+    "question": "El formato de los expedientes electrónicos debe garantizar, entre otros requisitos:",
+    "answers": {
+      "A": "La interoperabilidad y posibilidad de transmisión entre aplicaciones y organismos",
+      "B": "Que no pueda indexarse",
+      "C": "Que se imprima obligatoriamente en papel",
+      "D": "Que solo pueda abrirse con un único programa propietario"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 12,
+    "question": "El derecho de la ciudadanía a relacionarse electrónicamente con las Administraciones Públicas se configura, con carácter general, como:",
+    "answers": {
+      "A": "Un derecho reconocido tanto a personas físicas como jurídicas, si bien determinados sujetos están obligados a relacionarse electrónicamente",
+      "B": "Una obligación para todas las personas físicas sin excepción",
+      "C": "Un derecho inexistente en la normativa vigente",
+      "D": "Un derecho que solo pueden ejercer las personas jurídicas"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 13,
+    "question": "¿Qué colectivos están obligados a relacionarse electrónicamente con las Administraciones Públicas según la Ley 39/2015?",
+    "answers": {
+      "A": "Las personas jurídicas, entidades sin personalidad jurídica, quienes ejerzan una actividad profesional colegiada y los empleados públicos para los trámites propios de su condición",
+      "B": "Nadie está obligado",
+      "C": "Únicamente los menores de edad",
+      "D": "Todos los ciudadanos sin excepción"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 14,
+    "question": "Entre los derechos de la ciudadanía en sus relaciones electrónicas con las Administraciones Públicas se encuentra:",
+    "answers": {
+      "A": "El derecho a no aportar documentos que ya obren en poder de las Administraciones Públicas",
+      "B": "El derecho a exigir que toda tramitación sea presencial",
+      "C": "El derecho a no comunicarse nunca por medios electrónicos",
+      "D": "El derecho a desconocer el estado de su expediente"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 15,
+    "question": "El derecho de la ciudadanía a no aportar datos y documentos que ya obren en poder de las Administraciones Públicas se fundamenta, entre otros principios, en:",
+    "answers": {
+      "A": "El principio de jerarquía normativa",
+      "B": "El principio de interoperabilidad entre Administraciones",
+      "C": "El principio de secretismo",
+      "D": "El principio de unidad de caja"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 16,
+    "question": "El Registro Electrónico General permite:",
+    "answers": {
+      "A": "La presentación de documentos todos los días del año durante las veinticuatro horas",
+      "B": "Únicamente la presentación de recursos",
+      "C": "Exclusivamente comunicaciones internas entre órganos",
+      "D": "La presentación de documentos solo en horario de oficina"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 17,
+    "question": "El cómputo de plazos en el Registro Electrónico se rige, entre otros, por el siguiente criterio:",
+    "answers": {
+      "A": "El registro electrónico nunca computa plazos",
+      "B": "Se tiene en cuenta la hora oficial correspondiente a la sede electrónica de acceso, y la presentación en un día inhábil se entiende realizada el primer día hábil siguiente",
+      "C": "El plazo se cuenta siempre desde el día de la resolución",
+      "D": "Los días inhábiles no existen en el ámbito electrónico"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 18,
+    "question": "La «copia auténtica» en el ámbito de la administración electrónica es:",
+    "answers": {
+      "A": "Un documento electrónico expedido y firmado por el funcionario habilitado al que se le dota de la misma validez y eficacia que al documento original",
+      "B": "Un borrador de trabajo",
+      "C": "Un documento sin firma electrónica",
+      "D": "Una fotocopia simple sin ningún valor probatorio"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 19,
+    "question": "Los sistemas de clave concertada, como medio de identificación electrónica, se caracterizan por:",
+    "answers": {
+      "A": "Permitir identificarse mediante un usuario y una contraseña previamente registrados ante la Administración",
+      "B": "Requerir siempre un certificado cualificado",
+      "C": "Ser exclusivos de los empleados públicos",
+      "D": "No estar admitidos en ninguna Administración"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 20,
+    "question": "El funcionamiento electrónico del sector público comprende, entre otros elementos regulados, lo relativo a:",
+    "answers": {
+      "A": "Únicamente la contratación pública",
+      "B": "Solo la gestión de personal",
+      "C": "La sede electrónica, el portal de internet, la identificación y firma electrónica y el archivo electrónico",
+      "D": "Exclusivamente la gestión presupuestaria"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 21,
+    "question": "La interoperabilidad en el ámbito de la administración electrónica se define como:",
+    "answers": {
+      "A": "Un sinónimo de confidencialidad",
+      "B": "La obligación de usar un único sistema operativo",
+      "C": "La imposibilidad de comunicación entre sistemas",
+      "D": "La capacidad de los sistemas de información para compartir datos y posibilitar el intercambio de información entre ellos"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 22,
+    "question": "El principio de neutralidad tecnológica en la administración electrónica implica:",
+    "answers": {
+      "A": "Que no puede existir ningún tipo de innovación tecnológica",
+      "B": "Que las Administraciones Públicas garantizarán la independencia en la elección de las alternativas tecnológicas por los ciudadanos",
+      "C": "Que todas las Administraciones deben usar el mismo software privativo",
+      "D": "Que la ciudadanía debe adquirir obligatoriamente un certificado de una marca concreta"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 23,
+    "question": "El Esquema Nacional de Seguridad (ENS) tiene por objeto:",
+    "answers": {
+      "A": "Regular exclusivamente la protección de datos personales",
+      "B": "Establecer la política de seguridad en la utilización de medios electrónicos y los principios y requisitos de una política de seguridad en el sector público",
+      "C": "Regular el régimen disciplinario de los empleados públicos",
+      "D": "Sustituir a la Ley de Protección de Datos"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 24,
+    "question": "El Esquema Nacional de Interoperabilidad (ENI) tiene por objeto:",
+    "answers": {
+      "A": "Fijar la jornada laboral",
+      "B": "Regular las retribuciones del personal",
+      "C": "Establecer el régimen de vacaciones",
+      "D": "Crear las condiciones necesarias para garantizar la interoperabilidad semántica y organizativa de los sistemas de información"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 25,
+    "question": "El expediente administrativo electrónico debe garantizar, entre otros, el principio de:",
+    "answers": {
+      "A": "Archivo exclusivamente físico",
+      "B": "Impresión obligatoria en papel timbrado",
+      "C": "Eliminación automática a los tres meses",
+      "D": "Foliado mediante un índice electrónico, firmado por la Administración, órgano o entidad actuante"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 26,
+    "question": "¿Qué se entiende por «notificación electrónica»?",
+    "answers": {
+      "A": "Un correo postal certificado",
+      "B": "Una llamada telefónica informativa",
+      "C": "La publicación en el Boletín Oficial exclusivamente",
+      "D": "La puesta a disposición del interesado de un documento a través de medios electrónicos para que tenga conocimiento de su contenido"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 27,
+    "question": "La práctica de las notificaciones a través de medios electrónicos se entenderá rechazada si:",
+    "answers": {
+      "A": "Nunca se considera rechazada",
+      "B": "Transcurren diez días naturales desde la puesta a disposición sin que se acceda a su contenido",
+      "C": "Transcurre un año sin acceder",
+      "D": "Transcurren tres días hábiles"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 28,
+    "question": "El Punto de Acceso General electrónico de la Administración funciona como:",
+    "answers": {
+      "A": "Un registro exclusivo de notificaciones judiciales",
+      "B": "Un archivo histórico sin servicios activos",
+      "C": "La puerta de entrada principal del ciudadano que le relaciona con los servicios, organismos e informaciones de las Administraciones Públicas",
+      "D": "Un simple buscador comercial"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 29,
+    "question": "El documento electrónico administrativo, para tener plena validez, debe reunir, entre otros requisitos:",
+    "answers": {
+      "A": "Estar necesariamente impreso",
+      "B": "No poder archivarse",
+      "C": "Carecer de metadatos",
+      "D": "Contener información de cualquier naturaleza archivada en un soporte electrónico, según un formato determinado y susceptible de identificación y tratamiento diferenciado"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 30,
+    "question": "¿Qué es un «certificado electrónico»?",
+    "answers": {
+      "A": "Una fotocopia compulsada",
+      "B": "Un recibo de pago",
+      "C": "Un documento firmado electrónicamente por un prestador de servicios de confianza que vincula unos datos de verificación de firma a un firmante y confirma su identidad",
+      "D": "Un simple formulario en papel"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 31,
+    "question": "Los prestadores de servicios de confianza cualificados son:",
+    "answers": {
+      "A": "Entidades bancarias exclusivamente",
+      "B": "Empresas de mensajería postal",
+      "C": "Organismos que únicamente gestionan nóminas",
+      "D": "Entidades reconocidas que emiten certificados cualificados conforme al Reglamento eIDAS"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 32,
+    "question": "El Reglamento (UE) n.º 910/2014, conocido como Reglamento eIDAS, regula:",
+    "answers": {
+      "A": "Exclusivamente la protección de datos personales",
+      "B": "El régimen de contratación pública",
+      "C": "La prevención de riesgos laborales",
+      "D": "La identificación electrónica y los servicios de confianza para las transacciones electrónicas en el mercado interior"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 33,
+    "question": "El principio de «simplificación administrativa» en el ámbito electrónico persigue:",
+    "answers": {
+      "A": "Incrementar los trámites presenciales obligatorios",
+      "B": "Aumentar la documentación exigida en cada procedimiento",
+      "C": "Reducir cargas administrativas y facilitar el acceso de la ciudadanía a los servicios públicos",
+      "D": "Eliminar toda posibilidad de interoperabilidad"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 34,
+    "question": "Entre las ventajas que la administración electrónica aporta a la ciudadanía se encuentran:",
+    "answers": {
+      "A": "La eliminación del derecho de acceso a la información",
+      "B": "La reducción de la transparencia",
+      "C": "La disponibilidad del servicio las 24 horas del día, todos los días del año",
+      "D": "La obligatoriedad de desplazarse siempre a las oficinas"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 35,
+    "question": "El registro electrónico de apoderamientos permite:",
+    "answers": {
+      "A": "Registrar exclusivamente bienes inmuebles",
+      "B": "Anotar sanciones administrativas",
+      "C": "Inscribir únicamente certificados médicos",
+      "D": "Inscribir los poderes otorgados por la ciudadanía a terceros para actuar en su nombre ante las Administraciones Públicas por medios electrónicos"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 36,
+    "question": "La sede electrónica debe cumplir, entre otros, el requisito de:",
+    "answers": {
+      "A": "Identificación mediante certificado de sede electrónica o sello electrónico de Administración Pública",
+      "B": "No necesitar ningún tipo de identificación",
+      "C": "Ser gestionada exclusivamente por empresas privadas sin control público",
+      "D": "Carecer de sistemas de accesibilidad"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 37,
+    "question": "La «huella digital» o «hash» de un documento electrónico sirve para:",
+    "answers": {
+      "A": "Garantizar la integridad del documento, detectando cualquier alteración posterior",
+      "B": "Imprimir el documento automáticamente",
+      "C": "Enviar el documento por correo postal",
+      "D": "Eliminar el documento del sistema"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 38,
+    "question": "El principio de accesibilidad en los portales y sedes electrónicas implica:",
+    "answers": {
+      "A": "Que no exista obligación alguna de adaptación",
+      "B": "Que se restrinja el acceso por motivos de edad",
+      "C": "Que solo puedan acceder los empleados públicos",
+      "D": "Que la información y servicios sean accesibles para personas con discapacidad y personas mayores"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 39,
+    "question": "Según la normativa, la sede electrónica debe indicar, entre otros extremos:",
+    "answers": {
+      "A": "La fecha y hora oficial a efectos de cómputo de plazos",
+      "B": "Únicamente el nombre del Jefe de Estado",
+      "C": "La agenda personal de cada funcionario",
+      "D": "El listado completo de empleados públicos"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 40,
+    "question": "El documento administrativo electrónico puede incorporarse a un expediente electrónico mediante:",
+    "answers": {
+      "A": "Un correo electrónico ordinario sin certificación",
+      "B": "Un índice electrónico firmado por la Administración que garantiza la integridad del expediente",
+      "C": "Un simple archivo adjunto sin firma",
+      "D": "Una fotocopia en papel"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 41,
+    "question": "Los servicios de «sellado de tiempo» (time-stamping) en el ámbito electrónico sirven para:",
+    "answers": {
+      "A": "Eliminar la trazabilidad del documento",
+      "B": "Imprimir el sello de la institución en papel",
+      "C": "Firmar manualmente el documento",
+      "D": "Acreditar la fecha y hora en que un documento electrónico existía con un contenido determinado"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 42,
+    "question": "Entre los principios generales de actuación de las Administraciones Públicas en el uso de medios electrónicos se encuentra el de:",
+    "answers": {
+      "A": "Opacidad total frente a la ciudadanía",
+      "B": "Imposición de una única plataforma privada obligatoria",
+      "C": "Supresión de toda garantía jurídica",
+      "D": "Proporcionalidad, exigiendo únicamente las garantías y medidas de seguridad adecuadas a la naturaleza y circunstancias de los distintos trámites"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 43,
+    "question": "El «carpeta ciudadana» o «mi carpeta» en los portales de administración electrónica permite:",
+    "answers": {
+      "A": "Eliminar expedientes sin autorización",
+      "B": "Sustituir al Boletín Oficial",
+      "C": "Consultar el estado de tramitación de los expedientes propios y acceder a notificaciones y documentos",
+      "D": "Modificar directamente la normativa aplicable"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 44,
+    "question": "La validez del certificado electrónico está sujeta, entre otros requisitos, a:",
+    "answers": {
+      "A": "Una validez indefinida sin posibilidad de revocación",
+      "B": "La ausencia de cualquier control",
+      "C": "La imposibilidad de ser revocado por el prestador",
+      "D": "Un período de vigencia determinado tras el cual debe renovarse"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 45,
+    "question": "El principio de «proporcionalidad» aplicado a la exigencia de firma electrónica supone que:",
+    "answers": {
+      "A": "Nunca se exigirá ningún tipo de identificación",
+      "B": "Se prohíbe el uso de certificados electrónicos",
+      "C": "Se exigirá siempre firma electrónica cualificada sin excepción",
+      "D": "Solo se exigirán las garantías y medios de autenticación adecuados a la naturaleza del trámite"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 46,
+    "question": "La digitalización de los procedimientos administrativos ha permitido, entre otras mejoras:",
+    "answers": {
+      "A": "La desaparición del derecho de acceso",
+      "B": "El incremento de la pérdida física de expedientes",
+      "C": "La eliminación de cualquier posibilidad de auditoría",
+      "D": "La reducción de errores por extravío de documentos y una mayor seguridad en las transacciones"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 47,
+    "question": "El concepto de «archivo electrónico único» hace referencia a:",
+    "answers": {
+      "A": "Un archivo donde se conservan los documentos electrónicos con todas sus garantías de autenticidad e integridad a lo largo de su ciclo de vida",
+      "B": "Un repositorio sin control de acceso",
+      "C": "Un único ordenador central sin copias de seguridad",
+      "D": "Un archivo que solo admite documentos en papel escaneado sin firma"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 48,
+    "question": "La «interoperabilidad semántica» hace referencia a:",
+    "answers": {
+      "A": "La velocidad de conexión a internet",
+      "B": "La capacidad de imprimir documentos",
+      "C": "Que la información intercambiada sea comprensible de manera unívoca y precisa por los sistemas",
+      "D": "El idioma oficial del Estado exclusivamente"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 49,
+    "question": "El funcionamiento del sector público por medios electrónicos exige, entre otros aspectos, garantizar:",
+    "answers": {
+      "A": "La imposibilidad de trazabilidad",
+      "B": "La seguridad, confidencialidad e integridad de la información",
+      "C": "La eliminación de cualquier control de acceso",
+      "D": "La ausencia total de identificación de los usuarios"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 50,
+    "question": "¿Qué entidad elabora y promueve los estándares técnicos en materia de administración electrónica en el ámbito estatal español?",
+    "answers": {
+      "A": "El Banco de España",
+      "B": "La Comisión Sectorial de Administración Electrónica, en el marco del Comité Sectorial de Administración Electrónica",
+      "C": "El Tribunal Constitucional",
+      "D": "El Consejo General del Poder Judicial"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 51,
+    "question": "Una de las finalidades esenciales de la administración electrónica es:",
+    "answers": {
+      "A": "Facilitar el ejercicio de derechos y el cumplimiento de obligaciones mediante un acceso sencillo, rápido y de calidad",
+      "B": "Restringir el acceso de la ciudadanía a la información",
+      "C": "Incrementar la burocracia presencial",
+      "D": "Reducir la transparencia de la gestión pública"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 52,
+    "question": "Respecto del expediente administrativo electrónico, la foliación se sustituye por:",
+    "answers": {
+      "A": "Un índice electrónico firmado que garantiza la integridad del expediente y permite su recuperación",
+      "B": "La numeración manual en papel",
+      "C": "Un sello de lacre",
+      "D": "La ausencia de cualquier tipo de ordenación"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 53,
+    "question": "El principio de «proximidad» en la administración electrónica hace referencia a:",
+    "answers": {
+      "A": "Acercar la gestión administrativa a la ciudadanía reduciendo la necesidad de desplazamientos",
+      "B": "Centralizar todos los trámites en una única ciudad",
+      "C": "Obligar a desplazarse siempre a la sede física",
+      "D": "Eliminar los canales telemáticos"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 54,
+    "question": "Los sistemas de identificación mediante clave concertada se utilizan especialmente para:",
+    "answers": {
+      "A": "Firmar escrituras públicas notariales",
+      "B": "Ninguno, no están permitidos legalmente",
+      "C": "Procedimientos judiciales de máxima seguridad exclusivamente",
+      "D": "Trámites de menor complejidad o riesgo donde no se requiere certificado electrónico cualificado"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 55,
+    "question": "El funcionamiento electrónico del sector público debe respetar, entre otras, las garantías de:",
+    "answers": {
+      "A": "Supresión de la confidencialidad",
+      "B": "Publicidad absoluta sin restricción de datos personales",
+      "C": "Protección de datos de carácter personal conforme al RGPD y la LOPDGDD",
+      "D": "Inexistencia de cualquier derecho de la ciudadanía"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 56,
+    "question": "El derecho de acceso electrónico de la ciudadanía a los servicios públicos tiene su antecedente en:",
+    "answers": {
+      "A": "La Constitución de 1812",
+      "B": "El Código Civil de 1889",
+      "C": "La Ley de Enjuiciamiento Civil",
+      "D": "La Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 57,
+    "question": "La Ley 39/2015 regula, entre otras materias, lo relativo a:",
+    "answers": {
+      "A": "Exclusivamente el régimen jurídico del sector público",
+      "B": "La organización territorial del Estado",
+      "C": "El régimen disciplinario de los jueces",
+      "D": "El procedimiento administrativo común y el funcionamiento electrónico de las Administraciones en su relación con la ciudadanía"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 58,
+    "question": "La Ley 40/2015 regula, entre otras materias, lo relativo a:",
+    "answers": {
+      "A": "La protección de datos personales",
+      "B": "El régimen jurídico del sector público y el funcionamiento electrónico de este en sus relaciones internas",
+      "C": "El régimen electoral general",
+      "D": "Exclusivamente el procedimiento administrativo común"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 59,
+    "question": "Un documento electrónico digitalizado a partir de un documento en papel por la Administración tiene la consideración de:",
+    "answers": {
+      "A": "Documento privado sin eficacia administrativa",
+      "B": "Documento sin ningún valor jurídico",
+      "C": "Copia auténtica si se realiza conforme a los requisitos exigidos por la normativa aplicable",
+      "D": "Borrador no válido"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 60,
+    "question": "La obligación de relacionarse electrónicamente con la Administración alcanza, entre otros, a:",
+    "answers": {
+      "A": "A nadie en ningún caso",
+      "B": "Únicamente a los menores de edad",
+      "C": "Exclusivamente a las personas físicas sin actividad profesional",
+      "D": "Los notarios y registradores de la propiedad y mercantiles"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 61,
+    "question": "Respecto a los medios de identificación electrónica, el DNI electrónico se considera:",
+    "answers": {
+      "A": "Un sistema ya derogado y sin uso",
+      "B": "Un documento exclusivamente en papel",
+      "C": "Un simple carné sin chip electrónico",
+      "D": "Un sistema de identificación basado en certificado electrónico reconocido o cualificado incorporado al documento nacional de identidad"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 62,
+    "question": "El principio de «accesibilidad universal» en los servicios electrónicos busca, entre otros objetivos:",
+    "answers": {
+      "A": "Eliminar los formatos accesibles",
+      "B": "Restringir el acceso únicamente a personas con titulación universitaria",
+      "C": "Prohibir el uso de lectores de pantalla",
+      "D": "Que las personas con discapacidad puedan acceder a la información y los servicios en condiciones de igualdad"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 63,
+    "question": "La «identificación electrónica» y la «firma electrónica» se diferencian, entre otros aspectos, en que:",
+    "answers": {
+      "A": "La identificación permite acreditar la identidad del interesado mientras que la firma, además, vincula al firmante con el contenido del documento y su voluntad de suscribirlo",
+      "B": "La identificación solo se usa en procedimientos judiciales",
+      "C": "La firma electrónica no tiene ningún valor jurídico",
+      "D": "Son términos idénticos sin ninguna diferencia"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 64,
+    "question": "El archivo electrónico único de la Administración debe permitir, entre otras funciones:",
+    "answers": {
+      "A": "Prohibir cualquier tipo de consulta posterior",
+      "B": "Carecer de medidas de seguridad",
+      "C": "Eliminar automáticamente todos los documentos tras su creación",
+      "D": "La conservación de los documentos electrónicos que correspondan a procedimientos finalizados"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 65,
+    "question": "En relación con los plazos administrativos, la presentación de solicitudes en el registro electrónico en un día inhábil se entiende efectuada:",
+    "answers": {
+      "A": "Nunca se admite presentación en día inhábil",
+      "B": "En el mismo instante, computando el día inhábil como hábil",
+      "C": "Transcurrido un mes desde la presentación",
+      "D": "En la primera hora del primer día hábil siguiente, salvo que una norma permita expresamente la recepción en día inhábil"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 66,
+    "question": "La «sede electrónica compartida» permite:",
+    "answers": {
+      "A": "Que únicamente pueda existir una sede electrónica por país",
+      "B": "Que se elimine el principio de responsabilidad",
+      "C": "Que varias Administraciones u organismos públicos compartan una misma sede, estableciéndose la responsabilidad de cada titular respecto de los contenidos",
+      "D": "Que ninguna Administración se responsabilice de los contenidos"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 67,
+    "question": "Entre los requisitos para la validez de las notificaciones electrónicas se encuentra:",
+    "answers": {
+      "A": "Que no exista constancia de la puesta a disposición",
+      "B": "Que el interesado tenga acceso a su contenido a través de la sede electrónica o la dirección electrónica habilitada única",
+      "C": "Que no sea necesario identificar al destinatario",
+      "D": "Que la notificación se realice únicamente por carta certificada"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 68,
+    "question": "El «tablón edictal único» tiene como finalidad:",
+    "answers": {
+      "A": "Eliminar la obligación de publicar notificaciones por edictos",
+      "B": "Sustituir al Boletín Oficial del Estado completamente para toda la normativa",
+      "C": "Servir únicamente para notificaciones judiciales penales",
+      "D": "Sustituir la publicación de anuncios y edictos en los distintos boletines oficiales mediante un único punto de acceso electrónico"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 69,
+    "question": "Los «servicios de confianza» regulados en el Reglamento eIDAS incluyen, entre otros:",
+    "answers": {
+      "A": "Únicamente el servicio postal tradicional",
+      "B": "La creación, verificación y validación de firmas y sellos electrónicos, y el sellado de tiempo electrónico",
+      "C": "La gestión de nóminas del personal",
+      "D": "La prevención de riesgos laborales"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 70,
+    "question": "El «sello electrónico» se diferencia de la «firma electrónica» en que:",
+    "answers": {
+      "A": "El sello electrónico identifica a una persona jurídica o entidad, mientras que la firma identifica a una persona física",
+      "B": "La firma electrónica solo la pueden usar personas jurídicas",
+      "C": "El sello electrónico solo lo pueden usar personas físicas",
+      "D": "Son exactamente lo mismo en todos los casos"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 71,
+    "question": "El principio de «cooperación» entre Administraciones Públicas en el ámbito de la administración electrónica implica, entre otros aspectos:",
+    "answers": {
+      "A": "Compartir infraestructuras y servicios comunes para evitar duplicidades",
+      "B": "La obligación de que cada Administración tenga su propio DNI electrónico",
+      "C": "La prohibición de cualquier intercambio de información",
+      "D": "Que cada Administración desarrolle sistemas incompatibles entre sí de forma deliberada"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 72,
+    "question": "Las plataformas de intermediación de datos permiten:",
+    "answers": {
+      "A": "Centralizar exclusivamente datos bancarios privados",
+      "B": "La consulta por una Administración de datos que obran en poder de otra sin necesidad de que el ciudadano los aporte",
+      "C": "Que el ciudadano deba aportar siempre todos los documentos en papel",
+      "D": "Eliminar cualquier posibilidad de interoperabilidad"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 73,
+    "question": "El régimen de validez y eficacia de las copias electrónicas de documentos exige, entre otros requisitos:",
+    "answers": {
+      "A": "Que incluyan metadatos que permitan acreditar su carácter de copia y, en su caso, el documento electrónico del que derivan",
+      "B": "Que se impriman obligatoriamente para tener validez",
+      "C": "Que carezcan de firma electrónica o sello",
+      "D": "Que no incorporen ningún dato adicional"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 74,
+    "question": "La digitalización administrativa contribuye a la mejora de la calidad del servicio público, entre otros motivos, porque:",
+    "answers": {
+      "A": "Impide cualquier medición de resultados",
+      "B": "Permite establecer cuadros de mando con indicadores de proceso y resultado que ayudan a la toma de decisiones",
+      "C": "Elimina la necesidad de evaluación de políticas públicas",
+      "D": "Aumenta necesariamente los plazos de tramitación"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 75,
+    "question": "Entre los efectos jurídicos de la firma electrónica avanzada se encuentra:",
+    "answers": {
+      "A": "No tener ningún efecto jurídico reconocido",
+      "B": "Permitir identificar al firmante y detectar cualquier cambio ulterior de los datos firmados, estando vinculada al firmante de manera única",
+      "C": "Ser idéntica en todo caso a una firma manuscrita escaneada",
+      "D": "Requerir siempre la presencia física del firmante ante notario"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 76,
+    "question": "La «constancia electrónica» en los registros permite:",
+    "answers": {
+      "A": "Acreditar la fecha y hora exacta de presentación de un documento a efectos del cómputo de plazos",
+      "B": "Prohibir la expedición de recibos",
+      "C": "Sustituir la obligación de identificación del interesado",
+      "D": "Eliminar cualquier prueba de la presentación"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 77,
+    "question": "El acceso de la ciudadanía a la administración electrónica debe garantizar, conforme al principio de neutralidad tecnológica, entre otros extremos:",
+    "answers": {
+      "A": "Que no se imponga el uso de una aplicación o sistema específico que condicione el ejercicio de derechos",
+      "B": "La imposibilidad de acceso desde fuera del territorio nacional",
+      "C": "La obligación de utilizar un único navegador comercial",
+      "D": "La prohibición de usar dispositivos móviles"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 78,
+    "question": "El «dato abierto» (open data) en el contexto de la administración electrónica se caracteriza por:",
+    "answers": {
+      "A": "Estar disponible en formatos reutilizables, sin restricciones técnicas o legales para su acceso y reutilización",
+      "B": "Carecer de cualquier estructura o formato",
+      "C": "Estar cifrado y ser inaccesible al público",
+      "D": "Requerir siempre el pago de una tasa para su consulta"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 79,
+    "question": "El funcionamiento electrónico del sector público, entre sus garantías, exige respetar el principio de:",
+    "answers": {
+      "A": "Transparencia, pudiendo la ciudadanía conocer mediante medios electrónicos el estado de tramitación de los procedimientos",
+      "B": "Prohibición absoluta de acceso a la información",
+      "C": "Ausencia de identificación de los órganos actuantes",
+      "D": "Opacidad en la gestión de expedientes"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 80,
+    "question": "Respecto a la validez probatoria, los documentos electrónicos emitidos por las Administraciones Públicas, firmados por empleado público habilitado, gozan de:",
+    "answers": {
+      "A": "Validez únicamente si se imprimen y sellan posteriormente",
+      "B": "Validez limitada a un máximo de 24 horas",
+      "C": "La misma validez y eficacia que los documentos en soporte papel",
+      "D": "Ninguna validez jurídica"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 81,
+    "question": "Un expediente electrónico puede estar compuesto, entre otros elementos, por:",
+    "answers": {
+      "A": "Documentos electrónicos, un índice electrónico y, en su caso, una copia electrónica certificada de la resolución adoptada",
+      "B": "Solamente documentos en papel sin digitalizar",
+      "C": "Ningún tipo de metadato descriptivo",
+      "D": "Exclusivamente fotografías sin valor jurídico"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 82,
+    "question": "La seguridad de la información en los sistemas de administración electrónica se articula, entre otros instrumentos, a través de:",
+    "answers": {
+      "A": "El Esquema Nacional de Seguridad y las políticas de seguridad de cada Administración",
+      "B": "La externalización total sin ningún control público",
+      "C": "La ausencia de cualquier normativa específica",
+      "D": "Exclusivamente acuerdos privados entre empresas tecnológicas"
+    },
+    "correct": "A"
+  }
+]

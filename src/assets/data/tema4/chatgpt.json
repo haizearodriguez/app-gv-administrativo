@@ -3,67 +3,67 @@
     "id": 1,
     "question": "¿Qué instituciones caracterizaron históricamente el esquema institucional del régimen foral vasco?",
     "answers": {
-      "A": "Las Juntas Generales y las Diputaciones Forales.",
-      "B": "El Parlamento y el Gobierno Vasco.",
-      "C": "El Consejo General del País Vasco.",
+      "A": "El Parlamento y el Gobierno Vasco.",
+      "B": "El Consejo General del País Vasco.",
+      "C": "Las Juntas Generales y las Diputaciones Forales.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 2,
     "question": "¿En qué año fueron abolidos los fueros vascos?",
     "answers": {
-      "A": "1876.",
+      "A": "1952.",
       "B": "1936.",
-      "C": "1978.",
-      "D": "1952."
+      "C": "1876.",
+      "D": "1978."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 3,
     "question": "¿Qué régimen se estableció tras la abolición foral de 1876?",
     "answers": {
-      "A": "El régimen de Concierto Económico.",
+      "A": "Ninguna de las anteriores.",
       "B": "El régimen autonómico pleno.",
       "C": "El régimen republicano.",
-      "D": "Ninguna de las anteriores."
+      "D": "El régimen de Concierto Económico."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 4,
     "question": "¿En qué contexto histórico se promulgó el primer Estatuto de Autonomía vasco?",
     "answers": {
-      "A": "Durante la Segunda República, en 1936, en plena Guerra Civil.",
-      "B": "En 1978.",
+      "A": "En 1978.",
+      "B": "En 1923.",
       "C": "En 1876.",
-      "D": "En 1923."
+      "D": "Durante la Segunda República, en 1936, en plena Guerra Civil."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 5,
     "question": "¿Qué órgano estableció el Decreto-Ley de 4 de enero de 1978 como preautonomía vasca?",
     "answers": {
-      "A": "El Consejo General del País Vasco.",
-      "B": "El Parlamento Vasco.",
+      "A": "El Parlamento Vasco.",
+      "B": "El Consejo General del País Vasco.",
       "C": "La Diputación Foral de Álava.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 6,
     "question": "¿Qué vía de acceso a la autonomía siguió el País Vasco conforme a la Disposición Transitoria Segunda de la CE?",
     "answers": {
-      "A": "La del artículo 151.2 de la Constitución.",
-      "B": "La del artículo 143.",
-      "C": "La de la Disposición Adicional Primera.",
-      "D": "Ninguna de las anteriores."
+      "A": "Ninguna de las anteriores.",
+      "B": "La de la Disposición Adicional Primera.",
+      "C": "La del artículo 143.",
+      "D": "La del artículo 151.2 de la Constitución."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 7,
@@ -71,8 +71,8 @@
     "answers": {
       "A": "El 25 de octubre de 1979.",
       "B": "El 6 de diciembre de 1978.",
-      "C": "El 20 de noviembre de 1975.",
-      "D": "El 4 de enero de 1978."
+      "C": "El 4 de enero de 1978.",
+      "D": "El 20 de noviembre de 1975."
     },
     "correct": "A"
   },
@@ -80,12 +80,12 @@
     "id": 8,
     "question": "¿Qué porcentaje de votos favorables obtuvo el referéndum del Estatuto vasco de 1979?",
     "answers": {
-      "A": "90,27% de votos favorables.",
-      "B": "50%.",
-      "C": "58,85% de votos favorables.",
-      "D": "100%."
+      "A": "100%.",
+      "B": "58,85% de votos favorables.",
+      "C": "50%.",
+      "D": "90,27% de votos favorables."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 9,
@@ -93,8 +93,8 @@
     "answers": {
       "A": "Ley Orgánica 3/1979, de 18 de diciembre.",
       "B": "Ley Orgánica 2/1979.",
-      "C": "Ley Orgánica 8/1980.",
-      "D": "Ninguna de las anteriores."
+      "C": "Ninguna de las anteriores.",
+      "D": "Ley Orgánica 8/1980."
     },
     "correct": "A"
   },
@@ -102,21 +102,21 @@
     "id": 10,
     "question": "¿Cómo se estructura el Estatuto vasco?",
     "answers": {
-      "A": "Un Título Preliminar y cuatro Títulos más, además de una Disposición Adicional y nueve Disposiciones Transitorias.",
-      "B": "Solo cinco Títulos sin más disposiciones.",
+      "A": "Solo cinco Títulos sin más disposiciones.",
+      "B": "Ninguna de las anteriores.",
       "C": "Un Preámbulo y diez Títulos.",
-      "D": "Ninguna de las anteriores."
+      "D": "Un Título Preliminar y cuatro Títulos más, además de una Disposición Adicional y nueve Disposiciones Transitorias."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 11,
     "question": "¿Carece el Estatuto vasco de algún componente que sí incluyen la CE y otros Estatutos?",
     "answers": {
       "A": "Sí, carece de Preámbulo.",
-      "B": "No, tiene Preámbulo extenso.",
+      "B": "Ninguna de las anteriores.",
       "C": "Carece de Título Preliminar.",
-      "D": "Ninguna de las anteriores."
+      "D": "No, tiene Preámbulo extenso."
     },
     "correct": "A"
   },
@@ -124,76 +124,76 @@
     "id": 12,
     "question": "¿Qué artículo del Estatuto vasco establece la denominación de la Comunidad?",
     "answers": {
-      "A": "El artículo 1.",
-      "B": "El artículo 2.",
+      "A": "El artículo 9.",
+      "B": "El artículo 1.",
       "C": "El artículo 4.",
-      "D": "El artículo 9."
+      "D": "El artículo 2."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 13,
     "question": "¿Bajo qué denominación se constituye el Pueblo Vasco en Comunidad Autónoma?",
     "answers": {
-      "A": "Euskadi o País Vasco.",
-      "B": "Vasconia.",
-      "C": "Reino de Navarra.",
+      "A": "Vasconia.",
+      "B": "Reino de Navarra.",
+      "C": "Euskadi o País Vasco.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 14,
     "question": "¿Qué Territorios integran inicialmente la Comunidad Autónoma de Euskadi según el art. 2.2 del Estatuto?",
     "answers": {
-      "A": "Álava, Gipuzkoa y Bizkaia.",
+      "A": "Solo Bizkaia.",
       "B": "Álava, Gipuzkoa, Bizkaia y Navarra desde el inicio.",
-      "C": "Solo Bizkaia.",
+      "C": "Álava, Gipuzkoa y Bizkaia.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 15,
     "question": "¿Qué Territorio tiene, junto con Álava, Gipuzkoa y Bizkaia, derecho a formar parte de la CAE según el art. 2.1?",
     "answers": {
-      "A": "Navarra.",
+      "A": "Cantabria.",
       "B": "La Rioja.",
-      "C": "Cantabria.",
-      "D": "Ninguna de las anteriores."
+      "C": "Ninguna de las anteriores.",
+      "D": "Navarra."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 16,
     "question": "¿Qué disposición de la CE prevé la posible incorporación de Navarra al régimen autonómico vasco?",
     "answers": {
-      "A": "La Disposición Transitoria Cuarta.",
-      "B": "La Disposición Adicional Primera.",
-      "C": "El artículo 2.",
-      "D": "Ninguna de las anteriores."
+      "A": "Ninguna de las anteriores.",
+      "B": "El artículo 2.",
+      "C": "La Disposición Adicional Primera.",
+      "D": "La Disposición Transitoria Cuarta."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 17,
     "question": "¿Cuáles son los dos casos de enclaves rodeados completamente por territorio vasco citados en el temario?",
     "answers": {
-      "A": "El Condado de Treviño/La Puebla de Arganzón, y el Valle de Villaverde.",
-      "B": "Solo Treviño.",
-      "C": "Solo Villaverde de Trucíos.",
-      "D": "Ninguna de las anteriores."
+      "A": "Ninguna de las anteriores.",
+      "B": "El Condado de Treviño/La Puebla de Arganzón, y el Valle de Villaverde.",
+      "C": "Solo Treviño.",
+      "D": "Solo Villaverde de Trucíos."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 18,
     "question": "¿A qué Comunidad Autónoma pertenece el enclave de Treviño?",
     "answers": {
       "A": "Castilla y León.",
-      "B": "Cantabria.",
+      "B": "Navarra.",
       "C": "La Rioja.",
-      "D": "Navarra."
+      "D": "Cantabria."
     },
     "correct": "A"
   },
@@ -201,43 +201,43 @@
     "id": 19,
     "question": "¿A qué Comunidad Autónoma pertenece el Valle de Villaverde?",
     "answers": {
-      "A": "Cantabria.",
-      "B": "Castilla y León.",
-      "C": "La Rioja.",
-      "D": "Navarra."
+      "A": "Navarra.",
+      "B": "La Rioja.",
+      "C": "Cantabria.",
+      "D": "Castilla y León."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 20,
     "question": "¿Qué Ley fijó la sede de las instituciones de la CAE en Vitoria-Gasteiz?",
     "answers": {
-      "A": "Ley 1/1980, de 23 de mayo.",
+      "A": "Ninguna de las anteriores.",
       "B": "Ley 7/1981.",
       "C": "Ley 5/1990.",
-      "D": "Ninguna de las anteriores."
+      "D": "Ley 1/1980, de 23 de mayo."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 21,
     "question": "Describe la bandera del País Vasco según el art. 5 del Estatuto:",
     "answers": {
-      "A": "Bicrucífera, con aspa verde, cruz blanca superpuesta y fondo rojo.",
-      "B": "Roja y amarilla.",
-      "C": "Azul con estrellas.",
-      "D": "Ninguna de las anteriores."
+      "A": "Azul con estrellas.",
+      "B": "Bicrucífera, con aspa verde, cruz blanca superpuesta y fondo rojo.",
+      "C": "Ninguna de las anteriores.",
+      "D": "Roja y amarilla."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 22,
     "question": "¿Qué ley aprobó el himno oficial de Euskadi?",
     "answers": {
       "A": "Ley 8/1983, de 14 de abril.",
-      "B": "Ley 1/1980.",
-      "C": "Ley 10/1982.",
-      "D": "Ninguna de las anteriores."
+      "B": "Ley 10/1982.",
+      "C": "Ninguna de las anteriores.",
+      "D": "Ley 1/1980."
     },
     "correct": "A"
   },
@@ -245,34 +245,34 @@
     "id": 23,
     "question": "¿Cómo se denomina la melodía del himno vasco?",
     "answers": {
-      "A": "«Eusko Abendaren Ereserkia».",
-      "B": "«Gora ta Gora».",
-      "C": "«Gernikako Arbola».",
+      "A": "«Gernikako Arbola».",
+      "B": "«Eusko Abendaren Ereserkia».",
+      "C": "«Gora ta Gora».",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 24,
     "question": "¿Qué sentencia del Tribunal Constitucional obligó a reformular el cuartel del escudo vasco referido a Navarra?",
     "answers": {
-      "A": "STC 94/1985, de 29 de julio.",
-      "B": "STC 76/1988.",
-      "C": "STC 40/2011.",
+      "A": "STC 40/2011.",
+      "B": "STC 94/1985, de 29 de julio.",
+      "C": "STC 76/1988.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 25,
     "question": "¿Qué carácter otorga el Estatuto vasco al euskera?",
     "answers": {
-      "A": "Lengua cooficial de Euskadi.",
-      "B": "Única lengua oficial excluyendo el castellano.",
-      "C": "Lengua sin reconocimiento oficial.",
-      "D": "Ninguna de las anteriores."
+      "A": "Ninguna de las anteriores.",
+      "B": "Lengua sin reconocimiento oficial.",
+      "C": "Única lengua oficial excluyendo el castellano.",
+      "D": "Lengua cooficial de Euskadi."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 26,
@@ -280,8 +280,8 @@
     "answers": {
       "A": "La Real Academia de la Lengua Vasca-Euskaltzaindia.",
       "B": "El Parlamento Vasco.",
-      "C": "Emakunde.",
-      "D": "Ninguna de las anteriores."
+      "C": "Ninguna de las anteriores.",
+      "D": "Emakunde."
     },
     "correct": "A"
   },
@@ -290,9 +290,9 @@
     "question": "¿Qué ley desarrolla la normalización del uso del euskera?",
     "answers": {
       "A": "Ley 10/1982, de 24 de noviembre.",
-      "B": "Ley 4/2005.",
-      "C": "Ley 1/1988.",
-      "D": "Ninguna de las anteriores."
+      "B": "Ninguna de las anteriores.",
+      "C": "Ley 4/2005.",
+      "D": "Ley 1/1988."
     },
     "correct": "A"
   },
@@ -301,9 +301,9 @@
     "question": "¿Qué establece el art. 7.1 del Estatuto respecto a la condición política de vasco?",
     "answers": {
       "A": "Que se ostenta con la vecindad administrativa en cualquier municipio de la CAE.",
-      "B": "Que se requiere nacionalidad extranjera.",
-      "C": "Que solo la ostentan los nacidos en Euskadi.",
-      "D": "Ninguna de las anteriores."
+      "B": "Que solo la ostentan los nacidos en Euskadi.",
+      "C": "Ninguna de las anteriores.",
+      "D": "Que se requiere nacionalidad extranjera."
     },
     "correct": "A"
   },
@@ -311,12 +311,12 @@
     "id": 29,
     "question": "¿Qué derechos se entienden ligados a la condición política de vasco?",
     "answers": {
-      "A": "El sufragio activo y pasivo y el derecho a ejercer la iniciativa legislativa popular.",
+      "A": "Ninguno.",
       "B": "Solo el derecho al voto en referéndum estatal.",
-      "C": "Ninguno.",
-      "D": "Ninguna de las anteriores."
+      "C": "Ninguna de las anteriores.",
+      "D": "El sufragio activo y pasivo y el derecho a ejercer la iniciativa legislativa popular."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 30,
@@ -324,8 +324,8 @@
     "answers": {
       "A": "El Título I.",
       "B": "El Título Preliminar.",
-      "C": "El Título III.",
-      "D": "El Título IV."
+      "C": "El Título IV.",
+      "D": "El Título III."
     },
     "correct": "A"
   },
@@ -333,120 +333,120 @@
     "id": 31,
     "question": "¿Qué Título del Estatuto vasco se refiere a los poderes del País Vasco?",
     "answers": {
-      "A": "El Título II.",
-      "B": "El Título I.",
-      "C": "El Título III.",
-      "D": "El Título IV."
-    },
-    "correct": "A"
-  },
-  {
-    "id": 32,
-    "question": "¿Qué capítulo del Título II del Estatuto se ocupa de las instituciones de los Territorios Históricos?",
-    "answers": {
-      "A": "El Capítulo IV.",
-      "B": "El Capítulo I.",
-      "C": "El Capítulo II.",
-      "D": "El Capítulo V."
-    },
-    "correct": "A"
-  },
-  {
-    "id": 33,
-    "question": "¿Qué establece el artículo único (art. 37) del Capítulo IV del Título II del Estatuto?",
-    "answers": {
-      "A": "Que los órganos forales se rigen por su régimen jurídico privativo, sin alterar su naturaleza foral.",
-      "B": "Que los Territorios Históricos desaparecen.",
-      "C": "Que dependen jerárquicamente del Gobierno Vasco.",
-      "D": "Ninguna de las anteriores."
-    },
-    "correct": "A"
-  },
-  {
-    "id": 34,
-    "question": "¿Qué Título del Estatuto regula la Hacienda y el Patrimonio (Concierto Económico)?",
-    "answers": {
-      "A": "El Título III.",
-      "B": "El Título I.",
-      "C": "El Título II.",
-      "D": "El Título IV."
-    },
-    "correct": "A"
-  },
-  {
-    "id": 35,
-    "question": "¿Qué Título del Estatuto vasco se ocupa de la reforma del Estatuto?",
-    "answers": {
       "A": "El Título IV.",
       "B": "El Título I.",
       "C": "El Título II.",
       "D": "El Título III."
     },
-    "correct": "A"
+    "correct": "C"
+  },
+  {
+    "id": 32,
+    "question": "¿Qué capítulo del Título II del Estatuto se ocupa de las instituciones de los Territorios Históricos?",
+    "answers": {
+      "A": "El Capítulo I.",
+      "B": "El Capítulo V.",
+      "C": "El Capítulo IV.",
+      "D": "El Capítulo II."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 33,
+    "question": "¿Qué establece el artículo único (art. 37) del Capítulo IV del Título II del Estatuto?",
+    "answers": {
+      "A": "Que dependen jerárquicamente del Gobierno Vasco.",
+      "B": "Que los órganos forales se rigen por su régimen jurídico privativo, sin alterar su naturaleza foral.",
+      "C": "Que los Territorios Históricos desaparecen.",
+      "D": "Ninguna de las anteriores."
+    },
+    "correct": "B"
+  },
+  {
+    "id": 34,
+    "question": "¿Qué Título del Estatuto regula la Hacienda y el Patrimonio (Concierto Económico)?",
+    "answers": {
+      "A": "El Título I.",
+      "B": "El Título IV.",
+      "C": "El Título III.",
+      "D": "El Título II."
+    },
+    "correct": "C"
+  },
+  {
+    "id": 35,
+    "question": "¿Qué Título del Estatuto vasco se ocupa de la reforma del Estatuto?",
+    "answers": {
+      "A": "El Título I.",
+      "B": "El Título IV.",
+      "C": "El Título III.",
+      "D": "El Título II."
+    },
+    "correct": "B"
   },
   {
     "id": 36,
     "question": "¿Qué señala la Disposición Adicional del Estatuto vasco?",
     "answers": {
-      "A": "Que la aceptación de la autonomía no implica renuncia del Pueblo Vasco a sus derechos históricos.",
-      "B": "Que se renuncian expresamente los derechos históricos.",
+      "A": "Que se renuncian expresamente los derechos históricos.",
+      "B": "Ninguna de las anteriores.",
       "C": "Que Navarra queda excluida definitivamente.",
-      "D": "Ninguna de las anteriores."
+      "D": "Que la aceptación de la autonomía no implica renuncia del Pueblo Vasco a sus derechos históricos."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 37,
     "question": "¿Cuántos artículos consta el Título IV del Estatuto, «De la reforma del Estatuto»?",
     "answers": {
-      "A": "Dos artículos (46 y 47).",
-      "B": "Cinco artículos.",
-      "C": "Un solo artículo.",
-      "D": "Diez artículos."
+      "A": "Diez artículos.",
+      "B": "Dos artículos (46 y 47).",
+      "C": "Cinco artículos.",
+      "D": "Un solo artículo."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 38,
     "question": "¿Quiénes son los sujetos legitimados para iniciar la reforma general del Estatuto (art. 46)?",
     "answers": {
-      "A": "El Parlamento Vasco (a propuesta de la quinta parte de sus miembros), el Gobierno Vasco y las Cortes Generales.",
-      "B": "Solo la ciudadanía mediante iniciativa popular.",
-      "C": "Solo el Rey.",
-      "D": "Ninguna de las anteriores."
+      "A": "Solo la ciudadanía mediante iniciativa popular.",
+      "B": "El Parlamento Vasco (a propuesta de la quinta parte de sus miembros), el Gobierno Vasco y las Cortes Generales.",
+      "C": "Ninguna de las anteriores.",
+      "D": "Solo el Rey."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 39,
     "question": "¿Qué mayoría se exige en el Parlamento Vasco para aprobar la propuesta de reforma del Estatuto?",
     "answers": {
-      "A": "Mayoría absoluta.",
-      "B": "Mayoría simple.",
-      "C": "Unanimidad.",
-      "D": "Dos tercios."
+      "A": "Dos tercios.",
+      "B": "Unanimidad.",
+      "C": "Mayoría simple.",
+      "D": "Mayoría absoluta."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 40,
     "question": "¿Cuántos pasos consta el procedimiento general de reforma del Estatuto (art. 46)?",
     "answers": {
-      "A": "Cuatro: iniciativa, aprobación por el Parlamento Vasco, aprobación por Cortes Generales y referéndum.",
-      "B": "Solo dos pasos.",
-      "C": "Un solo paso.",
+      "A": "Solo dos pasos.",
+      "B": "Un solo paso.",
+      "C": "Cuatro: iniciativa, aprobación por el Parlamento Vasco, aprobación por Cortes Generales y referéndum.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 41,
     "question": "¿Cuántos procedimientos especiales de reforma prevé el artículo 47 del Estatuto?",
     "answers": {
       "A": "Tres.",
-      "B": "Uno.",
+      "B": "Dos.",
       "C": "Cinco.",
-      "D": "Dos."
+      "D": "Uno."
     },
     "correct": "A"
   },
@@ -454,20 +454,20 @@
     "id": 42,
     "question": "¿Qué procedimiento especial de reforma se refiere a la simple reorganización de poderes del País Vasco?",
     "answers": {
-      "A": "El del art. 47, que exige consulta a Cortes Generales y Juntas Generales antes del referéndum.",
+      "A": "Ninguna de las anteriores.",
       "B": "El del art. 46, procedimiento general único.",
-      "C": "No existe tal procedimiento especial.",
-      "D": "Ninguna de las anteriores."
+      "C": "El del art. 47, que exige consulta a Cortes Generales y Juntas Generales antes del referéndum.",
+      "D": "No existe tal procedimiento especial."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 43,
     "question": "¿Qué Ley Orgánica regula la posición de Navarra en el eventual procedimiento de incorporación?",
     "answers": {
       "A": "Ley Orgánica 13/1982, de Reintegración y Amejoramiento del Régimen Foral.",
-      "B": "Ley Orgánica 3/1979.",
-      "C": "Ley Orgánica 8/1980.",
+      "B": "Ley Orgánica 8/1980.",
+      "C": "Ley Orgánica 3/1979.",
       "D": "Ninguna de las anteriores."
     },
     "correct": "A"
@@ -476,53 +476,53 @@
     "id": 44,
     "question": "¿Qué principio rige el sistema de distribución de competencias entre el Estado y las Comunidades Autónomas?",
     "answers": {
-      "A": "El principio dispositivo.",
-      "B": "El principio de jerarquía absoluta.",
-      "C": "El principio de reciprocidad.",
-      "D": "Ninguna de las anteriores."
+      "A": "El principio de reciprocidad.",
+      "B": "Ninguna de las anteriores.",
+      "C": "El principio de jerarquía absoluta.",
+      "D": "El principio dispositivo."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 45,
     "question": "¿Cuántas competencias recoge el listado del artículo 148 CE que pueden asumir todas las Comunidades Autónomas?",
     "answers": {
-      "A": "Veintidós.",
-      "B": "Diez.",
-      "C": "Treinta y dos.",
-      "D": "Cinco."
+      "A": "Treinta y dos.",
+      "B": "Cinco.",
+      "C": "Veintidós.",
+      "D": "Diez."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 46,
     "question": "¿Cuántas competencias exclusivas del Estado recoge el artículo 149.1 CE?",
     "answers": {
-      "A": "Treinta y dos.",
+      "A": "Cincuenta.",
       "B": "Veintidós.",
-      "C": "Diez.",
-      "D": "Cincuenta."
+      "C": "Treinta y dos.",
+      "D": "Diez."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 47,
     "question": "¿Qué establece la cláusula de cierre del sistema (art. 149.3 CE)?",
     "answers": {
-      "A": "Que las materias no atribuidas expresamente al Estado pueden ser asumidas por las CCAA, correspondiendo al Estado si no las asumen.",
-      "B": "Que todas las materias son siempre estatales.",
-      "C": "Que todas las materias son siempre autonómicas.",
-      "D": "Ninguna de las anteriores."
+      "A": "Que todas las materias son siempre autonómicas.",
+      "B": "Ninguna de las anteriores.",
+      "C": "Que todas las materias son siempre estatales.",
+      "D": "Que las materias no atribuidas expresamente al Estado pueden ser asumidas por las CCAA, correspondiendo al Estado si no las asumen."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 48,
     "question": "¿Qué preveía el artículo 150.2 CE respecto a la transferencia de competencias?",
     "answers": {
       "A": "Que el Estado podía transferir o delegar facultades mediante Ley Orgánica.",
-      "B": "Que ninguna competencia era transferible.",
-      "C": "Que solo el Tribunal Constitucional podía transferir competencias.",
+      "B": "Que solo el Tribunal Constitucional podía transferir competencias.",
+      "C": "Que ninguna competencia era transferible.",
       "D": "Ninguna de las anteriores."
     },
     "correct": "A"
@@ -542,34 +542,34 @@
     "id": 50,
     "question": "En el sistema de distribución de competencias, ¿qué tres funciones existen alrededor de cada materia?",
     "answers": {
-      "A": "La legislativa, la de desarrollo y la de ejecución.",
-      "B": "Solo la ejecutiva.",
+      "A": "Solo la ejecutiva.",
+      "B": "Ninguna de las anteriores.",
       "C": "Solo la judicial.",
-      "D": "Ninguna de las anteriores."
+      "D": "La legislativa, la de desarrollo y la de ejecución."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 51,
     "question": "Una competencia exclusiva es aquella en la que:",
     "answers": {
-      "A": "Todas las funciones sobre una materia pertenecen o bien al Estado o bien a la Comunidad Autónoma.",
+      "A": "No existe ninguna función definida.",
       "B": "Las funciones se comparten siempre entre Estado y CCAA.",
-      "C": "No existe ninguna función definida.",
+      "C": "Todas las funciones sobre una materia pertenecen o bien al Estado o bien a la Comunidad Autónoma.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 52,
     "question": "¿Qué ejemplo de competencia exclusiva del Estado cita el temario?",
     "answers": {
-      "A": "Defensa y Fuerzas Armadas (art. 149.1.4 CE).",
-      "B": "La artesanía.",
+      "A": "Ninguna de las anteriores.",
+      "B": "Defensa y Fuerzas Armadas (art. 149.1.4 CE).",
       "C": "El turismo.",
-      "D": "Ninguna de las anteriores."
+      "D": "La artesanía."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 53,
@@ -586,53 +586,53 @@
     "id": 54,
     "question": "¿Qué explica el temario sobre la calificación de «exclusivas» de competencias que en realidad son compartidas?",
     "answers": {
-      "A": "Se busca evitar la prevalencia del Derecho estatal del art. 149.3 CE, aunque el contenido real es compartido.",
-      "B": "Es simplemente un error sin consecuencias jurídicas.",
-      "C": "No existe esa práctica.",
+      "A": "Es simplemente un error sin consecuencias jurídicas.",
+      "B": "No existe esa práctica.",
+      "C": "Se busca evitar la prevalencia del Derecho estatal del art. 149.3 CE, aunque el contenido real es compartido.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 55,
     "question": "El artículo 10 del Estatuto vasco recoge:",
     "answers": {
-      "A": "Las competencias exclusivas de la Comunidad Autónoma.",
+      "A": "Las competencias de desarrollo legislativo únicamente.",
       "B": "Las competencias del Estado.",
-      "C": "Las competencias de desarrollo legislativo únicamente.",
-      "D": "Ninguna de las anteriores."
+      "C": "Ninguna de las anteriores.",
+      "D": "Las competencias exclusivas de la Comunidad Autónoma."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 56,
     "question": "El artículo 11 del Estatuto vasco recoge:",
     "answers": {
-      "A": "Las competencias de desarrollo legislativo y ejecución.",
-      "B": "Las competencias exclusivas.",
-      "C": "Las competencias de mera ejecución.",
+      "A": "Las competencias exclusivas.",
+      "B": "Las competencias de mera ejecución.",
+      "C": "Las competencias de desarrollo legislativo y ejecución.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 57,
     "question": "El artículo 12 del Estatuto vasco recoge:",
     "answers": {
-      "A": "Las competencias de ejecución.",
-      "B": "Las competencias exclusivas.",
+      "A": "Ninguna de las anteriores.",
+      "B": "Las competencias de ejecución.",
       "C": "Las competencias legislativas plenas.",
-      "D": "Ninguna de las anteriores."
+      "D": "Las competencias exclusivas."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 58,
     "question": "¿Qué materia se cita como competencia exclusiva vasca en el art. 10.5 del Estatuto?",
     "answers": {
       "A": "La conservación, modificación y desarrollo del Derecho Civil Foral y especial de los Territorios Históricos.",
-      "B": "La política exterior.",
-      "C": "La defensa nacional.",
+      "B": "La defensa nacional.",
+      "C": "La política exterior.",
       "D": "Ninguna de las anteriores."
     },
     "correct": "A"
@@ -641,23 +641,23 @@
     "id": 59,
     "question": "¿Qué materia relativa a la Policía Autónoma se recoge como competencia derivada de derechos históricos?",
     "answers": {
-      "A": "La Ertzaintza (art. 17 del Estatuto).",
-      "B": "La Guardia Civil.",
+      "A": "La Guardia Civil.",
+      "B": "La Ertzaintza (art. 17 del Estatuto).",
       "C": "La Policía Nacional.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 60,
     "question": "¿Qué órgano equivalente al Defensor del Pueblo autonómico prevé el Estatuto (art. 15)?",
     "answers": {
-      "A": "El Ararteko.",
-      "B": "Emakunde.",
+      "A": "Emakunde.",
+      "B": "El Ararteko.",
       "C": "El Tribunal Vasco de Cuentas Públicas.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 61,
@@ -674,21 +674,21 @@
     "id": 62,
     "question": "¿Qué Ley completa el esquema competencial interno de la CAE entre Instituciones Comunes y Territorios Históricos?",
     "answers": {
-      "A": "La Ley 27/1983, de Relaciones entre las Instituciones Comunes y los Órganos Forales (LTH).",
+      "A": "Ninguna de las anteriores.",
       "B": "La Ley del Concierto Económico.",
-      "C": "La Ley del Parlamento Vasco.",
-      "D": "Ninguna de las anteriores."
+      "C": "La Ley 27/1983, de Relaciones entre las Instituciones Comunes y los Órganos Forales (LTH).",
+      "D": "La Ley del Parlamento Vasco."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 63,
     "question": "¿Qué Capítulo del Título II del Estatuto vasco se dedica al Parlamento Vasco?",
     "answers": {
       "A": "El Capítulo I.",
-      "B": "El Capítulo II.",
-      "C": "El Capítulo III.",
-      "D": "El Capítulo IV."
+      "B": "El Capítulo III.",
+      "C": "El Capítulo IV.",
+      "D": "El Capítulo II."
     },
     "correct": "A"
   },
@@ -696,12 +696,12 @@
     "id": 64,
     "question": "¿Cuántos artículos dedica el Estatuto al Parlamento Vasco?",
     "answers": {
-      "A": "Cuatro artículos.",
-      "B": "Diez artículos.",
-      "C": "Uno.",
-      "D": "Veinte artículos."
+      "A": "Uno.",
+      "B": "Cuatro artículos.",
+      "C": "Veinte artículos.",
+      "D": "Diez artículos."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 65,
@@ -709,8 +709,8 @@
     "answers": {
       "A": "El 11 de febrero de 1983.",
       "B": "El 6 de diciembre de 1978.",
-      "C": "El 23 de diciembre de 2008.",
-      "D": "Ninguna de las anteriores."
+      "C": "Ninguna de las anteriores.",
+      "D": "El 23 de diciembre de 2008."
     },
     "correct": "A"
   },
@@ -718,174 +718,174 @@
     "id": 66,
     "question": "¿Cuál es el texto vigente del Reglamento del Parlamento Vasco?",
     "answers": {
-      "A": "El aprobado el 23 de diciembre de 2008, con reformas posteriores.",
-      "B": "El de 1980.",
-      "C": "El de 1979.",
-      "D": "Ninguna de las anteriores."
+      "A": "Ninguna de las anteriores.",
+      "B": "El de 1979.",
+      "C": "El de 1980.",
+      "D": "El aprobado el 23 de diciembre de 2008, con reformas posteriores."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 67,
     "question": "¿Cuántos artículos y títulos tiene actualmente el Reglamento del Parlamento Vasco?",
     "answers": {
-      "A": "Cinco Títulos y 243 artículos.",
-      "B": "Un Título y 10 artículos.",
-      "C": "Diez Títulos y 500 artículos.",
-      "D": "Ninguna de las anteriores."
+      "A": "Diez Títulos y 500 artículos.",
+      "B": "Ninguna de las anteriores.",
+      "C": "Cinco Títulos y 243 artículos.",
+      "D": "Un Título y 10 artículos."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 68,
     "question": "¿Qué reforma introdujo en septiembre de 2020 el Reglamento del Parlamento Vasco?",
     "answers": {
-      "A": "Las sesiones telemáticas y el voto delegado.",
-      "B": "La reducción del número de parlamentarios.",
+      "A": "La reducción del número de parlamentarios.",
+      "B": "Ninguna de las anteriores.",
       "C": "La eliminación de las comisiones.",
-      "D": "Ninguna de las anteriores."
+      "D": "Las sesiones telemáticas y el voto delegado."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 69,
     "question": "¿Cómo se elige el Parlamento Vasco según el artículo 26 del Estatuto?",
     "answers": {
-      "A": "Por sufragio universal, libre, directo y secreto, con igual número de representantes de cada Territorio Histórico.",
+      "A": "Por designación del Gobierno Vasco.",
       "B": "Por sufragio indirecto de las Juntas Generales.",
-      "C": "Por designación del Gobierno Vasco.",
-      "D": "Ninguna de las anteriores."
+      "C": "Ninguna de las anteriores.",
+      "D": "Por sufragio universal, libre, directo y secreto, con igual número de representantes de cada Territorio Histórico."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 70,
     "question": "¿Cuál es la circunscripción electoral en las elecciones al Parlamento Vasco?",
     "answers": {
-      "A": "El Territorio Histórico.",
-      "B": "El municipio.",
-      "C": "La comarca.",
-      "D": "Ninguna de las anteriores."
+      "A": "Ninguna de las anteriores.",
+      "B": "La comarca.",
+      "C": "El Territorio Histórico.",
+      "D": "El municipio."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 71,
     "question": "¿Por cuánto tiempo es elegido el Parlamento Vasco?",
     "answers": {
-      "A": "Cuatro años.",
-      "B": "Dos años.",
+      "A": "Dos años.",
+      "B": "Cinco años.",
       "C": "Seis años.",
-      "D": "Cinco años."
+      "D": "Cuatro años."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 72,
     "question": "¿Cuántos parlamentarios corresponden a cada circunscripción electoral según la Ley 5/1990?",
     "answers": {
-      "A": "Veinticinco parlamentarios por Territorio Histórico.",
-      "B": "Cincuenta.",
-      "C": "Diez.",
-      "D": "Ninguna de las anteriores."
+      "A": "Diez.",
+      "B": "Ninguna de las anteriores.",
+      "C": "Veinticinco parlamentarios por Territorio Histórico.",
+      "D": "Cincuenta."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 73,
     "question": "¿Qué Ley regula las elecciones al Parlamento Vasco?",
     "answers": {
-      "A": "Ley 5/1990, de 15 de junio.",
-      "B": "Ley 1/1987.",
+      "A": "Ninguna de las anteriores.",
+      "B": "Ley 5/1990, de 15 de junio.",
       "C": "Ley 7/1981.",
-      "D": "Ninguna de las anteriores."
+      "D": "Ley 1/1987."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 74,
     "question": "¿Qué garantía de inviolabilidad tienen los miembros del Parlamento Vasco?",
     "answers": {
-      "A": "Son inviolables por los votos y opiniones emitidos en el ejercicio de su cargo.",
-      "B": "No tienen ninguna garantía especial.",
-      "C": "Solo son inviolables fuera del País Vasco.",
-      "D": "Ninguna de las anteriores."
+      "A": "No tienen ninguna garantía especial.",
+      "B": "Ninguna de las anteriores.",
+      "C": "Son inviolables por los votos y opiniones emitidos en el ejercicio de su cargo.",
+      "D": "Solo son inviolables fuera del País Vasco."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 75,
     "question": "¿Qué órgano decide sobre la inculpación, prisión, procesamiento y juicio de los parlamentarios vascos dentro del territorio?",
     "answers": {
-      "A": "El Tribunal Superior de Justicia del País Vasco.",
-      "B": "El Tribunal Supremo exclusivamente.",
-      "C": "El Tribunal Constitucional.",
-      "D": "Ninguna de las anteriores."
+      "A": "El Tribunal Supremo exclusivamente.",
+      "B": "Ninguna de las anteriores.",
+      "C": "El Tribunal Superior de Justicia del País Vasco.",
+      "D": "El Tribunal Constitucional."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 76,
     "question": "¿Qué establece el artículo 25 del Estatuto como funciones principales del Parlamento?",
     "answers": {
-      "A": "Ejercer la potestad legislativa, aprobar sus presupuestos e impulsar y controlar la acción del Gobierno.",
-      "B": "Solo controlar al Gobierno.",
-      "C": "Elegir al Rey.",
-      "D": "Ninguna de las anteriores."
+      "A": "Solo controlar al Gobierno.",
+      "B": "Elegir al Rey.",
+      "C": "Ninguna de las anteriores.",
+      "D": "Ejercer la potestad legislativa, aprobar sus presupuestos e impulsar y controlar la acción del Gobierno."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 77,
     "question": "¿A quién corresponde la iniciativa legislativa según el art. 27.4 del Estatuto?",
     "answers": {
-      "A": "A los miembros del Parlamento, al Gobierno y a las Instituciones representativas de los Territorios Históricos.",
+      "A": "Ninguna de las anteriores.",
       "B": "Solo al Gobierno.",
-      "C": "Solo a la ciudadanía.",
-      "D": "Ninguna de las anteriores."
+      "C": "A los miembros del Parlamento, al Gobierno y a las Instituciones representativas de los Territorios Históricos.",
+      "D": "Solo a la ciudadanía."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 78,
     "question": "¿Qué Ley regula la Iniciativa Legislativa Popular en el País Vasco?",
     "answers": {
-      "A": "Ley 10/2016, de 30 de junio.",
+      "A": "Ley 4/1981.",
       "B": "Ley 5/1990.",
-      "C": "Ley 4/1981.",
-      "D": "Ninguna de las anteriores."
+      "C": "Ninguna de las anteriores.",
+      "D": "Ley 10/2016, de 30 de junio."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 79,
     "question": "¿Cuántas firmas mínimo se exigen para presentar una Proposición de Ley mediante iniciativa popular en Euskadi?",
     "answers": {
-      "A": "Diez mil firmas.",
+      "A": "Mil firmas.",
       "B": "Cien mil firmas.",
-      "C": "Mil firmas.",
-      "D": "Cincuenta mil firmas."
+      "C": "Cincuenta mil firmas.",
+      "D": "Diez mil firmas."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 80,
     "question": "¿Quién promulga las Leyes del Parlamento Vasco?",
     "answers": {
-      "A": "El Presidente o Presidenta del Gobierno Vasco (Lehendakari).",
-      "B": "El Rey.",
+      "A": "El Rey.",
+      "B": "Ninguna de las anteriores.",
       "C": "El Presidente del Parlamento.",
-      "D": "Ninguna de las anteriores."
+      "D": "El Presidente o Presidenta del Gobierno Vasco (Lehendakari)."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 81,
     "question": "¿En qué plazo debe ordenarse la publicación de las Leyes en el BOPV tras su aprobación?",
     "answers": {
       "A": "Quince días.",
-      "B": "Un mes.",
-      "C": "Diez días.",
+      "B": "Diez días.",
+      "C": "Un mes.",
       "D": "Treinta días."
     },
     "correct": "A"
@@ -894,56 +894,56 @@
     "id": 82,
     "question": "¿Qué Ley regula la designación del Lehendakari y las relaciones Gobierno-Parlamento?",
     "answers": {
-      "A": "Ley 7/1981, de 30 de junio, de Gobierno.",
-      "B": "Ley 5/1990.",
-      "C": "Ley 10/2016.",
-      "D": "Ninguna de las anteriores."
+      "A": "Ley 10/2016.",
+      "B": "Ninguna de las anteriores.",
+      "C": "Ley 5/1990.",
+      "D": "Ley 7/1981, de 30 de junio, de Gobierno."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 83,
     "question": "¿Quién designa al Lehendakari y quién lo nombra?",
     "answers": {
-      "A": "Es designado por el Parlamento y nombrado por el Rey.",
+      "A": "Ninguna de las anteriores.",
       "B": "Es elegido directamente por sufragio universal.",
       "C": "Es nombrado por el Gobierno central.",
-      "D": "Ninguna de las anteriores."
+      "D": "Es designado por el Parlamento y nombrado por el Rey."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 84,
     "question": "¿Qué mayoría se requiere para resultar elegido Lehendakari en primera votación?",
     "answers": {
-      "A": "Mayoría absoluta.",
-      "B": "Mayoría simple.",
+      "A": "Mayoría simple.",
+      "B": "Mayoría absoluta.",
       "C": "Unanimidad.",
       "D": "Dos tercios."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 85,
     "question": "Si nadie obtiene mayoría absoluta en la primera votación de investidura, ¿qué mayoría se exige en la segunda?",
     "answers": {
-      "A": "Mayoría simple, sin posibilidad de abstención.",
-      "B": "Mayoría absoluta de nuevo.",
-      "C": "Unanimidad.",
-      "D": "Ninguna de las anteriores."
+      "A": "Ninguna de las anteriores.",
+      "B": "Unanimidad.",
+      "C": "Mayoría absoluta de nuevo.",
+      "D": "Mayoría simple, sin posibilidad de abstención."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 86,
     "question": "¿Qué ocurre si transcurren 60 días desde la convocatoria del Parlamento sin que se elija Lehendakari?",
     "answers": {
-      "A": "Se disuelve el Parlamento y se convocan nuevas elecciones generales.",
-      "B": "Continúa el mismo Parlamento indefinidamente.",
+      "A": "Continúa el mismo Parlamento indefinidamente.",
+      "B": "Se disuelve el Parlamento y se convocan nuevas elecciones generales.",
       "C": "Se nombra automáticamente al candidato más votado.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 87,
@@ -960,23 +960,23 @@
     "id": 88,
     "question": "¿El cargo de Lehendakari es compatible con otro cargo público o profesión liberal?",
     "answers": {
-      "A": "No, es incompatible, salvo el mandato parlamentario en el Parlamento Vasco.",
+      "A": "Solo compatible con cargos empresariales.",
       "B": "Sí, es compatible con cualquier cargo.",
-      "C": "Solo compatible con cargos empresariales.",
-      "D": "Ninguna de las anteriores."
+      "C": "Ninguna de las anteriores.",
+      "D": "No, es incompatible, salvo el mandato parlamentario en el Parlamento Vasco."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 89,
     "question": "¿Cómo debe ser la moción de censura contra el Lehendakari?",
     "answers": {
-      "A": "Constructiva, incluyendo un candidato a Lehendakari.",
-      "B": "Simple, sin candidato alternativo.",
-      "C": "No existe la moción de censura en el País Vasco.",
-      "D": "Ninguna de las anteriores."
+      "A": "Ninguna de las anteriores.",
+      "B": "No existe la moción de censura en el País Vasco.",
+      "C": "Constructiva, incluyendo un candidato a Lehendakari.",
+      "D": "Simple, sin candidato alternativo."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 90,
@@ -984,8 +984,8 @@
     "answers": {
       "A": "Al menos la sexta parte.",
       "B": "La mitad.",
-      "C": "Dos tercios.",
-      "D": "Un solo parlamentario."
+      "C": "Un solo parlamentario.",
+      "D": "Dos tercios."
     },
     "correct": "A"
   },
@@ -1015,21 +1015,21 @@
     "id": 93,
     "question": "¿Qué sucede si se deniega la cuestión de confianza al Lehendakari?",
     "answers": {
-      "A": "Presenta su dimisión y se procede a la designación de un nuevo Lehendakari.",
-      "B": "Continúa en el cargo sin consecuencias.",
+      "A": "Continúa en el cargo sin consecuencias.",
+      "B": "Ninguna de las anteriores.",
       "C": "Se disuelve el Parlamento inmediatamente.",
-      "D": "Ninguna de las anteriores."
+      "D": "Presenta su dimisión y se procede a la designación de un nuevo Lehendakari."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 94,
     "question": "¿Qué órgano define al Gobierno Vasco como órgano colegiado con funciones ejecutivas y administrativas?",
     "answers": {
       "A": "El artículo 29 del Estatuto de Autonomía.",
-      "B": "El artículo 1 de la CE.",
-      "C": "El artículo 148 CE.",
-      "D": "Ninguna de las anteriores."
+      "B": "El artículo 148 CE.",
+      "C": "Ninguna de las anteriores.",
+      "D": "El artículo 1 de la CE."
     },
     "correct": "A"
   },
@@ -1038,9 +1038,9 @@
     "question": "¿De qué está formado el Gobierno Vasco según el art. 30 del Estatuto?",
     "answers": {
       "A": "Un Presidente o Presidenta y varios consejeros o consejeras.",
-      "B": "Solo el Lehendakari.",
-      "C": "El Parlamento en pleno.",
-      "D": "Ninguna de las anteriores."
+      "B": "El Parlamento en pleno.",
+      "C": "Ninguna de las anteriores.",
+      "D": "Solo el Lehendakari."
     },
     "correct": "A"
   },
@@ -1049,8 +1049,8 @@
     "question": "¿Cuándo cesa el Gobierno Vasco según el art. 31 del Estatuto?",
     "answers": {
       "A": "Tras elecciones al Parlamento, pérdida de confianza, dimisión o fallecimiento del Lehendakari.",
-      "B": "Nunca cesa.",
-      "C": "Solo por decisión del Gobierno central.",
+      "B": "Solo por decisión del Gobierno central.",
+      "C": "Nunca cesa.",
       "D": "Ninguna de las anteriores."
     },
     "correct": "A"
@@ -1059,12 +1059,12 @@
     "id": 97,
     "question": "¿Cómo es la responsabilidad política del Gobierno Vasco ante el Parlamento (art. 32 Estatuto)?",
     "answers": {
-      "A": "Solidaria, sin perjuicio de la responsabilidad directa de cada miembro por su gestión.",
-      "B": "Individual exclusivamente.",
-      "C": "Inexistente.",
-      "D": "Ninguna de las anteriores."
+      "A": "Ninguna de las anteriores.",
+      "B": "Inexistente.",
+      "C": "Individual exclusivamente.",
+      "D": "Solidaria, sin perjuicio de la responsabilidad directa de cada miembro por su gestión."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 98,
@@ -1072,8 +1072,8 @@
     "answers": {
       "A": "Al menos un 40%.",
       "B": "Al menos un 25%.",
-      "C": "50% exacto obligatorio.",
-      "D": "Ninguna de las anteriores."
+      "C": "Ninguna de las anteriores.",
+      "D": "50% exacto obligatorio."
     },
     "correct": "A"
   },
@@ -1081,64 +1081,64 @@
     "id": 99,
     "question": "¿Quién designa y separa a los Consejeros del Gobierno Vasco?",
     "answers": {
-      "A": "El Lehendakari.",
+      "A": "Ninguna de las anteriores.",
       "B": "El Parlamento por mayoría absoluta.",
-      "C": "El Rey.",
-      "D": "Ninguna de las anteriores."
+      "C": "El Lehendakari.",
+      "D": "El Rey."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 100,
     "question": "¿Qué establece el art. 8 de la Ley de Gobierno respecto a las funciones del Lehendakari como Presidente?",
     "answers": {
-      "A": "Definir el programa de gobierno, designar consejeros, convocar y presidir el Gobierno, entre otras.",
-      "B": "Legislar directamente sin el Parlamento.",
-      "C": "Sustituir al Tribunal Constitucional.",
-      "D": "Ninguna de las anteriores."
+      "A": "Legislar directamente sin el Parlamento.",
+      "B": "Sustituir al Tribunal Constitucional.",
+      "C": "Ninguna de las anteriores.",
+      "D": "Definir el programa de gobierno, designar consejeros, convocar y presidir el Gobierno, entre otras."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 101,
     "question": "¿Con qué mayoría del Gobierno puede este apreciar la suspensión del Lehendakari por imposibilidad transitoria?",
     "answers": {
-      "A": "Cuatro quintas partes de sus miembros.",
-      "B": "Mayoría simple.",
-      "C": "Unanimidad absoluta.",
-      "D": "Ninguna de las anteriores."
+      "A": "Unanimidad absoluta.",
+      "B": "Ninguna de las anteriores.",
+      "C": "Mayoría simple.",
+      "D": "Cuatro quintas partes de sus miembros."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 102,
     "question": "¿Cuál es el plazo máximo de la situación de interinidad en la Presidencia?",
     "answers": {
-      "A": "Cuatro meses.",
-      "B": "Un año.",
-      "C": "Un mes.",
-      "D": "Seis meses."
+      "A": "Un año.",
+      "B": "Seis meses.",
+      "C": "Cuatro meses.",
+      "D": "Un mes."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 103,
     "question": "¿Cuándo cesa el o la Lehendakari, además de por suspensión?",
     "answers": {
-      "A": "Tras elecciones generales, pérdida de confianza, dimisión o fallecimiento.",
-      "B": "Nunca cesa mientras dure la legislatura.",
-      "C": "Solo por decisión judicial.",
-      "D": "Ninguna de las anteriores."
+      "A": "Nunca cesa mientras dure la legislatura.",
+      "B": "Tras elecciones generales, pérdida de confianza, dimisión o fallecimiento.",
+      "C": "Ninguna de las anteriores.",
+      "D": "Solo por decisión judicial."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 104,
     "question": "¿Qué autorización se requiere para ausencias temporales del Lehendakari superiores a un mes?",
     "answers": {
       "A": "La autorización previa del Parlamento.",
-      "B": "No se requiere ninguna autorización.",
-      "C": "La autorización del Gobierno central.",
+      "B": "La autorización del Gobierno central.",
+      "C": "No se requiere ninguna autorización.",
       "D": "Ninguna de las anteriores."
     },
     "correct": "A"
@@ -1147,32 +1147,32 @@
     "id": 105,
     "question": "¿Qué órgano establece el Título III de la Ley de Gobierno además de los Consejeros?",
     "answers": {
-      "A": "Los Vicepresidentes y los Altos Cargos (Viceconsejeros y Directores).",
-      "B": "Solo el Lehendakari.",
-      "C": "El Tribunal Vasco de Cuentas.",
-      "D": "Ninguna de las anteriores."
+      "A": "Ninguna de las anteriores.",
+      "B": "El Tribunal Vasco de Cuentas.",
+      "C": "Solo el Lehendakari.",
+      "D": "Los Vicepresidentes y los Altos Cargos (Viceconsejeros y Directores)."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 106,
     "question": "¿Qué modificación introdujo la Ley 10/2012 en materia de pensiones vitalicias de altos cargos?",
     "answers": {
-      "A": "Redujo el derecho a pensión vitalicia, quedando limitado a los lehendakaris y sus familiares más cercanos.",
-      "B": "Amplió la pensión a todos los altos cargos.",
-      "C": "Eliminó totalmente cualquier pensión.",
-      "D": "Ninguna de las anteriores."
+      "A": "Amplió la pensión a todos los altos cargos.",
+      "B": "Ninguna de las anteriores.",
+      "C": "Redujo el derecho a pensión vitalicia, quedando limitado a los lehendakaris y sus familiares más cercanos.",
+      "D": "Eliminó totalmente cualquier pensión."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 107,
     "question": "¿Qué órgano fija por Ley la sede de las instituciones de la Comunidad Autónoma según el art. 4 del Estatuto?",
     "answers": {
       "A": "El Parlamento Vasco, mediante una ley.",
-      "B": "El Gobierno central.",
+      "B": "Ninguna de las anteriores.",
       "C": "El Rey.",
-      "D": "Ninguna de las anteriores."
+      "D": "El Gobierno central."
     },
     "correct": "A"
   },
@@ -1180,33 +1180,33 @@
     "id": 108,
     "question": "¿Qué establece el artículo 33.3 del Estatuto respecto a la elección del Presidente o Presidenta?",
     "answers": {
-      "A": "Que el Parlamento Vasco determinará por Ley la forma de elección y sus atribuciones.",
-      "B": "Que se elige por sufragio universal directo.",
-      "C": "Que se designa por el Gobierno central.",
-      "D": "Ninguna de las anteriores."
+      "A": "Que se designa por el Gobierno central.",
+      "B": "Ninguna de las anteriores.",
+      "C": "Que el Parlamento Vasco determinará por Ley la forma de elección y sus atribuciones.",
+      "D": "Que se elige por sufragio universal directo."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 109,
     "question": "¿Qué Ley crea y regula la institución del Ararteko?",
     "answers": {
-      "A": "Ley 3/1985, de 27 de febrero.",
+      "A": "Ninguna de las anteriores.",
       "B": "Ley 2/1988.",
-      "C": "Ley 1/1988.",
-      "D": "Ninguna de las anteriores."
+      "C": "Ley 3/1985, de 27 de febrero.",
+      "D": "Ley 1/1988."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 110,
     "question": "¿Qué Ley crea el Tribunal Vasco de Cuentas Públicas?",
     "answers": {
-      "A": "Ley 1/1988, de 5 de febrero.",
-      "B": "Ley 3/1985.",
-      "C": "Ley 7/1981.",
-      "D": "Ninguna de las anteriores."
+      "A": "Ley 7/1981.",
+      "B": "Ley 1/1988, de 5 de febrero.",
+      "C": "Ninguna de las anteriores.",
+      "D": "Ley 3/1985."
     },
-    "correct": "A"
+    "correct": "B"
   }
 ]

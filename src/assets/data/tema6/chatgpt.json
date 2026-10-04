@@ -3,43 +3,43 @@
     "id": 1,
     "question": "¿Cómo se comprende actualmente la igualdad de mujeres y hombres, según el temario?",
     "answers": {
-      "A": "De forma tridimensional: como valor superior del ordenamiento, como principio jurídico y como derecho fundamental.",
-      "B": "Solo como un valor moral sin relevancia jurídica.",
-      "C": "Únicamente como derecho fundamental.",
-      "D": "Ninguna de las anteriores."
+      "A": "Únicamente como derecho fundamental.",
+      "B": "Ninguna de las anteriores.",
+      "C": "De forma tridimensional: como valor superior del ordenamiento, como principio jurídico y como derecho fundamental.",
+      "D": "Solo como un valor moral sin relevancia jurídica."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 2,
     "question": "¿Cuál es el primer antecedente internacional relevante en defensa de la igualdad de mujeres y hombres?",
     "answers": {
-      "A": "La Carta de las Naciones Unidas.",
-      "B": "El Convenio de Estambul.",
-      "C": "La CEDAW.",
-      "D": "Ninguna de las anteriores."
+      "A": "La CEDAW.",
+      "B": "Ninguna de las anteriores.",
+      "C": "El Convenio de Estambul.",
+      "D": "La Carta de las Naciones Unidas."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 3,
     "question": "¿Qué artículo de la Carta de Naciones Unidas compromete a no discriminar por razón de sexo, raza, idioma o religión?",
     "answers": {
-      "A": "El artículo 1.3.",
-      "B": "El artículo 7.",
-      "C": "El artículo 14.",
-      "D": "Ninguna de las anteriores."
+      "A": "El artículo 7.",
+      "B": "Ninguna de las anteriores.",
+      "C": "El artículo 1.3.",
+      "D": "El artículo 14."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 4,
     "question": "¿En qué año se aprobó la Declaración Universal de Derechos Humanos?",
     "answers": {
       "A": "1948.",
-      "B": "1945.",
-      "C": "1958.",
-      "D": "1979."
+      "B": "1958.",
+      "C": "1979.",
+      "D": "1945."
     },
     "correct": "A"
   },
@@ -47,32 +47,32 @@
     "id": 5,
     "question": "¿Qué artículo de la Declaración Universal de Derechos Humanos menciona el término «discriminación»?",
     "answers": {
-      "A": "El artículo 7.",
+      "A": "El artículo 14.",
       "B": "El artículo 1.",
-      "C": "El artículo 14.",
-      "D": "Ninguna de las anteriores."
+      "C": "Ninguna de las anteriores.",
+      "D": "El artículo 7."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 6,
     "question": "¿A qué se refiere el Convenio 111 de la OIT, de 1958?",
     "answers": {
-      "A": "A la discriminación en materia de empleo y ocupación.",
-      "B": "A la igualdad salarial exclusivamente.",
+      "A": "A la igualdad salarial exclusivamente.",
+      "B": "Ninguna de las anteriores.",
       "C": "A la violencia machista.",
-      "D": "Ninguna de las anteriores."
+      "D": "A la discriminación en materia de empleo y ocupación."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 7,
     "question": "¿En qué año se aprobó la CEDAW (Convención sobre la eliminación de todas las formas de discriminación contra la mujer)?",
     "answers": {
       "A": "1979.",
-      "B": "1948.",
-      "C": "1958.",
-      "D": "1995."
+      "B": "1958.",
+      "C": "1995.",
+      "D": "1948."
     },
     "correct": "A"
   },
@@ -80,21 +80,21 @@
     "id": 8,
     "question": "¿Qué artículo de la CEDAW ofrece la definición de «discriminación contra la mujer»?",
     "answers": {
-      "A": "El artículo 1.",
+      "A": "Ninguna de las anteriores.",
       "B": "El artículo 17.",
       "C": "El artículo 18.",
-      "D": "Ninguna de las anteriores."
+      "D": "El artículo 1."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 9,
     "question": "¿Qué órgano crea el artículo 17 de la CEDAW?",
     "answers": {
       "A": "El Comité para la Eliminación de todas las formas de Discriminación contra la Mujer.",
-      "B": "ONU Mujeres.",
+      "B": "Ninguna de las anteriores.",
       "C": "El Comité de Derechos Humanos.",
-      "D": "Ninguna de las anteriores."
+      "D": "ONU Mujeres."
     },
     "correct": "A"
   },
@@ -102,42 +102,42 @@
     "id": 10,
     "question": "¿Con qué periodicidad deben presentar los Estados Parte un informe según el artículo 18 de la CEDAW?",
     "answers": {
-      "A": "Cada 4 años, como mínimo.",
-      "B": "Cada año.",
+      "A": "Ninguna de las anteriores.",
+      "B": "Cada 4 años, como mínimo.",
       "C": "Cada 10 años.",
-      "D": "Ninguna de las anteriores."
+      "D": "Cada año."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 11,
     "question": "¿Cuándo se aprobó el Protocolo Facultativo de la CEDAW?",
     "answers": {
-      "A": "En el año 2000.",
-      "B": "En 1979.",
-      "C": "En 1995.",
-      "D": "En 1985."
+      "A": "En 1979.",
+      "B": "En 1985.",
+      "C": "En el año 2000.",
+      "D": "En 1995."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 12,
     "question": "¿Qué dos mecanismos introduce el Protocolo Facultativo de la CEDAW?",
     "answers": {
-      "A": "El procedimiento de comunicaciones y el procedimiento de investigación.",
-      "B": "El derecho de veto y la moción de censura.",
-      "C": "El recurso de amparo y el recurso de inconstitucionalidad.",
+      "A": "El recurso de amparo y el recurso de inconstitucionalidad.",
+      "B": "El procedimiento de comunicaciones y el procedimiento de investigación.",
+      "C": "El derecho de veto y la moción de censura.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 13,
     "question": "¿Desde qué año se celebran las Conferencias Internacionales sobre las Mujeres?",
     "answers": {
       "A": "Desde 1975.",
-      "B": "Desde 1948.",
-      "C": "Desde 1958.",
+      "B": "Desde 1958.",
+      "C": "Desde 1948.",
       "D": "Desde 1995."
     },
     "correct": "A"
@@ -146,34 +146,34 @@
     "id": 14,
     "question": "¿Dónde se celebró la 1.ª Conferencia Mundial sobre la Mujer en 1975?",
     "answers": {
-      "A": "México.",
-      "B": "Copenhague.",
-      "C": "Nairobi.",
-      "D": "Beijing."
+      "A": "Nairobi.",
+      "B": "Beijing.",
+      "C": "Copenhague.",
+      "D": "México."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 15,
     "question": "¿Dónde se celebró la 2.ª Conferencia Mundial sobre la Mujer en 1980?",
     "answers": {
-      "A": "Copenhague.",
-      "B": "México.",
-      "C": "Nairobi.",
-      "D": "Beijing."
+      "A": "México.",
+      "B": "Beijing.",
+      "C": "Copenhague.",
+      "D": "Nairobi."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 16,
     "question": "¿Dónde se celebró la 3.ª Conferencia Mundial sobre la Mujer en 1985?",
     "answers": {
-      "A": "Nairobi.",
-      "B": "México.",
-      "C": "Copenhague.",
-      "D": "Beijing."
+      "A": "México.",
+      "B": "Beijing.",
+      "C": "Nairobi.",
+      "D": "Copenhague."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 17,
@@ -181,8 +181,8 @@
     "answers": {
       "A": "Beijing.",
       "B": "México.",
-      "C": "Copenhague.",
-      "D": "Nairobi."
+      "C": "Nairobi.",
+      "D": "Copenhague."
     },
     "correct": "A"
   },
@@ -191,9 +191,9 @@
     "question": "¿Qué documento aprobó la 1.ª Conferencia Mundial de 1975?",
     "answers": {
       "A": "Un Plan de Acción con logros mínimos a obtener para 1980.",
-      "B": "El Convenio de Estambul.",
+      "B": "Ninguna de las anteriores.",
       "C": "La CEDAW.",
-      "D": "Ninguna de las anteriores."
+      "D": "El Convenio de Estambul."
     },
     "correct": "A"
   },
@@ -201,54 +201,54 @@
     "id": 19,
     "question": "¿Qué evaluó la 2.ª Conferencia Mundial de Copenhague de 1980?",
     "answers": {
-      "A": "El Plan de Acción de 1975.",
-      "B": "La Plataforma de Acción de Pekín.",
+      "A": "La Plataforma de Acción de Pekín.",
+      "B": "El Plan de Acción de 1975.",
       "C": "El Convenio 111 de la OIT.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 20,
     "question": "¿Qué enfoque se introduce por primera vez en la 3.ª Conferencia de Nairobi (1985)?",
     "answers": {
-      "A": "La transversalidad de la perspectiva de género o Mainstreaming.",
-      "B": "El empoderamiento exclusivamente.",
-      "C": "La interseccionalidad.",
-      "D": "Ninguna de las anteriores."
+      "A": "La interseccionalidad.",
+      "B": "Ninguna de las anteriores.",
+      "C": "La transversalidad de la perspectiva de género o Mainstreaming.",
+      "D": "El empoderamiento exclusivamente."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 21,
     "question": "¿Qué documento se identifica como hecho más relevante de la 4.ª Conferencia de Beijing (1995)?",
     "answers": {
-      "A": "La Declaración de Beijing y la Plataforma de Acción de Pekín.",
-      "B": "El Convenio de Estambul.",
-      "C": "La CEDAW.",
-      "D": "Ninguna de las anteriores."
+      "A": "La CEDAW.",
+      "B": "Ninguna de las anteriores.",
+      "C": "El Convenio de Estambul.",
+      "D": "La Declaración de Beijing y la Plataforma de Acción de Pekín."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 22,
     "question": "¿Cuántos ámbitos de especial pertinencia identifica la Plataforma de Acción de Pekín?",
     "answers": {
-      "A": "12 ámbitos.",
-      "B": "5 ámbitos.",
-      "C": "20 ámbitos.",
-      "D": "8 ámbitos."
+      "A": "5 ámbitos.",
+      "B": "20 ámbitos.",
+      "C": "8 ámbitos.",
+      "D": "12 ámbitos."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 23,
     "question": "¿Cuántas evaluaciones/revisiones se han realizado de la Plataforma de Acción de Pekín?",
     "answers": {
       "A": "3 (Beijing+5, Beijing+10 y Beijing+15).",
-      "B": "1.",
-      "C": "10.",
-      "D": "Ninguna de las anteriores."
+      "B": "Ninguna de las anteriores.",
+      "C": "1.",
+      "D": "10."
     },
     "correct": "A"
   },
@@ -256,21 +256,21 @@
     "id": 24,
     "question": "¿Cuándo se creó ONU Mujeres?",
     "answers": {
-      "A": "En 2010.",
-      "B": "En 1995.",
-      "C": "En 1979.",
+      "A": "En 1979.",
+      "B": "En 2010.",
+      "C": "En 1995.",
       "D": "En 1948."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 25,
     "question": "¿Cuáles son organismos de Naciones Unidas especializados pero no dedicados en exclusiva a las mujeres?",
     "answers": {
       "A": "ACNUDH, PNUD, UNICEF, UNFPA y la OIT.",
-      "B": "Solo ONU Mujeres.",
-      "C": "Solo la CEDAW.",
-      "D": "Ninguna de las anteriores."
+      "B": "Solo la CEDAW.",
+      "C": "Ninguna de las anteriores.",
+      "D": "Solo ONU Mujeres."
     },
     "correct": "A"
   },
@@ -278,31 +278,31 @@
     "id": 26,
     "question": "¿Qué organismo europeo desarrolla el derecho antidiscriminatorio mediante Convenios y la Carta Social Europea?",
     "answers": {
-      "A": "El Consejo de Europa.",
+      "A": "Ninguna de las anteriores.",
       "B": "El Parlamento Europeo.",
       "C": "La OTAN.",
-      "D": "Ninguna de las anteriores."
+      "D": "El Consejo de Europa."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 27,
     "question": "¿Cuántas Conferencias de Igualdad de Oportunidades ha celebrado el Consejo de Europa según el temario?",
     "answers": {
-      "A": "Siete conferencias.",
+      "A": "Ninguna de las anteriores.",
       "B": "Cuatro conferencias.",
-      "C": "Diez conferencias.",
-      "D": "Ninguna de las anteriores."
+      "C": "Siete conferencias.",
+      "D": "Diez conferencias."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 28,
     "question": "¿En qué ciudad se celebró la 1.ª Conferencia de Igualdad de Oportunidades del Consejo de Europa?",
     "answers": {
       "A": "Estrasburgo (1986).",
-      "B": "Viena (1989).",
-      "C": "Roma (1993).",
+      "B": "Roma (1993).",
+      "C": "Viena (1989).",
       "D": "Ninguna de las anteriores."
     },
     "correct": "A"
@@ -311,12 +311,12 @@
     "id": 29,
     "question": "¿Cómo se conoce coloquialmente el Convenio del Consejo de Europa sobre prevención y lucha contra la violencia contra las mujeres y la violencia doméstica?",
     "answers": {
-      "A": "El Convenio de Estambul.",
-      "B": "El Convenio de Beijing.",
-      "C": "La CEDAW.",
+      "A": "La CEDAW.",
+      "B": "El Convenio de Estambul.",
+      "C": "El Convenio de Beijing.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 30,
@@ -335,8 +335,8 @@
     "answers": {
       "A": "En 2014.",
       "B": "En 1993.",
-      "C": "En 1981.",
-      "D": "Ninguna de las anteriores."
+      "C": "Ninguna de las anteriores.",
+      "D": "En 1981."
     },
     "correct": "A"
   },
@@ -344,54 +344,54 @@
     "id": 32,
     "question": "¿En qué contexto se aplica el Convenio de Estambul según el temario?",
     "answers": {
-      "A": "Tanto en tiempo de paz como de guerra (conflicto armado).",
+      "A": "Ninguna de las anteriores.",
       "B": "Solo en tiempo de paz.",
       "C": "Solo en conflicto armado.",
-      "D": "Ninguna de las anteriores."
+      "D": "Tanto en tiempo de paz como de guerra (conflicto armado)."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 33,
     "question": "¿Qué artículo del Tratado de Roma (1957) recoge la obligación de garantizar la igualdad de retribución entre trabajadores y trabajadoras?",
     "answers": {
-      "A": "El artículo 119.",
-      "B": "El artículo 3.",
-      "C": "El artículo 288.",
-      "D": "Ninguna de las anteriores."
+      "A": "El artículo 288.",
+      "B": "Ninguna de las anteriores.",
+      "C": "El artículo 3.",
+      "D": "El artículo 119."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 34,
     "question": "¿Cómo se llama el documento de la Comisión Europea vigente tras el Pacto por la Igualdad de Género (2011-2020)?",
     "answers": {
-      "A": "Una Unión de la igualdad: Estrategia para la Igualdad de Género 2020-2025.",
-      "B": "Convenio de Estambul.",
-      "C": "Plataforma de Acción de Pekín.",
-      "D": "Ninguna de las anteriores."
+      "A": "Ninguna de las anteriores.",
+      "B": "Una Unión de la igualdad: Estrategia para la Igualdad de Género 2020-2025.",
+      "C": "Convenio de Estambul.",
+      "D": "Plataforma de Acción de Pekín."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 35,
     "question": "¿En qué artículos de la CE de 1978 se recoge la igualdad como valor y principio inspirador?",
     "answers": {
-      "A": "Artículos 1.1, 9.2 y 14.",
-      "B": "Artículos 10 y 55.",
-      "C": "Artículos 148 y 149.",
-      "D": "Ninguna de las anteriores."
+      "A": "Ninguna de las anteriores.",
+      "B": "Artículos 148 y 149.",
+      "C": "Artículos 10 y 55.",
+      "D": "Artículos 1.1, 9.2 y 14."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 36,
     "question": "¿Qué establece el artículo 14 CE respecto a la igualdad?",
     "answers": {
       "A": "Que los españoles son iguales ante la ley, sin que pueda prevalecer discriminación alguna.",
-      "B": "Que solo los hombres tienen plenos derechos.",
-      "C": "Que la igualdad no es exigible.",
-      "D": "Ninguna de las anteriores."
+      "B": "Ninguna de las anteriores.",
+      "C": "Que solo los hombres tienen plenos derechos.",
+      "D": "Que la igualdad no es exigible."
     },
     "correct": "A"
   },
@@ -400,9 +400,9 @@
     "question": "¿En qué artículo de la CE se recoge la igualdad como derecho, en conexión con la Declaración Universal de Derechos Humanos?",
     "answers": {
       "A": "El artículo 10.",
-      "B": "El artículo 14.",
+      "B": "Ninguna de las anteriores.",
       "C": "El artículo 9.2.",
-      "D": "Ninguna de las anteriores."
+      "D": "El artículo 14."
     },
     "correct": "A"
   },
@@ -410,12 +410,12 @@
     "id": 38,
     "question": "¿Qué Ley Orgánica estatal aprobó la igualdad efectiva de mujeres y hombres en 2007?",
     "answers": {
-      "A": "Ley Orgánica 3/2007, de 22 de marzo.",
-      "B": "Ley Orgánica 10/2022.",
-      "C": "Ley Orgánica 2/2024.",
-      "D": "Ninguna de las anteriores."
+      "A": "Ninguna de las anteriores.",
+      "B": "Ley Orgánica 3/2007, de 22 de marzo.",
+      "C": "Ley Orgánica 10/2022.",
+      "D": "Ley Orgánica 2/2024."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 39,
@@ -423,8 +423,8 @@
     "answers": {
       "A": "Ley Orgánica 10/2022, de 6 de septiembre.",
       "B": "Ley Orgánica 15/2022.",
-      "C": "Ley Orgánica 2/2024.",
-      "D": "Ninguna de las anteriores."
+      "C": "Ninguna de las anteriores.",
+      "D": "Ley Orgánica 2/2024."
     },
     "correct": "A"
   },
@@ -432,65 +432,65 @@
     "id": 40,
     "question": "¿A qué artículo de la Constitución se remite el artículo 9 del Estatuto de Autonomía de Euskadi de 1979 para consagrar el principio de igualdad?",
     "answers": {
-      "A": "Al artículo 14 CE.",
-      "B": "Al artículo 149 CE.",
-      "C": "Al artículo 137 CE.",
-      "D": "Ninguna de las anteriores."
+      "A": "Al artículo 149 CE.",
+      "B": "Al artículo 14 CE.",
+      "C": "Ninguna de las anteriores.",
+      "D": "Al artículo 137 CE."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 41,
     "question": "¿Qué competencia exclusiva recoge el art. 10.39 del Estatuto vasco?",
     "answers": {
-      "A": "«Condición Femenina».",
+      "A": "Ninguna de las anteriores.",
       "B": "Educación.",
       "C": "Sanidad.",
-      "D": "Ninguna de las anteriores."
+      "D": "«Condición Femenina»."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 42,
     "question": "¿Cuándo se creó Emakunde-Instituto Vasco de la Mujer?",
     "answers": {
-      "A": "En 1988.",
-      "B": "En 1979.",
-      "C": "En 2005.",
-      "D": "En 2023."
+      "A": "En 1979.",
+      "B": "En 1988.",
+      "C": "En 2023.",
+      "D": "En 2005."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 43,
     "question": "¿Qué Ley crea Emakunde?",
     "answers": {
-      "A": "Ley 2/1988, de 5 de febrero.",
+      "A": "Ley 1/2022.",
       "B": "Ley 4/2005.",
-      "C": "Ley 1/2022.",
-      "D": "Ninguna de las anteriores."
+      "C": "Ninguna de las anteriores.",
+      "D": "Ley 2/1988, de 5 de febrero."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 44,
     "question": "¿A qué Departamento está adscrito Emakunde?",
     "answers": {
-      "A": "Al Departamento de Presidencia del Gobierno Vasco.",
-      "B": "Al Departamento de Educación.",
-      "C": "Al Departamento de Hacienda.",
-      "D": "Ninguna de las anteriores."
+      "A": "Al Departamento de Educación.",
+      "B": "Al Departamento de Hacienda.",
+      "C": "Ninguna de las anteriores.",
+      "D": "Al Departamento de Presidencia del Gobierno Vasco."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 45,
     "question": "¿Cuántos planes de acción positiva ha elaborado Emakunde hasta la actualidad, según el temario?",
     "answers": {
       "A": "Ocho planes (siendo el octavo la Estrategia 2030).",
-      "B": "Tres planes.",
+      "B": "Ninguna de las anteriores.",
       "C": "Uno solo.",
-      "D": "Ninguna de las anteriores."
+      "D": "Tres planes."
     },
     "correct": "A"
   },
@@ -498,21 +498,21 @@
     "id": 46,
     "question": "¿Qué premio recibió Emakunde en 2015?",
     "answers": {
-      "A": "El Primer Premio de Naciones Unidas al Servicio Público.",
-      "B": "El Premio Princesa de Asturias.",
-      "C": "El Premio Carlomagno.",
-      "D": "Ninguna de las anteriores."
+      "A": "Ninguna de las anteriores.",
+      "B": "El Primer Premio de Naciones Unidas al Servicio Público.",
+      "C": "El Premio Princesa de Asturias.",
+      "D": "El Premio Carlomagno."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 47,
     "question": "¿Qué Ley constituye un hito en el desarrollo de las políticas de igualdad en Euskadi?",
     "answers": {
       "A": "Ley 4/2005, de 18 de febrero, para la Igualdad de Mujeres y Hombres.",
-      "B": "Ley 2/1988.",
+      "B": "Ninguna de las anteriores.",
       "C": "Ley 10/2016.",
-      "D": "Ninguna de las anteriores."
+      "D": "Ley 2/1988."
     },
     "correct": "A"
   },
@@ -521,9 +521,9 @@
     "question": "¿Qué norma refunde la Ley 4/2005 tras sus modificaciones?",
     "answers": {
       "A": "El Decreto Legislativo 1/2023, de 16 de marzo.",
-      "B": "La Ley 3/2012.",
-      "C": "La Ley 1/2022.",
-      "D": "Ninguna de las anteriores."
+      "B": "Ninguna de las anteriores.",
+      "C": "La Ley 3/2012.",
+      "D": "La Ley 1/2022."
     },
     "correct": "A"
   },
@@ -531,21 +531,21 @@
     "id": 49,
     "question": "¿Cómo queda finalmente denominada la Ley tras la refundición?",
     "answers": {
-      "A": "Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres.",
-      "B": "Ley de Igualdad de Género de Euskadi.",
+      "A": "Ley de Igualdad de Género de Euskadi.",
+      "B": "Ninguna de las anteriores.",
       "C": "Ley del Ararteko.",
-      "D": "Ninguna de las anteriores."
+      "D": "Ley para la Igualdad de Mujeres y Hombres y Vidas Libres de Violencia Machista contra las Mujeres."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 50,
     "question": "¿Cuál es el objeto de la Ley según su artículo 1?",
     "answers": {
       "A": "Establecer los principios generales de actuación de los poderes públicos en igualdad, y regular medidas para promover y garantizar la igualdad de oportunidades y trato.",
-      "B": "Regular exclusivamente el régimen electoral.",
-      "C": "Regular la organización territorial.",
-      "D": "Ninguna de las anteriores."
+      "B": "Ninguna de las anteriores.",
+      "C": "Regular exclusivamente el régimen electoral.",
+      "D": "Regular la organización territorial."
     },
     "correct": "A"
   },
@@ -553,23 +553,23 @@
     "id": 51,
     "question": "¿Cuántos principios generales recoge la Ley 4/2005 para la igualdad de mujeres y hombres?",
     "answers": {
-      "A": "Ocho principios (posteriormente ampliados a dieciséis en el texto refundido).",
-      "B": "Cinco principios.",
-      "C": "Veinte principios.",
-      "D": "Ninguna de las anteriores."
+      "A": "Cinco principios.",
+      "B": "Ninguna de las anteriores.",
+      "C": "Ocho principios (posteriormente ampliados a dieciséis en el texto refundido).",
+      "D": "Veinte principios."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 52,
     "question": "¿Cuántos principios generales recoge el Texto Refundido de la Ley para la Igualdad?",
     "answers": {
-      "A": "Dieciséis principios generales.",
-      "B": "Ocho principios.",
+      "A": "Ocho principios.",
+      "B": "Ninguna de las anteriores.",
       "C": "Cuatro principios.",
-      "D": "Ninguna de las anteriores."
+      "D": "Dieciséis principios generales."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 53,
@@ -586,54 +586,54 @@
     "id": 54,
     "question": "¿Cuándo existe discriminación directa según el art. 3.1 a) de la ley?",
     "answers": {
-      "A": "Cuando una persona es tratada de manera menos favorable que otra en situación análoga por razón de su sexo.",
-      "B": "Cuando existe cualquier trato diferenciado con justificación objetiva.",
-      "C": "Nunca existe discriminación directa.",
-      "D": "Ninguna de las anteriores."
+      "A": "Ninguna de las anteriores.",
+      "B": "Nunca existe discriminación directa.",
+      "C": "Cuando existe cualquier trato diferenciado con justificación objetiva.",
+      "D": "Cuando una persona es tratada de manera menos favorable que otra en situación análoga por razón de su sexo."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 55,
     "question": "¿Cuándo existe discriminación indirecta según el art. 3.1 b) de la ley?",
     "answers": {
-      "A": "Cuando un acto, criterio o práctica aparentemente neutra perjudica a una proporción sustancialmente mayor de personas de un sexo, sin justificación objetiva.",
+      "A": "Nunca puede darse.",
       "B": "Cuando se aplica siempre la misma norma a todos por igual sin excepción.",
-      "C": "Nunca puede darse.",
+      "C": "Cuando un acto, criterio o práctica aparentemente neutra perjudica a una proporción sustancialmente mayor de personas de un sexo, sin justificación objetiva.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 56,
     "question": "¿Qué medidas quedan excluidas de la calificación de discriminatorias según el art. 3.1 c)?",
     "answers": {
-      "A": "Las de acción positiva, las de protección especial por motivos biológicos y las de promoción de la incorporación de hombres al trabajo doméstico y de cuidados.",
-      "B": "Ninguna medida queda excluida.",
-      "C": "Solo las medidas económicas.",
+      "A": "Ninguna medida queda excluida.",
+      "B": "Solo las medidas económicas.",
+      "C": "Las de acción positiva, las de protección especial por motivos biológicos y las de promoción de la incorporación de hombres al trabajo doméstico y de cuidados.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 57,
     "question": "¿Qué prohíbe la ley respecto a ayudas o subvenciones públicas y actividades discriminatorias?",
     "answers": {
-      "A": "Conceder ayudas a actividades discriminatorias por razón de sexo o a personas sancionadas por ello, mientras dure la sanción.",
-      "B": "No existe ninguna prohibición al respecto.",
-      "C": "Solo se prohíbe en el sector privado.",
-      "D": "Ninguna de las anteriores."
+      "A": "Solo se prohíbe en el sector privado.",
+      "B": "Ninguna de las anteriores.",
+      "C": "Conceder ayudas a actividades discriminatorias por razón de sexo o a personas sancionadas por ello, mientras dure la sanción.",
+      "D": "No existe ninguna prohibición al respecto."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 58,
     "question": "¿Qué es la igualdad de oportunidades según el art. 3.2 de la ley?",
     "answers": {
       "A": "La garantía del ejercicio efectivo de derechos en condiciones de igualdad, incluido el control y acceso al poder y a los recursos.",
-      "B": "Solo la igualdad de condiciones de partida.",
+      "B": "Ninguna de las anteriores.",
       "C": "Solo la igualdad de resultado.",
-      "D": "Ninguna de las anteriores."
+      "D": "Solo la igualdad de condiciones de partida."
     },
     "correct": "A"
   },
@@ -641,67 +641,67 @@
     "id": 59,
     "question": "¿Qué Ley se cita como referencia para evitar barreras físicas y de comunicación en el ejercicio de derechos?",
     "answers": {
-      "A": "Ley 20/1997, de 4 de diciembre, para la Promoción de la Accesibilidad.",
+      "A": "Ninguna de las anteriores.",
       "B": "Ley 4/2005.",
       "C": "Ley 2/1988.",
-      "D": "Ninguna de las anteriores."
+      "D": "Ley 20/1997, de 4 de diciembre, para la Promoción de la Accesibilidad."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 60,
     "question": "¿Qué principio recoge la Ley 1/2022 de segunda modificación de la LIMH, en su título?",
     "answers": {
-      "A": "La prevención, atención y erradicación de la violencia machista contra las mujeres, junto con vidas libres de violencia.",
-      "B": "El principio de acción positiva exclusivamente.",
-      "C": "El principio de subsidiariedad.",
-      "D": "Ninguna de las anteriores."
+      "A": "El principio de acción positiva exclusivamente.",
+      "B": "La prevención, atención y erradicación de la violencia machista contra las mujeres, junto con vidas libres de violencia.",
+      "C": "Ninguna de las anteriores.",
+      "D": "El principio de subsidiariedad."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 61,
     "question": "¿Cómo se explica en la exposición de motivos de la Ley 1/2022 la relación entre desigualdad y violencia machista?",
     "answers": {
-      "A": "La violencia machista es consecuencia de la desigualdad y de las relaciones asimétricas de poder entre mujeres y hombres.",
-      "B": "No existe ninguna relación entre ambas.",
-      "C": "La violencia es un fenómeno individual sin causa estructural.",
-      "D": "Ninguna de las anteriores."
+      "A": "Ninguna de las anteriores.",
+      "B": "La violencia machista es consecuencia de la desigualdad y de las relaciones asimétricas de poder entre mujeres y hombres.",
+      "C": "No existe ninguna relación entre ambas.",
+      "D": "La violencia es un fenómeno individual sin causa estructural."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 62,
     "question": "¿Qué artículo de la ley se refiere a la definición, tipología y principios de la violencia machista?",
     "answers": {
-      "A": "El artículo 54.",
-      "B": "El artículo 3.",
-      "C": "El artículo 21.",
-      "D": "Ninguna de las anteriores."
+      "A": "El artículo 21.",
+      "B": "El artículo 54.",
+      "C": "Ninguna de las anteriores.",
+      "D": "El artículo 3."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 63,
     "question": "¿Qué establece el artículo 57 de la ley respecto a la formación en igualdad?",
     "answers": {
-      "A": "Que debe ser básica, progresiva, permanente y obligatoria para todo el personal de los poderes públicos vascos.",
-      "B": "Que la formación es voluntaria y opcional.",
-      "C": "Que no se requiere formación alguna.",
-      "D": "Ninguna de las anteriores."
+      "A": "Que la formación es voluntaria y opcional.",
+      "B": "Que no se requiere formación alguna.",
+      "C": "Ninguna de las anteriores.",
+      "D": "Que debe ser básica, progresiva, permanente y obligatoria para todo el personal de los poderes públicos vascos."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 64,
     "question": "¿Qué establece el artículo 58.2 de la ley sobre los derechos de las víctimas de violencia machista?",
     "answers": {
-      "A": "Que se sitúan en el centro de las medidas, con independencia de su colaboración con el procedimiento judicial.",
-      "B": "Que solo se protege a las víctimas que denuncian.",
-      "C": "Que se prioriza siempre la vía policial-judicial.",
-      "D": "Ninguna de las anteriores."
+      "A": "Que se prioriza siempre la vía policial-judicial.",
+      "B": "Que se sitúan en el centro de las medidas, con independencia de su colaboración con el procedimiento judicial.",
+      "C": "Ninguna de las anteriores.",
+      "D": "Que solo se protege a las víctimas que denuncian."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 65,
@@ -709,8 +709,8 @@
     "answers": {
       "A": "El derecho a la reparación, incluyendo indemnización, reconocimiento de la verdad y no repetición.",
       "B": "Que no existe derecho a reparación.",
-      "C": "Que la reparación es solo simbólica.",
-      "D": "Ninguna de las anteriores."
+      "C": "Ninguna de las anteriores.",
+      "D": "Que la reparación es solo simbólica."
     },
     "correct": "A"
   },
@@ -718,23 +718,23 @@
     "id": 66,
     "question": "¿Qué exige el principio de respeto a la diversidad y a la diferencia (art. 3.4)?",
     "answers": {
-      "A": "Que el proceso hacia la igualdad respete la diversidad y las diferencias existentes entre mujeres y hombres, y dentro de cada colectivo.",
-      "B": "Que se eliminen todas las diferencias por decreto.",
+      "A": "Que se eliminen todas las diferencias por decreto.",
+      "B": "Que el proceso hacia la igualdad respete la diversidad y las diferencias existentes entre mujeres y hombres, y dentro de cada colectivo.",
       "C": "Que se trate a todas las personas de forma idéntica.",
       "D": "Ninguna de las anteriares."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 67,
     "question": "¿Qué es la perspectiva de género según el art. 3.5 de la ley?",
     "answers": {
-      "A": "La consideración sistemática de las diferentes situaciones, condiciones, aspiraciones y necesidades de mujeres y hombres para eliminar desigualdades.",
+      "A": "Un sinónimo de acción positiva.",
       "B": "Una técnica exclusivamente estadística.",
-      "C": "Un sinónimo de acción positiva.",
-      "D": "Ninguna de las anteriores."
+      "C": "Ninguna de las anteriores.",
+      "D": "La consideración sistemática de las diferentes situaciones, condiciones, aspiraciones y necesidades de mujeres y hombres para eliminar desigualdades."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 68,
@@ -751,31 +751,31 @@
     "id": 69,
     "question": "¿En qué país y década se origina la acción positiva según el temario?",
     "answers": {
-      "A": "En Estados Unidos, en la década de los años 60 del siglo XX.",
-      "B": "En España en los años 80.",
-      "C": "En Francia en el siglo XIX.",
+      "A": "En Francia en el siglo XIX.",
+      "B": "En Estados Unidos, en la década de los años 60 del siglo XX.",
+      "C": "En España en los años 80.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 70,
     "question": "¿Qué diferencia se establece entre medidas centradas en el «punto de salida» y en el «punto de llegada» dentro de la acción positiva?",
     "answers": {
-      "A": "Las primeras igualan condiciones de acceso (formación, subvenciones); las segundas imponen resultados (discriminación positiva).",
-      "B": "No existe diferencia alguna.",
-      "C": "Ambas son idénticas.",
-      "D": "Ninguna de las anteriores."
+      "A": "Ambas son idénticas.",
+      "B": "Las primeras igualan condiciones de acceso (formación, subvenciones); las segundas imponen resultados (discriminación positiva).",
+      "C": "Ninguna de las anteriores.",
+      "D": "No existe diferencia alguna."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 71,
     "question": "¿Qué establece el art. 3.7 de la ley sobre roles y estereotipos de género?",
     "answers": {
       "A": "Que los poderes públicos deben promover su eliminación, evitando la desigual valoración del ámbito doméstico y público.",
-      "B": "Que los estereotipos de género no existen.",
-      "C": "Que no corresponde a los poderes públicos actuar.",
+      "B": "Que no corresponde a los poderes públicos actuar.",
+      "C": "Que los estereotipos de género no existen.",
       "D": "Ninguna de las anteriores."
     },
     "correct": "A"
@@ -784,56 +784,56 @@
     "id": 72,
     "question": "¿Qué artículo de la CEDAW obliga a modificar patrones socioculturales para eliminar prejuicios de género?",
     "answers": {
-      "A": "El artículo 5.",
-      "B": "El artículo 1.",
+      "A": "Ninguna de las anteriores.",
+      "B": "El artículo 5.",
       "C": "El artículo 17.",
-      "D": "Ninguna de las anteriores."
+      "D": "El artículo 1."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 73,
     "question": "¿Qué es la interseccionalidad según el art. 3.8 del Texto Refundido de la Ley?",
     "answers": {
-      "A": "La interrelación de factores de discriminación (sexo, raza, edad, etc.) generando identidades solapadas y situaciones de poder y opresión.",
-      "B": "Un sinónimo exacto de discriminación directa.",
-      "C": "Una categoría inexistente en el ordenamiento vasco.",
-      "D": "Ninguna de las anteriores."
+      "A": "Una categoría inexistente en el ordenamiento vasco.",
+      "B": "La interrelación de factores de discriminación (sexo, raza, edad, etc.) generando identidades solapadas y situaciones de poder y opresión.",
+      "C": "Ninguna de las anteriores.",
+      "D": "Un sinónimo exacto de discriminación directa."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 74,
     "question": "¿Qué Ley estatal define la discriminación interseccional en su art. 6.3 b)?",
     "answers": {
-      "A": "Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación.",
-      "B": "Ley Orgánica 3/2007.",
+      "A": "Ley Orgánica 3/2007.",
+      "B": "Ninguna de las anteriores.",
       "C": "Ley 4/2005.",
-      "D": "Ninguna de las anteriores."
+      "D": "Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 75,
     "question": "¿Qué órgano define la interseccionalidad como herramienta analítica sobre el cruce del sexo/género con otras identidades?",
     "answers": {
-      "A": "El Instituto Europeo de la Igualdad de Género (EIGE).",
-      "B": "ONU Mujeres.",
-      "C": "El Ararteko.",
-      "D": "Ninguna de las anteriores."
+      "A": "ONU Mujeres.",
+      "B": "Ninguna de las anteriores.",
+      "C": "El Instituto Europeo de la Igualdad de Género (EIGE).",
+      "D": "El Ararteko."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 76,
     "question": "¿Qué recoge el art. 3.9 de la ley respecto a la identidad sexual o de género y la orientación sexual?",
     "answers": {
-      "A": "El deber de erradicar discriminaciones y asegurar la autonomía corporal y la autodeterminación.",
-      "B": "La prohibición absoluta de cualquier política al respecto.",
-      "C": "Ninguna referencia expresa.",
-      "D": "Ninguna de las anteriores."
+      "A": "La prohibición absoluta de cualquier política al respecto.",
+      "B": "El deber de erradicar discriminaciones y asegurar la autonomía corporal y la autodeterminación.",
+      "C": "Ninguna de las anteriores.",
+      "D": "Ninguna referencia expresa."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 77,
@@ -841,8 +841,8 @@
     "answers": {
       "A": "Los Principios de Yogyakarta de 2006.",
       "B": "La CEDAW.",
-      "C": "El Convenio de Estambul.",
-      "D": "Ninguna de las anteriores."
+      "C": "Ninguna de las anteriores.",
+      "D": "El Convenio de Estambul."
     },
     "correct": "A"
   },
@@ -850,76 +850,76 @@
     "id": 78,
     "question": "¿Qué establece la Sentencia del TC 44/2023 avalada en el temario?",
     "answers": {
-      "A": "La constitucionalidad de la Ley Orgánica 2/2010, de salud sexual y reproductiva y de la interrupción voluntaria del embarazo.",
-      "B": "La inconstitucionalidad de dicha ley.",
-      "C": "No se refiere a esta materia.",
-      "D": "Ninguna de las anteriares."
+      "A": "No se refiere a esta materia.",
+      "B": "Ninguna de las anteriares.",
+      "C": "La inconstitucionalidad de dicha ley.",
+      "D": "La constitucionalidad de la Ley Orgánica 2/2010, de salud sexual y reproductiva y de la interrupción voluntaria del embarazo."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 79,
     "question": "¿Qué se entiende por representación equilibrada en órganos de más de cuatro miembros según el art. 3.10?",
     "answers": {
-      "A": "Cuando cada sexo está representado al menos al 40%.",
+      "A": "Ninguna de las anteriores.",
       "B": "Cuando cada sexo tiene el 50% exacto obligatorio.",
-      "C": "Cuando un solo sexo domina completamente.",
-      "D": "Ninguna de las anteriores."
+      "C": "Cuando cada sexo está representado al menos al 40%.",
+      "D": "Cuando un solo sexo domina completamente."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 80,
     "question": "¿Qué Ley Orgánica estatal introduce la representación paritaria en listas electorales mediante el modelo de «listas cremallera»?",
     "answers": {
-      "A": "Ley Orgánica 2/2024, de 1 de agosto.",
-      "B": "Ley Orgánica 3/2007.",
+      "A": "Ley Orgánica 3/2007.",
+      "B": "Ninguna de las anteriores.",
       "C": "Ley Orgánica 5/1985.",
-      "D": "Ninguna de las anteriores."
+      "D": "Ley Orgánica 2/2024, de 1 de agosto."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 81,
     "question": "¿Qué sentencia del TC avaló la constitucionalidad de las «listas cremallera»?",
     "answers": {
-      "A": "STC 40/2011, de 31 de marzo.",
-      "B": "STC 76/1988.",
-      "C": "STC 94/1985.",
-      "D": "Ninguna de las anteriores."
+      "A": "STC 94/1985.",
+      "B": "Ninguna de las anteriores.",
+      "C": "STC 40/2011, de 31 de marzo.",
+      "D": "STC 76/1988."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 82,
     "question": "¿Qué principio recoge el art. 3.11 respecto a la colaboración entre poderes públicos vascos?",
     "answers": {
-      "A": "La obligación de colaborar y coordinar sus actuaciones en materia de igualdad para una utilización racional de recursos.",
-      "B": "La prohibición de cualquier coordinación.",
-      "C": "La centralización absoluta en un único órgano.",
-      "D": "Ninguna de las anteriores."
+      "A": "La prohibición de cualquier coordinación.",
+      "B": "La centralización absoluta en un único órgano.",
+      "C": "Ninguna de las anteriores.",
+      "D": "La obligación de colaborar y coordinar sus actuaciones en materia de igualdad para una utilización racional de recursos."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 83,
     "question": "¿Qué órgano coordina las actuaciones del Gobierno Vasco en materia de igualdad, adscrito a Emakunde?",
     "answers": {
-      "A": "La Comisión Interdepartamental para la Igualdad de Mujeres y Hombres.",
+      "A": "Ninguna de las anteriores.",
       "B": "El Ararteko.",
       "C": "El Tribunal Vasco de Cuentas.",
-      "D": "Ninguna de las anteriores."
+      "D": "La Comisión Interdepartamental para la Igualdad de Mujeres y Hombres."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 84,
     "question": "¿Qué órgano coordina las políticas de igualdad entre Administración autonómica, foral y local?",
     "answers": {
       "A": "La Comisión Interinstitucional para la Igualdad de Mujeres y Hombres.",
-      "B": "La Comisión Arbitral.",
+      "B": "Ninguna de las anteriores.",
       "C": "El Consejo Vasco de Finanzas Públicas.",
-      "D": "Ninguna de las anteriores."
+      "D": "La Comisión Arbitral."
     },
     "correct": "A"
   },
@@ -927,31 +927,31 @@
     "id": 85,
     "question": "¿Qué red impulsada por Emakunde y Eudel trabaja a nivel intermunicipal en igualdad y contra la violencia?",
     "answers": {
-      "A": "Berdinsarea.",
-      "B": "Red Dawn-Mudar.",
-      "C": "GTI.",
-      "D": "Ninguna de las anteriores."
+      "A": "Ninguna de las anteriores.",
+      "B": "GTI.",
+      "C": "Red Dawn-Mudar.",
+      "D": "Berdinsarea."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 86,
     "question": "¿Qué define el art. 3.12 de la ley como empoderamiento de las mujeres?",
     "answers": {
-      "A": "El proceso de toma de conciencia individual y colectiva de la desigualdad, y adquisición de poder y control para transformar las estructuras que la perpetúan.",
-      "B": "Un sinónimo de acción positiva exclusivamente.",
-      "C": "Una medida temporal sin efectos estructurales.",
-      "D": "Ninguna de las anteriores."
+      "A": "Ninguna de las anteriores.",
+      "B": "El proceso de toma de conciencia individual y colectiva de la desigualdad, y adquisición de poder y control para transformar las estructuras que la perpetúan.",
+      "C": "Un sinónimo de acción positiva exclusivamente.",
+      "D": "Una medida temporal sin efectos estructurales."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 87,
     "question": "¿Dónde se originó el enfoque del empoderamiento, según el temario?",
     "answers": {
       "A": "En la Red Dawn-Mudar, formada por mujeres feministas indias.",
-      "B": "En Naciones Unidas exclusivamente.",
-      "C": "En el Consejo de Europa.",
+      "B": "En el Consejo de Europa.",
+      "C": "En Naciones Unidas exclusivamente.",
       "D": "Ninguna de las anteriores."
     },
     "correct": "A"
@@ -960,21 +960,21 @@
     "id": 88,
     "question": "¿Qué principio recoge el art. 3.13 respecto a la implicación de los hombres?",
     "answers": {
-      "A": "Promover la concienciación, responsabilidad y participación de los hombres a favor de la igualdad y contra la violencia machista.",
-      "B": "Excluir a los hombres de cualquier política de igualdad.",
+      "A": "Excluir a los hombres de cualquier política de igualdad.",
+      "B": "Ninguna de las anteriores.",
       "C": "No es un principio recogido en la ley.",
-      "D": "Ninguna de las anteriores."
+      "D": "Promover la concienciación, responsabilidad y participación de los hombres a favor de la igualdad y contra la violencia machista."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 89,
     "question": "¿Qué principio recoge el art. 3.14 sobre la participación?",
     "answers": {
       "A": "Impulsar la participación e interlocución de grupos feministas, agentes sociales y ciudadanía en las políticas públicas.",
-      "B": "Limitar la participación exclusivamente a partidos políticos.",
-      "C": "Prohibir la participación ciudadana.",
-      "D": "Ninguna de las anteriores."
+      "B": "Prohibir la participación ciudadana.",
+      "C": "Ninguna de las anteriores.",
+      "D": "Limitar la participación exclusivamente a partidos políticos."
     },
     "correct": "A"
   },
@@ -982,23 +982,23 @@
     "id": 90,
     "question": "¿Qué principio recoge el art. 3.15 sobre innovación, transparencia y rendición de cuentas?",
     "answers": {
-      "A": "Fomentar la innovación y garantizar la transparencia y rendición de cuentas sobre los recursos destinados a igualdad.",
-      "B": "Prohibir la evaluación de políticas públicas.",
-      "C": "No aplicar ningún criterio de transparencia.",
+      "A": "No aplicar ningún criterio de transparencia.",
+      "B": "Fomentar la innovación y garantizar la transparencia y rendición de cuentas sobre los recursos destinados a igualdad.",
+      "C": "Prohibir la evaluación de políticas públicas.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 91,
     "question": "¿Qué derecho recoge el art. 41.1 de la Carta de Derechos Fundamentales de la UE en relación con la buena administración?",
     "answers": {
-      "A": "El derecho a una buena administración.",
-      "B": "El derecho al voto.",
-      "C": "El derecho a la propiedad.",
-      "D": "Ninguna de las anteriores."
+      "A": "El derecho al voto.",
+      "B": "El derecho a una buena administración.",
+      "C": "Ninguna de las anteriores.",
+      "D": "El derecho a la propiedad."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 92,
@@ -1006,8 +1006,8 @@
     "answers": {
       "A": "El Plan Estratégico de Gobernanza e Innovación Pública.",
       "B": "La Estrategia 2030.",
-      "C": "El Convenio de Estambul.",
-      "D": "Ninguna de las anteriores."
+      "C": "Ninguna de las anteriores.",
+      "D": "El Convenio de Estambul."
     },
     "correct": "A"
   },
@@ -1015,78 +1015,78 @@
     "id": 93,
     "question": "¿Qué principio recoge el art. 3.16 sobre derechos lingüísticos?",
     "answers": {
-      "A": "Garantizar el ejercicio de los derechos lingüísticos y la promoción del uso del euskera en el ámbito de la igualdad.",
-      "B": "Prohibir el uso del euskera en políticas de igualdad.",
-      "C": "No hace referencia al euskera.",
-      "D": "Ninguna de las anteriores."
+      "A": "Ninguna de las anteriores.",
+      "B": "Garantizar el ejercicio de los derechos lingüísticos y la promoción del uso del euskera en el ámbito de la igualdad.",
+      "C": "Prohibir el uso del euskera en políticas de igualdad.",
+      "D": "No hace referencia al euskera."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 94,
     "question": "¿Qué Título de la Ley regula las medidas para integrar la perspectiva de género en distintos ámbitos de la vida pública?",
     "answers": {
-      "A": "El Título II.",
-      "B": "El Título I.",
-      "C": "El Título V.",
-      "D": "Ninguna de las anteriores."
+      "A": "El Título I.",
+      "B": "El Título II.",
+      "C": "Ninguna de las anteriores.",
+      "D": "El Título V."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 95,
     "question": "¿Qué Capítulo del Título II regula las medidas para promover la igualdad en la normativa y actividad administrativa?",
     "answers": {
-      "A": "El Capítulo IV (artículos 19 a 25).",
+      "A": "Ninguna de las anteriores.",
       "B": "El Capítulo I.",
-      "C": "El Capítulo VI.",
-      "D": "Ninguna de las anteriores."
+      "C": "El Capítulo IV (artículos 19 a 25).",
+      "D": "El Capítulo VI."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 96,
     "question": "¿Qué establece el art. 19.1 de la ley respecto a la elaboración de normas, planes y contratos?",
     "answers": {
-      "A": "Que los poderes públicos vascos han de tener en cuenta de manera activa el objetivo de la igualdad de mujeres y hombres.",
-      "B": "Que la igualdad es un objetivo optativo en la elaboración de normas.",
-      "C": "Que solo aplica a las leyes, no a los contratos.",
-      "D": "Ninguna de las anteriores."
+      "A": "Ninguna de las anteriores.",
+      "B": "Que solo aplica a las leyes, no a los contratos.",
+      "C": "Que la igualdad es un objetivo optativo en la elaboración de normas.",
+      "D": "Que los poderes públicos vascos han de tener en cuenta de manera activa el objetivo de la igualdad de mujeres y hombres."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 97,
     "question": "¿Qué exige el art. 20.1 de la ley respecto a proyectos de norma?",
     "answers": {
-      "A": "Realizar una evaluación previa en función del género, analizando las consecuencias sobre la igualdad.",
-      "B": "No exige ninguna evaluación previa.",
-      "C": "Exige solo una evaluación económica.",
-      "D": "Ninguna de las anteriores."
+      "A": "Ninguna de las anteriores.",
+      "B": "Exige solo una evaluación económica.",
+      "C": "Realizar una evaluación previa en función del género, analizando las consecuencias sobre la igualdad.",
+      "D": "No exige ninguna evaluación previa."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 98,
     "question": "¿Qué debe incorporar el órgano promotor de una norma tras la evaluación de impacto de género (art. 20.2)?",
     "answers": {
-      "A": "Medidas correctoras para eliminar las desigualdades detectadas y promover la igualdad.",
-      "B": "Ninguna medida adicional.",
-      "C": "Solo una nota informativa sin efectos.",
-      "D": "Ninguna de las anteriores."
+      "A": "Ninguna de las anteriores.",
+      "B": "Solo una nota informativa sin efectos.",
+      "C": "Ninguna medida adicional.",
+      "D": "Medidas correctoras para eliminar las desigualdades detectadas y promover la igualdad."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 99,
     "question": "¿Qué medida se prevé en los procesos selectivos de empleo público en caso de igualdad de capacitación (art. 21.1 a)?",
     "answers": {
-      "A": "Dar prioridad a las mujeres en cuerpos donde su representación sea inferior al 40%.",
-      "B": "Dar prioridad automática a los hombres.",
-      "C": "No existe ninguna previsión al respecto.",
+      "A": "Dar prioridad automática a los hombres.",
+      "B": "No existe ninguna previsión al respecto.",
+      "C": "Dar prioridad a las mujeres en cuerpos donde su representación sea inferior al 40%.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 100,
@@ -1094,8 +1094,8 @@
     "answers": {
       "A": "Garantizar una representación equilibrada de mujeres y hombres con capacitación adecuada.",
       "B": "Que estén compuestos exclusivamente por mujeres.",
-      "C": "Que estén compuestos exclusivamente por hombres.",
-      "D": "Ninguna de las anteriores."
+      "C": "Ninguna de las anteriores.",
+      "D": "Que estén compuestos exclusivamente por hombres."
     },
     "correct": "A"
   },
@@ -1103,20 +1103,20 @@
     "id": 101,
     "question": "¿Qué se valora en los baremos de méritos según el art. 21.1 c)?",
     "answers": {
-      "A": "El tiempo de excedencia por cuidado de familiares o violencia de género, y reducciones de jornada por conciliación.",
-      "B": "Únicamente la antigüedad sin excepciones.",
-      "C": "Nada relacionado con conciliación.",
-      "D": "Ninguna de las anteriores."
+      "A": "Nada relacionado con conciliación.",
+      "B": "Ninguna de las anteriores.",
+      "C": "El tiempo de excedencia por cuidado de familiares o violencia de género, y reducciones de jornada por conciliación.",
+      "D": "Únicamente la antigüedad sin excepciones."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 102,
     "question": "¿Qué deben incorporar los poderes públicos vascos en materia de contratación pública según el art. 22.1?",
     "answers": {
       "A": "La perspectiva de género, incluyendo cláusulas de igualdad entre los criterios de adjudicación.",
-      "B": "Ninguna cláusula relacionada con igualdad.",
-      "C": "Solo criterios económicos.",
+      "B": "Solo criterios económicos.",
+      "C": "Ninguna cláusula relacionada con igualdad.",
       "D": "Ninguna de las anteriores."
     },
     "correct": "A"
@@ -1125,12 +1125,12 @@
     "id": 103,
     "question": "¿Qué deben incluir las bases de subvenciones públicas según el art. 23.1?",
     "answers": {
-      "A": "Medidas para promover la igualdad entre los criterios de valoración y obligaciones de las personas beneficiarias.",
-      "B": "Ninguna referencia a la igualdad.",
-      "C": "Solo criterios de solvencia económica.",
+      "A": "Ninguna referencia a la igualdad.",
+      "B": "Solo criterios de solvencia económica.",
+      "C": "Medidas para promover la igualdad entre los criterios de valoración y obligaciones de las personas beneficiarias.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 104,
@@ -1147,23 +1147,23 @@
     "id": 105,
     "question": "¿Cuándo puede omitirse la evaluación previa del impacto de género?",
     "answers": {
-      "A": "De forma excepcional, mediante informe motivado y aprobado por el órgano competente que justifique la omisión.",
-      "B": "Nunca puede omitirse bajo ninguna circunstancia.",
-      "C": "Siempre puede omitirse sin justificación.",
-      "D": "Ninguna de las anteriares."
+      "A": "Siempre puede omitirse sin justificación.",
+      "B": "Ninguna de las anteriares.",
+      "C": "De forma excepcional, mediante informe motivado y aprobado por el órgano competente que justifique la omisión.",
+      "D": "Nunca puede omitirse bajo ninguna circunstancia."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 106,
     "question": "¿Qué directrices aprobó el Consejo de Gobierno el 21 de agosto de 2012 sobre evaluación de impacto de género?",
     "answers": {
-      "A": "Las «Directrices sobre la realización de la evaluación previa del impacto en función del género».",
+      "A": "La Ley 4/2005.",
       "B": "El Plan Estratégico de Gobernanza.",
-      "C": "La Ley 4/2005.",
-      "D": "Ninguna de las anteriores."
+      "C": "Ninguna de las anteriores.",
+      "D": "Las «Directrices sobre la realización de la evaluación previa del impacto en función del género»."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 107,
@@ -1180,23 +1180,23 @@
     "id": 108,
     "question": "¿Qué Norma Foral regula la evaluación de impacto de género en Gipuzkoa?",
     "answers": {
-      "A": "Norma Foral 2/2015, de 9 de marzo, para la igualdad de mujeres y hombres.",
-      "B": "Norma Foral 6/2023.",
-      "C": "Ley 2/2016.",
-      "D": "Ninguna de las anteriores."
+      "A": "Norma Foral 6/2023.",
+      "B": "Norma Foral 2/2015, de 9 de marzo, para la igualdad de mujeres y hombres.",
+      "C": "Ninguna de las anteriores.",
+      "D": "Ley 2/2016."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 109,
     "question": "¿Qué exige el art. 19.4 de la ley respecto al lenguaje utilizado por los poderes públicos vascos?",
     "answers": {
-      "A": "Hacer un uso no sexista de todo tipo de lenguaje en los documentos que produzcan.",
-      "B": "No existe ninguna exigencia al respecto.",
-      "C": "Solo aplica al lenguaje oral.",
-      "D": "Ninguna de las anteriores."
+      "A": "Solo aplica al lenguaje oral.",
+      "B": "Ninguna de las anteriores.",
+      "C": "No existe ninguna exigencia al respecto.",
+      "D": "Hacer un uso no sexista de todo tipo de lenguaje en los documentos que produzcan."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 110,
@@ -1204,8 +1204,8 @@
     "answers": {
       "A": "Considerar a los hombres como sujetos de referencia y a las mujeres como seres dependientes y subordinados.",
       "B": "Considerar a ambos sexos por igual.",
-      "C": "Es un concepto sin relación con el lenguaje.",
-      "D": "Ninguna de las anteriores."
+      "C": "Ninguna de las anteriores.",
+      "D": "Es un concepto sin relación con el lenguaje."
     },
     "correct": "A"
   },
@@ -1213,22 +1213,22 @@
     "id": 111,
     "question": "¿Qué es el sexismo según el temario?",
     "answers": {
-      "A": "La asignación de valores, capacidades y roles diferentes a hombres y mujeres exclusivamente en función de su sexo.",
-      "B": "Un sinónimo de igualdad.",
-      "C": "Un concepto obsoleto sin vigencia actual.",
+      "A": "Un concepto obsoleto sin vigencia actual.",
+      "B": "La asignación de valores, capacidades y roles diferentes a hombres y mujeres exclusivamente en función de su sexo.",
+      "C": "Un sinónimo de igualdad.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 112,
     "question": "¿Existen, según el temario, lenguas sexistas o usos sexistas de la lengua?",
     "answers": {
-      "A": "No existen lenguas sexistas, sino usos sexistas de la lengua; el sexismo está en el pensamiento.",
-      "B": "Existen lenguas intrínsecamente sexistas.",
-      "C": "El castellano es intrínsecamente sexista por su gramática.",
+      "A": "Existen lenguas intrínsecamente sexistas.",
+      "B": "El castellano es intrínsecamente sexista por su gramática.",
+      "C": "No existen lenguas sexistas, sino usos sexistas de la lengua; el sexismo está en el pensamiento.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "C"
   }
 ]

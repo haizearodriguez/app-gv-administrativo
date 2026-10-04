@@ -5,8 +5,8 @@
     "answers": {
       "A": "27 Estados.",
       "B": "28 Estados.",
-      "C": "25 Estados.",
-      "D": "30 Estados."
+      "C": "30 Estados.",
+      "D": "25 Estados."
     },
     "correct": "A"
   },
@@ -14,64 +14,64 @@
     "id": 2,
     "question": "¿Cuándo se inició oficialmente el proyecto de construcción europea?",
     "answers": {
-      "A": "El 9 de mayo de 1950, con la Declaración de Robert Schuman.",
+      "A": "En 2009 con el Tratado de Lisboa.",
       "B": "En 1957 con el Tratado de Roma.",
-      "C": "En 1993 con el Tratado de Maastricht.",
-      "D": "En 2009 con el Tratado de Lisboa."
+      "C": "El 9 de mayo de 1950, con la Declaración de Robert Schuman.",
+      "D": "En 1993 con el Tratado de Maastricht."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 3,
     "question": "¿Qué comunidad se creó el 18 de abril de 1951?",
     "answers": {
-      "A": "La Comunidad Europea del Carbón y del Acero (CECA).",
-      "B": "La Comunidad Económica Europea (CEE).",
-      "C": "La Unión Europea.",
-      "D": "La Comunidad Europea de la Energía Atómica (CEEA)."
+      "A": "La Comunidad Europea de la Energía Atómica (CEEA).",
+      "B": "La Unión Europea.",
+      "C": "La Comunidad Económica Europea (CEE).",
+      "D": "La Comunidad Europea del Carbón y del Acero (CECA)."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 4,
     "question": "La CEE y la CEEA se constituyeron mediante tratados de:",
     "answers": {
-      "A": "25 de marzo de 1957.",
-      "B": "9 de mayo de 1950.",
-      "C": "18 de abril de 1951.",
-      "D": "1 de diciembre de 2009."
+      "A": "1 de diciembre de 2009.",
+      "B": "18 de abril de 1951.",
+      "C": "9 de mayo de 1950.",
+      "D": "25 de marzo de 1957."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 5,
     "question": "¿En qué año entró en vigor el Tratado de Maastricht, dando origen a la Unión Europea?",
     "answers": {
-      "A": "1993.",
-      "B": "1957.",
+      "A": "1957.",
+      "B": "1993.",
       "C": "1978.",
       "D": "2009."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 6,
     "question": "¿Cuándo entró en vigor el Tratado de Lisboa?",
     "answers": {
-      "A": "El 1 de diciembre de 2009.",
+      "A": "El 25 de marzo de 1957.",
       "B": "El 1 de enero de 2002.",
-      "C": "El 25 de marzo de 1957.",
+      "C": "El 1 de diciembre de 2009.",
       "D": "El 9 de mayo de 1950."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 7,
     "question": "Los textos constitutivos principales de la UE tras el Tratado de Lisboa son:",
     "answers": {
       "A": "El Tratado de la Unión Europea (TUE) y el Tratado de Funcionamiento de la Unión Europea (TFUE).",
-      "B": "Solo el TFUE.",
-      "C": "Solo el TUE.",
+      "B": "Solo el TUE.",
+      "C": "Solo el TFUE.",
       "D": "El Tratado de Maastricht y el Tratado de Roma."
     },
     "correct": "A"
@@ -80,32 +80,32 @@
     "id": 8,
     "question": "¿Cuántas instituciones tiene actualmente la UE tras el Tratado de Lisboa?",
     "answers": {
-      "A": "Siete.",
-      "B": "Cinco.",
-      "C": "Diez.",
-      "D": "Tres."
+      "A": "Tres.",
+      "B": "Siete.",
+      "C": "Cinco.",
+      "D": "Diez."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 9,
     "question": "¿Cuáles son las cinco primeras instituciones analizadas en el temario?",
     "answers": {
-      "A": "Consejo Europeo, Consejo de la UE, Comisión Europea, Parlamento Europeo y Tribunal de Justicia de la UE.",
-      "B": "Solo el Parlamento y la Comisión.",
-      "C": "El BCE y el Tribunal de Cuentas.",
-      "D": "Ninguna de las anteriores."
+      "A": "Ninguna de las anteriores.",
+      "B": "El BCE y el Tribunal de Cuentas.",
+      "C": "Solo el Parlamento y la Comisión.",
+      "D": "Consejo Europeo, Consejo de la UE, Comisión Europea, Parlamento Europeo y Tribunal de Justicia de la UE."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 10,
     "question": "¿Qué instituciones no se analizan en detalle pero forman parte de las siete instituciones de la UE?",
     "answers": {
       "A": "El Tribunal de Cuentas y el Banco Central Europeo.",
-      "B": "El Consejo de la UE y la Comisión.",
-      "C": "El Parlamento Europeo.",
-      "D": "Ninguna de las anteriores."
+      "B": "El Parlamento Europeo.",
+      "C": "Ninguna de las anteriores.",
+      "D": "El Consejo de la UE y la Comisión."
     },
     "correct": "A"
   },
@@ -113,32 +113,32 @@
     "id": 11,
     "question": "El Consejo Europeo está compuesto por:",
     "answers": {
-      "A": "Los Jefes de Estado y/o de Gobierno de los Estados miembros, su Presidente y el Presidente de la Comisión.",
+      "A": "Ninguna de las anteriores.",
       "B": "Un Ministro de cada Estado miembro.",
-      "C": "Los eurodiputados.",
-      "D": "Ninguna de las anteriores."
+      "C": "Los Jefes de Estado y/o de Gobierno de los Estados miembros, su Presidente y el Presidente de la Comisión.",
+      "D": "Los eurodiputados."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 12,
     "question": "¿Cuántos miembros tiene actualmente el Consejo Europeo tras la salida del Reino Unido?",
     "answers": {
-      "A": "29 miembros.",
+      "A": "30 miembros.",
       "B": "27 miembros.",
-      "C": "28 miembros.",
-      "D": "30 miembros."
+      "C": "29 miembros.",
+      "D": "28 miembros."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 13,
     "question": "¿Cuándo se produjo la salida del Reino Unido de la UE?",
     "answers": {
       "A": "El 31 de enero de 2020.",
-      "B": "El 1 de diciembre de 2009.",
-      "C": "El 25 de marzo de 1957.",
-      "D": "El 9 de mayo de 1950."
+      "B": "El 25 de marzo de 1957.",
+      "C": "El 9 de mayo de 1950.",
+      "D": "El 1 de diciembre de 2009."
     },
     "correct": "A"
   },
@@ -147,9 +147,9 @@
     "question": "¿Con qué carácter se reúne ordinariamente el Consejo Europeo?",
     "answers": {
       "A": "Dos veces por semestre.",
-      "B": "Una vez al mes.",
-      "C": "Una vez al año.",
-      "D": "Cada dos años."
+      "B": "Cada dos años.",
+      "C": "Una vez al mes.",
+      "D": "Una vez al año."
     },
     "correct": "A"
   },
@@ -157,34 +157,34 @@
     "id": 15,
     "question": "¿Cuál es la duración del mandato del Presidente del Consejo Europeo?",
     "answers": {
-      "A": "Dos años y medio, renovable una sola vez.",
-      "B": "Cuatro años, no renovable.",
+      "A": "Cuatro años, no renovable.",
+      "B": "Un año, renovable indefinidamente.",
       "C": "Cinco años, renovable.",
-      "D": "Un año, renovable indefinidamente."
+      "D": "Dos años y medio, renovable una sola vez."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 16,
     "question": "¿Quién ejerce actualmente el cargo de Presidente del Consejo Europeo según el temario (desde 2019)?",
     "answers": {
-      "A": "Charles Michel, ex-Primer Ministro belga.",
+      "A": "Josep Borrell.",
       "B": "Ursula von der Leyen.",
-      "C": "Josep Borrell.",
-      "D": "Jean-Claude Juncker."
+      "C": "Jean-Claude Juncker.",
+      "D": "Charles Michel, ex-Primer Ministro belga."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 17,
     "question": "El Consejo Europeo tiene un papel relevante en materia de:",
     "answers": {
-      "A": "La Política Exterior y de Seguridad Común (PESC).",
-      "B": "El comercio exterior únicamente.",
+      "A": "El comercio exterior únicamente.",
+      "B": "La Política Exterior y de Seguridad Común (PESC).",
       "C": "La política agraria común.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 18,
@@ -201,32 +201,32 @@
     "id": 19,
     "question": "¿Desde qué año se admite la participación en el Consejo de un responsable político de un ente sub-estatal con autonomía política?",
     "answers": {
-      "A": "1993, tras la entrada en vigor del Tratado de la Unión Europea.",
-      "B": "1957.",
-      "C": "2009.",
+      "A": "1957.",
+      "B": "2009.",
+      "C": "1993, tras la entrada en vigor del Tratado de la Unión Europea.",
       "D": "1950."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 20,
     "question": "¿Cuántas formaciones tiene actualmente el Consejo de la UE?",
     "answers": {
-      "A": "10 formaciones.",
+      "A": "3 formaciones.",
       "B": "5 formaciones.",
-      "C": "27 formaciones.",
-      "D": "3 formaciones."
+      "C": "10 formaciones.",
+      "D": "27 formaciones."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 21,
     "question": "La formación del Consejo «de Asuntos Generales» está compuesta por:",
     "answers": {
       "A": "Los Ministros de Asuntos Exteriores, que velan por la coherencia de las formaciones del Consejo.",
-      "B": "Los Ministros de Agricultura.",
-      "C": "Los Jefes de Estado.",
-      "D": "Ninguna de las anteriores."
+      "B": "Los Jefes de Estado.",
+      "C": "Ninguna de las anteriores.",
+      "D": "Los Ministros de Agricultura."
     },
     "correct": "A"
   },
@@ -258,8 +258,8 @@
     "answers": {
       "A": "EcoFin.",
       "B": "COREPER.",
-      "C": "PESC.",
-      "D": "TFUE."
+      "C": "TFUE.",
+      "D": "PESC."
     },
     "correct": "A"
   },
@@ -268,9 +268,9 @@
     "question": "¿Cuál es el carácter de la Presidencia del Consejo de la UE?",
     "answers": {
       "A": "Rotatorio, semestral entre los Estados miembros.",
-      "B": "Vitalicio.",
-      "C": "Elegido por sufragio universal.",
-      "D": "Ninguna de las anteriores."
+      "B": "Ninguna de las anteriores.",
+      "C": "Vitalicio.",
+      "D": "Elegido por sufragio universal."
     },
     "correct": "A"
   },
@@ -278,34 +278,34 @@
     "id": 26,
     "question": "¿Qué órgano prepara previamente las reuniones de trabajo del Consejo de la UE?",
     "answers": {
-      "A": "El Comité de Representantes Permanentes (COREPER).",
-      "B": "El Parlamento Europeo.",
-      "C": "El Tribunal de Justicia.",
-      "D": "Ninguna de las anteriores."
+      "A": "Ninguna de las anteriores.",
+      "B": "El Tribunal de Justicia.",
+      "C": "El Comité de Representantes Permanentes (COREPER).",
+      "D": "El Parlamento Europeo."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 27,
     "question": "¿Cuáles son las tres formas de adoptar decisiones del Consejo de la UE?",
     "answers": {
-      "A": "La mayoría simple, la mayoría cualificada y la unanimidad.",
-      "B": "Solo la unanimidad.",
-      "C": "Solo la mayoría simple.",
-      "D": "El voto ponderado exclusivamente."
+      "A": "Solo la unanimidad.",
+      "B": "El voto ponderado exclusivamente.",
+      "C": "La mayoría simple, la mayoría cualificada y la unanimidad.",
+      "D": "Solo la mayoría simple."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 28,
     "question": "Para la mayoría cualificada actual en el Consejo, se precisa el voto a favor de:",
     "answers": {
-      "A": "El 55% de los Estados y que representen el 65% de la población.",
-      "B": "El 100% de los Estados.",
-      "C": "El 50% de los Estados exclusivamente.",
-      "D": "Ninguna de las anteriores."
+      "A": "El 50% de los Estados exclusivamente.",
+      "B": "Ninguna de las anteriores.",
+      "C": "El 55% de los Estados y que representen el 65% de la población.",
+      "D": "El 100% de los Estados."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 29,
@@ -313,8 +313,8 @@
     "answers": {
       "A": "Desde el 1 de noviembre de 2014.",
       "B": "Desde 1957.",
-      "C": "Desde 2009.",
-      "D": "Desde 1993."
+      "C": "Desde 1993.",
+      "D": "Desde 2009."
     },
     "correct": "A"
   },
@@ -322,76 +322,76 @@
     "id": 30,
     "question": "¿Qué es la minoría de bloqueo en el Consejo de la UE?",
     "answers": {
-      "A": "La formada por 13 Estados que voten en contra o un número que represente más del 35% de la población.",
+      "A": "El 72% de los Estados.",
       "B": "La mayoría de los Estados.",
-      "C": "El 72% de los Estados.",
-      "D": "Ninguna de las anteriores."
+      "C": "Ninguna de las anteriores.",
+      "D": "La formada por 13 Estados que voten en contra o un número que represente más del 35% de la población."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 31,
     "question": "¿Junto con qué institución aprueba el Consejo de la UE el presupuesto anual de la UE?",
     "answers": {
-      "A": "El Parlamento Europeo.",
-      "B": "El Tribunal de Cuentas.",
-      "C": "El Banco Central Europeo.",
-      "D": "Ninguna de las anteriores."
+      "A": "El Banco Central Europeo.",
+      "B": "El Parlamento Europeo.",
+      "C": "Ninguna de las anteriores.",
+      "D": "El Tribunal de Cuentas."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 32,
     "question": "La Comisión Europea representa:",
     "answers": {
-      "A": "El interés general de la UE y constituye el ejecutivo europeo.",
-      "B": "Los intereses de cada Estado miembro individualmente.",
-      "C": "Al Poder Judicial de la UE.",
-      "D": "Ninguna de las anteriores."
+      "A": "Los intereses de cada Estado miembro individualmente.",
+      "B": "Ninguna de las anteriores.",
+      "C": "El interés general de la UE y constituye el ejecutivo europeo.",
+      "D": "Al Poder Judicial de la UE."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 33,
     "question": "¿Cuántos comisarios integran actualmente la Comisión Europea?",
     "answers": {
-      "A": "27, uno por cada Estado miembro.",
-      "B": "25.",
-      "C": "705.",
-      "D": "10."
+      "A": "25.",
+      "B": "10.",
+      "C": "27, uno por cada Estado miembro.",
+      "D": "705."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 34,
     "question": "¿Quién elige al Presidente de la Comisión Europea?",
     "answers": {
-      "A": "Es elegido por el Consejo Europeo entre los candidatos y aprobado por el Parlamento Europeo.",
-      "B": "Es elegido directamente por sufragio universal europeo.",
-      "C": "Lo designa el Consejo de la UE únicamente.",
-      "D": "Ninguna de las anteriores."
+      "A": "Es elegido directamente por sufragio universal europeo.",
+      "B": "Es elegido por el Consejo Europeo entre los candidatos y aprobado por el Parlamento Europeo.",
+      "C": "Ninguna de las anteriores.",
+      "D": "Lo designa el Consejo de la UE únicamente."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 35,
     "question": "¿Quién es la actual Presidenta de la Comisión Europea (2019-2024) según el temario?",
     "answers": {
-      "A": "Ursula von der Leyen.",
-      "B": "Jean-Claude Juncker.",
-      "C": "Charles Michel.",
+      "A": "Jean-Claude Juncker.",
+      "B": "Charles Michel.",
+      "C": "Ursula von der Leyen.",
       "D": "Josep Borrell."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 36,
     "question": "¿Cuál fue el procedimiento de los Spitzenkandidaten aplicado en 2014?",
     "answers": {
       "A": "El candidato designado fue el cabeza de lista del grupo político europeo más votado en las elecciones.",
-      "B": "Elección directa por sufragio universal del Presidente de la Comisión.",
-      "C": "Designación unilateral por el Estado más poblado.",
-      "D": "Ninguna de las anteriores."
+      "B": "Ninguna de las anteriores.",
+      "C": "Elección directa por sufragio universal del Presidente de la Comisión.",
+      "D": "Designación unilateral por el Estado más poblado."
     },
     "correct": "A"
   },
@@ -399,86 +399,86 @@
     "id": 37,
     "question": "¿Con qué mayoría de comisarios puede la Comisión aprobar sus propuestas?",
     "answers": {
-      "A": "Con el voto a favor de al menos 14 de los 27 comisarios.",
-      "B": "Con unanimidad obligatoria.",
-      "C": "Con mayoría de dos tercios exclusivamente.",
+      "A": "Con mayoría de dos tercios exclusivamente.",
+      "B": "Con el voto a favor de al menos 14 de los 27 comisarios.",
+      "C": "Con unanimidad obligatoria.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 38,
     "question": "¿Cuál es la duración del mandato de la Comisión Europea?",
     "answers": {
-      "A": "Cinco años, coincidente con el del Parlamento Europeo.",
-      "B": "Cuatro años.",
-      "C": "Diez años.",
-      "D": "Dos años y medio."
+      "A": "Dos años y medio.",
+      "B": "Diez años.",
+      "C": "Cuatro años.",
+      "D": "Cinco años, coincidente con el del Parlamento Europeo."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 39,
     "question": "¿Cuál es la función primordial de la Comisión respecto a la iniciativa legislativa?",
     "answers": {
-      "A": "Tiene prácticamente el monopolio de la iniciativa legislativa.",
+      "A": "Comparte la iniciativa con el Tribunal de Justicia.",
       "B": "Carece de iniciativa legislativa.",
-      "C": "Comparte la iniciativa con el Tribunal de Justicia.",
-      "D": "Ninguna de las anteriores."
+      "C": "Ninguna de las anteriores.",
+      "D": "Tiene prácticamente el monopolio de la iniciativa legislativa."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 40,
     "question": "¿Qué mecanismo de control político dispone el Parlamento Europeo sobre la Comisión?",
     "answers": {
-      "A": "La moción de censura.",
-      "B": "El recurso de amparo.",
-      "C": "El veto absoluto.",
+      "A": "El recurso de amparo.",
+      "B": "El veto absoluto.",
+      "C": "La moción de censura.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 41,
     "question": "Para que prospere una moción de censura contra la Comisión Europea se requiere:",
     "answers": {
-      "A": "Mayoría de dos tercios de los votos emitidos que representen a la mayoría de los diputados del Parlamento.",
-      "B": "Mayoría simple.",
-      "C": "Unanimidad.",
-      "D": "Ninguna de las anteriores."
+      "A": "Unanimidad.",
+      "B": "Ninguna de las anteriores.",
+      "C": "Mayoría de dos tercios de los votos emitidos que representen a la mayoría de los diputados del Parlamento.",
+      "D": "Mayoría simple."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 42,
     "question": "¿Cuántos funcionarios aproximadamente tiene la Comisión Europea, con sede en Bruselas?",
     "answers": {
-      "A": "Unos 24.000.",
-      "B": "1.000.",
-      "C": "705.",
-      "D": "27."
+      "A": "1.000.",
+      "B": "705.",
+      "C": "27.",
+      "D": "Unos 24.000."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 43,
     "question": "El Parlamento Europeo es una institución elegida:",
     "answers": {
-      "A": "Directamente por los ciudadanos europeos por sufragio universal directo.",
-      "B": "Por los gobiernos nacionales.",
+      "A": "Por los gobiernos nacionales.",
+      "B": "Directamente por los ciudadanos europeos por sufragio universal directo.",
       "C": "Por el Consejo Europeo.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 44,
     "question": "¿Desde qué año el Parlamento Europeo está compuesto por representantes elegidos por sufragio universal directo?",
     "answers": {
       "A": "1979.",
-      "B": "1957.",
-      "C": "1993.",
+      "B": "1993.",
+      "C": "1957.",
       "D": "2009."
     },
     "correct": "A"
@@ -489,8 +489,8 @@
     "answers": {
       "A": "705 miembros.",
       "B": "751 miembros.",
-      "C": "27 miembros.",
-      "D": "27 miembros de 73 escaños."
+      "C": "27 miembros de 73 escaños.",
+      "D": "27 miembros."
     },
     "correct": "A"
   },
@@ -498,64 +498,64 @@
     "id": 46,
     "question": "¿Cuál es el número mínimo y máximo de eurodiputados que puede elegir cada Estado?",
     "answers": {
-      "A": "Mínimo 6 y máximo 96.",
-      "B": "Mínimo 10 y máximo 50.",
-      "C": "Mínimo 1 y máximo 705.",
-      "D": "Ninguna de las anteriores."
+      "A": "Mínimo 10 y máximo 50.",
+      "B": "Mínimo 6 y máximo 96.",
+      "C": "Ninguna de las anteriores.",
+      "D": "Mínimo 1 y máximo 705."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 47,
     "question": "¿Cada cuánto tiempo se celebran las elecciones europeas?",
     "answers": {
-      "A": "Cada 5 años.",
-      "B": "Cada 4 años.",
-      "C": "Cada 2 años.",
-      "D": "Cada 10 años."
+      "A": "Cada 4 años.",
+      "B": "Cada 2 años.",
+      "C": "Cada 10 años.",
+      "D": "Cada 5 años."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 48,
     "question": "¿Cuántos escaños corresponden a España según la redistribución tras la salida del Reino Unido?",
     "answers": {
-      "A": "54 + 5.",
-      "B": "96.",
-      "C": "73 + 3.",
-      "D": "21."
+      "A": "96.",
+      "B": "54 + 5.",
+      "C": "21.",
+      "D": "73 + 3."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 49,
     "question": "¿Cuál es el número mínimo de eurodiputados para constituir un grupo político?",
     "answers": {
-      "A": "25.",
-      "B": "10.",
-      "C": "50.",
-      "D": "5."
+      "A": "5.",
+      "B": "50.",
+      "C": "25.",
+      "D": "10."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 50,
     "question": "¿Puede constituirse un grupo político con eurodiputados de una misma nacionalidad?",
     "answers": {
-      "A": "No, no es posible.",
-      "B": "Sí, sin restricciones.",
-      "C": "Solo si son más de 50.",
-      "D": "Ninguna de las anteriores."
+      "A": "Sí, sin restricciones.",
+      "B": "Solo si son más de 50.",
+      "C": "Ninguna de las anteriores.",
+      "D": "No, no es posible."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 51,
     "question": "¿En qué tres ciudades reparte su actividad el Parlamento Europeo?",
     "answers": {
       "A": "Bruselas, Estrasburgo y Luxemburgo.",
-      "B": "París, Berlín y Roma.",
-      "C": "Madrid, Lisboa y Bruselas.",
+      "B": "Madrid, Lisboa y Bruselas.",
+      "C": "París, Berlín y Roma.",
       "D": "Ninguna de las anteriores."
     },
     "correct": "A"
@@ -564,12 +564,12 @@
     "id": 52,
     "question": "¿Dónde tienen lugar las sesiones plenarias ordinarias del Parlamento Europeo?",
     "answers": {
-      "A": "En Estrasburgo (doce plenos de cuatro días) y en Bruselas (seis sesiones de dos días).",
-      "B": "Únicamente en Luxemburgo.",
-      "C": "Únicamente en Bruselas.",
-      "D": "Ninguna de las anteriores."
+      "A": "Únicamente en Luxemburgo.",
+      "B": "Ninguna de las anteriores.",
+      "C": "En Estrasburgo (doce plenos de cuatro días) y en Bruselas (seis sesiones de dos días).",
+      "D": "Únicamente en Bruselas."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 53,
@@ -577,8 +577,8 @@
     "answers": {
       "A": "En pie de igualdad con el Consejo.",
       "B": "En posición subordinada al Consejo.",
-      "C": "Sin ninguna competencia legislativa.",
-      "D": "Ninguna de las anteriores."
+      "C": "Ninguna de las anteriores.",
+      "D": "Sin ninguna competencia legislativa."
     },
     "correct": "A"
   },
@@ -586,56 +586,56 @@
     "id": 54,
     "question": "¿Qué órgano interviene si, tras dos lecturas, el Parlamento y el Consejo no alcanzan acuerdo en el procedimiento legislativo ordinario?",
     "answers": {
-      "A": "El Comité de Conciliación.",
-      "B": "El Tribunal de Justicia.",
-      "C": "El Consejo Europeo.",
+      "A": "El Tribunal de Justicia.",
+      "B": "El Consejo Europeo.",
+      "C": "El Comité de Conciliación.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 55,
     "question": "¿Quién nombra al Defensor del Pueblo Europeo?",
     "answers": {
-      "A": "El Parlamento Europeo, desde 1993, para un período de cinco años.",
-      "B": "El Consejo Europeo.",
-      "C": "La Comisión Europea.",
-      "D": "Ninguna de las anteriores."
+      "A": "El Consejo Europeo.",
+      "B": "El Parlamento Europeo, desde 1993, para un período de cinco años.",
+      "C": "Ninguna de las anteriores.",
+      "D": "La Comisión Europea."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 56,
     "question": "El Tribunal de Justicia de la Unión Europea encarna:",
     "answers": {
-      "A": "El poder judicial de la UE.",
-      "B": "El poder legislativo de la UE.",
-      "C": "El poder ejecutivo de la UE.",
+      "A": "El poder legislativo de la UE.",
+      "B": "El poder ejecutivo de la UE.",
+      "C": "El poder judicial de la UE.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 57,
     "question": "¿Por cuántas instancias está integrado el Tribunal de Justicia de la UE?",
     "answers": {
-      "A": "Dos: el Tribunal de Justicia y el Tribunal General.",
-      "B": "Una sola instancia.",
-      "C": "Tres instancias.",
-      "D": "Ninguna de las anteriores."
+      "A": "Tres instancias.",
+      "B": "Dos: el Tribunal de Justicia y el Tribunal General.",
+      "C": "Ninguna de las anteriores.",
+      "D": "Una sola instancia."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 58,
     "question": "El Tribunal de Justicia está compuesto por:",
     "answers": {
-      "A": "Un juez nacional de cada Estado miembro y once abogados generales.",
-      "B": "705 jueces.",
-      "C": "27 jueces designados por el Parlamento.",
-      "D": "Ninguna de las anteriores."
+      "A": "705 jueces.",
+      "B": "27 jueces designados por el Parlamento.",
+      "C": "Ninguna de las anteriores.",
+      "D": "Un juez nacional de cada Estado miembro y once abogados generales."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 59,
@@ -643,8 +643,8 @@
     "answers": {
       "A": "Seis años, renovables, con renovaciones parciales cada tres años.",
       "B": "Cuatro años, no renovables.",
-      "C": "Diez años vitalicios.",
-      "D": "Ninguna de las anteriores."
+      "C": "Ninguna de las anteriores.",
+      "D": "Diez años vitalicios."
     },
     "correct": "A"
   },
@@ -652,12 +652,12 @@
     "id": 60,
     "question": "¿Cuántos jueces tiene actualmente el Tribunal General?",
     "answers": {
-      "A": "54, dos por cada Estado miembro.",
+      "A": "705.",
       "B": "27.",
-      "C": "705.",
+      "C": "54, dos por cada Estado miembro.",
       "D": "11."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 61,
@@ -665,8 +665,8 @@
     "answers": {
       "A": "Luxemburgo.",
       "B": "Bruselas.",
-      "C": "Estrasburgo.",
-      "D": "La Haya."
+      "C": "La Haya.",
+      "D": "Estrasburgo."
     },
     "correct": "A"
   },
@@ -676,8 +676,8 @@
     "answers": {
       "A": "El recurso por incumplimiento.",
       "B": "El recurso de anulación.",
-      "C": "El reenvío prejudicial.",
-      "D": "Ninguna de las anteriores."
+      "C": "Ninguna de las anteriores.",
+      "D": "El reenvío prejudicial."
     },
     "correct": "A"
   },
@@ -685,12 +685,12 @@
     "id": 63,
     "question": "¿Cómo se conoce el procedimiento de juez a juez que permite consultar al Tribunal de Justicia sobre la interpretación del Derecho de la UE?",
     "answers": {
-      "A": "El reenvío prejudicial.",
-      "B": "El recurso por incumplimiento.",
-      "C": "El recurso de anulación.",
+      "A": "El recurso por incumplimiento.",
+      "B": "El recurso de anulación.",
+      "C": "El reenvío prejudicial.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 64,
@@ -707,43 +707,43 @@
     "id": 65,
     "question": "El recurso de reparación de daños y perjuicios tiene por objeto:",
     "answers": {
-      "A": "Indemnizar a quien haya sufrido daños causados por instituciones o agentes de la UE en el ejercicio de sus funciones.",
-      "B": "Sancionar penalmente a los funcionarios europeos.",
-      "C": "Anular tratados internacionales.",
-      "D": "Ninguna de las anteriores."
+      "A": "Sancionar penalmente a los funcionarios europeos.",
+      "B": "Ninguna de las anteriores.",
+      "C": "Indemnizar a quien haya sufrido daños causados por instituciones o agentes de la UE en el ejercicio de sus funciones.",
+      "D": "Anular tratados internacionales."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 66,
     "question": "¿Qué se denomina «Derecho Derivado» de la UE?",
     "answers": {
-      "A": "El conjunto de normas jurídicas adoptadas por las instituciones para desarrollar los Tratados.",
-      "B": "Únicamente los tratados constitutivos.",
+      "A": "Ninguna de las anteriores.",
+      "B": "El conjunto de normas jurídicas adoptadas por las instituciones para desarrollar los Tratados.",
       "C": "El Derecho nacional de cada Estado.",
-      "D": "Ninguna de las anteriores."
+      "D": "Únicamente los tratados constitutivos."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 67,
     "question": "Según el artículo 288 TFUE, ¿qué actos jurídicos pueden adoptar las instituciones?",
     "answers": {
-      "A": "Reglamentos, directivas, recomendaciones y dictámenes.",
-      "B": "Solo reglamentos.",
-      "C": "Solo directivas y decisiones.",
-      "D": "Ninguna de las anteriores."
+      "A": "Solo reglamentos.",
+      "B": "Reglamentos, directivas, recomendaciones y dictámenes.",
+      "C": "Ninguna de las anteriores.",
+      "D": "Solo directivas y decisiones."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 68,
     "question": "¿Qué actos son jurídicamente vinculantes?",
     "answers": {
       "A": "Los reglamentos, las directivas y las decisiones.",
-      "B": "Las recomendaciones y dictámenes.",
-      "C": "Solo los reglamentos.",
-      "D": "Ninguna de las anteriores."
+      "B": "Solo los reglamentos.",
+      "C": "Ninguna de las anteriores.",
+      "D": "Las recomendaciones y dictámenes."
     },
     "correct": "A"
   },
@@ -751,32 +751,32 @@
     "id": 69,
     "question": "¿Dónde se publican los actos jurídicos vinculantes?",
     "answers": {
-      "A": "En la sección L («Legislación») del DOUE.",
+      "A": "Ninguna de las anteriores.",
       "B": "En la sección C del DOUE.",
-      "C": "No se publican.",
-      "D": "Ninguna de las anteriores."
+      "C": "En la sección L («Legislación») del DOUE.",
+      "D": "No se publican."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 70,
     "question": "¿Dónde se publican las recomendaciones y dictámenes, no vinculantes?",
     "answers": {
-      "A": "En la sección C («Comunicación») del DOUE.",
+      "A": "En el BOE.",
       "B": "En la sección L del DOUE.",
-      "C": "En el BOE.",
+      "C": "En la sección C («Comunicación») del DOUE.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 71,
     "question": "Un reglamento o directiva es un acto legislativo cuando:",
     "answers": {
       "A": "Se adopta por el procedimiento legislativo ordinario o un procedimiento legislativo especial.",
-      "B": "Se adopta exclusivamente por la Comisión.",
-      "C": "No requiere participación del Parlamento ni del Consejo.",
-      "D": "Ninguna de las anteriares."
+      "B": "Ninguna de las anteriares.",
+      "C": "Se adopta exclusivamente por la Comisión.",
+      "D": "No requiere participación del Parlamento ni del Consejo."
     },
     "correct": "A"
   },
@@ -784,21 +784,21 @@
     "id": 72,
     "question": "Los reglamentos y directivas delegados siempre son actos de:",
     "answers": {
-      "A": "La Comisión Europea.",
-      "B": "El Consejo Europeo.",
-      "C": "El Tribunal de Justicia.",
-      "D": "Ninguna de las anteriores."
+      "A": "El Consejo Europeo.",
+      "B": "La Comisión Europea.",
+      "C": "Ninguna de las anteriores.",
+      "D": "El Tribunal de Justicia."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 73,
     "question": "Los actos de ejecución se adoptan cuando es necesario:",
     "answers": {
       "A": "Fijar condiciones uniformes para la aplicación de un acto de la Unión jurídicamente vinculante.",
-      "B": "Modificar los Tratados constitutivos.",
-      "C": "Sustituir el reglamento base.",
-      "D": "Ninguna de las anteriores."
+      "B": "Sustituir el reglamento base.",
+      "C": "Ninguna de las anteriores.",
+      "D": "Modificar los Tratados constitutivos."
     },
     "correct": "A"
   },
@@ -807,8 +807,8 @@
     "question": "¿Qué requisito formal sustancial deben cumplir los reglamentos y directivas según el artículo 296 TFUE?",
     "answers": {
       "A": "Estar motivados.",
-      "B": "Ser aprobados por unanimidad siempre.",
-      "C": "No requerir motivación.",
+      "B": "No requerir motivación.",
+      "C": "Ser aprobados por unanimidad siempre.",
       "D": "Ninguna de las anteriores."
     },
     "correct": "A"
@@ -817,21 +817,21 @@
     "id": 75,
     "question": "El reglamento, según el artículo 288 TFUE, tiene alcance general y es:",
     "answers": {
-      "A": "Obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro.",
-      "B": "Solo aplicable si el Estado lo transpone.",
-      "C": "Aplicable únicamente a particulares.",
-      "D": "Ninguna de las anteriores."
+      "A": "Aplicable únicamente a particulares.",
+      "B": "Ninguna de las anteriores.",
+      "C": "Solo aplicable si el Estado lo transpone.",
+      "D": "Obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 76,
     "question": "El reglamento se caracteriza por ser una norma jurídicamente:",
     "answers": {
       "A": "Perfecta, que produce efectos jurídicos directamente sin necesidad de normas nacionales de complemento.",
-      "B": "Imperfecta, que requiere de transposición nacional.",
-      "C": "Meramente orientativa.",
-      "D": "Ninguna de las anteriores."
+      "B": "Ninguna de las anteriores.",
+      "C": "Imperfecta, que requiere de transposición nacional.",
+      "D": "Meramente orientativa."
     },
     "correct": "A"
   },
@@ -839,32 +839,32 @@
     "id": 77,
     "question": "El reglamento entra en vigor:",
     "answers": {
-      "A": "En la fecha que establezca o, en su defecto, a los 20 días de su publicación en el DOUE.",
-      "B": "Solo cuando lo transpone cada Estado.",
-      "C": "Nunca entra en vigor automáticamente.",
-      "D": "Ninguna de las anteriores."
+      "A": "Nunca entra en vigor automáticamente.",
+      "B": "Ninguna de las anteriores.",
+      "C": "Solo cuando lo transpone cada Estado.",
+      "D": "En la fecha que establezca o, en su defecto, a los 20 días de su publicación en el DOUE."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 78,
     "question": "La directiva, según el artículo 288 TFUE, obliga al Estado miembro destinatario:",
     "answers": {
-      "A": "En cuanto al resultado que deba conseguirse, dejando libertad de forma y medios.",
-      "B": "En todos sus elementos, sin margen de apreciación.",
-      "C": "Únicamente a los particulares.",
+      "A": "Únicamente a los particulares.",
+      "B": "En cuanto al resultado que deba conseguirse, dejando libertad de forma y medios.",
+      "C": "En todos sus elementos, sin margen de apreciación.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 79,
     "question": "La directiva es una norma jurídicamente:",
     "answers": {
       "A": "Imperfecta, indirectamente aplicable, que requiere normas internas de transposición.",
-      "B": "Perfecta y directamente aplicable como el reglamento.",
+      "B": "Ninguna de las anteriores.",
       "C": "Sin ningún efecto jurídico.",
-      "D": "Ninguna de las anteriores."
+      "D": "Perfecta y directamente aplicable como el reglamento."
     },
     "correct": "A"
   },
@@ -883,21 +883,21 @@
     "id": 81,
     "question": "Los destinatarios directos de una directiva solo pueden serlo:",
     "answers": {
-      "A": "Los Estados miembros (todos, algunos o uno solo).",
+      "A": "Las empresas privadas exclusivamente.",
       "B": "Los particulares directamente.",
-      "C": "Las empresas privadas exclusivamente.",
-      "D": "Ninguna de las anteriores."
+      "C": "Ninguna de las anteriores.",
+      "D": "Los Estados miembros (todos, algunos o uno solo)."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 82,
     "question": "¿Qué se denomina «efecto directo» de las directivas?",
     "answers": {
       "A": "La posibilidad de que un particular invoque directamente disposiciones de una directiva incumplida si son claras y precisas y otorgan derechos subjetivos.",
-      "B": "La aplicación automática de la directiva sin transposición en todo caso.",
-      "C": "La imposibilidad de invocar la directiva ante tribunales.",
-      "D": "Ninguna de las anteriores."
+      "B": "La imposibilidad de invocar la directiva ante tribunales.",
+      "C": "Ninguna de las anteriores.",
+      "D": "La aplicación automática de la directiva sin transposición en todo caso."
     },
     "correct": "A"
   },
@@ -905,65 +905,65 @@
     "id": 83,
     "question": "¿En qué sentencia se reconoce jurisprudencialmente el efecto directo de las directivas, según el temario?",
     "answers": {
-      "A": "Asunto 148/78, Ratti, Sentencia de 5 de abril de 1979.",
-      "B": "Asunto 102/79, Comisión contra Reino de Bélgica.",
-      "C": "STC 76/1988.",
+      "A": "Asunto 102/79, Comisión contra Reino de Bélgica.",
+      "B": "STC 76/1988.",
+      "C": "Asunto 148/78, Ratti, Sentencia de 5 de abril de 1979.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 84,
     "question": "¿En qué normalmente son técnica jurídica utilizada las directivas dentro del sistema de reparto de competencias?",
     "answers": {
-      "A": "En ámbitos de competencia compartida entre la UE y los Estados miembros.",
-      "B": "En ámbitos de competencia exclusiva estatal siempre.",
+      "A": "Ninguna de las anteriores.",
+      "B": "En ámbitos de competencia compartida entre la UE y los Estados miembros.",
       "C": "Nunca se utilizan en competencia compartida.",
-      "D": "Ninguna de las anteriores."
+      "D": "En ámbitos de competencia exclusiva estatal siempre."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 85,
     "question": "El reglamento se identifica como acto jurídico con:",
     "answers": {
-      "A": "Las siglas UE en paréntesis, un número seguido del año, la institución que lo adopta y la fecha.",
-      "B": "Solo un número correlativo sin más datos.",
-      "C": "Un nombre propio sin numeración.",
-      "D": "Ninguna de las anteriores."
+      "A": "Solo un número correlativo sin más datos.",
+      "B": "Las siglas UE en paréntesis, un número seguido del año, la institución que lo adopta y la fecha.",
+      "C": "Ninguna de las anteriores.",
+      "D": "Un nombre propio sin numeración."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 86,
     "question": "La directiva se identifica de modo similar al reglamento, pero:",
     "answers": {
-      "A": "El primer número suele indicar el año y el segundo el número de la directiva.",
-      "B": "Nunca se numeran las directivas.",
-      "C": "Solo se numeran los reglamentos.",
+      "A": "Nunca se numeran las directivas.",
+      "B": "Solo se numeran los reglamentos.",
+      "C": "El primer número suele indicar el año y el segundo el número de la directiva.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 87,
     "question": "¿Qué reglamento se cita como ejemplo en el temario relativo a la libre circulación de trabajadores?",
     "answers": {
-      "A": "Reglamento (UE) n.º 492/2011 del Parlamento Europeo y del Consejo, de 5 de abril de 2011.",
-      "B": "Reglamento (UE) 2016/1316.",
-      "C": "Reglamento 1/1958.",
-      "D": "Ninguna de las anteriores."
+      "A": "Reglamento 1/1958.",
+      "B": "Ninguna de las anteriores.",
+      "C": "Reglamento (UE) 2016/1316.",
+      "D": "Reglamento (UE) n.º 492/2011 del Parlamento Europeo y del Consejo, de 5 de abril de 2011."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 88,
     "question": "¿Qué directiva se cita como ejemplo relativa a la conciliación de la vida familiar y profesional?",
     "answers": {
       "A": "Directiva 2019/1158/UE, de 20 de junio de 2019.",
-      "B": "Directiva 2010/18/UE.",
-      "C": "Directiva 2000/78/CE.",
-      "D": "Ninguna de las anteriores."
+      "B": "Directiva 2000/78/CE.",
+      "C": "Ninguna de las anteriores.",
+      "D": "Directiva 2010/18/UE."
     },
     "correct": "A"
   },
@@ -972,9 +972,9 @@
     "question": "Si una directiva no tiene como destinatarios a todos los Estados miembros, además de publicarse en el DOUE:",
     "answers": {
       "A": "Debe notificarse al Estado o Estados a los que se dirige.",
-      "B": "No requiere notificación adicional.",
-      "C": "Solo requiere traducción.",
-      "D": "Ninguna de las anteriores."
+      "B": "Ninguna de las anteriores.",
+      "C": "No requiere notificación adicional.",
+      "D": "Solo requiere traducción."
     },
     "correct": "A"
   },
@@ -982,42 +982,42 @@
     "id": 90,
     "question": "¿Qué requisito de forma sustancial se exige respecto a la publicación de directivas y reglamentos?",
     "answers": {
-      "A": "La publicación en el DOUE L es esencial para su exigibilidad en el Derecho interno.",
+      "A": "Se publican en periódicos nacionales exclusivamente.",
       "B": "No requieren publicación.",
-      "C": "Se publican en periódicos nacionales exclusivamente.",
+      "C": "La publicación en el DOUE L es esencial para su exigibilidad en el Derecho interno.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 91,
     "question": "¿En cuántas lenguas oficiales se publican simultáneamente los actos vinculantes de la UE?",
     "answers": {
-      "A": "24 lenguas oficiales.",
-      "B": "1 lengua (inglés).",
-      "C": "27 lenguas, una por Estado.",
-      "D": "Ninguna de las anteriores."
+      "A": "27 lenguas, una por Estado.",
+      "B": "24 lenguas oficiales.",
+      "C": "Ninguna de las anteriores.",
+      "D": "1 lengua (inglés)."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 92,
     "question": "¿Qué instituciones adoptan los actos jurídicos de la UE conjuntamente o por separado?",
     "answers": {
-      "A": "La Comisión Europea, el Parlamento y el Consejo.",
-      "B": "Solo el Tribunal de Justicia.",
-      "C": "Solo el Banco Central Europeo.",
-      "D": "Ninguna de las anteriores."
+      "A": "Solo el Banco Central Europeo.",
+      "B": "Ninguna de las anteriores.",
+      "C": "La Comisión Europea, el Parlamento y el Consejo.",
+      "D": "Solo el Tribunal de Justicia."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 93,
     "question": "¿Qué principio rige la aplicación interna del Derecho de la UE por los Estados miembros?",
     "answers": {
       "A": "El principio de autonomía institucional y procedimental.",
-      "B": "El principio de subsidiariedad exclusivamente.",
-      "C": "El principio de unanimidad.",
+      "B": "El principio de unanimidad.",
+      "C": "El principio de subsidiariedad exclusivamente.",
       "D": "Ninguna de las anteriores."
     },
     "correct": "A"
@@ -1026,31 +1026,31 @@
     "id": 94,
     "question": "La normativa de armonización fiscal de la Unión Europea debe ser respetada, entre otros, por:",
     "answers": {
-      "A": "Todos los Estados miembros en la elaboración de su normativa tributaria.",
-      "B": "Solo por terceros Estados.",
-      "C": "Solo por el Banco Central Europeo.",
-      "D": "Ninguna de las anteriores."
+      "A": "Ninguna de las anteriores.",
+      "B": "Solo por el Banco Central Europeo.",
+      "C": "Solo por terceros Estados.",
+      "D": "Todos los Estados miembros en la elaboración de su normativa tributaria."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 95,
     "question": "¿Qué órgano consultivo, entre otros, contacta la Comisión antes de presentar su propuesta al legislador europeo?",
     "answers": {
-      "A": "El Comité Económico y Social y el Comité de Regiones.",
+      "A": "El Banco Central Europeo exclusivamente.",
       "B": "El Tribunal de Cuentas exclusivamente.",
-      "C": "El Banco Central Europeo exclusivamente.",
+      "C": "El Comité Económico y Social y el Comité de Regiones.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 96,
     "question": "¿Qué es el procedimiento de «alerta temprana» en el proceso legislativo europeo?",
     "answers": {
       "A": "El mecanismo por el que los parlamentos nacionales controlan la acomodación de las propuestas de la Comisión a los principios de subsidiariedad y proporcionalidad.",
-      "B": "Un sistema de alarma sanitaria de la UE.",
-      "C": "Un mecanismo exclusivo del Tribunal de Justicia.",
+      "B": "Un mecanismo exclusivo del Tribunal de Justicia.",
+      "C": "Un sistema de alarma sanitaria de la UE.",
       "D": "Ninguna de las anteriores."
     },
     "correct": "A"
@@ -1060,8 +1060,8 @@
     "question": "¿Qué facultad especial de control ejerce la Comisión en materia de libre competencia?",
     "answers": {
       "A": "Puede declarar nulo un acuerdo entre empresas e imponer multas si restringe el mercado.",
-      "B": "Puede disolver empresas directamente sin control judicial.",
-      "C": "No tiene ninguna facultad de control.",
+      "B": "No tiene ninguna facultad de control.",
+      "C": "Puede disolver empresas directamente sin control judicial.",
       "D": "Ninguna de las anteriores."
     },
     "correct": "A"
@@ -1070,44 +1070,44 @@
     "id": 98,
     "question": "¿Bajo qué control último se encuentra la supervisión de la ejecución del presupuesto de la UE por la Comisión?",
     "answers": {
-      "A": "El Tribunal de Cuentas Europeo.",
-      "B": "El Tribunal de Justicia.",
+      "A": "Ninguna de las anteriores.",
+      "B": "El Tribunal de Cuentas Europeo.",
       "C": "El Banco Central Europeo.",
-      "D": "Ninguna de las anteriores."
+      "D": "El Tribunal de Justicia."
     },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "id": 99,
     "question": "La «decisión de descargo» aprobada anualmente por el Parlamento se refiere a:",
     "answers": {
-      "A": "La aprobación de la gestión financiera de la Comisión en la ejecución del presupuesto.",
+      "A": "La censura de la Comisión.",
       "B": "La disolución del Parlamento.",
-      "C": "La censura de la Comisión.",
+      "C": "La aprobación de la gestión financiera de la Comisión en la ejecución del presupuesto.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "id": 100,
     "question": "¿Qué régimen se aplica si la UE inicia el año sin presupuesto aprobado?",
     "answers": {
-      "A": "El régimen de doceavas provisorias.",
-      "B": "El cierre total de operaciones.",
-      "C": "La disolución de la Comisión.",
-      "D": "Ninguna de las anteriores."
+      "A": "Ninguna de las anteriores.",
+      "B": "La disolución de la Comisión.",
+      "C": "El cierre total de operaciones.",
+      "D": "El régimen de doceavas provisorias."
     },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "id": 101,
     "question": "¿Qué instrumento permite al Consejo y al Parlamento delegar en la Comisión la facultad de completar actos legislativos?",
     "answers": {
-      "A": "Los actos delegados (art. 290 TFUE).",
-      "B": "Los actos legislativos ordinarios exclusivamente.",
-      "C": "Los tratados internacionales.",
+      "A": "Los tratados internacionales.",
+      "B": "Los actos delegados (art. 290 TFUE).",
+      "C": "Los actos legislativos ordinarios exclusivamente.",
       "D": "Ninguna de las anteriores."
     },
-    "correct": "A"
+    "correct": "B"
   }
 ]

@@ -1,0 +1,607 @@
+[
+  {
+    "id": 1,
+    "question": "La norma que regula las disposiciones mínimas de seguridad y salud relativas al trabajo con pantallas de visualización es:",
+    "answers": {
+      "A": "El Real Decreto 39/1997",
+      "B": "La Ley 31/1995, exclusivamente sin desarrollo reglamentario",
+      "C": "El Real Decreto 488/1997, de 14 de abril",
+      "D": "La Ley 10/1982"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 2,
+    "question": "Según el Real Decreto 488/1997, se entiende por «pantalla de visualización»:",
+    "answers": {
+      "A": "Únicamente las pantallas táctiles de última generación",
+      "B": "Solo los monitores de tubo de rayos catódicos",
+      "C": "Exclusivamente los proyectores de uso colectivo",
+      "D": "Una pantalla alfanumérica o gráfica, independientemente del método de representación visual utilizado"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 3,
+    "question": "Se considera «trabajador» o «persona usuaria» a efectos del Real Decreto 488/1997 a quien:",
+    "answers": {
+      "A": "Use ocasionalmente un ordenador una vez al mes",
+      "B": "Trabaje exclusivamente al aire libre sin ningún equipo informático",
+      "C": "Utilice habitualmente y durante una parte relevante de su trabajo normal un equipo con pantalla de visualización",
+      "D": "Sea exclusivamente personal directivo de la empresa"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 4,
+    "question": "Conforme a la Guía Técnica del INSHT, se consideran personas usuarias de PVD quienes superen:",
+    "answers": {
+      "A": "4 horas diarias o 20 horas semanales de trabajo efectivo con dichos equipos",
+      "B": "8 horas semanales sin excepción",
+      "C": "30 minutos diarios de uso del equipo",
+      "D": "1 hora diaria en cualquier caso"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 5,
+    "question": "Quedan excluidas de la consideración de personas trabajadoras usuarias de PVD, conforme a la Guía Técnica, aquellas cuyo trabajo efectivo con pantallas sea inferior a:",
+    "answers": {
+      "A": "Nunca existe un umbral de exclusión",
+      "B": "2 horas diarias o 10 horas semanales",
+      "C": "20 horas semanales",
+      "D": "6 horas diarias en cualquier caso"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 6,
+    "question": "El artículo 3 del Real Decreto 488/1997 establece que el empresario debe:",
+    "answers": {
+      "A": "Trasladar toda la responsabilidad al fabricante del equipo",
+      "B": "Prohibir el uso de pantallas de visualización en cualquier puesto de trabajo",
+      "C": "Adoptar las medidas necesarias para que la utilización de equipos con pantallas de visualización no suponga riesgos para la seguridad o salud de los trabajadores o, si ello no fuera posible, para que tales riesgos se reduzcan al mínimo",
+      "D": "Eximir a la empresa de cualquier evaluación de riesgos en este ámbito"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 7,
+    "question": "La evaluación de los riesgos derivados del trabajo con PVD debe tener en cuenta, entre otros, los riesgos para:",
+    "answers": {
+      "A": "La vista y los problemas físicos y de carga mental",
+      "B": "Únicamente el consumo eléctrico del equipo",
+      "C": "Exclusivamente el rendimiento económico de la empresa",
+      "D": "Solo los riesgos de incendio del edificio"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 8,
+    "question": "Entre los factores derivados de la exigencia de la tarea que deben analizarse en la evaluación del puesto con PVD se encuentra:",
+    "answers": {
+      "A": "El número de ventanas del edificio",
+      "B": "El tiempo promedio de utilización diaria del equipo y el grado de atención que exige la tarea",
+      "C": "El color de la pintura de las paredes de la oficina",
+      "D": "Exclusivamente la marca del ordenador utilizado"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 9,
+    "question": "La evaluación de riesgos en puestos con PVD debe ser revisada, entre otros supuestos, cuando:",
+    "answers": {
+      "A": "Transcurran exactamente seis meses sin ninguna otra causa",
+      "B": "Nunca debe revisarse una vez realizada inicialmente",
+      "C": "Solo cuando lo soliciten todos los trabajadores de la empresa por unanimidad",
+      "D": "Se hayan introducido cambios significativos en el puesto de trabajo o se hayan detectado daños a la salud de los trabajadores"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 10,
+    "question": "Entre las medidas correctoras técnicas u organizativas frente a los riesgos de los puestos con PVD se encuentran:",
+    "answers": {
+      "A": "Exclusivamente el cambio inmediato de todo el mobiliario sin ninguna otra medida",
+      "B": "El aumento del ritmo de trabajo sin pausas",
+      "C": "La prohibición total del uso de ordenadores en la empresa",
+      "D": "Medidas dirigidas a garantizar el diseño ergonómico adecuado, la formación de las personas usuarias y una correcta organización del trabajo"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 11,
+    "question": "Según la Guía Técnica, las pausas durante el trabajo con PVD deben, entre otras recomendaciones:",
+    "answers": {
+      "A": "Durar como mínimo cuatro horas seguidas",
+      "B": "Realizarse siempre delante de la pantalla sin levantarse del puesto",
+      "C": "Introducirse antes de que sobrevenga la fatiga y no deben compensarse aumentando el ritmo de trabajo durante los periodos de actividad",
+      "D": "Eliminarse completamente para aumentar la productividad"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 12,
+    "question": "Como recomendación orientativa de pausas en el trabajo con PVD, la Guía Técnica sugiere, con carácter general:",
+    "answers": {
+      "A": "No se recomienda ningún tipo de pausa en el trabajo con PVD",
+      "B": "Pausas de 10 a 15 minutos cada 90 minutos de trabajo con pantalla",
+      "C": "Una única pausa de un minuto al final de la jornada",
+      "D": "Pausas de ocho horas cada quince minutos de trabajo"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 13,
+    "question": "La vigilancia de la salud de los trabajadores usuarios de PVD se efectúa mediante exámenes médicos de los siguientes tipos:",
+    "answers": {
+      "A": "Exclusivamente exámenes odontológicos",
+      "B": "Únicamente un examen al finalizar la relación laboral",
+      "C": "Solo un examen inicial, sin posibilidad de revisiones posteriores",
+      "D": "Examen previo al inicio del trabajo con PVD, examen específico periódico y examen a demanda del trabajador o trabajadora"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 14,
+    "question": "El examen médico de los trabajadores usuarios de PVD incluye, entre otros aspectos:",
+    "answers": {
+      "A": "Exclusivamente una entrevista psicológica",
+      "B": "Solo la toma de la tensión arterial",
+      "C": "Una historia clínico-laboral, un reconocimiento oftalmológico y un examen osteomuscular",
+      "D": "Únicamente un análisis de orina sin ningún otro componente"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 15,
+    "question": "El reconocimiento oftalmológico en el examen de salud de usuarios de PVD tiene como objetivo principal:",
+    "answers": {
+      "A": "Medir la estatura del trabajador",
+      "B": "Evaluar exclusivamente la capacidad auditiva",
+      "C": "Detectar alteraciones de la función visual que precisen corrección para poder trabajar con pantallas o que contraindiquen este trabajo",
+      "D": "Determinar el color de ojos del trabajador"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 16,
+    "question": "A las personas mayores de 40 años que trabajan con PVD se les aconseja, aunque no es de obligado cumplimiento:",
+    "answers": {
+      "A": "Remitirlas al oftalmólogo u oftalmóloga para pruebas específicas de tensión ocular y vigilancia de la presbicia",
+      "B": "Reducirles el salario de forma automática",
+      "C": "Jubilarlas de forma anticipada de manera obligatoria",
+      "D": "Prohibirles el uso de cualquier equipo informático"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 17,
+    "question": "Entre los síntomas de la «fatiga visual» en los usuarios de PVD se incluyen:",
+    "answers": {
+      "A": "Dolor de muelas",
+      "B": "Exclusivamente fiebre alta",
+      "C": "Pérdida completa e irreversible de la visión en todos los casos",
+      "D": "Molestias oculares como picor, quemazón o lagrimeo"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 18,
+    "question": "Los «trastornos extra-oculares» asociados a la fatiga visual por el trabajo con PVD pueden incluir:",
+    "answers": {
+      "A": "Pérdida de audición permanente",
+      "B": "Quemaduras de tercer grado",
+      "C": "Fracturas óseas",
+      "D": "Cefaleas de baja intensidad y sensación de desasosiego y ansiedad"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 19,
+    "question": "La «fatiga física o muscular» derivada del trabajo con PVD se manifiesta fundamentalmente a nivel de:",
+    "answers": {
+      "A": "El sistema respiratorio exclusivamente",
+      "B": "La columna vertebral, con dolores de cuello, nuca y zona lumbar",
+      "C": "El sistema circulatorio periférico exclusivamente",
+      "D": "El sistema digestivo exclusivamente"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 20,
+    "question": "Entre los síntomas de fatiga mental derivados del trabajo con PVD se encuentran:",
+    "answers": {
+      "A": "Pérdida completa del sentido del gusto",
+      "B": "Quemaduras en las manos",
+      "C": "Trastornos del sueño como insomnio o sueño agitado, y perturbaciones psíquicas como la ansiedad o la irritabilidad",
+      "D": "Exclusivamente fracturas óseas"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 21,
+    "question": "Las tres distancias fundamentales que condicionan la aparición de alteraciones visuales en el trabajo con PVD son:",
+    "answers": {
+      "A": "Mano-ratón, pie-suelo y codo-mesa",
+      "B": "Oído-altavoz, nariz-teclado y boca-micrófono",
+      "C": "Suelo-techo, pared-pared y puerta-ventana",
+      "D": "Ojo-pantalla, ojo-teclado y ojo-texto"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 22,
+    "question": "Entre los factores que intervienen en la aparición de fatiga física o muscular por posturas incorrectas se encuentra:",
+    "answers": {
+      "A": "La marca del teclado utilizado",
+      "B": "El idioma del sistema operativo instalado",
+      "C": "Exclusivamente el color de la pantalla utilizada",
+      "D": "La inclinación excesiva de la cabeza, que incrementa la fatiga muscular en la nuca"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 23,
+    "question": "Según la ergonomía del puesto con PVD, la «zona de confort» se define como:",
+    "answers": {
+      "A": "Aquella que, sin cambiar de postura, se alcanza con ambos brazos extendidos hacia delante",
+      "B": "La distancia entre el puesto de trabajo y la puerta de salida",
+      "C": "Un espacio exclusivo para el descanso fuera del puesto de trabajo",
+      "D": "La totalidad de la superficie de la oficina"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 24,
+    "question": "Para las tareas habituales, la pantalla del equipo informático se mantendrá a una distancia no inferior a:",
+    "answers": {
+      "A": "50 mm",
+      "B": "450 mm",
+      "C": "5 metros",
+      "D": "No existe ninguna recomendación de distancia"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 25,
+    "question": "El ángulo de visión óptimo respecto a la pantalla, según las recomendaciones ergonómicas, debe ser de 0º y en ningún caso debe exceder de:",
+    "answers": {
+      "A": "90º en todos los casos sin excepción",
+      "B": "5º",
+      "C": "40º",
+      "D": "180º"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 26,
+    "question": "Respecto a la mesa o plano de trabajo en los puestos con PVD, se recomienda una superficie de:",
+    "answers": {
+      "A": "500 cm por 500 cm",
+      "B": "10 cm por 10 cm",
+      "C": "No existe ninguna recomendación dimensional",
+      "D": "90 cm por 120 cm"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 27,
+    "question": "El asiento de trabajo en los puestos con PVD se recomienda que esté situado a una altura del suelo de:",
+    "answers": {
+      "A": "45 a 55 cm",
+      "B": "2 metros",
+      "C": "10 cm",
+      "D": "Cualquier altura es indiferente según la normativa"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 28,
+    "question": "El respaldo de la silla en los puestos con PVD se recomienda que sea:",
+    "answers": {
+      "A": "De altura fija sin ninguna posibilidad de ajuste",
+      "B": "Completamente plano y rígido sin ninguna regulación",
+      "C": "Inexistente, recomendándose sillas sin respaldo",
+      "D": "Ligeramente convexo, para un buen apoyo de la zona lumbar, y regulable hacia atrás entre 20 y 30 cm"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 29,
+    "question": "Respecto a la iluminación en los puestos con PVD, se recomiendan niveles de luminancia, en función del puesto, de:",
+    "answers": {
+      "A": "100.000 Lux en todo caso",
+      "B": "1 a 5 Lux",
+      "C": "300 a 1.000 Lux",
+      "D": "No se establece ninguna recomendación de luminancia"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 30,
+    "question": "La temperatura operativa de confort recomendada en los puestos con PVD en invierno se sitúa, con carácter general, entre:",
+    "answers": {
+      "A": "35 y 40 ºC",
+      "B": "No existe ninguna recomendación de temperatura",
+      "C": "0 y 5 ºC",
+      "D": "20 y 24 ºC"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 31,
+    "question": "La humedad relativa recomendada en los locales con puestos de PVD se sitúa, con carácter general, entre:",
+    "answers": {
+      "A": "El 95 % y el 100 %",
+      "B": "No existe recomendación alguna sobre humedad",
+      "C": "El 45 % y el 65 %",
+      "D": "El 0 % y el 5 %"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 32,
+    "question": "Respecto a la ergonomía del software en los puestos con PVD, entre los principios generales de diseño se incluye:",
+    "answers": {
+      "A": "El tamaño físico del disco duro",
+      "B": "La capacidad de adecuación a la tarea y la tolerancia de errores",
+      "C": "El idioma de fabricación del hardware",
+      "D": "Exclusivamente el precio de adquisición de la licencia"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 33,
+    "question": "En la postura de trabajo de referencia recomendada para los puestos con PVD, se indica que:",
+    "answers": {
+      "A": "Los brazos deben mantenerse completamente extendidos hacia arriba",
+      "B": "La cabeza debe mantenerse siempre girada lateralmente",
+      "C": "Las piernas deben permanecer cruzadas durante toda la jornada",
+      "D": "Los muslos deben estar horizontales y las piernas verticales, con la columna vertebral recta"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 34,
+    "question": "Las superficies de trabajo y el mobiliario de los puestos con PVD deben, entre otras características:",
+    "answers": {
+      "A": "Ser completamente brillantes para facilitar la limpieza",
+      "B": "Ser buenas conductoras del calor para ahorrar en calefacción",
+      "C": "Tener aristas cortantes para mayor resistencia",
+      "D": "Carecer de esquinas y aristas agudas y ser mates para evitar refracciones"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 35,
+    "question": "Se estima que el porcentaje de personal que trabaja con PVD y sufre alteraciones visuales de manera cotidiana oscila entre:",
+    "answers": {
+      "A": "No existe ninguna estimación al respecto",
+      "B": "El 0 % y el 1 %",
+      "C": "El 95 % y el 100 %",
+      "D": "El 10 % y el 40 %"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 36,
+    "question": "El examen osteomuscular periódico de los trabajadores usuarios de PVD debe realizarse con una periodicidad ajustada, entre otros criterios, a:",
+    "answers": {
+      "A": "El nivel de riesgo a juicio del personal médico responsable y cuando aparezcan trastornos en el aparato locomotor",
+      "B": "Nunca, al no ser necesario ningún examen periódico",
+      "C": "Exclusivamente la antigüedad del trabajador en la empresa",
+      "D": "Un calendario fijo e idéntico para todos los trabajadores sin excepción"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 37,
+    "question": "La valoración de la carga mental en los trabajadores usuarios de PVD se realiza mediante:",
+    "answers": {
+      "A": "La revisión del expediente académico del trabajador",
+      "B": "Un simple test de coeficiente intelectual general",
+      "C": "Una encuesta específica recogida en el protocolo de vigilancia sanitaria específica",
+      "D": "Ningún instrumento específico, al no estar prevista esta valoración"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 38,
+    "question": "El artículo 4 del Real Decreto 488/1997 reconoce el derecho de los trabajadores usuarios de PVD a:",
+    "answers": {
+      "A": "La prohibición absoluta de trabajar más de un día a la semana",
+      "B": "El cambio obligatorio de empresa cada cinco años",
+      "C": "Una indemnización económica automática independientemente de su estado de salud",
+      "D": "Una vigilancia adecuada de su salud, teniendo en cuenta los riesgos para la vista, los problemas físicos y la carga mental"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 39,
+    "question": "Conforme a la Guía Técnica del INSHT, las tres posibilidades complementarias para evaluar los puestos de trabajo con PVD son:",
+    "answers": {
+      "A": "Revisar solo el currículum del trabajador",
+      "B": "Verificar el diseño ergonómico del puesto, estimar las cargas mental, visual y muscular, y realizar una vigilancia periódica de la salud",
+      "C": "Exclusivamente preguntar al jefe de departamento",
+      "D": "Medir únicamente la temperatura ambiente"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 40,
+    "question": "Para la mayoría de las actividades de oficina, la Guía del INSHT considera suficiente:",
+    "answers": {
+      "A": "Un análisis de sangre exhaustivo sin más valoración",
+      "B": "Ningún tipo de evaluación, al considerarse riesgo inexistente",
+      "C": "Una auditoría externa obligatoria de seis meses de duración",
+      "D": "La información suministrada por un test de evaluación elaborado expresamente para este tipo de riesgo laboral"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 41,
+    "question": "En actividades donde puedan aparecer riesgos particularmente significativos, como el control del tráfico aéreo, la evaluación de los puestos con PVD debe ser:",
+    "answers": {
+      "A": "Exactamente igual que en cualquier oficina convencional",
+      "B": "Sustituida por un simple cuestionario de satisfacción laboral",
+      "C": "Innecesaria, al no existir riesgo relevante en estos casos",
+      "D": "Más detallada que la proporcionada por los procedimientos estándar de test de evaluación"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 42,
+    "question": "Entre los factores que condicionan la adaptación visual a las distancias y superficies con distinta iluminación se encuentra:",
+    "answers": {
+      "A": "La luminancia de las pantallas y la existencia de centelleo",
+      "B": "Exclusivamente el idioma del teclado",
+      "C": "El precio del equipo informático",
+      "D": "El fabricante del disco duro"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 43,
+    "question": "Entre los factores dependientes de una incorrecta organización del trabajo que inciden en la fatiga física se encuentra:",
+    "answers": {
+      "A": "El color de las paredes de la oficina",
+      "B": "El tipo de contrato laboral del trabajador",
+      "C": "El exceso de tarea y la ausencia de pausas recomendadas",
+      "D": "La ubicación geográfica de la sede central de la empresa"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 44,
+    "question": "Entre los factores dependientes de las condiciones ergonómicas del puesto que influyen en la fatiga muscular se encuentra:",
+    "answers": {
+      "A": "El número de empleados de la empresa",
+      "B": "La calidad de la iluminación y la nitidez de los caracteres en la pantalla",
+      "C": "El horario de apertura al público",
+      "D": "La forma jurídica de la empresa"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 45,
+    "question": "Entre los factores que intervienen en la aparición de alteraciones psicosomáticas por el trabajo con PVD se encuentra:",
+    "answers": {
+      "A": "La antigüedad del edificio",
+      "B": "Exclusivamente la temperatura exterior",
+      "C": "La rutina, repetición y monotonía de las tareas",
+      "D": "El tipo de cambio de divisa"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 46,
+    "question": "La movilidad recomendada de la pantalla en los puestos con PVD debe permitir su desplazamiento:",
+    "answers": {
+      "A": "Solo mediante herramientas especializadas que requieran un técnico",
+      "B": "En tres direcciones, prefiriéndose los equipos en que la pantalla y el teclado estén separados",
+      "C": "De ninguna manera, debiendo permanecer fija en todo momento",
+      "D": "Únicamente en sentido vertical, sin posibilidad de giro"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 47,
+    "question": "La utilización de filtros de pantalla se considera, según la Guía Técnica:",
+    "answers": {
+      "A": "La primera medida que debe adoptarse en todos los puestos",
+      "B": "Aconsejable solo como última medida, ya que en general disminuyen la luminancia y requieren mantenimiento frecuente",
+      "C": "Obligatoria en cualquier tipo de pantalla",
+      "D": "Innecesaria por completo, prohibiéndose su uso"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 48,
+    "question": "Según las recomendaciones ergonómicas, el espacio para los miembros inferiores bajo la mesa de trabajo debe tener, aproximadamente:",
+    "answers": {
+      "A": "5 cm de ancho por 5 cm de profundidad",
+      "B": "3 metros de ancho por 3 metros de profundidad",
+      "C": "No se establece ninguna medida orientativa",
+      "D": "60 cm de ancho por 65/70 cm de profundidad"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 49,
+    "question": "El apoyabrazos de la silla en un puesto con PVD se considera:",
+    "answers": {
+      "A": "Un elemento prohibido por motivos de seguridad",
+      "B": "Obligatorio únicamente para el personal directivo",
+      "C": "Irrelevante para la ergonomía del puesto",
+      "D": "Un elemento aconsejable que debe permitir acercarse al área de trabajo lo más posible"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 50,
+    "question": "El reposapiés en un puesto de trabajo con PVD se considera:",
+    "answers": {
+      "A": "Un elemento exclusivamente decorativo sin función ergonómica",
+      "B": "Prohibido por la normativa de prevención de riesgos",
+      "C": "Obligatorio en todos los puestos sin excepción",
+      "D": "Opcional, utilizándose cuando la altura de la silla no permita al personal descansar los pies en el suelo"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 51,
+    "question": "En relación con la iluminación de los puestos con PVD, las pantallas se colocarán:",
+    "answers": {
+      "A": "En cualquier posición, siendo indiferente su orientación respecto a las ventanas",
+      "B": "Justo enfrente de la ventana, de cara a la luz solar directa",
+      "C": "Alejadas de las ventanas, de manera que la línea de visión del operador esté en paralelo al frente de la ventana",
+      "D": "De espaldas a la ventana con la luz incidiendo directamente en la pantalla"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 52,
+    "question": "Para complementar la iluminación general y evitar deslumbramientos en los puestos con PVD, se recomienda:",
+    "answers": {
+      "A": "Utilizar exclusivamente luz artificial de máxima intensidad sin ningún control",
+      "B": "Eliminar por completo cualquier ventana del local",
+      "C": "Mantener las luces apagadas durante toda la jornada",
+      "D": "El uso de cortinas o persianas que amortigüen la luz"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 53,
+    "question": "La velocidad del aire recomendada en los locales de trabajo con PVD debe ser inferior a:",
+    "answers": {
+      "A": "No existe ninguna recomendación sobre la velocidad del aire",
+      "B": "0,15 m/sg",
+      "C": "10 m/sg",
+      "D": "5 m/sg en todo caso"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 54,
+    "question": "Entre los efectos sobre la salud derivados del trabajo con PVD se distinguen tres grandes grupos de alteraciones, que son:",
+    "answers": {
+      "A": "Alteraciones visuales, alteraciones físicas o musculares y alteraciones cutáneas",
+      "B": "Exclusivamente fracturas óseas",
+      "C": "Únicamente trastornos digestivos",
+      "D": "Solo enfermedades infecciosas"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 55,
+    "question": "Las alteraciones cutáneas asociadas al trabajo con PVD se han relacionado, entre otras causas, con:",
+    "answers": {
+      "A": "La altitud geográfica del lugar de trabajo",
+      "B": "El ambiente seco, la electricidad estática y el polvo en suspensión en el aire",
+      "C": "El consumo de determinados alimentos",
+      "D": "Exclusivamente la exposición solar directa"
+    },
+    "correct": "B"
+  }
+]
